@@ -8,4 +8,10 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="ProjectViewChangeView" />
+  <action id="SelectIn" />
 </keymap>
