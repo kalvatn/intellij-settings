@@ -25,11 +25,11 @@
       <file name="/Dummy.jql" timestamp="1500460553087">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_1.sql" timestamp="1500415497164">
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="15" column="62" />
-        <mark key="." line="15" column="62" />
-        <mark key="^" line="15" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1500310618278">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="71" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/images/FishnetImageLoader.java" timestamp="1500294458847">
         <mark key="[" line="29" column="34" />
@@ -61,12 +61,6 @@
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/pom.xml" timestamp="1500302628471">
         <mark key="'" line="56" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1500310618278">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="71" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1500309123774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -78,6 +72,12 @@
         <mark key="]" line="1004" column="47" />
         <mark key="." line="1004" column="47" />
         <mark key="^" line="1004" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_1.sql" timestamp="1500465838965">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1500309208681">
         <mark key="'" line="124" column="71" />
@@ -116,10 +116,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>group by lm.lineups_status</text>
+        <text>linktable</text>
       </register>
       <register name="-" type="4">
-        <text>group by lm.lineups_status</text>
+        <text>linktable</text>
       </register>
       <register name="/" type="4">
         <text>nation</text>
