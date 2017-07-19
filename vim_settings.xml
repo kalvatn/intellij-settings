@@ -3,8 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1500310522142">
+      <file name="/Dummy.txt" timestamp="1500466421290">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1500466576096">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+      </file>
+      <file name="/work/projects/dei/www/www/base/lib/betradar/class/LMTMatchSourceJoinXmlFeed.class.php" timestamp="1500466777889">
+        <mark key="[" line="143" column="118" />
+        <mark key="]" line="143" column="126" />
+        <mark key="." line="143" column="126" />
+        <mark key="^" line="143" column="126" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/Statistics2Stage2stageEAOIntegrationTest.java" timestamp="1500310749496">
         <mark key="[" line="17" column="104" />
@@ -73,7 +85,7 @@
         <mark key="." line="1004" column="47" />
         <mark key="^" line="1004" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_1.sql" timestamp="1500465838965">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_1.sql" timestamp="1500466170343">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="27" />
         <mark key="." line="21" column="27" />
@@ -115,46 +127,46 @@
       <jump line="53" column="29" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>linktable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1lLmxpbmV1cCBBUyBsaW5ldXBfY292ZXJhZ2UsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>linktable</text>
+        <text>.lineup</text>
       </register>
       <register name="/" type="4">
         <text>nation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUCiAgcy5pZCwKICBzdi50eXBlaWQsIHN2LnN0YWdlaWQsIHN2LnRlYW10eXBlaWQsCiAgdHQubmFtZSwKICBzdm4ubmFtZQpGUk9NIHN0YXRpc3RpY3MyX3N0YWdlIHMKICBsZWZ0IGpvaW4gc3RhdGlzdGljczJfc3RhZ2V2YWx1ZSBzdiBvbiBzdi5zdGFnZWlkID0gcy5pZAogIGxlZnQgam9pbiBzdGF0aXN0aWNzMl9zdGFnZXZhbHVlbmFtZSBzdm4gb24gc3ZuLnN0YWdlaWQgPSBzdi5zdGFnZWlkIGFuZCBzdm4udHlwZWlkID0gc3YudHlwZWlkIGFuZCBzdm4udGVhbXR5cGVpZCA9IHN2LnRlYW10eXBlaWQKICBsZWZ0IGpvaW4gc3RhdGlzdGljczJfdGVhbXR5cGUgdHQgb24gdHQuaWQgPSBzdi50ZWFtdHlwZWlkCldIRVJFIDEKICBhbmQgcy5pZCBpbiAoODMwMywgNzIyMywgMjcyMDU4LCAyNzQwMDYpOwo=</text>
+        <text encoding="base64">ICAgIExFRlQgSk9JTiBsaXZlc2NvcmVfbW9uaXRvcmluZ19ldmVudHMubGluZXVwIG1lIE9OIG1lLnRvdXJuYW1lbnRpZCA9IGxtLnRvdXJuYW1lbnRpZAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIG1lLmxpbmV1cCBBUyBsaW5ldXBfY292ZXJhZ2UsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">c2VsZWN0IGxtLmZvcm1hdGlvbgo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text encoding="base64">Pgo+Cj4KPg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text encoding="base64">Pgo+</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>│
 │
 │</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBuYXRpb25hbGl0eS5nZXQK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYW5kbGVTdGFnZUluZm9UeXBlcygpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYW5kbGVTdGFnZUluZm9UeXBlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
@@ -200,6 +212,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
