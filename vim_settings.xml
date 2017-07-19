@@ -18,7 +18,7 @@
         <mark key="." line="93" column="12" />
         <mark key="^" line="112" column="11" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/Statistics2Stage2stageEAOIntegrationTest.java" timestamp="1500310749496">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/Statistics2Stage2stageEAOIntegrationTest.java" timestamp="1500471403697">
         <mark key="[" line="17" column="104" />
         <mark key="]" line="17" column="104" />
         <mark key="." line="17" column="104" />
@@ -37,11 +37,11 @@
       <file name="/Dummy.jql" timestamp="1500460553087">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1500310618278">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1500471729070">
         <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="71" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/images/FishnetImageLoader.java" timestamp="1500294458847">
         <mark key="[" line="29" column="34" />
@@ -64,8 +64,11 @@
       <file name="/work/projects/bac/xmlexport/pom.xml" timestamp="1500302647535">
         <mark key="'" line="85" column="17" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2Stage2stageEAO.java" timestamp="1500310803753">
-        <mark key="[" line="29" column="5" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2Stage2stageEAO.java" timestamp="1500471533018">
+        <mark key="[" line="37" column="81" />
+        <mark key="]" line="38" column="38" />
+        <mark key="." line="38" column="38" />
+        <mark key="^" line="38" column="38" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" timestamp="1500311384417">
         <mark key="'" line="53" column="29" />
@@ -128,10 +131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>nation</text>
@@ -140,31 +143,31 @@
         <text encoding="base64">CQkgICAgZWNobyAiaW5jbHVkZUFsbE1hdGNoZXMiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiaW5jbHVkZUFsbE1hdGNoZXMgPSBmYWxzZSI7Cg==</text>
+        <text encoding="base64">ICAgIH1rbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgICAgZWNobyAiaW5jbHVkZUFsbE1hdGNoZXMgPSB0cnVlIjsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJhbGxNYXRjaGVzIDogIiAuICR0aGlzLT5pbmNsdWRlQWxsTWF0Y2hlczsgZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiaW5jbHVkZUFsbE1hdGNoZXMgPSBmYWxzZSI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW1lLmxpbmV1cCBBUyBsaW5ldXBfY292ZXJhZ2UsCg==</text>
+        <text encoding="base64">CQkgICAgZWNobyAiaW5jbHVkZUFsbE1hdGNoZXMgPSB0cnVlIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxtLmxpbmV1cHNfc3RhdHVzIEFTIGxpbmV1cF9zdGF0dXMsCgltZS5saW5ldXAgQVMgbGluZXVwX2NvdmVyYWdlLAo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJhbGxNYXRjaGVzIDogIiAuICR0aGlzLT5pbmNsdWRlQWxsTWF0Y2hlczsgZGllOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lLmxpbmV1cCBBUyBsaW5ldXBfY292ZXJhZ2UsCg==</text>
+        <text encoding="base64">CW1lLmxpbmV1cCBBUyBsaW5ldXBfY292ZXJhZ2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxtLmxpbmV1cHNfc3RhdHVzIEFTIGxpbmV1cF9zdGF0dXMsCgltZS5saW5ldXAgQVMgbGluZXVwX2NvdmVyYWdlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IGxtLmZvcm1hdGlvbgo=</text>
+        <text encoding="base64">ICAgIG1lLmxpbmV1cCBBUyBsaW5ldXBfY292ZXJhZ2UsCg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Pgo+Cj4KPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
