@@ -6,6 +6,9 @@
       <file name="/Dummy.txt" timestamp="1500466421290">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/livescore/events/LivescoreEventManagerIntegrationTest.java" timestamp="1500555518136">
+        <mark key="'" line="14" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1500466576096">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="39" />
@@ -127,6 +130,9 @@
       <jump line="643" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="124" column="71" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="53" column="29" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" />
+      <jump line="6" column="19" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/livescore/events/LivescoreEventManagerIntegrationTest.java" />
+      <jump line="557" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/livescore/events/LivescoreEventManagerIntegrationTest.java" />
+      <jump line="14" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/livescore/events/LivescoreEventManagerIntegrationTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -218,6 +224,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
