@@ -37,11 +37,11 @@
       <file name="/Dummy.jql" timestamp="1500460553087">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1500472964187">
-        <mark key="[" line="98" column="23" />
-        <mark key="]" line="98" column="28" />
-        <mark key="." line="98" column="28" />
-        <mark key="^" line="98" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1500547247161">
+        <mark key="[" line="103" column="32" />
+        <mark key="]" line="103" column="32" />
+        <mark key="." line="103" column="32" />
+        <mark key="^" line="103" column="31" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/images/FishnetImageLoader.java" timestamp="1500294458847">
         <mark key="[" line="29" column="34" />
@@ -130,10 +130,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>Livescore</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>Livescore</text>
       </register>
       <register name="/" type="4">
         <text>nation</text>
@@ -215,6 +215,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
