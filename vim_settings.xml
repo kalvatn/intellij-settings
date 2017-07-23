@@ -87,6 +87,12 @@
         <mark key="." line="21" column="32" />
         <mark key="^" line="21" column="32" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_1.sql" timestamp="1500810182243">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="18" column="114" />
+        <mark key="^" line="18" column="84" />
+        <mark key="." line="14" column="67" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1500635506535">
         <mark key="'" line="659" column="78" />
         <mark key="[" line="430" column="0" />
@@ -229,44 +235,44 @@
       <jump line="655" column="78" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>golf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IHMuaWQsIHMuZGVzY3JpcHRpb24sIHN2LiogZnJvbSBzdGF0aXN0aWNzMl9zdGFnZWluZm92YWx1ZSBzdiBqb2luIHN0YXRpc3RpY3MyX3N0YWdlIHMgb24gcy5pZCA9IHN2LnN0YWdlaWQgd2hlcmUgc3Yuc3RhZ2VpZCBpbiAoMjcyNDY2LCAyNzQwMDYpOwoKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzMl9zdGFnZWluZm8gc2kgd2hlcmUgc2kuc3RhZ2VpZCBpbiAoNzIyMyk7CgpzZWxlY3QgKiBmcm9tIGBuYW1lYCBuIHdoZXJlIG4udHlwZUlkID0gNDYgYW5kIG4ubGFuZ3VhZ2VDb2RlID0gImVuIiBhbmQgbi5zb3VyY2VJZCA9IC0xIGFuZCBuLmlkIGluICgxMDExLCAxNzc2NCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>golf</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>stage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBOYXRpb25hbGl0eSBuYXRpb25hbGl0eSA9IGNvdW50cnlNYW5hZ2VyLmdldE5hdGlvbmFsaXR5Rm9yU3RhZ2Uoc3RhZ2VJZCk7CiAgICAgICAgaWYgKG5hdGlvbmFsaXR5ICE9IG51bGwpIHsKICAgICAgICAgICAgc3RhZ2Uuc2V0TmF0aW9uKG5hdGlvbmFsaXR5LmdldElTT0EzQ291bnRyeUNvZGUoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">c2VsZWN0IHMuaWQsIHMuZGVzY3JpcHRpb24sIHN2LiogZnJvbSBzdGF0aXN0aWNzMl9zdGFnZWluZm92YWx1ZSBzdiBqb2luIHN0YXRpc3RpY3MyX3N0YWdlIHMgb24gcy5pZCA9IHN2LnN0YWdlaWQgd2hlcmUgc3Yuc3RhZ2VpZCBpbiAoMjcyNDY2LCAyNzQwMDYpOwoKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzMl9zdGFnZWluZm8gc2kgd2hlcmUgc2kuc3RhZ2VpZCBpbiAoNzIyMyk7CgpzZWxlY3QgKiBmcm9tIGBuYW1lYCBuIHdoZXJlIG4udHlwZUlkID0gNDYgYW5kIG4ubGFuZ3VhZ2VDb2RlID0gImVuIiBhbmQgbi5zb3VyY2VJZCA9IC0xIGFuZCBuLmlkIGluICgxMDExLCAxNzc2NCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbmQgcC5kaXNhYmxlZCA9IDAKICBhbmQgYy5kaXNhYmxlZCA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbmQgcy5wYXJlbnQgPSAzMDYyOTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTeXN0ZW0uZXhpdCgxKTsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2NpdHkgYyB3aGVyZSBjLmNpdHlpZCBpbiAoMTAxMSwgMTc3NjQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICBhbmQgcC5kaXNhYmxlZCA9IDAKICBhbmQgYy5kaXNhYmxlZCA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAKIyBFTkQgU0VUIElOIGNvbmZpZy55bWwKIyAK</text>
+        <text encoding="base64">ICBhbmQgcy5wYXJlbnQgPSAzMDYyOTEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0uZXhpdCgxKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">IyAKIyBFTkQgU0VUIElOIGNvbmZpZy55bWwKIyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBTRVQgSU4gY29uZmlnLnltbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
