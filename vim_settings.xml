@@ -59,6 +59,12 @@
         <mark key="^" line="40" column="76" />
         <mark key="." line="40" column="76" />
       </file>
+      <file name="/work/projects/personal/clojure/fourclojure/src/fourclojure/problems.clj" timestamp="1502277309152">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/AustrianDistrict.java" timestamp="1500034396038">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="28" column="3" />
@@ -112,6 +118,9 @@
         <mark key="." line="26" column="6" />
         <mark key="^" line="21" column="27" />
       </file>
+      <file name="/Dummy.regexp" timestamp="1502277191591">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/SocialRESTApplication.java" timestamp="1500578973409">
         <mark key="'" line="143" column="33" />
         <mark key="[" line="106" column="0" />
@@ -164,6 +173,11 @@
         <mark key="^" line="32" column="2" />
         <mark key="." line="32" column="2" />
       </file>
+      <file name="/work/projects/personal/clojure/fourclojure/project.clj" timestamp="1502276991684">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/images/FishnetImageLoader.java" timestamp="1500294458847">
         <mark key="[" line="29" column="34" />
         <mark key="]" line="29" column="34" />
@@ -189,6 +203,12 @@
         <mark key="]" line="18" column="17" />
         <mark key="^" line="18" column="17" />
         <mark key="." line="18" column="17" />
+      </file>
+      <file name="/work/projects/personal/clojure/fourclojure/spec/fourclojure/problems_spec.clj" timestamp="1502277331439">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1500577894599">
         <mark key="[" line="0" column="0" />
@@ -257,10 +277,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ClNFTEVDVCAqCkZST00gc3RhdGlzdGljczJfc3RhZ2VpbmZvdmFsdWUgc3YKICBKT0lOIHN0YXRpc3RpY3MyX3N0YWdlaW5mbyBzaSBPTiBzaS50eXBlaWQgPSBzdi50eXBlaWQgQU5EOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>306430</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text>nation</text>
@@ -269,31 +289,31 @@
         <text encoding="base64">c2VsZWN0IHMuaWQsIHMuZGVzY3JpcHRpb24sIHN2LiogZnJvbSBzdGF0aXN0aWNzMl9zdGFnZWluZm92YWx1ZSBzdiBqb2luIHN0YXRpc3RpY3MyX3N0YWdlIHMgb24gcy5pZCA9IHN2LnN0YWdlaWQgd2hlcmUgc3Yuc3RhZ2VpZCBpbiAoMjcyNDY2LCAyNzQwMDYpOwoKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzMl9zdGFnZWluZm8gc2kgd2hlcmUgc2kuc3RhZ2VpZCBpbiAoNzIyMyk7CgpzZWxlY3QgKiBmcm9tIGBuYW1lYCBuIHdoZXJlIG4udHlwZUlkID0gNDYgYW5kIG4ubGFuZ3VhZ2VDb2RlID0gImVuIiBhbmQgbi5zb3VyY2VJZCA9IC0xIGFuZCBuLmlkIGluICgxMDExLCAxNzc2NCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ClNFTEVDVCAqCkZST00gc3RhdGlzdGljczJfc3RhZ2VpbmZvdmFsdWUgc3YKICBKT0lOIHN0YXRpc3RpY3MyX3N0YWdlaW5mbyBzaSBPTiBzaS50eXBlaWQgPSBzdi50eXBlaWQgQU5EOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBqb2luCg==</text>
+        <text encoding="base64">KGRlZm4gcHJvYmxlbTEgW10KICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlc2NyaWJlICJhIHRlc3QiCiAgKGl0ICJGSVhNRSwgSSBmYWlsLiIKICAgIChzaG91bGQ9IDAgMSkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ClNFTEVDVCAqCkZST00gc3RhdGlzdGljczJfc3RhZ2VpbmZvdmFsdWUgc3YKICBKT0lOIHN0YXRpc3RpY3MyX3N0YWdlaW5mbyBzaSBPTiBzaS50eXBlaWQgPSBzdi50eXBlaWQgQU5EOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2NpdHkgYyB3aGVyZSBjLmNpdHlpZCBpbiAoMTAxMSwgMTc3NjQpOwo=</text>
+        <text encoding="base64">ICBqb2luCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgcC5kaXNhYmxlZCA9IDAKICBhbmQgYy5kaXNhYmxlZCA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgcy5wYXJlbnQgPSAzMDYyOTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlTeXN0ZW0uZXhpdCgxKTsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2NpdHkgYyB3aGVyZSBjLmNpdHlpZCBpbiAoMTAxMSwgMTc3NjQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICBhbmQgcC5kaXNhYmxlZCA9IDAKICBhbmQgYy5kaXNhYmxlZCA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
