@@ -8,11 +8,11 @@
         <mark key="]" line="345" column="75" />
         <mark key="." line="345" column="75" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CountryManager.java" timestamp="1502283540289">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="44" column="19" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CountryManager.java" timestamp="1502286568008">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="44" />
+        <mark key="." line="34" column="44" />
+        <mark key="^" line="34" column="44" />
       </file>
       <file name="/work/projects/dei/www/www/base/lib/betradar/class/LMTMatchSourceJoinXmlFeed.class.php" timestamp="1500469097042">
         <mark key="[" line="93" column="12" />
@@ -31,6 +31,12 @@
       </file>
       <file name="/Dummy.jql" timestamp="1500460553087">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CityManager.java" timestamp="1502286926872">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="/work/projects/personal/clojure/fourclojure/src/fourclojure/problems.clj" timestamp="1502277619808">
         <mark key="[" line="4" column="0" />
@@ -140,11 +146,12 @@
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Stadium.java" timestamp="1502279878736">
         <mark key="[" line="75" column="5" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/OutrightStageManager.java" timestamp="1502283833023">
-        <mark key="[" line="91" column="44" />
-        <mark key="]" line="91" column="44" />
-        <mark key="^" line="91" column="44" />
-        <mark key="." line="91" column="44" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/OutrightStageManager.java" timestamp="1502287144552">
+        <mark key="'" line="28" column="3" />
+        <mark key="[" line="67" column="55" />
+        <mark key="]" line="67" column="55" />
+        <mark key="^" line="67" column="55" />
+        <mark key="." line="67" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_3.sql" timestamp="1502180830665">
         <mark key="[" line="0" column="0" />
@@ -241,11 +248,10 @@
         <mark key="." line="13" column="39" />
         <mark key="^" line="13" column="39" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/CountryManagerIntegrationTest.java" timestamp="1502283620624">
-        <mark key="[" line="42" column="72" />
-        <mark key="]" line="42" column="86" />
-        <mark key="^" line="42" column="86" />
-        <mark key="." line="42" column="86" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/CountryManagerIntegrationTest.java" timestamp="1502286527441">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/Statistics2Stage2stageEAOIntegrationTest.java" timestamp="1500546620908">
         <mark key="[" line="16" column="100" />
@@ -275,6 +281,13 @@
         <mark key="]" line="22" column="17" />
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" timestamp="1502287090023">
+        <mark key="'" line="92" column="19" />
+        <mark key="[" line="499" column="0" />
+        <mark key="]" line="499" column="4" />
+        <mark key="." line="499" column="4" />
+        <mark key="^" line="495" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1502279436432">
         <mark key="[" line="0" column="0" />
@@ -340,46 +353,49 @@
       <jump line="943" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="944" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="0" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/cache/CacheManager.java" />
+      <jump line="109" column="7" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/OutrightStageManager.java" />
+      <jump line="26" column="3" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/OutrightStageManager.java" />
+      <jump line="92" column="19" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBOYXRpb25hbGl0eSBuYXRpb25hbGl0eSA9IGNvdW50cnlNYW5hZ2VyLmdldE5hdGlvbmFsaXR5Rm9yU3RhZ2Uoc3RhZ2VJZCk7CiAgICAgICAgaWYgKG5hdGlvbmFsaXR5ICE9IG51bGwpIHsKICAgICAgICAgICAgc3RhZ2Uuc2V0TmF0aW9uKG5hdGlvbmFsaXR5LmdldElTT0EzQ291bnRyeUNvZGUoKSk7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Nation</text>
       </register>
       <register name="-" type="4">
-        <text>outrightStage</text>
+        <text>Nation</text>
       </register>
       <register name="/" type="4">
         <text>nation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiBleHBlY3RlZCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBleHBlY3RlZC5wdXQoMSwgIkVORyIpOwogICAgICAgIGV4cGVjdGVkLnB1dCg1LCAiTk9SIik7CiAgICAgICAgZXhwZWN0ZWQucHV0KDE2LCAiVVNBIik7CiAgICAgICAgZXhwZWN0ZWQucHV0KDMyMywgIkhVTiIpOwo=</text>
+        <text encoding="base64">ICAgIEBYbWxBdHRyaWJ1dGUobmFtZSA9ICJuYXRpb24iKQogICAgcHVibGljIFN0cmluZyBnZXROYXRpb24oKSB7CiAgICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBOYXRpb25hbGl0eSBuYXRpb25hbGl0eSA9IGNvdW50cnlNYW5hZ2VyLmdldE5hdGlvbmFsaXR5Rm9yU3RhZ2Uoc3RhZ2VJZCk7CiAgICAgICAgaWYgKG5hdGlvbmFsaXR5ICE9IG51bGwpIHsKICAgICAgICAgICAgc3RhZ2Uuc2V0TmF0aW9uKG5hdGlvbmFsaXR5LmdldElTT0EzQ291bnRyeUNvZGUoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBOYXRpb25hbGl0eSBuYXRpb25hbGl0eSA9IGNvdW50cnlNYW5hZ2VyLmdldE5hdGlvbmFsaXR5Rm9yU3RhZ2Uoc3RhZ2VJZCk7CiAgICAgICAgaWYgKG5hdGlvbmFsaXR5ICE9IG51bGwpIHsKICAgICAgICAgICAgc3RhZ2Uuc2V0TmF0aW9uKG5hdGlvbmFsaXR5LmdldElTT0EzQ291bnRyeUNvZGUoKSk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhZGl1bS5nZXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhuYXRpb25hbGl0eS5nZXRDb3VudHJ5SWQoKSwgbmF0aW9uYWxpdHkxLmdldENvdW50cnlJZCgpKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBOYXRpb25hbGl0eSBuYXRpb25hbGl0eSA9IGNvdW50cnlNYW5hZ2VyLmdldE5hdGlvbmFsaXR5Rm9yU3RhZ2UyKG91dHJpZ2h0U3RhZ2UuZ2V0U3RhZ2VpZCgpKTsKICAgICAgICBpZiAobmF0aW9uYWxpdHkgIT0gbnVsbCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTmF0aW9uYWxpdHkgbmF0aW9uYWxpdHkgPSBjb3VudHJ5TWFuYWdlci5nZXROYXRpb25hbGl0eUZvclN0YWdlKGVudHJ5LmdldEtleSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBOYXRpb25hbGl0eSBuYXRpb25hbGl0eSA9IGNvdW50cnlNYW5hZ2VyLmdldE5hdGlvbmFsaXR5Rm9yU3RhZ2Uoc3RhZ2VJZCk7CiAgICAgICAgaWYgKG5hdGlvbmFsaXR5ICE9IG51bGwpIHsKICAgICAgICAgICAgc3RhZ2Uuc2V0TmF0aW9uKG5hdGlvbmFsaXR5LmdldElTT0EzQ291bnRyeUNvZGUoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhZGl1bS5nZXRDaXR5KCkuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBOYXRpb25hbGl0eSBuYXRpb25hbGl0eSA9IGNvdW50cnlNYW5hZ2VyLmdldE5hdGlvbmFsaXR5Rm9yU3RhZ2Uoc3RhZ2VJZCk7CiAgICAgICAgaWYgKG5hdGlvbmFsaXR5ICE9IG51bGwpIHsKICAgICAgICAgICAgc3RhZ2Uuc2V0TmF0aW9uKG5hdGlvbmFsaXR5LmdldElTT0EzQ291bnRyeUNvZGUoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFkaXVtQ2FjaGUuZ2V0U3RhZGl1bXNCeVN0YWdlSWQoKS5jb250YWluc0tleShzdGFnZUlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
