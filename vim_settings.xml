@@ -76,6 +76,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_2.sql" timestamp="1504181206105">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StageEAO.java" timestamp="1500308837438">
         <mark key="[" line="156" column="84" />
         <mark key="]" line="157" column="90" />
@@ -198,6 +204,13 @@
         <mark key="^" line="31" column="40" />
         <mark key="." line="31" column="40" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" timestamp="1504180704569">
+        <mark key="'" line="521" column="32" />
+        <mark key="[" line="204" column="48" />
+        <mark key="]" line="204" column="106" />
+        <mark key="^" line="204" column="106" />
+        <mark key="." line="204" column="106" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Logout.java" timestamp="1500576096489">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="17" />
@@ -281,7 +294,7 @@
         <mark key="." line="26" column="6" />
         <mark key="^" line="21" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502885253970">
+      <file name="/Dummy.txt" timestamp="1504181213047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1500466576096">
@@ -327,8 +340,8 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1504176903164">
-        <mark key="'" line="162" column="51" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1504180645962">
+        <mark key="'" line="74" column="77" />
         <mark key="[" line="75" column="92" />
         <mark key="]" line="75" column="100" />
         <mark key="^" line="75" column="100" />
@@ -409,6 +422,10 @@
       <jump line="72" column="64" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/playertransfers/PlayerTransferService.java" />
       <jump line="174" column="74" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/playertransfers/PlayerTransferService.java" />
       <jump line="161" column="51" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="194" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
+      <jump line="338" column="26" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
+      <jump line="74" column="77" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="520" column="32" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -479,6 +496,8 @@
         <entry>finished</entry>
         <entry>isfinished</entry>
         <entry>fullupdate</entry>
+        <entry>doQuery</entry>
+        <entry>generating</entry>
         <entry>invoke</entry>
       </history-search>
       <history-cmd>
