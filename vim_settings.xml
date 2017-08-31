@@ -147,12 +147,12 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" timestamp="1502805658101">
-        <mark key="'" line="680" column="16" />
-        <mark key="[" line="1056" column="91" />
-        <mark key="]" line="1056" column="91" />
-        <mark key="^" line="1056" column="91" />
-        <mark key="." line="1056" column="91" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" timestamp="1504188601041">
+        <mark key="'" line="579" column="60" />
+        <mark key="[" line="1056" column="56" />
+        <mark key="]" line="1056" column="81" />
+        <mark key="^" line="1056" column="81" />
+        <mark key="." line="1056" column="81" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/resources/onelogin.saml.properties" timestamp="1500578592276">
         <mark key="'" line="25" column="55" />
@@ -352,12 +352,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1504186686000">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1504188281200">
         <mark key="'" line="111" column="75" />
-        <mark key="[" line="111" column="76" />
-        <mark key="]" line="111" column="82" />
-        <mark key="." line="111" column="82" />
-        <mark key="^" line="111" column="82" />
+        <mark key="[" line="111" column="71" />
+        <mark key="]" line="81" column="106" />
+        <mark key="." line="81" column="106" />
+        <mark key="^" line="81" column="106" />
       </file>
     </filemarks>
     <jumps>
@@ -450,16 +450,17 @@
       <jump line="64" column="50" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/FormTableServiceBean.java" />
       <jump line="150" column="43" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/FormTableServiceBean.java" />
       <jump line="181" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/FormTableServiceBean.java" />
+      <jump line="579" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LEAGUETABLE</text>
+        <text>getCurrentCupsInSeason</text>
       </register>
       <register name="-" type="4">
-        <text>LEAGUETABLE</text>
+        <text>getCurrentCupsInSeason</text>
       </register>
       <register name="/" type="4">
-        <text>leaguetablemanager</text>
+        <text>doQuery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXJ2aWNlcy5hZGQoc2VydmljZUxvY2F0b3IuZmluZEV4cG9ydFNlcnZpY2UoRXhwb3J0U2VydmljZS5jbGFzcywgWG1sRXhwb3J0U2VydmljZS5MRUFHVUVUQUJMRS5pZCgpKSk7Cg==</text>
@@ -496,9 +497,9 @@
       </register>
     </registers>
     <search>
-      <last-search>leaguetablemanager</last-search>
+      <last-search>doQuery</last-search>
       <last-offset />
-      <last-pattern>leaguetablemanager</last-pattern>
+      <last-pattern>doQuery</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -517,13 +518,13 @@
         <entry>finished</entry>
         <entry>isfinished</entry>
         <entry>fullupdate</entry>
-        <entry>doQuery</entry>
         <entry>generating</entry>
         <entry>invoke</entry>
         <entry>testQuery</entry>
         <entry>LEAGUETABLE</entry>
         <entry>tableManager</entry>
         <entry>leaguetablemanager</entry>
+        <entry>doQuery</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
