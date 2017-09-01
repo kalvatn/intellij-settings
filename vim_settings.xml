@@ -58,6 +58,9 @@
         <mark key="." line="75" column="225" />
         <mark key="^" line="75" column="225" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" timestamp="1504269291408">
+        <mark key="'" line="53" column="13" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/CupBlock.java" timestamp="1502805627787">
         <mark key="'" line="47" column="36" />
       </file>
@@ -173,11 +176,11 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1504268343200">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="107" column="13" />
-        <mark key="." line="107" column="13" />
-        <mark key="^" line="107" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1504269386488">
+        <mark key="[" line="117" column="92" />
+        <mark key="]" line="117" column="90" />
+        <mark key="." line="117" column="90" />
+        <mark key="^" line="117" column="90" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/AuthenticationConfiguration.java" timestamp="1500578285184">
         <mark key="[" line="29" column="3" />
@@ -196,6 +199,9 @@
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/playertransfers/PlayerTransferService.java" timestamp="1502963456975">
         <mark key="'" line="174" column="74" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" timestamp="1504269155713">
+        <mark key="'" line="253" column="50" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/OutrightStageManager.java" timestamp="1502287144552">
         <mark key="'" line="28" column="3" />
@@ -352,12 +358,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1504188281200">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1504269412384">
         <mark key="'" line="111" column="75" />
-        <mark key="[" line="111" column="71" />
-        <mark key="]" line="81" column="106" />
-        <mark key="." line="81" column="106" />
-        <mark key="^" line="81" column="106" />
+        <mark key="[" line="114" column="74" />
+        <mark key="]" line="114" column="80" />
+        <mark key="." line="114" column="80" />
+        <mark key="^" line="114" column="80" />
       </file>
     </filemarks>
     <jumps>
@@ -451,19 +457,22 @@
       <jump line="150" column="43" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/FormTableServiceBean.java" />
       <jump line="181" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/FormTableServiceBean.java" />
       <jump line="579" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
+      <jump line="62" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
+      <jump line="253" column="50" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
+      <jump line="53" column="13" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getCurrentCupsInSeason</text>
+        <text>10532618</text>
       </register>
       <register name="-" type="4">
-        <text>getCurrentCupsInSeason</text>
+        <text>10532618</text>
       </register>
       <register name="/" type="4">
-        <text>doQuery</text>
+        <text>subteam</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcy5hZGQoc2VydmljZUxvY2F0b3IuZmluZEV4cG9ydFNlcnZpY2UoRXhwb3J0U2VydmljZS5jbGFzcywgWG1sRXhwb3J0U2VydmljZS5MRUFHVUVUQUJMRS5pZCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzMzA5MykpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmFubm90YXRpb25zLlZpc2libGVGb3JUZXN0aW5nOwo=</text>
@@ -497,16 +506,14 @@
       </register>
     </registers>
     <search>
-      <last-search>doQuery</last-search>
+      <last-search>subteam</last-search>
       <last-offset />
-      <last-pattern>doQuery</last-pattern>
+      <last-pattern>subteam</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>arq</entry>
-        <entry>authConfig</entry>
         <entry>localhost</entry>
         <entry>stage</entry>
         <entry>nation</entry>
@@ -514,7 +521,6 @@
         <entry>query</entry>
         <entry>do not run</entry>
         <entry>ismain</entry>
-        <entry>doquery</entry>
         <entry>finished</entry>
         <entry>isfinished</entry>
         <entry>fullupdate</entry>
@@ -525,6 +531,9 @@
         <entry>tableManager</entry>
         <entry>leaguetablemanager</entry>
         <entry>doQuery</entry>
+        <entry>doquery</entry>
+        <entry>country</entry>
+        <entry>subteam</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
