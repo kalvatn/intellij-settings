@@ -216,12 +216,11 @@
         <mark key="^" line="67" column="55" />
         <mark key="." line="67" column="55" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1504276063226">
-        <mark key="'" line="398" column="16" />
-        <mark key="[" line="389" column="22" />
-        <mark key="]" line="389" column="52" />
-        <mark key="^" line="389" column="51" />
-        <mark key="." line="389" column="52" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1504277569008">
+        <mark key="'" line="402" column="36" />
+        <mark key="[" line="389" column="0" />
+        <mark key="]" line="389" column="0" />
+        <mark key="." line="389" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_3.sql" timestamp="1502180830665">
         <mark key="[" line="0" column="0" />
@@ -380,10 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="41" filename="/work/projects/bac/xmlexport/xmlexport-ejb/pom.xml" />
-      <jump line="76" column="25" filename="/work/projects/bac/xmlexport/xmlexport-ejb/pom.xml" />
-      <jump line="77" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/pom.xml" />
-      <jump line="83" column="25" filename="/work/projects/bac/xmlexport/xmlexport-ejb/pom.xml" />
       <jump line="84" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/pom.xml" />
       <jump line="133" column="25" filename="/work/projects/bac/xmlexport/xmlexport-ejb/pom.xml" />
       <jump line="138" column="25" filename="/work/projects/bac/xmlexport/xmlexport-ejb/pom.xml" />
@@ -480,64 +475,64 @@
       <jump line="284" column="23" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
       <jump line="558" column="24" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
       <jump line="555" column="55" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
+      <jump line="289" column="62" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
+      <jump line="392" column="29" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
+      <jump line="401" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
+      <jump line="402" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JiY=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIk5PVCBTRVRUSU5HIENPVU5UUlkgRk9SIFRFTk5JUyIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
-        <text>country</text>
+        <text>nationality</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzMzA5MykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBldGl0b3IuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIk5PVCBTRVRUSU5HIENPVU5UUlkgRk9SIFRFTk5JUyIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmFubm90YXRpb25zLlZpc2libGVGb3JUZXN0aW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBldGl0b3IuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBqb2luIHRlYW10YWJsZSBhd2F5IG9uIGF3YXkuVGVhbWlkID0gZnQuCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmFubm90YXRpb25zLlZpc2libGVGb3JUZXN0aW5nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
+        <text encoding="base64">ICBqb2luIHRlYW10YWJsZSBhd2F5IG9uIGF3YXkuVGVhbWlkID0gZnQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgibWF0Y2hlcyB0byBiZSBwbGF5ZWQgOiAlZCwgbnVtYmVyIG9mIG1hdGNoZXMgaW4gY3Vwcm91bmQgOiAlZCwgY3Vwcm91bmQgbWF0Y2ggbnVtYmVyIDogJWQsIGZpbmlzaGVkIDogJXMiLCBudW1iZXJPZk1hdGNoZXNUb0JlUGxheWVkLCBudW1iZXJPZk1hdGNoZXNJbkN1cHJvdW5kLCApKTsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgibWF0Y2hlcyB0byBiZSBwbGF5ZWQgOiAlZCwgbnVtYmVyIG9mIG1hdGNoZXMgaW4gY3Vwcm91bmQgOiAlZCwgY3Vwcm91bmQgbWF0Y2ggbnVtYmVyIDogJWQsIGZpbmlzaGVkIDogJXMiLCBudW1iZXJPZk1hdGNoZXNUb0JlUGxheWVkLCBudW1iZXJPZk1hdGNoZXNJbkN1cHJvdW5kLCApKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbjxTdGF0aXN0aWNzQ3VwPiBjdXBzID0gY3VwTWFuYWdlci5nZXRDdXJyZW50Q3Vwc0luU2Vhc29uKHNlYXNvbklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNlcnZpY2VzLmFkZChzZXJ2aWNlTG9jYXRvci5maW5kRXhwb3J0U2VydmljZShFeHBvcnRTZXJ2aWNlLmNsYXNzLCBYbWxFeHBvcnRTZXJ2aWNlLkZPUk1VTEExVEVBTURFVEFJTFMuaWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbjxTdGF0aXN0aWNzQ3VwPiBjdXBzID0gY3VwTWFuYWdlci5nZXRDdXJyZW50Q3Vwc0luU2Vhc29uKHNlYXNvbklkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3MyX3N0YWdlIHMgb24gcy5pZCA9IHNqLnN0YWdlaWQK</text>
+        <text encoding="base64">Ly8gICAgICAgIHNlcnZpY2VzLmFkZChzZXJ2aWNlTG9jYXRvci5maW5kRXhwb3J0U2VydmljZShFeHBvcnRTZXJ2aWNlLmNsYXNzLCBYbWxFeHBvcnRTZXJ2aWNlLkZPUk1VTEExVEVBTURFVEFJTFMuaWQoKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>country</last-search>
+      <last-search>nationality</last-search>
       <last-offset />
-      <last-pattern>country</last-pattern>
+      <last-pattern>nationality</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stage</entry>
-        <entry>nation</entry>
-        <entry>getdelta</entry>
-        <entry>query</entry>
         <entry>do not run</entry>
         <entry>ismain</entry>
         <entry>finished</entry>
@@ -552,8 +547,12 @@
         <entry>doQuery</entry>
         <entry>doquery</entry>
         <entry>subteam</entry>
-        <entry>setCountry</entry>
         <entry>country</entry>
+        <entry>setcountry</entry>
+        <entry>addcountry</entry>
+        <entry>setCountry</entry>
+        <entry>addnationality</entry>
+        <entry>nationality</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
