@@ -79,11 +79,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CompetitorManager.java" timestamp="1504276531308">
-        <mark key="[" line="86" column="9" />
-        <mark key="]" line="87" column="8" />
-        <mark key="." line="87" column="8" />
-        <mark key="^" line="87" column="8" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CompetitorManager.java" timestamp="1504525383845">
+        <mark key="[" line="83" column="20" />
+        <mark key="]" line="83" column="130" />
+        <mark key="." line="83" column="130" />
+        <mark key="^" line="83" column="130" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_2.sql" timestamp="1504184262265">
         <mark key="[" line="8" column="15" />
@@ -488,7 +488,7 @@
         <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
-        <text>nationality</text>
+        <text>addnationality</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzMzA5MykpOwo=</text>
@@ -521,13 +521,13 @@
         <text encoding="base64">Ly8gICAgICAgIHNlcnZpY2VzLmFkZChzZXJ2aWNlTG9jYXRvci5maW5kRXhwb3J0U2VydmljZShFeHBvcnRTZXJ2aWNlLmNsYXNzLCBYbWxFeHBvcnRTZXJ2aWNlLkZPUk1VTEExVEVBTURFVEFJTFMuaWQoKSkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>82</text>
       </register>
     </registers>
     <search>
-      <last-search>nationality</last-search>
+      <last-search>addnationality</last-search>
       <last-offset />
-      <last-pattern>nationality</last-pattern>
+      <last-pattern>addnationality</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -551,14 +551,15 @@
         <entry>setcountry</entry>
         <entry>addcountry</entry>
         <entry>setCountry</entry>
-        <entry>addnationality</entry>
         <entry>nationality</entry>
+        <entry>addnationality</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>w</entry>
         <entry>setignorecase</entry>
         <entry>set ignorecase</entry>
+        <entry>82</entry>
       </history-cmd>
       <history-expr />
       <history-input />
