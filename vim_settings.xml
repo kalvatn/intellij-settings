@@ -360,8 +360,8 @@
         <mark key="." line="47" column="16" />
         <mark key="^" line="47" column="16" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1504608211476">
-        <mark key="'" line="488" column="48" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1504618064292">
+        <mark key="'" line="446" column="41" />
         <mark key="[" line="350" column="24" />
         <mark key="]" line="350" column="41" />
         <mark key="." line="350" column="41" />
@@ -395,15 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="35" filename="/work/projects/bac/xmlexport/pom.xml" />
-      <jump line="307" column="28" filename="/work/projects/bac/xmlexport/pom.xml" />
-      <jump line="308" column="35" filename="/work/projects/bac/xmlexport/pom.xml" />
-      <jump line="320" column="28" filename="/work/projects/bac/xmlexport/pom.xml" />
-      <jump line="321" column="35" filename="/work/projects/bac/xmlexport/pom.xml" />
-      <jump line="85" column="17" filename="/work/projects/bac/xmlexport/pom.xml" />
-      <jump line="62" column="0" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" />
-      <jump line="643" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
-      <jump line="124" column="71" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="53" column="29" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" />
       <jump line="6" column="19" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/livescore/events/LivescoreEventManagerIntegrationTest.java" />
       <jump line="557" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/livescore/events/LivescoreEventManagerIntegrationTest.java" />
@@ -495,6 +486,15 @@
       <jump line="164" column="39" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="106" column="10" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="160" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="366" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="336" column="38" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="202" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="466" column="48" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="453" column="47" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="320" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="437" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="440" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="446" column="41" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -504,7 +504,7 @@
         <text>playertransfers</text>
       </register>
       <register name="/" type="4">
-        <text>testDelta</text>
+        <text>coverage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzMzA5MykpOwo=</text>
@@ -541,15 +541,14 @@
       </register>
     </registers>
     <search>
-      <last-search>testDelta</last-search>
+      <last-search>coverage</last-search>
       <last-offset />
-      <last-pattern>testDelta</last-pattern>
+      <last-pattern>coverage</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fullupdate</entry>
         <entry>generating</entry>
         <entry>invoke</entry>
         <entry>testQuery</entry>
@@ -565,10 +564,11 @@
         <entry>setCountry</entry>
         <entry>nationality</entry>
         <entry>addnationality</entry>
-        <entry>delta</entry>
         <entry>squad</entry>
         <entry>testTrigger</entry>
         <entry>testDelta</entry>
+        <entry>delta</entry>
+        <entry>coverage</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
