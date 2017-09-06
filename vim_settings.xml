@@ -330,7 +330,7 @@
         <mark key="." line="26" column="6" />
         <mark key="^" line="21" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504181213047">
+      <file name="/Dummy.txt" timestamp="1504691224290">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1500466576096">
@@ -360,12 +360,12 @@
         <mark key="." line="47" column="16" />
         <mark key="^" line="47" column="16" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1504618064292">
-        <mark key="'" line="446" column="41" />
-        <mark key="[" line="350" column="24" />
-        <mark key="]" line="350" column="41" />
-        <mark key="." line="350" column="41" />
-        <mark key="^" line="350" column="41" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1504690656596">
+        <mark key="'" line="238" column="15" />
+        <mark key="[" line="369" column="79" />
+        <mark key="]" line="369" column="94" />
+        <mark key="." line="369" column="94" />
+        <mark key="^" line="369" column="94" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Attributes.java" timestamp="1500576163381">
         <mark key="[" line="22" column="12" />
@@ -395,11 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="29" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" />
-      <jump line="6" column="19" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/livescore/events/LivescoreEventManagerIntegrationTest.java" />
-      <jump line="557" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/livescore/events/LivescoreEventManagerIntegrationTest.java" />
-      <jump line="14" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/livescore/events/LivescoreEventManagerIntegrationTest.java" />
-      <jump line="47" column="77" filename="/work/projects/social/backend/app/src/main/resources/onelogin.saml.properties" />
       <jump line="19" column="59" filename="/work/projects/social/backend/app/src/main/resources/onelogin.saml.properties" />
       <jump line="23" column="54" filename="/work/projects/social/backend/app/src/main/resources/onelogin.saml.properties" />
       <jump line="83" column="57" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/AssertionConsumerService.java" />
@@ -495,61 +490,65 @@
       <jump line="437" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="440" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="446" column="41" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="438" column="73" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="460" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="490" column="4" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="237" column="37" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="238" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyh0b3VybmFtZW50Lik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3ZlcmFnZU1hbmFnZXIuZmlsdGVyQ292ZXJlZFVuaXF1ZVRlYW1JZHModW5pcXVlVGVhbUlkcykK</text>
       </register>
       <register name="-" type="4">
-        <text>playertransfers</text>
+        <text>uniqueTeamIds</text>
       </register>
       <register name="/" type="4">
-        <text>coverage</text>
+        <text>getDelta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzMzA5MykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyh0b3VybmFtZW50Lik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3ZlcmFnZU1hbmFnZXIuZmlsdGVyQ292ZXJlZFVuaXF1ZVRlYW1JZHModW5pcXVlVGVhbUlkcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VybmFtZW50TWFuYWdlci5nZXRUb3VybmFtZW50c0J5U3BvcnRJZCgpLmdldCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyh0b3VybmFtZW50Lik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgOwo=</text>
+        <text encoding="base64">ICAgICAgICB0b3VybmFtZW50TWFuYWdlci5nZXRUb3VybmFtZW50c0J5U3BvcnRJZCgpLmdldCgxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFRyaWdnZXJVcGRhdGVzPiB0cmlnZ2VyVXBkYXRlcyA9IEltbXV0YWJsZUxpc3Qub2YoCi8vICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY2Njk2KSwKLy8gICAgICAgICAgICAgICAgY3JlYXRlVGVzdFRyaWdnZXIoVHJpZ2dlclRhYmxlLk1BVENIVEFCTEUsIDg3Njg2NjYpLAovLyAgICAgICAgICAgICAgICBjcmVhdGVUZXN0VHJpZ2dlcihUcmlnZ2VyVGFibGUuTUFUQ0hUQUJMRSwgODc2OTMwNikKICAgICAgICApOwo=</text>
+        <text encoding="base64">Z3JvdXAgYnkgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyVXBkYXRlcy5hZGRBbGwodHJpZ2dlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFRyaWdnZXJVcGRhdGVzPiB0cmlnZ2VyVXBkYXRlcyA9IEltbXV0YWJsZUxpc3Qub2YoCi8vICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY2Njk2KSwKLy8gICAgICAgICAgICAgICAgY3JlYXRlVGVzdFRyaWdnZXIoVHJpZ2dlclRhYmxlLk1BVENIVEFCTEUsIDg3Njg2NjYpLAovLyAgICAgICAgICAgICAgICBjcmVhdGVUZXN0VHJpZ2dlcihUcmlnZ2VyVGFibGUuTUFUQ0hUQUJMRSwgODc2OTMwNikKICAgICAgICApOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyVXBkYXRlcy5hZGRBbGwodHJpZ2dlcnMpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlVGVzdFRyaWdnZXIoVHJpZykK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY2Njk2KSwKICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY4NjY2KSwKICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY5MzA2KQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQbGF5ZXJSb2xlVHlwZUVudW0gcm9sZVR5cGUgPSBQbGF5ZXJSb2xlVHlwZUVudW0uYnlJZChyb2xlVHlwZUlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>coverage</last-search>
+      <last-search>getDelta</last-search>
       <last-offset />
-      <last-pattern>coverage</last-pattern>
+      <last-pattern>getDelta</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>generating</entry>
         <entry>invoke</entry>
         <entry>testQuery</entry>
         <entry>LEAGUETABLE</entry>
@@ -567,8 +566,9 @@
         <entry>squad</entry>
         <entry>testTrigger</entry>
         <entry>testDelta</entry>
-        <entry>delta</entry>
         <entry>coverage</entry>
+        <entry>delta</entry>
+        <entry>getDelta</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
