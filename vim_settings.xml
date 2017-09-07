@@ -39,12 +39,12 @@
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1504709195779">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1504784521898">
         <mark key="'" line="48" column="1" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="2166" />
-        <mark key="^" line="48" column="2166" />
-        <mark key="." line="48" column="2166" />
+        <mark key="[" line="55" column="58" />
+        <mark key="]" line="55" column="56" />
+        <mark key="^" line="55" column="56" />
+        <mark key="." line="55" column="56" />
       </file>
       <file name="/work/projects/personal/clojure/fourclojure/src/fourclojure/problems.clj" timestamp="1502277619808">
         <mark key="[" line="4" column="0" />
@@ -103,6 +103,12 @@
         <mark key="]" line="2" column="75" />
         <mark key="^" line="2" column="75" />
         <mark key="." line="2" column="75" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/CacheResetJob.java" timestamp="1504785574787">
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="28" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/StadiumCache.java" timestamp="1502281612952">
         <mark key="[" line="27" column="22" />
@@ -378,6 +384,12 @@
         <mark key="." line="369" column="111" />
         <mark key="^" line="369" column="111" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/MiscTests.java" timestamp="1504785494699">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Attributes.java" timestamp="1500576163381">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="17" />
@@ -508,11 +520,11 @@
       <jump line="48" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MISSING TEAM TOURNAMENTS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>MISSING TEAM TOURNAMENTS</text>
+        <text>Instant now</text>
       </register>
       <register name="/" type="4">
         <text>missingTeams</text>
@@ -521,31 +533,31 @@
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJNSVNTSU5HIFRFQU0gVE9VUk5BTUVOVFMgOiAlcyIsIHRvdXJuYW1lbnRzTWlzc2luZ1RlYW1zKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3ZlcmFnZU1hbmFnZXIuZmlsdGVyQ292ZXJlZFVuaXF1ZVRlYW1JZHModW5pcXVlVGVhbUlkcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyh0b3VybmFtZW50Lik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3ZlcmFnZU1hbmFnZXIuZmlsdGVyQ292ZXJlZFVuaXF1ZVRlYW1JZHModW5pcXVlVGVhbUlkcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VybmFtZW50TWFuYWdlci5nZXRUb3VybmFtZW50c0J5U3BvcnRJZCgpLmdldCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyh0b3VybmFtZW50Lik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgOwo=</text>
+        <text encoding="base64">ICAgICAgICB0b3VybmFtZW50TWFuYWdlci5nZXRUb3VybmFtZW50c0J5U3BvcnRJZCgpLmdldCgxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFRyaWdnZXJVcGRhdGVzPiB0cmlnZ2VyVXBkYXRlcyA9IEltbXV0YWJsZUxpc3Qub2YoCi8vICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY2Njk2KSwKLy8gICAgICAgICAgICAgICAgY3JlYXRlVGVzdFRyaWdnZXIoVHJpZ2dlclRhYmxlLk1BVENIVEFCTEUsIDg3Njg2NjYpLAovLyAgICAgICAgICAgICAgICBjcmVhdGVUZXN0VHJpZ2dlcihUcmlnZ2VyVGFibGUuTUFUQ0hUQUJMRSwgODc2OTMwNikKICAgICAgICApOwo=</text>
+        <text encoding="base64">Z3JvdXAgYnkgOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyVXBkYXRlcy5hZGRBbGwodHJpZ2dlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFRyaWdnZXJVcGRhdGVzPiB0cmlnZ2VyVXBkYXRlcyA9IEltbXV0YWJsZUxpc3Qub2YoCi8vICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY2Njk2KSwKLy8gICAgICAgICAgICAgICAgY3JlYXRlVGVzdFRyaWdnZXIoVHJpZ2dlclRhYmxlLk1BVENIVEFCTEUsIDg3Njg2NjYpLAovLyAgICAgICAgICAgICAgICBjcmVhdGVUZXN0VHJpZ2dlcihUcmlnZ2VyVGFibGUuTUFUQ0hUQUJMRSwgODc2OTMwNikKICAgICAgICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlVGVzdFRyaWdnZXIoVHJpZykK</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VyVXBkYXRlcy5hZGRBbGwodHJpZ2dlcnMpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY2Njk2KSwKICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY4NjY2KSwKICAgICAgICAgICAgICAgIGNyZWF0ZVRlc3RUcmlnZ2VyKFRyaWdnZXJUYWJsZS5NQVRDSFRBQkxFLCA4NzY5MzA2KQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlVGVzdFRyaWdnZXIoVHJpZykK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
