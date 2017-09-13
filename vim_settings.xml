@@ -431,8 +431,8 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1505300068183">
-        <mark key="'" line="104" column="8" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1505304877795">
+        <mark key="'" line="118" column="80" />
         <mark key="[" line="118" column="74" />
         <mark key="]" line="118" column="80" />
         <mark key="." line="118" column="80" />
@@ -440,7 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/FormTableServiceBean.java" />
       <jump line="579" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
       <jump line="62" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="253" column="50" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
@@ -540,6 +539,7 @@
       <jump line="107" column="5" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="109" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="104" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="118" column="80" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -552,7 +552,7 @@
         <text>8665118</text>
       </register>
       <register name="/" type="4">
-        <text>testQuery</text>
+        <text>PREMATCH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgNjI4NzYsNjI4NzcsMTUwNTMsCiAgICAgICAgICAgIDYzMzg2LDYzMjQ5LDYyNzE0LAogICAgICAgICAgICA2MjcxNiw2MjgzNCw2MjgzNSwKICAgICAgICAgICAgNjI4NDYsNjMzODksMTE2MzksCiAgICAgICAgICAgIDYzMzA0LDYyODcyLDIzLAogICAgICAgICAgICAxMDkwOSw2ODAsNDc1MTMsCg==</text>
@@ -589,16 +589,14 @@
       </register>
     </registers>
     <search>
-      <last-search>testQuery</last-search>
+      <last-search>PREMATCH</last-search>
       <last-offset />
-      <last-pattern>testQuery</last-pattern>
+      <last-pattern>PREMATCH</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>coverage</entry>
-        <entry>delta</entry>
         <entry>periodicDelta</entry>
         <entry>squad</entry>
         <entry>coverageManager</entry>
@@ -617,6 +615,8 @@
         <entry>getDelta</entry>
         <entry>nextMeetings</entry>
         <entry>testQuery</entry>
+        <entry>PERMATCH</entry>
+        <entry>PREMATCH</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
