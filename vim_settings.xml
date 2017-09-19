@@ -421,6 +421,9 @@
         <mark key="." line="84" column="46" />
         <mark key="^" line="84" column="46" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Match.java" timestamp="1505834870798">
+        <mark key="'" line="145" column="25" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/FormTableServiceBean.java" timestamp="1504186285508">
         <mark key="'" line="181" column="20" />
       </file>
@@ -492,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="453" column="47" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="437" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="440" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="438" column="73" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
@@ -592,6 +593,8 @@
       <jump line="97" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
       <jump line="61" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
       <jump line="149" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_8.sql" />
+      <jump line="34" column="21" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Match.java" />
+      <jump line="145" column="25" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Match.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -604,7 +607,7 @@
         <text>One</text>
       </register>
       <register name="/" type="4">
-        <text>but was</text>
+        <text>hidden</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJtZWV0aW5ncyBvbmUgKCVkKSA6IHNpemUgJWQsIG1hdGNoSWRzICVzIiwgdW5pcXVlVGVhbU9uZSwgdW5pcXVlVGVhbU1lZXRpbmdzT25lLnNpemUoKSwgdW5pcXVlVGVhbU1lZXRpbmdzT25lTWF0Y2hJZHMpKTsK</text>
@@ -643,9 +646,9 @@ One</text>
       </register>
     </registers>
     <search>
-      <last-search>but was</last-search>
+      <last-search>hidden</last-search>
       <last-offset />
-      <last-pattern>but was</last-pattern>
+      <last-pattern>hidden</last-pattern>
       <last-replace>Assert.assertEquals(\1, matchesByTournamentLIVERPOOL.get(\2).size());</last-replace>
       <last-substitute>\(\d\+\),\(\d\+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -653,7 +656,6 @@ One</text>
     </search>
     <history>
       <history-search>
-        <entry>TeamService</entry>
         <entry>createTestTrigger</entry>
         <entry>testDelta</entry>
         <entry>doquery</entry>
@@ -673,6 +675,7 @@ One</text>
         <entry>\(\d\+\)</entry>
         <entry>\(\d\+\),\(\d\+\)</entry>
         <entry>but was</entry>
+        <entry>hidden</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
