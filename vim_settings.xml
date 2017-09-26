@@ -107,8 +107,8 @@
         <mark key="." line="348" column="31" />
         <mark key="^" line="348" column="31" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1506427102332">
-        <mark key="'" line="436" column="69" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1506434857145">
+        <mark key="'" line="485" column="24" />
         <mark key="[" line="484" column="37" />
         <mark key="]" line="484" column="36" />
         <mark key="." line="484" column="36" />
@@ -302,11 +302,11 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_3.sql" timestamp="1506434040491">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_3.sql" timestamp="1506435179047">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="/work/projects/dei/www/www/base/lib/betradar/class/LMTMatchSourceJoinXmlFeed.class.php" timestamp="1500469097042">
         <mark key="[" line="93" column="12" />
@@ -367,7 +367,7 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506434168769">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506434873614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/ServiceLocatorIntegrationTest.java" timestamp="1506346026745">
@@ -565,7 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="87" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="37" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="72" column="54" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
@@ -665,6 +664,7 @@
       <jump line="18" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Statistics2Stagejoin.java" />
       <jump line="470" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="477" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="485" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -677,7 +677,7 @@
         <text>where</text>
       </register>
       <register name="/" type="4">
-        <text>postponed</text>
+        <text>getfull</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRpc3RpY3MyU3RhZ2Ugc3RhZ2UgPSBzdGFnZUVBTy5maW5kQnlJZCh0b3BMZXZlbFN0YWdlSWQpOwogICAgICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiJWQgLSAlcyIsIHRvcExldmVsU3RhZ2VJZCwgc3RhZ2UpKTsK</text>
@@ -714,9 +714,9 @@
       </register>
     </registers>
     <search>
-      <last-search>postponed</last-search>
+      <last-search>getfull</last-search>
       <last-offset />
-      <last-pattern>postponed</last-pattern>
+      <last-pattern>getfull</last-pattern>
       <last-replace>Assert.assertEquals(\1, matchesByTournamentLIVERPOOL.get(\2).size());</last-replace>
       <last-substitute>\(\d\+\),\(\d\+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -724,7 +724,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PREMATCH</entry>
         <entry>getHeadToHead</entry>
         <entry>this_</entry>
         <entry>?</entry>
@@ -744,6 +743,7 @@
         <entry>invokePrestage</entry>
         <entry>newmatch</entry>
         <entry>postponed</entry>
+        <entry>getfull</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
