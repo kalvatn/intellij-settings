@@ -30,12 +30,12 @@
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/resources/META-INF/persistence.xml" timestamp="1506343858603">
         <mark key="'" line="88" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1506429090204">
-        <mark key="'" line="434" column="32" />
-        <mark key="[" line="478" column="51" />
-        <mark key="]" line="478" column="50" />
-        <mark key="." line="478" column="50" />
-        <mark key="^" line="478" column="50" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1506432759988">
+        <mark key="'" line="477" column="0" />
+        <mark key="[" line="479" column="1" />
+        <mark key="]" line="462" column="9" />
+        <mark key="." line="462" column="9" />
+        <mark key="^" line="462" column="9" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" timestamp="1502805896386">
         <mark key="'" line="109" column="47" />
@@ -559,8 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="66" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="237" column="37" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="259" column="87" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="37" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -659,6 +657,8 @@
       <jump line="82" column="37" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Result.java" />
       <jump line="83" column="25" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Result.java" />
       <jump line="18" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Statistics2Stagejoin.java" />
+      <jump line="470" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="477" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
