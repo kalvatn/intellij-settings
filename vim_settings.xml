@@ -334,12 +334,12 @@
         <mark key="." line="89" column="50" />
         <mark key="^" line="89" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1506513890340">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1506517697700">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="23" column="152" />
-        <mark key="]" line="22" column="72" />
-        <mark key="." line="22" column="72" />
-        <mark key="^" line="22" column="72" />
+        <mark key="[" line="51" column="6" />
+        <mark key="]" line="51" column="6" />
+        <mark key="." line="51" column="6" />
+        <mark key="^" line="48" column="45" />
       </file>
       <file name="/work/projects/personal/clojure/fourclojure/src/fourclojure/problems.clj" timestamp="1502277619808">
         <mark key="[" line="4" column="0" />
@@ -514,7 +514,7 @@
       <file name="/dummy.sql" timestamp="1506088182674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506346286860">
+      <file name="/Dummy.txt" timestamp="1506517752207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1500466576096">
@@ -678,13 +678,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>tit.tableid = 27790</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>tit.tableid = 27790</text>
       </register>
       <register name="/" type="4">
         <text>doquery</text>
