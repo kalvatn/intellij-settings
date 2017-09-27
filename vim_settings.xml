@@ -334,11 +334,11 @@
         <mark key="." line="89" column="50" />
         <mark key="^" line="89" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1506506184467">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="10" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1506511502828">
+        <mark key="[" line="28" column="87" />
+        <mark key="]" line="28" column="87" />
+        <mark key="." line="28" column="87" />
+        <mark key="^" line="28" column="87" />
       </file>
       <file name="/work/projects/personal/clojure/fourclojure/src/fourclojure/problems.clj" timestamp="1502277619808">
         <mark key="[" line="4" column="0" />
@@ -674,13 +674,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZnRsLnRhYmxlSWQsIGZ0bC5yb3VuZCwgZnRsLnRlYW1JZCwg</text>
+        <text>.</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnRsLnRhYmxlSWQsIGZ0bC5yb3VuZCwgZnRsLnRlYW1JZCwg</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>getfull</text>
@@ -689,31 +689,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRpc3RpY3MyU3RhZ2Ugc3RhZ2UgPSBzdGFnZUVBTy5maW5kQnlJZCh0b3BMZXZlbFN0YWdlSWQpOwogICAgICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiJWQgLSAlcyIsIHRvcExldmVsU3RhZ2VJZCwgc3RhZ2UpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YWdlLikK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RhdGlzdGljczJTdGFnZXR5cGUgc3RhZ2VUeXBlID0gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8uZ2V0VHlwZUZvclN0YWdlKHN0YWdlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YWdlLikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciB0ZW1wbGF0ZWlkID0gc3RhZ2UuZ2V0VGVtcGxhdGVpZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RhdGlzdGljczJTdGFnZXR5cGUgc3RhZ2VUeXBlID0gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8uZ2V0VHlwZUZvclN0YWdlKHN0YWdlSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgicHJvY2Vzc2luZyBzdGFnZSAlZCAtICVzIiwgc3RhZ2UuZ2V0SWQoKSwgKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciB0ZW1wbGF0ZWlkID0gc3RhZ2UuZ2V0VGVtcGxhdGVpZCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZXMuc3RyZWFtKCkuZmlsdGVyKHMgLT4gcy5nZXRTKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgicHJvY2Vzc2luZyBzdGFnZSAlZCAtICVzIiwgc3RhZ2UuZ2V0SWQoKSwgKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZXMuc3RyZWFtKCkuZmlsdGVyKHMgLT4gcy5nZXRUeXBlaWQoKSkK</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZXMuc3RyZWFtKCkuZmlsdGVyKHMgLT4gcy5nZXRTKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZXMuc3RyZWFtKCkuZmlsdGVyKHMgLT4gcy5nZXRUeXBlaWQoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgU3RhdGlzdGljczJTdGFnZXR5cGVFQU8gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8xOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgU3RhdGlzdGljczJTdGFnZXR5cGVFQU8gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8xOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
