@@ -107,12 +107,11 @@
         <mark key="." line="348" column="31" />
         <mark key="^" line="348" column="31" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1506600365892">
-        <mark key="'" line="484" column="24" />
-        <mark key="[" line="466" column="0" />
-        <mark key="]" line="466" column="0" />
-        <mark key="." line="466" column="0" />
-        <mark key="^" line="473" column="17" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1506601207966">
+        <mark key="[" line="480" column="0" />
+        <mark key="]" line="480" column="95" />
+        <mark key="^" line="467" column="51" />
+        <mark key="." line="480" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1504529493492">
         <mark key="[" line="157" column="1" />
@@ -314,8 +313,8 @@
         <mark key="." line="93" column="12" />
         <mark key="^" line="112" column="11" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1505222993059">
-        <mark key="'" line="392" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1506601349060">
+        <mark key="'" line="138" column="15" />
         <mark key="[" line="501" column="0" />
         <mark key="]" line="501" column="0" />
         <mark key="^" line="371" column="21" />
@@ -576,8 +575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="151" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="152" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="155" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="168" column="21" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
@@ -676,58 +673,60 @@
       <jump line="55" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" />
       <jump line="64" column="21" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" />
       <jump line="65" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" />
+      <jump line="93" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
+      <jump line="138" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGF0aXN0aWNzMlN0YWdldHlwZSB0eXBlID0gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8uZ2V0VHlwZUZvclN0YWdlKHN0YWdlLmdldElkKCkpOwo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>typeid</text>
+        <text>stagejoin</text>
       </register>
       <register name="/" type="4">
-        <text>DELTA</text>
+        <text>tennis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUEVSSU9ESUNERUxUQToKICAgICAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25zID0gc3Vic2NyaXB0aW9uRUFPLmdldFBlcmlvZGljRGVsdGFTdWJzY3JpcHRpb25zKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGF0aXN0aWNzMlN0YWdldHlwZSB0eXBlID0gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8uZ2V0VHlwZUZvclN0YWdlKHN0YWdlLmdldElkKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vQEludGVyY2VwdG9ycyhMb2dNZXRob2RJbnZvY2F0aW9uUmVzdWx0SW50ZXJjZXB0b3IuY2xhc3MpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGZpbmFsIFN0YXRpc3RpY3MyU3RhZ2Vqb2luIHNKb2luID0gc3RhdGlzdGljczJTdGFnZWpvaW5FQU8uZmluZEJ5U3RhZ2VJZCh0ZW1wbGF0ZWlkKTsKICAgICAgICAgICAgaWYgKHNKb2luID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgaWYgKCEoc0pvaW4uZ2V0U3BvcnRpZCgpID09IFNwb3J0Lk1PVE9SU1BPUlQgJiYgc0pvaW4uZ2V0UmVhbGNhdGVnb3J5aWQoKSA9PSAzNikpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUnVubmluZyBnZXRQcmVTdGFnZVVwZGF0ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RhdGlzdGljczJTdGFnZXR5cGUgc3RhZ2VUeXBlID0gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8xLmdldFR5cGVGb3JTdGFnZShzdGFnZUlkKTsKICAgICAgICAgICAgaWYgKHN0YWdlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBsb2cuZXJyb3IoU3RyaW5nLmZvcm1hdCgiY291bGQgbm90IGZpbmQgYSBzdGFnZSB0eXBlIGZvciBzdGFnZSAlZCwgc2tpcHBpbmciLCBzdGFnZUlkKSk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzaG9ydCBzdGFnZVR5cGVJZCA9IHN0YWdlVHlwZS5nZXRUeXBlaWQoKTsKICAgICAgICAgICAgaWYgKCEoc3RhZ2VUeXBlSWQgPT0gU3RhZ2VUeXBlRW51bS5FVkVOVC5pZCgpKSkgewogICAgICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgic3RhZ2UgJWQgaXMgbm90IGFuIGV2ZW50ICh0eXBlaWQgJXMpLCBza2lwcGluZyIsIHN0YWdlSWQsIHN0YWdlVHlwZUlkKSk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgSW50ZWdlciBwYXJlbnRJZCA9IHN0YXRpc3RpY3MyU3RhZ2UuZ2V0UGFyZW50KCk7CiAgICAgICAgICAgIEludGVnZXIgdGVtcGxhdGVpZCA9IHN0YXRpc3RpY3MyU3RhZ2UuZ2V0VGVtcGxhdGVpZCgpOwogICAgICAgICAgICBpZiAodGVtcGxhdGVpZCA9PSBudWxsIHx8IHRlbXBsYXRlaWQgPD0gMCB8fCBwYXJlbnRJZCA+IDApIHsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoInN0YWdlICVkIGlzIGEgdGVtcGxhdGUvY2hpbGQgc3RhZ2UgKHRlbXBsYXRlICVkLCBwYXJlbnQgJWQpIiwgc3RhZ2VJZCwgdGVtcGxhdGVpZCwgcGFyZW50SWQpKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhZ2VKb2luLmdldFNwb3J0aWQoKSApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YWdlLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RhdGlzdGljczJTdGFnZXR5cGUgc3RhZ2VUeXBlID0gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8uZ2V0VHlwZUZvclN0YWdlKHN0YWdlSWQpOwo=</text>
+        <text encoding="base64">ICAgIC8vQEludGVyY2VwdG9ycyhMb2dNZXRob2RJbnZvY2F0aW9uUmVzdWx0SW50ZXJjZXB0b3IuY2xhc3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciB0ZW1wbGF0ZWlkID0gc3RhZ2UuZ2V0VGVtcGxhdGVpZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUnVubmluZyBnZXRQcmVTdGFnZVVwZGF0ZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgicHJvY2Vzc2luZyBzdGFnZSAlZCAtICVzIiwgc3RhZ2UuZ2V0SWQoKSwgKSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZXMuc3RyZWFtKCkuZmlsdGVyKHMgLT4gcy5nZXRTKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YWdlLikK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>DELTA</last-search>
+      <last-search>tennis</last-search>
       <last-offset />
-      <last-pattern>DELTA</last-pattern>
+      <last-pattern>tennis</last-pattern>
       <last-replace>Assert.assertEquals(\1, matchesByTournamentLIVERPOOL.get(\2).size());</last-replace>
       <last-substitute>\(\d\+\),\(\d\+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -735,7 +734,6 @@
     </search>
     <history>
       <history-search>
-        <entry>?</entry>
         <entry>select</entry>
         <entry>\(\d\+),\(\d\+)</entry>
         <entry>\d\+</entry>
@@ -755,6 +753,7 @@
         <entry>getfull</entry>
         <entry>doquery</entry>
         <entry>DELTA</entry>
+        <entry>tennis</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
