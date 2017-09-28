@@ -107,11 +107,12 @@
         <mark key="." line="348" column="31" />
         <mark key="^" line="348" column="31" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1506603997101">
-        <mark key="[" line="456" column="177" />
-        <mark key="]" line="456" column="177" />
-        <mark key="^" line="456" column="177" />
-        <mark key="." line="456" column="177" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1506606520515">
+        <mark key="'" line="456" column="170" />
+        <mark key="[" line="98" column="12" />
+        <mark key="]" line="98" column="12" />
+        <mark key="^" line="98" column="12" />
+        <mark key="." line="98" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1504529493492">
         <mark key="[" line="157" column="1" />
@@ -580,7 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="155" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="168" column="21" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="143" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
@@ -680,6 +680,7 @@
       <jump line="65" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" />
       <jump line="93" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="138" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
+      <jump line="456" column="170" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -692,7 +693,7 @@
         <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text>tennis</text>
+        <text>is not</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUEVSSU9ESUNERUxUQToKICAgICAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25zID0gc3Vic2NyaXB0aW9uRUFPLmdldFBlcmlvZGljRGVsdGFTdWJzY3JpcHRpb25zKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
@@ -729,9 +730,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tennis</last-search>
+      <last-search>is not</last-search>
       <last-offset />
-      <last-pattern>tennis</last-pattern>
+      <last-pattern>is not</last-pattern>
       <last-replace>Assert.assertEquals(\1, matchesByTournamentLIVERPOOL.get(\2).size());</last-replace>
       <last-substitute>\(\d\+\),\(\d\+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -739,8 +740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>select</entry>
-        <entry>\(\d\+),\(\d\+)</entry>
         <entry>\d\+</entry>
         <entry>\(\d\+\)</entry>
         <entry>\(\d\+\),\(\d\+\)</entry>
@@ -759,6 +758,8 @@
         <entry>doquery</entry>
         <entry>DELTA</entry>
         <entry>tennis</entry>
+        <entry>is not formula</entry>
+        <entry>is not</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
