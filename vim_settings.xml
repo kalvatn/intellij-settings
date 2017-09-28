@@ -107,11 +107,11 @@
         <mark key="." line="348" column="31" />
         <mark key="^" line="348" column="31" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1506601207966">
-        <mark key="[" line="480" column="0" />
-        <mark key="]" line="480" column="95" />
-        <mark key="^" line="467" column="51" />
-        <mark key="." line="480" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1506602358068">
+        <mark key="[" line="342" column="75" />
+        <mark key="]" line="342" column="75" />
+        <mark key="^" line="445" column="43" />
+        <mark key="." line="342" column="75" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1504529493492">
         <mark key="[" line="157" column="1" />
@@ -326,12 +326,11 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/PreStageManager.java" timestamp="1506417684054">
-        <mark key="'" line="173" column="8" />
-        <mark key="[" line="89" column="46" />
-        <mark key="]" line="89" column="50" />
-        <mark key="." line="89" column="50" />
-        <mark key="^" line="89" column="50" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/PreStageManager.java" timestamp="1506602336980">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="72" column="3" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1506517697700">
         <mark key="'" line="18" column="0" />
@@ -677,14 +676,14 @@
       <jump line="138" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0aXN0aWNzMlN0YWdldHlwZSB0eXBlID0gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8uZ2V0VHlwZUZvclN0YWdlKHN0YWdlLmdldElkKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8vJzEnIHNob3VsZCBiZSBpbiBhIGdsb2JhbCB2YXJpYWJsZS4uLi4=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>stagejoin</text>
+        <text encoding="base64">IC8vJzEnIHNob3VsZCBiZSBpbiBhIGdsb2JhbCB2YXJpYWJsZS4uLi4=</text>
       </register>
       <register name="/" type="4">
         <text>tennis</text>
@@ -693,31 +692,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUEVSSU9ESUNERUxUQToKICAgICAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25zID0gc3Vic2NyaXB0aW9uRUFPLmdldFBlcmlvZGljRGVsdGFTdWJzY3JpcHRpb25zKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0aXN0aWNzMlN0YWdldHlwZSB0eXBlID0gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8uZ2V0VHlwZUZvclN0YWdlKHN0YWdlLmdldElkKCkpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGZpbmFsIFN0YXRpc3RpY3MyU3RhZ2Vqb2luIHNKb2luID0gc3RhdGlzdGljczJTdGFnZWpvaW5FQU8uZmluZEJ5U3RhZ2VJZCh0ZW1wbGF0ZWlkKTsKICAgICAgICAgICAgaWYgKHNKb2luID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgaWYgKCEoc0pvaW4uZ2V0U3BvcnRpZCgpID09IFNwb3J0Lk1PVE9SU1BPUlQgJiYgc0pvaW4uZ2V0UmVhbGNhdGVnb3J5aWQoKSA9PSAzNikpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RhdGlzdGljczJTdGFnZXR5cGUgc3RhZ2VUeXBlID0gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8xLmdldFR5cGVGb3JTdGFnZShzdGFnZUlkKTsKICAgICAgICAgICAgaWYgKHN0YWdlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBsb2cuZXJyb3IoU3RyaW5nLmZvcm1hdCgiY291bGQgbm90IGZpbmQgYSBzdGFnZSB0eXBlIGZvciBzdGFnZSAlZCwgc2tpcHBpbmciLCBzdGFnZUlkKSk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzaG9ydCBzdGFnZVR5cGVJZCA9IHN0YWdlVHlwZS5nZXRUeXBlaWQoKTsKICAgICAgICAgICAgaWYgKCEoc3RhZ2VUeXBlSWQgPT0gU3RhZ2VUeXBlRW51bS5FVkVOVC5pZCgpKSkgewogICAgICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgic3RhZ2UgJWQgaXMgbm90IGFuIGV2ZW50ICh0eXBlaWQgJXMpLCBza2lwcGluZyIsIHN0YWdlSWQsIHN0YWdlVHlwZUlkKSk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgSW50ZWdlciBwYXJlbnRJZCA9IHN0YXRpc3RpY3MyU3RhZ2UuZ2V0UGFyZW50KCk7CiAgICAgICAgICAgIEludGVnZXIgdGVtcGxhdGVpZCA9IHN0YXRpc3RpY3MyU3RhZ2UuZ2V0VGVtcGxhdGVpZCgpOwogICAgICAgICAgICBpZiAodGVtcGxhdGVpZCA9PSBudWxsIHx8IHRlbXBsYXRlaWQgPD0gMCB8fCBwYXJlbnRJZCA+IDApIHsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoInN0YWdlICVkIGlzIGEgdGVtcGxhdGUvY2hpbGQgc3RhZ2UgKHRlbXBsYXRlICVkLCBwYXJlbnQgJWQpIiwgc3RhZ2VJZCwgdGVtcGxhdGVpZCwgcGFyZW50SWQpKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhZ2VKb2luLmdldFNwb3J0aWQoKSApCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgWG1sRXhwb3J0Q2xpZW50U3Vic2NyaXB0aW9uRUFPIHhjc0VBTzsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBFSkIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmljZUVBTyBjRUFPOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBFSkIK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vQEludGVyY2VwdG9ycyhMb2dNZXRob2RJbnZvY2F0aW9uUmVzdWx0SW50ZXJjZXB0b3IuY2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUnVubmluZyBnZXRQcmVTdGFnZVVwZGF0ZSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGhyb3dhYmxlTG9nTWFuYWdlciB0aHJvd2FibGVMb2dnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIEBFSkIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YWdlLikK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRvUHJlU3RhZ2UoSW5zdGFudCBzdGFydCwgSW5zdGFudCBlbmQpIHsKICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJSdW5uaW5nIHByZXN0YWdlam9iIChmcm9tICVzIHRvICVzKSIsIHN0YXJ0LCBlbmQpKTsKICAgICAgICBNdWx0aW1hcDxJbnRlZ2VyLCBYbWxleHBvcnRDbGllbnRTdWJzY3JpcHRpb24+IHN1YnNjcmlwdGlvbnNCeU9mZnNldCA9IGNsaWVudFN1YnNjcmlwdGlvbk1hbmFnZXIuZ2V0UHJlc3RhZ2VTdWJzY3JpcHRpb25zQnlPZmZzZXQoKTsKCiAgICAgICAgZm9yIChNYXAuRW50cnk8SW50ZWdlciwgQ29sbGVjdGlvbjxYbWxleHBvcnRDbGllbnRTdWJzY3JpcHRpb24+PiBlbnRyeSA6IHN1YnNjcmlwdGlvbnNCeU9mZnNldC5hc01hcCgpLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgcHJvY2Vzc09mZnNldChzdGFydCwgZW5kLCBlbnRyeS5nZXRLZXkoKSwgZW50cnkuZ2V0VmFsdWUoKSk7CiAgICAgICAgfQoKICAgICAgICBkYXRlTG9nZ2VyLnNldERhdGVEb25lKENvbmZpZ0NvbnN0YW50cy5EQVRFTE9HR0VSX1hNTEVYUE9SVF9QUkVTVEFHRUpPQiwgNjApOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBwcm9jZXNzT2Zmc2V0KEluc3RhbnQgc3RhcnQsIEluc3RhbnQgZW5kLCBJbnRlZ2VyIG9mZnNldCwgQ29sbGVjdGlvbjxYbWxleHBvcnRDbGllbnRTdWJzY3JpcHRpb24+IHN1YnNjcmlwdGlvbnMpIHsKICAgICAgICBDb2xsZWN0aW9uPFN0YXRpc3RpY3MyU3RhZ2U+IHN0YWdlcyA9IGdldFN0YWdlcyhvZmZzZXQsIHN0YXJ0LCBlbmQpOwoKICAgICAgICBpZiAoc3RhZ2VzLmlzRW1wdHkoKSkgewogICAgICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJObyBzdGFnZXMgZm91bmQgZm9yIG9mZnNldCAlZCwgbW92aW5nIG9uIiwgb2Zmc2V0KSk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJGb3VuZCAlZCBzdGFnZXMgZm9yIHRoZSBvZmZzZXQgJWQiLCBzdGFnZXMuc2l6ZSgpLCBvZmZzZXQpKTsKICAgICAgICB9CgogICAgICAgIE11bHRpbWFwPEludGVnZXIsIEludGVnZXI+IHNlcnZpY2VJZENsaWVudElkcyA9IGNsaWVudFN1YnNjcmlwdGlvbk1hbmFnZXIuZ2V0Q2xpZW50U2VydmljZVN1YnNjcmlwdGlvbnNGcm9tU3Vic2NyaXB0aW9ucyhzdWJzY3JpcHRpb25zKTsKICAgICAgICBpbnZva2VQcmVzdGFnZUZvckNsaWVudHMoc3RhZ2VzLCBzZXJ2aWNlSWRDbGllbnRJZHMpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
