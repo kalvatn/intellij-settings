@@ -564,22 +564,18 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" timestamp="1506352135169">
-        <mark key="[" line="124" column="21" />
-        <mark key="]" line="125" column="15" />
-        <mark key="^" line="125" column="15" />
-        <mark key="." line="125" column="15" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" timestamp="1506599715438">
+        <mark key="'" line="65" column="28" />
+        <mark key="[" line="65" column="55" />
+        <mark key="]" line="65" column="77" />
+        <mark key="." line="65" column="77" />
+        <mark key="^" line="65" column="77" />
       </file>
       <file name="/fragment.java" timestamp="1505306607858">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="134" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
-      <jump line="93" column="65" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="144" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="147" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="148" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="151" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="152" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
@@ -675,22 +671,27 @@
       <jump line="153" column="5091" filename="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_8.sql" />
       <jump line="43" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LiveTableServiceBean.java" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
+      <jump line="113" column="88" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" />
+      <jump line="2" column="5" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" />
+      <jump line="55" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" />
+      <jump line="64" column="21" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" />
+      <jump line="65" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/subscriptions/ClientSubscriptionManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tit.tableid = 27790</text>
+        <text>PeriodicDeltaSubscriptions</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>tit.tableid = 27790</text>
+        <text>PeriodicDeltaSubscriptions</text>
       </register>
       <register name="/" type="4">
-        <text>doquery</text>
+        <text>DELTA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRpc3RpY3MyU3RhZ2Ugc3RhZ2UgPSBzdGFnZUVBTy5maW5kQnlJZCh0b3BMZXZlbFN0YWdlSWQpOwogICAgICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiJWQgLSAlcyIsIHRvcExldmVsU3RhZ2VJZCwgc3RhZ2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUEVSSU9ESUNERUxUQToKICAgICAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25zID0gc3Vic2NyaXB0aW9uRUFPLmdldFBlcmlvZGljRGVsdGFTdWJzY3JpcHRpb25zKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
@@ -724,9 +725,9 @@
       </register>
     </registers>
     <search>
-      <last-search>doquery</last-search>
+      <last-search>DELTA</last-search>
       <last-offset />
-      <last-pattern>doquery</last-pattern>
+      <last-pattern>DELTA</last-pattern>
       <last-replace>Assert.assertEquals(\1, matchesByTournamentLIVERPOOL.get(\2).size());</last-replace>
       <last-substitute>\(\d\+\),\(\d\+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -734,7 +735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this_</entry>
         <entry>?</entry>
         <entry>select</entry>
         <entry>\(\d\+),\(\d\+)</entry>
@@ -754,6 +754,7 @@
         <entry>postponed</entry>
         <entry>getfull</entry>
         <entry>doquery</entry>
+        <entry>DELTA</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
