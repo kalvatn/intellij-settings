@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/StageEAOIntegrationTest.java" timestamp="1506088599957">
-        <mark key="[" line="72" column="65" />
-        <mark key="]" line="72" column="16" />
-        <mark key="^" line="72" column="16" />
-        <mark key="." line="72" column="16" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CountryManager.java" timestamp="1502286568008">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="44" />
@@ -320,6 +314,12 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/PreStageManager.java" timestamp="1506684276194">
+        <mark key="[" line="138" column="4" />
+        <mark key="]" line="138" column="9" />
+        <mark key="." line="138" column="9" />
+        <mark key="^" line="138" column="9" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1506603896371">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="60" column="1" />
@@ -443,12 +443,6 @@
         <mark key="^" line="204" column="106" />
         <mark key="." line="204" column="106" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console.sql" timestamp="1506345155667">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="36" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1505389139255">
         <mark key="'" line="60" column="12" />
         <mark key="[" line="103" column="55" />
@@ -509,6 +503,12 @@
       <file name="/Dummy.txt" timestamp="1506517752207">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/backend/PreStageManagerIntegrationTest.java" timestamp="1506684568275">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="98" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1500466576096">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="39" />
@@ -563,7 +563,7 @@
         <mark key="." line="65" column="77" />
         <mark key="^" line="65" column="77" />
       </file>
-      <file name="/fragment.java" timestamp="1505306607858">
+      <file name="/fragment.java" timestamp="1506684278971">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -671,13 +671,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>is not</text>
@@ -686,28 +686,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUEVSSU9ESUNERUxUQToKICAgICAgICAgICAgICAgICAgICBzdWJzY3JpcHRpb25zID0gc3Vic2NyaXB0aW9uRUFPLmdldFBlcmlvZGljRGVsdGFTdWJzY3JpcHRpb25zKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgU3RhdGlzdGljczJTdGFnZXR5cGVFQU8gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8xOwoKICAgIEBFSkIKICAgIHByaXZhdGUgU3RhdGlzdGljc0NvdW50cnljb2Rlc0VBTyBzdGF0aXN0aWNzQ291bnRyeWNvZGVzRUFPOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHNpemUgPSBzdGFnZXMuc2l6ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgU3RhdGlzdGljczJUZWFtMnRlYW1FQU8gc3RhdGlzdGljczJUZWFtMnRlYW1FQU87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiZnJvbSAlcyB0byAlcyIsIGZyb20sIHRvKSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgWG1sRXhwb3J0Q2xpZW50U3Vic2NyaXB0aW9uRUFPIHhjc0VBTzsK</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50IGZyb20gPSBJbnN0YW50VXRpbC5vZigyMDE3LCA5LCAxNSwgMCwgMCk7CiAgICAgICAgSW5zdGFudCB0byA9IGZyb20ucGx1cygxLCBDaHJvbm9Vbml0LkhPVVJTKTsKICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJmcm9tICVzIHRvICVzIiwgZnJvbSwgdG8pKTsKICAgICAgICBDb2xsZWN0aW9uPFN0YXRpc3RpY3MyU3RhZ2U+IHN0YWdlcyA9IHByZVN0YWdlTWFuYWdlci5nZXRTdGFnZXMoNzIsIGZyb20sIHRvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBFSkIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmljZUVBTyBjRUFPOwo=</text>
+        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgU3RhdGlzdGljczJTdGFnZXR5cGVFQU8gc3RhdGlzdGljczJTdGFnZXR5cGVFQU8xOwoKICAgIEBFSkIKICAgIHByaXZhdGUgU3RhdGlzdGljc0NvdW50cnljb2Rlc0VBTyBzdGF0aXN0aWNzQ291bnRyeWNvZGVzRUFPOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBFSkIK</text>
+        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgU3RhdGlzdGljczJUZWFtMnRlYW1FQU8gc3RhdGlzdGljczJUZWFtMnRlYW1FQU87Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
