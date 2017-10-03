@@ -313,12 +313,12 @@
         <mark key="." line="93" column="12" />
         <mark key="^" line="112" column="11" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1507020594209">
-        <mark key="'" line="134" column="136" />
-        <mark key="[" line="120" column="63" />
-        <mark key="]" line="120" column="63" />
-        <mark key="^" line="120" column="63" />
-        <mark key="." line="120" column="63" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1507024237936">
+        <mark key="'" line="183" column="71" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="69" />
+        <mark key="." line="260" column="0" />
+        <mark key="^" line="231" column="81" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/SSOConfiguration.java" timestamp="1500578338040">
         <mark key="[" line="33" column="0" />
@@ -579,11 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
-      <jump line="203" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="15" column="13" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/HeadToHead.java" />
-      <jump line="24" column="24" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/HeadToHead.java" />
-      <jump line="66" column="12" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/HeadToHead.java" />
       <jump line="67" column="12" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/HeadToHead.java" />
       <jump line="69" column="15" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/HeadToHead.java" />
       <jump line="107" column="5" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
@@ -679,58 +674,63 @@
       <jump line="78" column="100" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="134" column="136" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="68" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
+      <jump line="142" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
+      <jump line="180" column="61" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
+      <jump line="177" column="38" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
+      <jump line="178" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
+      <jump line="179" column="71" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Collection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHRvdXJuYW1lbnRJZCA9IHRvdXJuYW1lbnRUYWJsZS5nZXRUb3VybmFtZW50aWQoKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Collection</text>
+        <text encoding="base64">SW50ZWdlciB0b3VybmFtZW50SWQsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>TEAM</text>
+        <text>teamsunique</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoInNraXBwaW5nIHN0YWdlICVkICh0eXBlICVzLCB0ZW1wbGF0ZSAlZCwgcGFyZW50ICVkKSIsIHN0YWdlSWQsIHR5cGUuZ2V0VHlwZWlkKCksIHN0YWdlLmdldFRlbXBsYXRlaWQoKSwgc3RhZ2UuZ2V0UGFyZW50KCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodW5pcXVlVG91cm5hbWVudElkIDw9IDApIHsKICAgICAgICAgICAgbG9nLndhcm4oU3RyaW5nLmZvcm1hdCgidG91cm5hbWVudCAlZCBoYXMgbm8gdW5pcXVldG91cm5hbWVudCIsIHRvdXJuYW1lbnRJZCkpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIHRvdXJuYW1lbnROYW1lID0gdG91cm5hbWVudFRhYmxlLmdldFRvdXJuYW1lbnRuYW1lKCkudG9Mb3dlckNhc2UoKTsKICAgICAgICAgICAgYm9vbGVhbiBpc1NpbmdsZSA9IHRvdXJuYW1lbnROYW1lLmNvbnRhaW5zKCJzaW5nbGUiKSB8fCAhdG91cm5hbWVudE5hbWUuY29udGFpbnMoImRvdWJsZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHRvdXJuYW1lbnRJZCA9IHRvdXJuYW1lbnRUYWJsZS5nZXRUb3VybmFtZW50aWQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpcwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0YXRpc3RpY3NTZWFzb25zPiBzZWFzb25zID0gc2Vhc29uTWFuYWdlci5nZXRDdXJyZW50U2Vhc29uc0J5VW5pcXVlVG91cm5hbWVudElkKHVuaXF1ZVRvdXJuYW1lbnRJZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgYmV0cmFkYXJzcG9ydHNkYXRhIG9iamVjdCBmb3IgdGhlIHRlYW1zIGluIGEgdG91cm5hbWVudAogICAgICoKICAgICAqIEBwYXJhbSB0b3VybmFtZW50SWQKICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFN0YXRpc3RpY3NTZWFzb25zPiBzdGF0aXN0aWNzU2Vhc29uc0xpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdW5pcXVlVG91cm5hbWVudElkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgU3RyaW5nIHNlYXNvbk5hbWUgPSBzZWFzb24uZ2V0U2Vhc29ubmFtZSgpLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbjxTdGF0aXN0aWNzU2Vhc29ucz4gc3RhdGlzdGljc1NlYXNvbnMyID0gc2Vhc29uTWFuYWdlci5nZXRDdXJyZW50U2Vhc29uc0J5VW5pcXVlVG91cm5hbWVudElkKHVuaXF1ZVRvdXJuYW1lbnRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbCBTdHJpbmcgdG91cm5hbWVudE5hbWUgPSB0b3VybmFtZW50VGFibGUuZ2V0VG91cm5hbWVudG5hbWUoKS50b0xvd2VyQ2FzZSgpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZpZ3VyZSBvdXQgaWYgdG91cm5hbWVudCBpcyBzaW5nbGVzIG9yIGRvdWJsZXMK</text>
+      <register name="7" type="4">
+        <text encoding="base64">KSAhPSBudWxsCiAgICAgICAgICAgICAgICAmJiAo</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgTGlzdDxUZWFtPj4gdGVhbXNCeVRvdXJuYW1lbnQgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vQEludGVyY2VwdG9ycyhMb2dNZXRob2RJbnZvY2F0aW9uUmVzdWx0SW50ZXJjZXB0b3IuY2xhc3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlYW1zQnlUb3VybmFtZW50LnB1dCh0b3VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRlYW1zdW5pcXVlIHRlYW1zdW5pcXVlID0gdGVhbU1hbmFnZXIuZ2V0VW5pcXVlVGVhbUJ5Q2F0ZWdvcnlUZWFtSWQodGVubmlzVGVhbS5nZXRUZWFtaWQoKSk7CiAgICAgICAgICAgICAgICBpZiAodGVhbXN1bmlxdWUgIT0gbnVsbCkK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>TEAM</last-search>
+      <last-search>teamsunique</last-search>
       <last-offset />
-      <last-pattern>TEAM</last-pattern>
+      <last-pattern>teamsunique</last-pattern>
       <last-replace>Assert.assertEquals(\1, matchesByTournamentLIVERPOOL.get(\2).size());</last-replace>
       <last-substitute>\(\d\+\),\(\d\+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -756,8 +756,8 @@
         <entry>is not</entry>
         <entry>getActive</entry>
         <entry>skipping</entry>
-        <entry>teamsunique</entry>
         <entry>TEAM</entry>
+        <entry>teamsunique</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
