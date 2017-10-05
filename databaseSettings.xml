@@ -31,6 +31,24 @@
           </record-format>
         </data>
       </csv-format>
+      <csv-format name="pipe separated (PSV)" id="6d49c1fd-9d56-463c-9752-006edb16434a">
+        <data>
+          <record-format prefix="" suffix="" nullText="NULL" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+        <header>
+          <record-format prefix="" suffix="" nullText="NULL" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;" trimWhitespace="true">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </header>
+      </csv-format>
     </csv-formats>
   </component>
 </application>
