@@ -312,12 +312,12 @@
         <mark key="." line="93" column="12" />
         <mark key="^" line="112" column="11" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1507290773929">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1507296101057">
         <mark key="'" line="79" column="68" />
-        <mark key="[" line="634" column="0" />
-        <mark key="]" line="634" column="0" />
-        <mark key="." line="634" column="0" />
-        <mark key="^" line="630" column="43" />
+        <mark key="[" line="637" column="0" />
+        <mark key="]" line="637" column="0" />
+        <mark key="^" line="637" column="40" />
+        <mark key="." line="637" column="0" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/SSOConfiguration.java" timestamp="1500578338040">
         <mark key="[" line="33" column="0" />
@@ -331,12 +331,12 @@
         <mark key="." line="138" column="9" />
         <mark key="^" line="138" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1507211294267">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1507295957727">
         <mark key="'" line="85" column="30" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
-        <mark key="^" line="176" column="0" />
+        <mark key="[" line="185" column="8" />
+        <mark key="]" line="186" column="83" />
+        <mark key="." line="186" column="83" />
+        <mark key="^" line="186" column="83" />
       </file>
       <file name="/work/projects/personal/clojure/fourclojure/src/fourclojure/problems.clj" timestamp="1502277619808">
         <mark key="[" line="4" column="0" />
@@ -519,11 +519,11 @@
       <file name="/dummy.sql" timestamp="1506088182674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/TournamentManager.java" timestamp="1507290958619">
-        <mark key="[" line="84" column="15" />
-        <mark key="]" line="84" column="31" />
-        <mark key="^" line="84" column="31" />
-        <mark key="." line="84" column="31" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/TournamentManager.java" timestamp="1507295627384">
+        <mark key="[" line="79" column="63" />
+        <mark key="]" line="79" column="63" />
+        <mark key="." line="79" column="63" />
+        <mark key="^" line="79" column="63" />
       </file>
       <file name="/Dummy.txt" timestamp="1507033968524">
         <mark key="[" line="0" column="0" />
@@ -707,7 +707,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>tournamenttablesFromDates</text>
       </register>
       <register name="/" type="4">
         <text>testhistory</text>
@@ -719,28 +719,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PFNlcnZpY2VVcGRhdGU+IHN1cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZpbmFsIFNldDxJbnRlZ2VyPiBhZGRlZFRvdXJuYW1lbnRzID0gbmV3IEhhc2hTZXQ8PigpOwoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBTb2NjZXIsIGhhbmRiYWxsLCBpY2Vob2NrZXksIGJhc2tldGJhbGwgYW5kIHNvbWUgdGVubmlzLCBydWdieSwgdm9sbGV5YmFsbCwgZmxvb3JiYWxsLCBmb290YmFsbCAobmZsKSwgYmFuZHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJObyBjdXJyZW50IHNlYXNvbnMgcmV0dXJuZWQuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PFNlcnZpY2VVcGRhdGU+IHN1cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZpbmFsIFNldDxJbnRlZ2VyPiBhZGRlZFRvdXJuYW1lbnRzID0gbmV3IEhhc2hTZXQ8PigpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZApzZWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBUb3VybmFtZW50IHRvdXJuYW1lbnQgPSB0b3VybmFtZW50TWFuYWdlci5jcmVhdGVUb3VybmFtZW50KHRvdXJuYW1lbnRUYWJsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJObyBjdXJyZW50IHNlYXNvbnMgcmV0dXJuZWQuIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKFN0YXRpc3RpY3NUZWFtc2luc2Vhc29uIHN0YXRpc3RpY3NUZWFtc2luc2Vhc29uIDogdGVhbXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vhc29uTWFuYWdlci5nZXRTZWFzb25zQnlVbmlxdWVUb3VybmFtZW50SWRCZXR3ZWVuKCkK</text>
+        <text encoding="base64">ZApzZWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>73</text>
