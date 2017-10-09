@@ -312,11 +312,12 @@
         <mark key="." line="93" column="12" />
         <mark key="^" line="112" column="11" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1507299019800">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="196" column="42" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1507548460880">
+        <mark key="'" line="226" column="60" />
+        <mark key="[" line="226" column="56" />
+        <mark key="]" line="226" column="93" />
+        <mark key="." line="226" column="93" />
+        <mark key="^" line="226" column="93" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/SSOConfiguration.java" timestamp="1500578338040">
         <mark key="[" line="33" column="0" />
@@ -602,8 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="205" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="194" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="171" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/MatchEAO.java" />
       <jump line="226" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -702,19 +701,21 @@
       <jump line="106" column="21" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="637" column="50" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="160" column="45" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
+      <jump line="161" column="40" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
+      <jump line="226" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getCurrentSeasonsByUniqueTournamentId</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>getCurrentSeasonsByUniqueTournamentId</text>
       </register>
       <register name="/" type="4">
-        <text>invoke</text>
+        <text>history</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKFN0YXRpc3RpY3NUZWFtaW50YWJsZSBzdGF0aXN0aWNzVGVhbWludGFibGUgOiB0ZWFtaW50YWJsZUVBTy5nZXRBY3RpdmVUZWFtc0luVGFibGUodGFibGVzLmdldCgwKS5nZXRJZCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICBJbnRlZ2VyIGNhdGVnb3J5VGVhbUlkID0gc3RhdGlzdGljc1RlYW1pbnRhYmxlLmdldFRlYW1pZCgpOwogICAgICAgICAgICAgICAgICAgICAgICBUZWFtc3VuaXF1ZSB1bmlxdWVUZWFtID0gdGVhbU1hbmFnZXIuZ2V0VW5pcXVlVGVhbUJ5Q2F0ZWdvcnlUZWFtSWQoY2F0ZWdvcnlUZWFtSWQpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAodW5pcXVlVGVhbSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5hbCBUZWFtIHRlYW0gPSBjb21wZXRpdG9yTWFuYWdlci5jcmVhdGVUZWFtKHVuaXF1ZVRlYW0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF0Y2hNYW5hZ2VyLnNldENvdW50cnlGb3JUZWFtKHRlYW0sIHVuaXF1ZVRlYW0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVhbS5zZXRUZWFtaWQoY2F0ZWdvcnlUZWFtSWQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdG91cm5hbWVudC5hZGRUZWFtKHRlYW0pOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
@@ -751,9 +752,9 @@
       </register>
     </registers>
     <search>
-      <last-search>invoke</last-search>
+      <last-search>history</last-search>
       <last-offset />
-      <last-pattern>invoke</last-pattern>
+      <last-pattern>history</last-pattern>
       <last-replace>Assert.assertEquals(\1, matchesByTournamentLIVERPOOL.get(\2).size());</last-replace>
       <last-substitute>\(\d\+\),\(\d\+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -761,7 +762,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getStage</entry>
         <entry>toplevel</entry>
         <entry>prestage</entry>
         <entry>periodic</entry>
@@ -781,6 +781,7 @@
         <entry>getseasonsbetween</entry>
         <entry>testhistory</entry>
         <entry>invoke</entry>
+        <entry>history</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
