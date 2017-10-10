@@ -326,12 +326,12 @@
         <mark key="." line="138" column="9" />
         <mark key="^" line="138" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1507639875758">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1507644373670">
         <mark key="'" line="193" column="29" />
-        <mark key="[" line="194" column="1" />
-        <mark key="]" line="193" column="26" />
-        <mark key="." line="193" column="26" />
-        <mark key="^" line="193" column="26" />
+        <mark key="[" line="195" column="64" />
+        <mark key="]" line="195" column="72" />
+        <mark key="." line="195" column="72" />
+        <mark key="^" line="195" column="72" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/testutils/BaseArquillianIntegrationTest.java" timestamp="1507554741027">
         <mark key="[" line="62" column="0" />
@@ -706,14 +706,14 @@
       <jump line="244" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcmFtcy5nZXQoUGFyYW1UeXBlLlRPVVJOQU1FTlQpLmVxdWFsc0lnbm9yZUNhc2UoIjE4Mjk3IikpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>12228</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>18297</text>
+        <text>12228</text>
       </register>
       <register name="/" type="4">
         <text>testService</text>
