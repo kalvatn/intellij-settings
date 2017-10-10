@@ -307,12 +307,11 @@
         <mark key="." line="93" column="12" />
         <mark key="^" line="112" column="11" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1507639693023">
-        <mark key="'" line="78" column="32" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="83" column="47" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" timestamp="1507650376656">
+        <mark key="[" line="68" column="56" />
+        <mark key="]" line="68" column="74" />
+        <mark key="." line="68" column="74" />
+        <mark key="^" line="68" column="74" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/SSOConfiguration.java" timestamp="1500578338040">
         <mark key="[" line="33" column="0" />
@@ -326,12 +325,12 @@
         <mark key="." line="138" column="9" />
         <mark key="^" line="138" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1507647648254">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1507650009991">
         <mark key="'" line="220" column="29" />
-        <mark key="[" line="232" column="30" />
-        <mark key="]" line="233" column="28" />
-        <mark key="." line="233" column="28" />
-        <mark key="^" line="233" column="28" />
+        <mark key="[" line="248" column="40" />
+        <mark key="]" line="249" column="18" />
+        <mark key="^" line="249" column="18" />
+        <mark key="." line="249" column="18" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/testutils/BaseArquillianIntegrationTest.java" timestamp="1507554741027">
         <mark key="[" line="62" column="0" />
@@ -706,14 +705,14 @@
       <jump line="244" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KQo=</text>
+      <register name="&quot;" type="4">
+        <text>activeTeamsInTable</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>12228</text>
+        <text>activeTeamsInTable</text>
       </register>
       <register name="/" type="4">
         <text>testService</text>
@@ -722,31 +721,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcChURUFSRE9XTl9XQUlUX01JTExJUyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcmFtcy5nZXQoUGFyYW1UeXBlLlRPVVJOQU1FTlQpLmVxdWFsc0lnbm9yZUNhc2UoIjE4Mjk3IikpIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlYW1zLmFkZCh0ZWFtRWxlbWVudCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoTWFuYWdlci5zZXRDb3VudHJ5Rm9yVGVhbSh0ZWFtRWxlbWVudCk7CiAgICAgICAgICAgICAgICB0ZWFtRWxlbWVudC5zZXRUZWFtaWQoY2F0ZWdvcnlUZWFtaWQpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoTWFuYWdlci5zZXRDb3VudHJ5Rm9yVGVhbSh0ZWFtLCB1bmlxdWVUZWFtKTsKICAgICAgICAgICAgICAgIHRlYW0uc2V0VGVhbWlkKGNhdGVnb3J5VGVhbUlkKTsKICAgICAgICAgICAgICAgIHRlYW1zLmFkZCh0ZWFtKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHVuaXF1ZVRlYW0gIT0gbnVsbCkgewo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgic2Vhc29uICVkLCB0ZWFtICVzIiwgKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJnZXR0aW5nIHRlYW1zIGluIHNlYXNvbiBmb3Igc2Vhc29uICVkIiwgc2Vhc29uaWQpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0cmlnZ2VyXwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVhbXMuYWRkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name=":" type="4">
         <text>73</text>
