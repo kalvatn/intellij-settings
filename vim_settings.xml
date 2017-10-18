@@ -249,12 +249,12 @@
         <mark key="^" line="76" column="143" />
         <mark key="." line="76" column="143" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1507905257942">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1508334225220">
         <mark key="'" line="237" column="57" />
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
-        <mark key="^" line="368" column="111" />
+        <mark key="[" line="453" column="91" />
+        <mark key="]" line="453" column="90" />
+        <mark key="." line="453" column="90" />
+        <mark key="^" line="453" column="90" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Attributes.java" timestamp="1500576163381">
         <mark key="[" line="22" column="12" />
@@ -312,12 +312,12 @@
         <mark key="." line="138" column="9" />
         <mark key="^" line="138" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1508270326219">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1508333830164">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="347" column="0" />
-        <mark key="^" line="347" column="0" />
-        <mark key="." line="347" column="0" />
+        <mark key="[" line="354" column="100" />
+        <mark key="]" line="354" column="99" />
+        <mark key="." line="354" column="99" />
+        <mark key="^" line="354" column="99" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/testutils/BaseArquillianIntegrationTest.java" timestamp="1507554741027">
         <mark key="[" line="62" column="0" />
@@ -686,13 +686,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:serviceId</text>
+        <text>statisticsTeamsinseason.getTournamentId()</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>:serviceId</text>
+        <text>statisticsTeamsinseason.getTournamentId()</text>
       </register>
       <register name="/" type="4">
         <text>SQUAD</text>
@@ -704,28 +704,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUCiAgcy5TUE9SVElELAogIHMuU1BPUlROQU1FLAogIHJjLlJFQUxDQVRFR09SWUlELAogIHJjLkRFU0NSSVBUSU9OLAogIHR0LlRPVVJOQU1FTlRJRCwKICB0dC5UT1VSTkFNRU5UTkFNRSwKICB0LmRlc2NyaXB0aW9uLAogIHQuc29ydEFsZ29yaXRobSwKICBzYS5kZXNjcmlwdGlvbgpGUk9NIHN0YXRpc3RpY3NfdGFibGVzIHQKICBKT0lOIHN0YXRpc3RpY3Nfc29ydGFsZ29yaXRobSBzYSBPTiBzYS5pZCA9IHQuc29ydEFsZ29yaXRobQogIEpPSU4gdG91cm5hbWVudHRhYmxlIHR0IE9OIHR0LlRPVVJOQU1FTlRJRCA9IHQudG91cm5hbWVudGlkCiAgSk9JTiByZWFsY2F0ZWdvcnkgcmMgT04gcmMuUkVBTENBVEVHT1JZSUQgPSB0dC5SRUFMQ0FURUdPUllJRAogIEpPSU4gc3BvcnR0YWJsZSBzIE9OIHMuU1BPUlRJRCA9IHJjLlNQT1JUSUQKV0hFUkUgMQogICAgICBBTkQgcmMuUkVBTENBVEVHT1JZSUQgSU4gKDgwMCwgMTExMSk7CgpTRUxFQ1QgKgpGUk9NIHNwb3J0dGFibGUgcwpXSEVSRSBzLlNQT1JUTkFNRSBMSUtFICIldmlydHVhbCUiOwoKU0VMRUNUICoKRlJPTSByZWFsY2F0ZWdvcnkgcmMKV0hFUkUgcmMuREVTQ1JJUFRJT04gTElLRSAiJXZpcnR1YWwlIjsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYmV0cmFkYXIuZXhwb3J0LnNlcnZpY2VzOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUCiAgcy5TUE9SVElELAogIHMuU1BPUlROQU1FLAogIHJjLlJFQUxDQVRFR09SWUlELAogIHJjLkRFU0NSSVBUSU9OLAogIHR0LlRPVVJOQU1FTlRJRCwKICB0dC5UT1VSTkFNRU5UTkFNRSwKICB0LmRlc2NyaXB0aW9uLAogIHQuc29ydEFsZ29yaXRobSwKICBzYS5kZXNjcmlwdGlvbgpGUk9NIHN0YXRpc3RpY3NfdGFibGVzIHQKICBKT0lOIHN0YXRpc3RpY3Nfc29ydGFsZ29yaXRobSBzYSBPTiBzYS5pZCA9IHQuc29ydEFsZ29yaXRobQogIEpPSU4gdG91cm5hbWVudHRhYmxlIHR0IE9OIHR0LlRPVVJOQU1FTlRJRCA9IHQudG91cm5hbWVudGlkCiAgSk9JTiByZWFsY2F0ZWdvcnkgcmMgT04gcmMuUkVBTENBVEVHT1JZSUQgPSB0dC5SRUFMQ0FURUdPUllJRAogIEpPSU4gc3BvcnR0YWJsZSBzIE9OIHMuU1BPUlRJRCA9IHJjLlNQT1JUSUQKV0hFUkUgMQogICAgICBBTkQgcmMuUkVBTENBVEVHT1JZSUQgSU4gKDgwMCwgMTExMSk7CgpTRUxFQ1QgKgpGUk9NIHNwb3J0dGFibGUgcwpXSEVSRSBzLlNQT1JUTkFNRSBMSUtFICIldmlydHVhbCUiOwoKU0VMRUNUICoKRlJPTSByZWFsY2F0ZWdvcnkgcmMKV0hFUkUgcmMuREVTQ1JJUFRJT04gTElLRSAiJXZpcnR1YWwlIjsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBnb2FscyBzY29yZWQgYXdheQo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYmV0cmFkYXIuZXhwb3J0LnNlcnZpY2VzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnIK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5kIHQuc29ydEFsZ29yaXRobSA9IDc2Cg==</text>
+        <text encoding="base64">LSBnb2FscyBzY29yZWQgYXdheQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZWZ0IGpvaW4gc3RhdGlzdGljc19zdGF0aWMK</text>
+        <text encoding="base64">c2VsZWN0ICogZnIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZWZ0IGpvaW4gc3RhdGlzdGljc19zdGF0aWNfdGFibGVzX2Z0IGZ0IG9uIGZ0LnRhYmxlSWQgPSB0LmlkCg==</text>
+        <text encoding="base64">YW5kIHQuc29ydEFsZ29yaXRobSA9IDc2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
