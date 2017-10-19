@@ -312,12 +312,12 @@
         <mark key="." line="138" column="9" />
         <mark key="^" line="138" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1508411657339">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1508412568300">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="415" column="8" />
-        <mark key="]" line="417" column="55" />
-        <mark key="^" line="417" column="55" />
-        <mark key="." line="417" column="55" />
+        <mark key="[" line="420" column="0" />
+        <mark key="]" line="420" column="0" />
+        <mark key="^" line="419" column="23" />
+        <mark key="." line="420" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/testutils/BaseArquillianIntegrationTest.java" timestamp="1507554741027">
         <mark key="[" line="62" column="0" />
@@ -685,14 +685,14 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>group by cs.subscriptiontype</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>coverageManager.filterCoveredTournaments(getServiceId(), tournamentManager.getTournamenttablesFromIds(ids))</text>
+        <text>group by cs.subscriptiontype</text>
       </register>
       <register name="/" type="4">
         <text>SQUAD</text>
