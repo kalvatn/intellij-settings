@@ -310,12 +310,12 @@
         <mark key="." line="138" column="9" />
         <mark key="^" line="138" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1508510357989">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1508760608629">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="435" column="38" />
-        <mark key="]" line="435" column="37" />
-        <mark key="." line="435" column="37" />
-        <mark key="^" line="435" column="37" />
+        <mark key="[" line="472" column="8" />
+        <mark key="]" line="472" column="7" />
+        <mark key="." line="472" column="7" />
+        <mark key="^" line="472" column="7" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/testutils/BaseArquillianIntegrationTest.java" timestamp="1507554741027">
         <mark key="[" line="62" column="0" />
@@ -449,12 +449,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1508510478924">
-        <mark key="c" line="144" column="30" />
-        <mark key="[" line="108" column="85" />
-        <mark key="]" line="108" column="84" />
-        <mark key="." line="108" column="84" />
-        <mark key="^" line="108" column="84" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1508760788188">
+        <mark key="c" line="158" column="30" />
+        <mark key="'" line="133" column="26" />
+        <mark key="[" line="102" column="25" />
+        <mark key="]" line="102" column="25" />
+        <mark key="." line="102" column="25" />
+        <mark key="^" line="102" column="25" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/AssertionConsumerService.java" timestamp="1500576845556">
         <mark key="'" line="85" column="14" />
@@ -581,7 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" />
       <jump line="388" column="37" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" />
       <jump line="439" column="69" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" />
       <jump line="195" column="112" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
@@ -681,22 +681,23 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
       <jump line="118" column="30" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
+      <jump line="119" column="26" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>match_id</text>
+        <text>t</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>match_id</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>SQUAD</text>
+        <text>sorted</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICAgY2FzdChjb25jYXQoJ0Fzc2VydC5hc3NlcnRFcXVhbHMoJywgY291bnQoZGlzdGluY3QgbS5ndXRobWF0Y2hpZCksICcsIG1hdGNoZXNCeVRvdXJuYW1lbnRMSVZFUlBPT0wuZ2V0KCcsIHQuVE9VUk5BTUVOVElEICwnKS5zaXplKCkpOycpIGFzIGNoYXIgY2hhcmFjdGVyIHNldCB1dGY4KQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFNldDxNYXRjaHRhYmxlPiBnZXRMYXN0Rml2ZU1lZXRpbmdzKFNldDxNYXRjaHRhYmxlPiBtZWV0aW5ncykgewogICAgcmV0dXJuIG1lZXRpbmdzCiAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgLnNvcnRlZChDb21wYXJhdG9yLmNvbXBhcmluZyhNYXRjaHRhYmxlOjpnZXREYXRlb2ZtYXRjaCkucmV2ZXJzZWQoKSkKICAgICAgICAubGltaXQoNSkKICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGltaXQgNQo=</text>
@@ -730,9 +731,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SQUAD</last-search>
+      <last-search>sorted</last-search>
       <last-offset />
-      <last-pattern>SQUAD</last-pattern>
+      <last-pattern>sorted</last-pattern>
       <last-replace>Assert.assertEquals(\1, matchesByTournamentLIVERPOOL.get(\2).size());</last-replace>
       <last-substitute>\(\d\+\),\(\d\+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -740,7 +741,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getfull</entry>
         <entry>doquery</entry>
         <entry>DELTA</entry>
         <entry>tennis</entry>
@@ -760,6 +760,7 @@
         <entry>CUP</entry>
         <entry>trigger</entry>
         <entry>SQUAD</entry>
+        <entry>sorted</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
