@@ -449,13 +449,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1508833086688">
-        <mark key="c" line="208" column="30" />
-        <mark key="'" line="165" column="0" />
-        <mark key="[" line="125" column="29" />
-        <mark key="]" line="125" column="30" />
-        <mark key="^" line="125" column="30" />
-        <mark key="." line="125" column="30" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1508846448092">
+        <mark key="c" line="270" column="30" />
+        <mark key="'" line="227" column="0" />
+        <mark key="[" line="64" column="56" />
+        <mark key="]" line="64" column="61" />
+        <mark key="^" line="64" column="61" />
+        <mark key="." line="64" column="61" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/AssertionConsumerService.java" timestamp="1500576845556">
         <mark key="'" line="85" column="14" />
@@ -684,51 +684,47 @@
       <jump line="141" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>Equals
-Equals</text>
+      <register name="&quot;" type="4">
+        <text>int limit</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>allMatchesMANUTD</text>
+        <text>int limit</text>
       </register>
       <register name="/" type="4">
         <text>sorted</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMobGltaXQsIGxhc3RNYXRjaGVzTUFOVVRELnNpemUoKSk7CiAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGxpbWl0LCBsYXN0TWF0Y2hlc0xJVkVSUE9PTC5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuc3RyZWFtKCkKICAgICAgICAuZmlsdGVyKAogICAgICAgICAgICBtYXRjaCAtPgogICAgICAgICAgICAgICAgaXNNZWV0aW5nKHRlYW1JZHNPbmUsIHRlYW1JZHNUd28sIG1hdGNoLmdldFRlYW1JZEhvbWUoKSwgbWF0Y2guZ2V0VGVhbUlkQXdheSgpKSkKICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>Equals
-Equals</text>
-      </register>
-      <register name="2" type="8">
-        <text>last
-last</text>
-      </register>
-      <register name="3" type="8">
-        <text>last
-last</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlsdGVyKENvbXBhcmF0b3IuY29tcGFyaW5nKCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGltaXQgNQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bGltaXQgNQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBkZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIGZpbmFsIGludCB1dDE7CiAgICBwcml2YXRlIGZpbmFsIGludCB1dDI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy51dDEgPSB1dDE7CiAgICAgIHRoaXMudXQyID0gdXQyOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxNYXRjaHRhYmxlPiBtYXRjaGVzMTsKICAgIHByaXZhdGUgTGlzdDxNYXRjaHRhYmxlPiBtYXRjaGVzMjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgIG1hdGNoZXMxID0gbWF0Y2hFQU8uZ2V0QWxsTWF0Y2hlc0ZvclVuaXF1ZVRlYW0odXQxKTsKICAgICAgbWF0Y2hlczIgPSBtYXRjaEVBTy5nZXRBbGxNYXRjaGVzRm9yVW5pcXVlVGVhbSh1dDIpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXQ8TWF0Y2h0YWJsZT4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
