@@ -449,13 +449,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1508767088080">
-        <mark key="c" line="204" column="30" />
-        <mark key="'" line="161" column="0" />
-        <mark key="[" line="120" column="42" />
-        <mark key="]" line="120" column="50" />
-        <mark key="^" line="120" column="50" />
-        <mark key="." line="120" column="50" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1508833086688">
+        <mark key="c" line="208" column="30" />
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="125" column="29" />
+        <mark key="]" line="125" column="30" />
+        <mark key="^" line="125" column="30" />
+        <mark key="." line="125" column="30" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/AssertionConsumerService.java" timestamp="1500576845556">
         <mark key="'" line="85" column="14" />
@@ -684,47 +684,51 @@
       <jump line="141" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MANUTD</text>
+      <register name="&quot;" type="8">
+        <text>Equals
+Equals</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MANUTD</text>
+        <text>allMatchesMANUTD</text>
       </register>
       <register name="/" type="4">
         <text>sorted</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMobGltaXQsIGxhc3RNYXRjaGVzTUFOVVRELnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMobGltaXQsIGxhc3RNYXRjaGVzTUFOVVRELnNpemUoKSk7CiAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGxpbWl0LCBsYXN0TWF0Y2hlc0xJVkVSUE9PTC5zaXplKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoKTsK</text>
+      <register name="1" type="8">
+        <text>Equals
+Equals</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlsdGVyKENvbXBhcmF0b3IuY29tcGFyaW5nKCkpCg==</text>
+      <register name="2" type="8">
+        <text>last
+last</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bGltaXQgNQo=</text>
+      <register name="3" type="8">
+        <text>last
+last</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGltaXQgNQo=</text>
+        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZmlsdGVyKENvbXBhcmF0b3IuY29tcGFyaW5nKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">bGltaXQgNQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhc3QoY29uY2F0KCdBc3NlcnQuYXNzZXJ0RXF1YWxzKCcsIGNvdW50KERJU1RJTkNUIG0uZ3V0aG1hdGNoaWQpLCAnLCBtZWV0aW5nc0J5VG91cm5hbWVudC5nZXQoJywgdC5UT1VSTkFNRU5USUQsICcpLnNpemUoKSk7JykgQVMgQ0hBUiBDSEFSQUNURVIgU0VUIHV0ZjgpCg==</text>
+        <text encoding="base64">bGltaXQgNQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb3VudChkaXN0aW5jdCBtLmd1dGhtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
