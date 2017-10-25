@@ -274,10 +274,12 @@
         <mark key="^" line="16" column="89" />
         <mark key="." line="16" column="89" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1508496673220">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1508952353027">
+        <mark key="'" line="38" column="13" />
+        <mark key="[" line="113" column="74" />
+        <mark key="]" line="113" column="81" />
+        <mark key="." line="113" column="81" />
+        <mark key="^" line="113" column="81" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_6.sql" timestamp="1502708635659">
         <mark key="[" line="3" column="20" />
@@ -427,6 +429,9 @@
         <mark key="]" line="28" column="4" />
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="4" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/matchdetails/MatchDetailsServiceBean.java" timestamp="1508952306456">
+        <mark key="'" line="297" column="70" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_4.sql" timestamp="1502280037352">
         <mark key="[" line="1" column="0" />
@@ -586,8 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="80" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Statistics2Stage.java" />
-      <jump line="43" column="59" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/resources/META-INF/persistence.xml" />
       <jump line="88" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/resources/META-INF/persistence.xml" />
       <jump line="111" column="7" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="434" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -686,19 +689,21 @@
       <jump line="141" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
       <jump line="117" column="29" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
       <jump line="267" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
+      <jump line="297" column="70" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/matchdetails/MatchDetailsServiceBean.java" />
+      <jump line="38" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGgyaEVsZW1lbnQuc2V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8665118</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>matchtable</text>
+        <text>8665118</text>
       </register>
       <register name="/" type="4">
-        <text>sorted</text>
+        <text>MATCH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIGdldE5leHRNZWV0aW5ncygpCiAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgLmZpbHRlcihtYXRjaCAtPiBtYXRjaC5nZXRUb3VybmFtZW50SWQoKS5lcXVhbHModG91cm5hbWVudElkKSkKICAgICAgICAubGltaXQobGltaXQpCiAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
@@ -731,13 +736,13 @@
         <text encoding="base64">ICAgIGgyaEVsZW1lbnQuYWRkSGlzdG9yeSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>sorted</last-search>
+      <last-search>MATCH</last-search>
       <last-offset />
-      <last-pattern>sorted</last-pattern>
+      <last-pattern>MATCH</last-pattern>
       <last-replace>Assert.assertEquals(\1, matchesByTournamentLIVERPOOL.get(\2).size());</last-replace>
       <last-substitute>\(\d\+\),\(\d\+\)</last-substitute>
       <last-dir>1</last-dir>
@@ -745,8 +750,6 @@
     </search>
     <history>
       <history-search>
-        <entry>doquery</entry>
-        <entry>DELTA</entry>
         <entry>tennis</entry>
         <entry>is not formula</entry>
         <entry>is not</entry>
@@ -765,6 +768,8 @@
         <entry>trigger</entry>
         <entry>SQUAD</entry>
         <entry>sorted</entry>
+        <entry>shootout</entry>
+        <entry>MATCH</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -780,10 +785,10 @@
         <entry encoding="base64">JzwsJz5zL1woXGRcK1wpLFwoXGRcK1wpL0Fzc2VydC5hc3NlcnRFcXVhbHMoXDEsIG1hdGNoZXNCeVRvdXJuYW1lbnRMSVZFUlBPT0wuZ2V0KFwyKS5zaXplKCkpOy9nYw==</entry>
         <entry>100</entry>
         <entry>76</entry>
-        <entry>set ignorecase</entry>
         <entry>85</entry>
         <entry>73</entry>
         <entry>37</entry>
+        <entry>set ignorecase</entry>
       </history-cmd>
       <history-expr />
       <history-input />
