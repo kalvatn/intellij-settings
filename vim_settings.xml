@@ -318,12 +318,12 @@
         <mark key="." line="138" column="9" />
         <mark key="^" line="138" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1508935158868">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="481" column="58" />
-        <mark key="]" line="481" column="57" />
-        <mark key="." line="481" column="57" />
-        <mark key="^" line="481" column="57" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" timestamp="1508954803669">
+        <mark key="'" line="465" column="5" />
+        <mark key="[" line="482" column="1" />
+        <mark key="]" line="528" column="0" />
+        <mark key="." line="528" column="0" />
+        <mark key="^" line="528" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/testutils/BaseArquillianIntegrationTest.java" timestamp="1507554741027">
         <mark key="[" line="62" column="0" />
@@ -591,7 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/resources/META-INF/persistence.xml" />
       <jump line="111" column="7" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="434" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="158" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/PreStageManager.java" />
@@ -691,6 +690,7 @@
       <jump line="267" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
       <jump line="297" column="70" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/matchdetails/MatchDetailsServiceBean.java" />
       <jump line="38" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="465" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
