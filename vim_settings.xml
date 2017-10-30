@@ -92,12 +92,6 @@
         <mark key="^" line="1004" column="47" />
         <mark key="." line="430" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/UpdateFinderJob.java" timestamp="1509107581842">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="26" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1505219261833">
         <mark key="[" line="42" column="1" />
         <mark key="]" line="33" column="27" />
@@ -779,7 +773,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>65</text>
+        <text>515</text>
       </register>
     </registers>
     <search>
@@ -815,8 +809,6 @@
         <entry>MATCHDETAILS</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
-        <entry>setignorecase</entry>
         <entry>82</entry>
         <entry>%s/this_/m/gc</entry>
         <entry>%s/?/0/gc</entry>
@@ -835,6 +827,8 @@
         <entry>31</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9nYw==</entry>
         <entry>65</entry>
+        <entry>47</entry>
+        <entry>515</entry>
       </history-cmd>
       <history-expr />
       <history-input />
