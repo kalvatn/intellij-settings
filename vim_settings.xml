@@ -561,11 +561,12 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/StatisticsTableCache.java" timestamp="1504791828836">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="147" column="103" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/StatisticsTableCache.java" timestamp="1509404295369">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="185" column="110" />
+        <mark key="]" line="185" column="110" />
         <mark key="^" line="140" column="22" />
-        <mark key="." line="140" column="22" />
+        <mark key="." line="185" column="110" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/SingleLogoutService.java" timestamp="1500576207279">
         <mark key="[" line="19" column="12" />
@@ -680,7 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="138" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="456" column="170" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" />
       <jump line="101" column="9" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" />
@@ -780,58 +780,59 @@
       <jump line="201" column="33" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="36" column="88" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/UpdateFinderJob.java" />
       <jump line="12" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/util/TimeUtilTest.java" />
+      <jump line="87" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/StatisticsTableCache.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>MATCHDETAILS</text>
+        <text>clear</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCIlcyAtIHJ1bm5pbmcgTGl2ZVRhYmxlSm9iIiwgcm9sZU5hbWUpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgU3RhdGlzdGljc1ByZXNlbnRhdGlvbmNvbmZpZz4gY29sbGVjdCA9IHN0YXRpc3RpY3NQcmVzZW50YXRpb25jb25maWdFQU8uZ2V0QWxsKCkuc3RyZWFtKCkKICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoU3RhdGlzdGljc1ByZXNlbnRhdGlvbmNvbmZpZzo6Z2V0SWQsIHAgLT4gcCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgQ29uZmlnTWFuYWdlciBjb25maWdNYW5hZ2VyOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHJvbGVOYW1lID0gY29uZmlnTWFuYWdlci5nZXRSb2xlTmFtZSgpOwogICAgICBpZiAoc2hvdWwpCg==</text>
+        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgQ29uZmlnTWFuYWdlciBjb25maWdNYW5hZ2VyOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChjb25maWdNYW5hZ2VyLmdldCkK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHJvbGVOYW1lID0gY29uZmlnTWFuYWdlci5nZXRSb2xlTmFtZSgpOwogICAgICBpZiAoc2hvdWwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29uZmkpCg==</text>
+        <text encoding="base64">ICAgIGlmIChjb25maWdNYW5hZ2VyLmdldCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ01hbmFnZSAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29uZmkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+        <text encoding="base64">ICAgIGNvbmZpZ01hbmFnZSAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>99</text>
       </register>
     </registers>
     <search>
-      <last-search>MATCHDETAILS</last-search>
+      <last-search>clear</last-search>
       <last-offset />
-      <last-pattern>MATCHDETAILS</last-pattern>
+      <last-pattern>clear</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -839,7 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getseasonsbetween</entry>
         <entry>invoke</entry>
         <entry>getting teams</entry>
         <entry>testService</entry>
@@ -859,6 +859,7 @@
         <entry>nextMeetings</entry>
         <entry>MATCH</entry>
         <entry>MATCHDETAILS</entry>
+        <entry>clear</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1woXGRcKyksXChcZFwrKS9Bc3NlcnQuYXNzZXJ0RXF1YWxzKFwxLCBtYXRjaGVzQnlUb3VybmFtZW50LmdldChcMikuc2l6ZSgpKS9nYw==</entry>
