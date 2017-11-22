@@ -274,8 +274,8 @@
         <mark key="." line="288" column="30" />
         <mark key="^" line="288" column="30" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/TeamInfoType.java" timestamp="1510232622408">
-        <mark key="'" line="7" column="12" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/TeamInfoType.java" timestamp="1511353927139">
+        <mark key="'" line="24" column="27" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -768,7 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="100" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="134" column="136" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="68" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
       <jump line="142" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
@@ -868,6 +867,7 @@
       <jump line="62" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="110" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="145" column="83" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="24" column="27" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/TeamInfoType.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -880,7 +880,7 @@
         <text encoding="base64">NDY1NzAsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>covered matches</text>
+        <text>63</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX3BsYXllcl9ldmVudCBwZSB3aGVyZSBwZS5wbGF5ZXJpZCA9IDExOTUxOCBhbmQgcGUudW5pcXVldGVhbWlkID0gMjcxMAo7Cg==</text>
@@ -917,9 +917,9 @@
       </register>
     </registers>
     <search>
-      <last-search>covered matches</last-search>
+      <last-search>63</last-search>
       <last-offset />
-      <last-pattern>covered matches</last-pattern>
+      <last-pattern>63</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -927,8 +927,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CUP</entry>
-        <entry>trigger</entry>
         <entry>SQUAD</entry>
         <entry>sorted</entry>
         <entry>shootout</entry>
@@ -947,6 +945,8 @@
         <entry>testquery</entry>
         <entry>testQuery</entry>
         <entry>covered matches</entry>
+        <entry>89</entry>
+        <entry>63</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
