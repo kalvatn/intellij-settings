@@ -580,12 +580,12 @@
         <mark key="." line="73" column="68" />
         <mark key="^" line="73" column="68" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" timestamp="1511365856450">
-        <mark key="'" line="379" column="20" />
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="0" />
-        <mark key="^" line="379" column="0" />
-        <mark key="." line="379" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" timestamp="1511367148289">
+        <mark key="'" line="441" column="62" />
+        <mark key="[" line="517" column="51" />
+        <mark key="]" line="517" column="76" />
+        <mark key="." line="517" column="76" />
+        <mark key="^" line="517" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console.sql" timestamp="1507290474098">
         <mark key="[" line="18" column="0" />
@@ -781,7 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/SeasonManager.java" />
       <jump line="130" column="49" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/SeasonCache.java" />
       <jump line="106" column="21" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="637" column="50" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
@@ -881,58 +880,59 @@
       <jump line="512" column="4" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
       <jump line="436" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
       <jump line="384" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
+      <jump line="442" column="62" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodHJpZ2dlclRhYmxlICE9IFRyaWdnZXJUYWJsZS5TVEFUSVNUSUNTX1BST01PVElPTlNfSU5fVEFCTEUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgSW50ZWdlciByb3VuZCA9IHR1LmdldFBhcmFtSW50MygpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAocm91bmQgIT0gc3RhdGljVGFibGVFQU8uZ2V0Q3VycmVudE9yTGFzdFJvdW5kSW5UYWJsZSh0YWJsZWlkLCBTdGF0aWNUYWJsZUVBTy5GVUxMKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9</text>
+        <text>tableType.id())</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>tableType.id())</text>
       </register>
       <register name="/" type="4">
-        <text>invoke</text>
+        <text>getDelta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMSwgSW50ZWdlci5wYXJzZUludChwMS5nZXQoUGFyYW1UeXBlLlRBQkxFKSkpOwogICAgQXNzZXJ0LmFzc2VydEVxdWFscygxLCBJbnRlZ2VyLnBhcnNlSW50KHAyLmdldChQYXJhbVR5cGUuVEFCTEUpKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgicHJvY2Vzc2luZyB1cGRhdGUgJXMiLCB0dSkpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodHJpZ2dlclRhYmxlICE9IFRyaWdnZXJUYWJsZS5TVEFUSVNUSUNTX1BST01PVElPTlNfSU5fVEFCTEUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgSW50ZWdlciByb3VuZCA9IHR1LmdldFBhcmFtSW50MygpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAocm91bmQgIT0gc3RhdGljVGFibGVFQU8uZ2V0Q3VycmVudE9yTGFzdFJvdW5kSW5UYWJsZSh0YWJsZWlkLCBTdGF0aWNUYWJsZUVBTy5GVUxMKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">d2hlcmUgdGFibGVuYW1lIGxpa2UgIiV0YWJsZXMlIgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoImdldFVwZGF0ZXMgJXMgJXMiLHRhYmxlaWRzLCB1cGRhdGVUeXBlICkpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Mwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3NfdGFibGVzIHQgb24gdC5pZCA9IHBhcmFtX2ludGRlZAo=</text>
+        <text encoding="base64">Mwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Mwo=</text>
+        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3NfdGFibGVzIHQgb24gdC5pZCA9IHBhcmFtX2ludGRlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKSk7Cg==</text>
+        <text encoding="base64">Mwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgUGFyYW1zLlBhcmFtc0J1aWxkZXIodXBkYXRlVHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50eXBlKFBhcmFtVHlwZS5UQUJMRVRZUEUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkKFBhcmFtVHlwZS5UQUJMRVRZUEUsIFN0cmluZy52YWx1ZU9mKFRhYmxlVHlwZS5GVUxMX1RBQkxFLmlkKCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmFkZChQYXJhbVR5cGUuVEFCTEUsIFN0cmluZy52YWx1ZU9mKHRhYmxlLmdldElkKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFBhcmFtcy5QYXJhbXNCdWlsZGVyKHVwZGF0ZVR5cGUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnR5cGUoUGFyYW1UeXBlLlRBQkxFVFlQRSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkKFBhcmFtVHlwZS5UQUJMRVRZUEUsIFN0cmluZy52YWx1ZU9mKFRhYmxlVHlwZS5GVUxMX1RBQkxFLmlkKCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGQoUGFyYW1UeXBlLlRBQkxFLCBTdHJpbmcudmFsdWVPZih0YWJsZS5nZXRJZCgpKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgUGFyYW1zLlBhcmFtc0J1aWxkZXIodXBkYXRlVHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50eXBlKFBhcmFtVHlwZS5UQUJMRVRZUEUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkKFBhcmFtVHlwZS5UQUJMRVRZUEUsIFN0cmluZy52YWx1ZU9mKFRhYmxlVHlwZS5GVUxMX1RBQkxFLmlkKCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmFkZChQYXJhbVR5cGUuVEFCTEUsIFN0cmluZy52YWx1ZU9mKHRhYmxlLmdldElkKCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
       </register>
     </registers>
     <search>
-      <last-search>invoke</last-search>
+      <last-search>getDelta</last-search>
       <last-offset />
-      <last-pattern>invoke</last-pattern>
+      <last-pattern>getDelta</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -958,8 +958,8 @@
         <entry>89</entry>
         <entry>63</entry>
         <entry>testDelta</entry>
-        <entry>getDelta</entry>
         <entry>invoke</entry>
+        <entry>getDelta</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
