@@ -90,12 +90,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1511182662451">
-        <mark key="'" line="145" column="83" />
-        <mark key="[" line="145" column="86" />
-        <mark key="]" line="141" column="68" />
-        <mark key="." line="141" column="68" />
-        <mark key="^" line="141" column="68" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1511358753035">
+        <mark key="'" line="142" column="51" />
+        <mark key="[" line="137" column="34" />
+        <mark key="]" line="137" column="58" />
+        <mark key="." line="137" column="58" />
+        <mark key="^" line="137" column="58" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1506078055599">
         <mark key="'" line="195" column="112" />
@@ -567,14 +567,15 @@
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" timestamp="1510834225036">
         <mark key="'" line="62" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" timestamp="1511173472891">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" timestamp="1511359109682">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="68" column="35" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="74" column="1" />
+        <mark key="]" line="73" column="68" />
+        <mark key="." line="73" column="68" />
+        <mark key="^" line="73" column="68" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" timestamp="1509022654059">
-        <mark key="'" line="521" column="32" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" timestamp="1511359234684">
+        <mark key="'" line="55" column="13" />
         <mark key="[" line="204" column="48" />
         <mark key="]" line="204" column="106" />
         <mark key="^" line="204" column="106" />
@@ -768,8 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="136" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
-      <jump line="68" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
       <jump line="142" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="180" column="61" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="177" column="38" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
@@ -868,10 +867,12 @@
       <jump line="110" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="145" column="83" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="24" column="27" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/TeamInfoType.java" />
+      <jump line="134" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="55" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW4K</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -880,34 +881,34 @@
         <text encoding="base64">NDY1NzAsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>63</text>
+        <text>getDelta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX3BsYXllcl9ldmVudCBwZSB3aGVyZSBwZS5wbGF5ZXJpZCA9IDExOTUxOCBhbmQgcGUudW5pcXVldGVhbWlkID0gMjcxMAo7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW4K</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5UT1VSTkFNRU5USUQsIEltbXV0YWJsZUxpc3Qub2YoMTgyOTcsIDUzNzI2KSk7CiAgICAgICAgaWRzQnlUeXBlLnB1dEFsbChFeHBvcnRRdWVyeS5JZFR5cGUuVE9VUk5BTUVOVElELCBJbW11dGFibGVMaXN0Lm9mKDE4Mjk3LCA1MzcyNikpOwo=</text>
+        <text encoding="base64">am9pbiB0b3VybmFtZW50dGFibGV1bmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5HVVRITUFUQ0hJRCwgSW1tdXRhYmxlTGlzdC5vZig5NjkxMjY1KSk7Cg==</text>
+        <text encoding="base64">aW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5UT1VSTkFNRU5USUQsIEltbXV0YWJsZUxpc3Qub2YoMTgyOTcsIDUzNzI2KSk7CiAgICAgICAgaWRzQnlUeXBlLnB1dEFsbChFeHBvcnRRdWVyeS5JZFR5cGUuVE9VUk5BTUVOVElELCBJbW11dGFibGVMaXN0Lm9mKDE4Mjk3LCA1MzcyNikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBuZXcgaDJoIGNvbXBhcmlzb24K</text>
+        <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5HVVRITUFUQ0hJRCwgSW1tdXRhYmxlTGlzdC5vZig5NjkxMjY1KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBuZXcgaDJoIGNvbXBhcmlzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBuZXcgaDJoIGNvbXBhcmlzb24K</text>
+        <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
@@ -917,9 +918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>63</last-search>
+      <last-search>getDelta</last-search>
       <last-offset />
-      <last-pattern>63</last-pattern>
+      <last-pattern>getDelta</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -927,7 +928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SQUAD</entry>
         <entry>sorted</entry>
         <entry>shootout</entry>
         <entry>compareTo</entry>
@@ -947,6 +947,7 @@
         <entry>covered matches</entry>
         <entry>89</entry>
         <entry>63</entry>
+        <entry>getDelta</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
