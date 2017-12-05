@@ -20,6 +20,12 @@
         <mark key="]" line="531" column="143" />
         <mark key="." line="531" column="143" />
       </file>
+      <file name="/work/projects/personal/clojure/aoclj/src/java/y2017/Day05.java" timestamp="1512474989300">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/util/TimeUtil.java" timestamp="1509394110633">
         <mark key="[" line="13" column="76" />
         <mark key="]" line="13" column="76" />
@@ -608,6 +614,12 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="35" />
       </file>
+      <file name="/work/projects/personal/clojure/aoclj/src/main/java/Day05.java" timestamp="1512476516252">
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="25" column="54" />
+        <mark key="^" line="25" column="54" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/CategoryCache.java" timestamp="1509405278713">
         <mark key="[" line="36" column="56" />
         <mark key="]" line="36" column="75" />
@@ -800,8 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="40" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
-      <jump line="78" column="32" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="244" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="283" column="4" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="17" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
@@ -900,52 +910,54 @@
       <jump line="201" column="69" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="219" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="234" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="2" column="15" filename="/work/projects/personal/clojure/aoclj/src/main/java/Day05.java" />
+      <jump line="656" column="1" filename="/work/projects/personal/clojure/aoclj/src/main/java/Day05.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZCBmLmZpbGVuYW1lIGxpa2UgIiVTb2NjZXIuSW50ZXJuYXRpb25hbENsdWJzLlVFRkFFdXJvcGFMZWFndWUlIgo=</text>
+        <text encoding="base64">ICAgICAgaW50W10gYXJyYXkgPSBBcnJheXMuY29weU9mKG9yaWdpbmFsLCBvcmlnaW5hbC5sZW5ndGgpOwo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>GroupC.1718.Round6.TSG1899HOFFENHEIM.FKLUDO</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
         <text>|</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZCBmLmZpbGVuYW1lIGxpa2UgIiVTb2NjZXIuSW50ZXJuYXRpb25hbENsdWJzLlVFRkFFdXJvcGFMZWFndWUlIgo=</text>
+        <text encoding="base64">Y2xhc3MgRGF5NSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gdHJpZ2dlcl91cGRhdGVzIChgdGltZWAsIHRhYmxlbmFtZSwgcGFyYW1faW50MSwgcGFyYW1faW50MiwgcGFyYW1faW50MykgdmFsdWVzIChub3coKSwgMzE4NjE1OTIsIDMwMzQ2LCAxKTsK</text>
+        <text encoding="base64">ICAgICAgaW50W10gYXJyYXkgPSBBcnJheXMuY29weU9mKG9yaWdpbmFsLCBvcmlnaW5hbC5sZW5ndGgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbmQgZi5maWxlc2VuZGVyX2lkID0gMTA5MQo=</text>
+        <text encoding="base64">ICAgIGludFtdIGFycmF5ID0gQXJyYXlzLmNvcHlPZihvcmlnaW5hbCwgb3JpZ2luYWwubGVuZ3RoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGVwcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3NfdGFibGVzCg==</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3NfCg==</text>
+        <text encoding="base64">ICAgIGludCBpID0gMDsKICAgIGludCBzdGVwcyA9IDA7CiAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICBpbnQgbCA9IGFycmF5Lmxlbmd0aDsKICAgIGludCB2OwogICAgd2hpbGUgKGkgPCBsKSB7CiAgICAgIHYgPSBhcnJheVtpXTsKICAgICAgaWYgKHYgPj0gMykgewogICAgICAgIGFycmF5W2ldLS07CiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgYXJyYXlbaV0rKzsKICAgICAgfQogICAgICBpICs9IHY7CiAgICAgIHN0ZXBzICs9IDE7CiAgICB9CiAgICBsb25nIGVuZCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoInNvbHZlZCBpbiAlZG1zIiwgZW5kIC0gc3RhcnQpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGVwcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBqb2luIAo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGVwcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIGFycmF5ID0gY29sbGVjdC50b0FycmF5KGFycmF5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMaXN0PD4K</text>
+        <text encoding="base64">ICAgIC8vICAgICBpbnRbXSBhcnJheSA9IG5ldyBpbnRbXSB7IDAsIDMsIDAsIDEsIC0zIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpc2huZXRBUEkuCg==</text>
+        <text encoding="base64">ICAgIEZpbGVzLmxpbmVzKGlucHV0RmlsZVBhdGgpLm1hcFRvSW50KEludGVnZXI6OnBhcnNlSW50KS50b0FycmF5KCkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3wvLC9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -981,7 +993,6 @@
         <entry>|</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvLC9nYw==</entry>
         <entry>65</entry>
         <entry>47</entry>
         <entry>299</entry>
@@ -1001,6 +1012,7 @@
         <entry>set ignorecase</entry>
         <entry encoding="base64">JzwsJz5zL1x8LywvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL3wvLC9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
