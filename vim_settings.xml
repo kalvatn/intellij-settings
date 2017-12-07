@@ -28,11 +28,19 @@
         <mark key="." line="93" column="12" />
         <mark key="^" line="112" column="11" />
       </file>
+      <file name="/work/projects/social/frontend/src/routes/Dashboard/Dashboard.jsx" timestamp="1512674722577">
+        <mark key="[" line="74" column="33" />
+        <mark key="]" line="74" column="33" />
+        <mark key="." line="74" column="33" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/SSOConfiguration.java" timestamp="1500578338040">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="35" column="2" />
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
+      </file>
+      <file name="/work/projects/social/frontend/src/stores/auth/actions.js" timestamp="1512674920396">
+        <mark key="'" line="70" column="16" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Metadata.java" timestamp="1500576931832">
         <mark key="'" line="34" column="12" />
@@ -112,6 +120,9 @@
         <mark key="]" line="16" column="27" />
         <mark key="." line="16" column="27" />
         <mark key="^" line="15" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512674753637">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1500466576096">
         <mark key="[" line="13" column="47" />
@@ -256,16 +267,19 @@
       <jump line="3" column="4" filename="/work/projects/personal/kotlin/kotlin-koans/src/util/kotlinUtil.kt" />
       <jump line="0" column="0" filename="/work/projects/personal/kotlin/kotlin-koans/src/util/kotlinUtil.kt" />
       <jump line="22" column="6" filename="/work/projects/social/frontend/src/routes/Dashboard/Dashboard.jsx" />
+      <jump line="22" column="23" filename="/work/projects/social/frontend/src/stores/auth/actions.js" />
+      <jump line="39" column="16" filename="/work/projects/social/frontend/src/stores/auth/actions.js" />
+      <jump line="70" column="16" filename="/work/projects/social/frontend/src/stores/auth/actions.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>stage</text>
+        <text>localStorage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgc2IgPSBTdHJpbmdCdWlsZGVyKCkKICAgICAgICBzYi5hcHBlbmQoInsiKQogICAgICAgIHZhbCBpdGVyYXRvciA9IGNvbGxlY3Rpb24uaXRlcmF0b3IoKQogICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgdmFsIGVsZW1lbnQgPSBpdGVyYXRvci5uZXh0KCkKICAgICAgICAgICAgc2IuYXBwZW5kKGVsZW1lbnQpCiAgICAgICAgICAgIGlmIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiLCAiKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHNiLmFwcGVuZCgifSIpCiAgICAgICAgcmV0dXJuIHNiLnRvU3RyaW5nKCkK</text>
@@ -304,9 +318,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stage</last-search>
+      <last-search>localStorage</last-search>
       <last-offset />
-      <last-pattern>stage</last-pattern>
+      <last-pattern>localStorage</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -320,6 +334,7 @@
         <entry>authConfig</entry>
         <entry>localhost</entry>
         <entry>stage</entry>
+        <entry>localStorage</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
