@@ -255,6 +255,7 @@
       <jump line="655" column="78" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="3" column="4" filename="/work/projects/personal/kotlin/kotlin-koans/src/util/kotlinUtil.kt" />
       <jump line="0" column="0" filename="/work/projects/personal/kotlin/kotlin-koans/src/util/kotlinUtil.kt" />
+      <jump line="22" column="6" filename="/work/projects/social/frontend/src/routes/Dashboard/Dashboard.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,6 +358,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
