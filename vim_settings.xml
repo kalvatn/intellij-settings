@@ -94,11 +94,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1514984813212">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1514985835357">
         <mark key="'" line="241" column="0" />
         <mark key="[" line="286" column="34" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
+        <mark key="]" line="280" column="1" />
+        <mark key="." line="280" column="1" />
+        <mark key="^" line="280" column="1" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1506078055599">
         <mark key="'" line="195" column="112" />
@@ -348,6 +349,9 @@
         <mark key="." line="54" column="96" />
         <mark key="^" line="54" column="96" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/PlayerRoleEAO.java" timestamp="1514985841278">
+        <mark key="'" line="22" column="13" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Attributes.java" timestamp="1500576163381">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="17" />
@@ -488,6 +492,9 @@
         <mark key="]" line="80" column="1" />
         <mark key="^" line="80" column="1" />
         <mark key="." line="80" column="1" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1514986422797">
+        <mark key="'" line="351" column="33" />
       </file>
       <file name="/work/projects/bac/xmlexport/conf/standalone.xml" timestamp="1505323999032">
         <mark key="'" line="246" column="74" />
@@ -751,22 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
-      <jump line="221" column="116" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="0" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="323" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
-      <jump line="118" column="30" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
-      <jump line="119" column="26" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
-      <jump line="141" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
-      <jump line="117" column="29" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
-      <jump line="267" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
-      <jump line="297" column="70" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/matchdetails/MatchDetailsServiceBean.java" />
-      <jump line="38" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="465" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_5.sql" />
-      <jump line="44" column="36" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/livescoreevent/LiveScoreEventTopGoal.java" />
-      <jump line="79" column="25" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/livescoreevent/LivescoreEventTopPlayerEvent.java" />
       <jump line="125" column="7" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="213" column="91" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
       <jump line="224" column="14" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
@@ -851,6 +842,22 @@
       <jump line="202" column="73" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CupManager.java" />
       <jump line="204" column="95" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CupManager.java" />
       <jump line="181" column="61" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="22" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/PlayerRoleEAO.java" />
+      <jump line="119" column="75" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="147" column="19" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="151" column="70" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="279" column="10" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="327" column="26" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="333" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="335" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="330" column="102" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="390" column="40" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="392" column="46" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="403" column="34" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="415" column="40" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="417" column="46" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="428" column="34" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="351" column="33" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -863,7 +870,7 @@
         <text>currentCups</text>
       </register>
       <register name="/" type="4">
-        <text>full</text>
+        <text>LivescoreEventManager</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGVubmlzU2Vhc29uLnNldFllYXIoU3RyaW5nLnZhbHVlT2Yoc3RhcnRkYXRlLmF0Wm9uZShab25lSWQuc3lzdGVtRGVmYXVsdCgpKS5nZXRZZWFyKCkpKTsK</text>
@@ -900,9 +907,9 @@
       </register>
     </registers>
     <search>
-      <last-search>full</last-search>
+      <last-search>LivescoreEventManager</last-search>
       <last-offset />
-      <last-pattern>full</last-pattern>
+      <last-pattern>LivescoreEventManager</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>|</last-substitute>
       <last-dir>1</last-dir>
@@ -910,11 +917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isPenalty</entry>
-        <entry>testquery</entry>
-        <entry>testQuery</entry>
-        <entry>covered matches</entry>
-        <entry>89</entry>
         <entry>63</entry>
         <entry>testDelta</entry>
         <entry>getDelta</entry>
@@ -930,6 +932,11 @@
         <entry>query</entry>
         <entry>tennis</entry>
         <entry>full</entry>
+        <entry>TODO</entry>
+        <entry>shootout</entry>
+        <entry>goal</entry>
+        <entry>lastmatches</entry>
+        <entry>LivescoreEventManager</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
