@@ -330,8 +330,8 @@
         <mark key="^" line="44" column="83" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1515069667692">
-        <mark key="'" line="207" column="12" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1515154099557">
+        <mark key="'" line="257" column="80" />
         <mark key="[" line="228" column="21" />
         <mark key="]" line="228" column="22" />
         <mark key="^" line="318" column="59" />
@@ -470,8 +470,8 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_5.sql" timestamp="1515071295454">
-        <mark key="[" line="77" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_5.sql" timestamp="1515153911115">
+        <mark key="[" line="89" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="83" column="19" />
@@ -766,10 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="538" column="19" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
-      <jump line="543" column="142" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
-      <jump line="547" column="68" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
-      <jump line="554" column="53" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
       <jump line="560" column="65" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
       <jump line="112" column="81" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="198" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
@@ -866,6 +862,10 @@
       <jump line="563" column="43" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
       <jump line="564" column="27" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
       <jump line="42" column="9" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
+      <jump line="142" column="49" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="258" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="341" column="43" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="257" column="80" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -878,7 +878,7 @@
         <text>127, 108, 632, 1781, 1783, 1170, 1174, 1173, 1784, 1119, 112, 2050, 284, 3285, 282, 4521, 2128, 4725, 4724</text>
       </register>
       <register name="/" type="4">
-        <text>isNational</text>
+        <text>teamsinseason</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">V0hFUkUgZnQudGFibGVJZCA9IDI3MjY4Owo=</text>
@@ -915,9 +915,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isNational</last-search>
+      <last-search>teamsinseason</last-search>
       <last-offset />
-      <last-pattern>isNational</last-pattern>
+      <last-pattern>teamsinseason</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>|</last-substitute>
       <last-dir>1</last-dir>
@@ -925,10 +925,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getServiceId</entry>
-        <entry>\|</entry>
-        <entry>|</entry>
-        <entry>signature</entry>
         <entry>redirect</entry>
         <entry>getFull</entry>
         <entry>doquery</entry>
@@ -945,6 +941,10 @@
         <entry>invoke</entry>
         <entry>national</entry>
         <entry>isNational</entry>
+        <entry>getDelta</entry>
+        <entry>fullUpdate</entry>
+        <entry>statistics_teamsinseason</entry>
+        <entry>teamsinseason</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
