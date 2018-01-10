@@ -100,12 +100,12 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1515597881963">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1515600058497">
         <mark key="'" line="357" column="38" />
-        <mark key="[" line="400" column="1" />
-        <mark key="]" line="407" column="23" />
-        <mark key="." line="407" column="23" />
-        <mark key="^" line="407" column="23" />
+        <mark key="[" line="407" column="7" />
+        <mark key="]" line="408" column="1" />
+        <mark key="." line="408" column="1" />
+        <mark key="^" line="408" column="1" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1506078055599">
         <mark key="'" line="195" column="112" />
@@ -383,11 +383,11 @@
         <mark key="^" line="16" column="89" />
         <mark key="." line="16" column="89" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1515597948529">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1515600071930">
         <mark key="'" line="120" column="16" />
-        <mark key="[" line="140" column="70" />
-        <mark key="]" line="140" column="89" />
-        <mark key="." line="140" column="89" />
+        <mark key="[" line="141" column="70" />
+        <mark key="]" line="141" column="70" />
+        <mark key="." line="141" column="70" />
         <mark key="^" line="140" column="89" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_6.sql" timestamp="1502708635659">
@@ -898,19 +898,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>121537</text>
+        <text>121537,191034,</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>121537</text>
+        <text>121537,191034,</text>
       </register>
       <register name="/" type="4">
         <text>testQuery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNlcnZpY2VzLmFkZChzZXJ2aWNlTG9jYXRvci5maW5kRXhwb3J0U2VydmljZShFeHBvcnRTZXJ2aWNlLmNsYXNzLCBYbWxFeHBvcnRTZXJ2aWNlLlNFQVNPTlNUQVRJU1RJQ1MuaWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TVEFHRUlELCBJbW11dGFibGVMaXN0Lm9mKDEyMTUzNywxOTEwMzQsMzA5MTMwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlTdGFkaXVtIHN0YWRpdW0gPSBudWxsOwo=</text>
