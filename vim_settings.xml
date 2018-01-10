@@ -361,6 +361,9 @@
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/PlayerRoleEAO.java" timestamp="1514985841278">
         <mark key="'" line="22" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.1.0/dropwizard-core-1.1.0-sources.jar!/io/dropwizard/server/AbstractServerFactory.java" timestamp="1515589369466">
+        <mark key="'" line="288" column="0" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Attributes.java" timestamp="1500576163381">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="17" />
@@ -422,11 +425,6 @@
         <mark key="]" line="466" column="74" />
         <mark key="." line="466" column="74" />
         <mark key="^" line="466" column="74" />
-      </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/testutils/BaseArquillianIntegrationTest.java" timestamp="1514901429574">
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
-        <mark key="^" line="3" column="35" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/livescore/events/LivescoreEventManager.java" timestamp="1509722746812">
         <mark key="'" line="29" column="13" />
@@ -529,12 +527,12 @@
         <mark key="^" line="247" column="59" />
         <mark key="." line="247" column="59" />
       </file>
-      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/SocialRESTApplication.java" timestamp="1500578973409">
-        <mark key="'" line="143" column="33" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="115" column="35" />
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/SocialRESTApplication.java" timestamp="1515589491675">
+        <mark key="'" line="144" column="33" />
+        <mark key="[" line="185" column="17" />
+        <mark key="]" line="186" column="93" />
+        <mark key="." line="186" column="93" />
+        <mark key="^" line="186" column="93" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" timestamp="1504188601041">
         <mark key="'" line="579" column="60" />
@@ -789,7 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="12" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/TeamInfoType.java" />
       <jump line="90" column="95" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="62" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="110" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
@@ -889,6 +886,7 @@
       <jump line="137" column="76" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/SeasonScheduleServiceBean.java" />
       <jump line="92" column="45" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/SeasonScheduleServiceBean.java" />
       <jump line="103" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/SeasonScheduleServiceBean.java" />
+      <jump line="288" column="0" filename="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.1.0/dropwizard-core-1.1.0-sources.jar!/io/dropwizard/server/AbstractServerFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -901,7 +899,7 @@
         <text encoding="base64">c3RhZGl1bSA9IA==</text>
       </register>
       <register name="/" type="4">
-        <text>removing</text>
+        <text>setRegister</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">V0hFUkUgZnQudGFibGVJZCA9IDI3MjY4Owo=</text>
@@ -938,9 +936,9 @@
       </register>
     </registers>
     <search>
-      <last-search>removing</last-search>
+      <last-search>setRegister</last-search>
       <last-offset />
-      <last-pattern>removing</last-pattern>
+      <last-pattern>setRegister</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -948,7 +946,6 @@
     </search>
     <history>
       <history-search>
-        <entry>goal</entry>
         <entry>lastmatches</entry>
         <entry>LivescoreEventManager</entry>
         <entry>category</entry>
@@ -968,6 +965,7 @@
         <entry>ingo</entry>
         <entry>info</entry>
         <entry>removing</entry>
+        <entry>setRegister</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
