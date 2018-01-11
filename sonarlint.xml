@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.sportradar.ag/" />
+          <option name="name" value="https://sonarqube.sportradar.ag/" />
+          <option name="login" value="j.kalvatn" />
+          <password>dfd2dfcfdfcfdf92dfc5dfdddfc3dfee</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
