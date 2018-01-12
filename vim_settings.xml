@@ -536,6 +536,9 @@
         <mark key="^" line="247" column="59" />
         <mark key="." line="247" column="59" />
       </file>
+      <file name="/work/projects/bac/java/source/filesender/org/tempuri/RPCInterfaceSoapStub.java" timestamp="1515769634162">
+        <mark key="'" line="29" column="8" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/SocialRESTApplication.java" timestamp="1515589491675">
         <mark key="'" line="144" column="33" />
         <mark key="[" line="185" column="17" />
@@ -717,7 +720,7 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515758475348">
+      <file name="/Dummy.txt" timestamp="1515770015468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1500466576096">
@@ -811,7 +814,6 @@
       <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/Match.java" timestamp="1515760913960" />
     </filemarks>
     <jumps>
-      <jump line="78" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" />
       <jump line="343" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
       <jump line="228" column="21" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="206" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
@@ -911,6 +913,7 @@
       <jump line="444" column="30" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="97" column="29" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/TennisMatch.java" />
       <jump line="171" column="4" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/TennisMatch.java" />
+      <jump line="29" column="8" filename="/work/projects/bac/java/source/filesender/org/tempuri/RPCInterfaceSoapStub.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -923,7 +926,7 @@
         <text>13526389</text>
       </register>
       <register name="/" type="4">
-        <text>getStatus</text>
+        <text>_call</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5UT1VSTkFNRU5USUQsIEltbXV0YWJsZUxpc3Qub2YoNTY2NDQsIDU2NjQ1KSk7IC8vIEFUUCBCcmlzYmFuZSwgQXVzdHJpYWxpYSwgc2luZ2xlcwo=</text>
@@ -960,9 +963,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getStatus</last-search>
+      <last-search>_call</last-search>
       <last-offset />
-      <last-pattern>getStatus</last-pattern>
+      <last-pattern>_call</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -970,7 +973,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fullUpdate</entry>
         <entry>statistics_teamsinseason</entry>
         <entry>teamsinseason</entry>
         <entry>repositories</entry>
@@ -990,6 +992,7 @@
         <entry>Country</entry>
         <entry>SubTeam</entry>
         <entry>getStatus</entry>
+        <entry>_call</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
