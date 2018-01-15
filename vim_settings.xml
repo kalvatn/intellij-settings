@@ -75,7 +75,7 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1516022186098">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1516024108785">
         <mark key="'" line="438" column="3" />
         <mark key="[" line="503" column="16" />
         <mark key="]" line="503" column="26" />
@@ -274,7 +274,7 @@
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.1.0/dropwizard-core-1.1.0-sources.jar!/io/dropwizard/server/AbstractServerFactory.java" timestamp="1515589369466">
         <mark key="'" line="288" column="0" />
       </file>
-      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/StatisticsTable.java" timestamp="1516020650191">
+      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/StatisticsTable.java" timestamp="1516024246568">
         <mark key="'" line="719" column="11" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Attributes.java" timestamp="1500576163381">
@@ -383,6 +383,7 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
+      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/StatisticsLog.java" timestamp="1516024427441" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_5.sql" timestamp="1516019892504">
         <mark key="[" line="113" column="23" />
         <mark key="]" line="121" column="71" />
@@ -459,6 +460,9 @@
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1515505993474">
         <mark key="'" line="235" column="48" />
+      </file>
+      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" timestamp="1516024323712">
+        <mark key="'" line="94" column="15" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1511784193336">
         <mark key="'" line="78" column="8" />
@@ -614,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="85" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="226" column="39" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="707" column="48" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="41" column="67" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
@@ -714,6 +717,7 @@
       <jump line="718" column="33" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/StatisticsTable.java" />
       <jump line="719" column="11" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/StatisticsTable.java" />
       <jump line="130" column="74" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="94" column="15" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
