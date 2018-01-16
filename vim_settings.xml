@@ -209,12 +209,11 @@
       <file name="/work/projects/bac/xmlexport/pom.xml" timestamp="1515168316268">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e3897d1-7175-461b-96b8-11aecb5e71b6/console.sql" timestamp="1516027904969">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e3897d1-7175-461b-96b8-11aecb5e71b6/console.sql" timestamp="1516106709106">
         <mark key="'" line="0" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="5" column="43" />
-        <mark key="^" line="5" column="43" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/work/projects/social/backend/app/config-local.yml" timestamp="1500578698280">
         <mark key="[" line="20" column="0" />
@@ -483,8 +482,11 @@
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1515505993474">
         <mark key="'" line="235" column="48" />
       </file>
-      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" timestamp="1516024323712">
-        <mark key="'" line="94" column="15" />
+      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" timestamp="1516107996571">
+        <mark key="'" line="1146" column="60" />
+        <mark key="[" line="1153" column="0" />
+        <mark key="]" line="1153" column="0" />
+        <mark key="." line="1153" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_4.sql" timestamp="1516044986056">
         <mark key="[" line="8" column="81" />
@@ -603,6 +605,9 @@
         <mark key="^" line="9" column="127" />
         <mark key="." line="9" column="128" />
       </file>
+      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" timestamp="1516106763024">
+        <mark key="'" line="1629" column="33" />
+      </file>
       <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/filesender/dom/LiveScoreDOMGenerator.java" timestamp="1515760588443">
         <mark key="'" line="63" column="13" />
       </file>
@@ -647,44 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="19" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="151" column="70" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="279" column="10" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="327" column="26" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="333" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="335" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="330" column="102" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="390" column="40" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="392" column="46" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="403" column="34" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="415" column="40" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="417" column="46" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="428" column="34" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="351" column="33" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
-      <jump line="103" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="207" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="53" column="13" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="115" column="24" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="188" column="17" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="189" column="28" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="555" column="19" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="559" column="26" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="560" column="20" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="563" column="43" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="564" column="27" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="42" column="9" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="142" column="49" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="258" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="341" column="43" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="257" column="80" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="433" column="57" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="304" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="0" column="0" filename="/work/projects/bac/xmlexport/pom.xml" />
-      <jump line="361" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="366" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="45" column="7" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
-      <jump line="52" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
-      <jump line="222" column="78" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
       <jump line="227" column="62" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
       <jump line="228" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
       <jump line="229" column="54" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
@@ -747,10 +714,48 @@
       <jump line="212" column="65" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="525" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="656" column="76" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
+      <jump line="1282" column="31" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="1629" column="33" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
+      <jump line="885" column="55" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="1129" column="57" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="1151" column="57" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="1216" column="25" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="1285" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="32" column="51" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="134" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="135" column="45" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="202" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="203" column="45" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="273" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="274" column="46" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="299" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="300" column="46" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="328" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="329" column="50" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="415" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="416" column="58" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="476" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="477" column="58" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="539" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="540" column="58" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="571" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="572" column="58" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="603" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="604" column="58" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="646" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="651" column="56" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="661" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="666" column="56" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="674" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="679" column="56" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="178" column="31" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="757" column="6" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="758" column="14" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="1146" column="60" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBndXRoX3Bvc3Rwb25lZG1hdGNoZXMgbSB3aGVyZSBtLmd1dGhtYXRjaGlkIGluICg5NzMyNDg1LCAxMjQwMjM5NCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICBIZWFkVG9IZWFkU29ydGluZyBoMmggPQovLyAgICAgICAgICBuZXcgSGVhZFRvSGVhZFNvcnRpbmcoNCwgInBvaW50c1RvdGFsIiwgdGFibGUsIGZhbHNlLCAwLCBtYXRjaGVzLCBuZXcgRGF0ZSgpLCBsb2cpOwovLyAgICAgIGgyaC5hZGRFbnRyeShuZXcgU29ydGluZ1J1bGUoMSwgImdvYWxEaWZmVG90YWwiLCBmYWxzZSkpOwovLyAgICAgIGgyaC5hZGRFbnRyeShuZXcgU29ydGluZ1J1bGUoMiwgImdvYWxzRm9yVG90YWwiLCBmYWxzZSkpOwovLyAgICAgIHNvcnRlci5hZGQoaDJoKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -759,34 +764,34 @@
         <text>13534435</text>
       </register>
       <register name="/" type="4">
-        <text>getDelta</text>
+        <text>VIRTUAL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBndXRoX3Bvc3Rwb25lZG1hdGNoZXMgbSB3aGVyZSBtLmd1dGhtYXRjaGlkIGluICg5NzMyNDg1LCAxMjQwMjM5NCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cMOlCg==</text>
+        <text encoding="base64">Ly8gICAgICBIZWFkVG9IZWFkU29ydGluZyBoMmggPQovLyAgICAgICAgICBuZXcgSGVhZFRvSGVhZFNvcnRpbmcoNCwgInBvaW50c1RvdGFsIiwgdGFibGUsIGZhbHNlLCAwLCBtYXRjaGVzLCBuZXcgRGF0ZSgpLCBsb2cpOwovLyAgICAgIGgyaC5hZGRFbnRyeShuZXcgU29ydGluZ1J1bGUoMSwgImdvYWxEaWZmVG90YWwiLCBmYWxzZSkpOwovLyAgICAgIGgyaC5hZGRFbnRyeShuZXcgU29ydGluZ1J1bGUoMiwgImdvYWxzRm9yVG90YWwiLCBmYWxzZSkpOwovLyAgICAgIHNvcnRlci5hZGQoaDJoKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICBIZWFkVG9IZWFkU29ydGluZyBoMmggPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2N1cHMK</text>
+        <text encoding="base64">Ly8gICAgICBIZWFkVG9IZWFkU29ydGluZyBoMmggPQovLyAgICAgICAgICBuZXcgSGVhZFRvSGVhZFNvcnRpbmcoNCwgInBvaW50c1RvdGFsIiwgdGFibGUsIGZhbHNlLCAwLCBtYXRjaGVzLCBuZXcgRGF0ZSgpLCBsb2cpOwovLyAgICAgIGgyaC5hZGRFbnRyeShuZXcgU29ydGluZ1J1bGUoMSwgImdvYWxEaWZmVG90YWwiLCBmYWxzZSkpOwovLyAgICAgIGgyaC5hZGRFbnRyeShuZXcgU29ydGluZ1J1bGUoMiwgImdvYWxzRm9yVG90YWwiLCBmYWxzZSkpOwovLyAgICAgIHNvcnRlci5hZGQoaDJoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc29ydGVyLmFkZChoMmgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoIjk1NDliN2I1ZjQ4N2RiMDZiMzI4ZDk4NzQwODE4NTcwIiA+PSAiNDUxNjg0ZmQxOTY4MzkzZjRiNzEzZWE4MjJhODkxOTYiKWFzIGhtCg==</text>
+        <text encoding="base64">ICBmdC5wb2ludHNHaXZlblRvdGFsLCBmdC5wb2ludHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0LmlkLAogIHQuZGVzY3JpcHRpb24sCg==</text>
+        <text encoding="base64">cMOlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2N1cHMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -799,9 +804,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getDelta</last-search>
+      <last-search>VIRTUAL</last-search>
       <last-offset />
-      <last-pattern>getDelta</last-pattern>
+      <last-pattern>VIRTUAL</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -809,9 +814,6 @@
     </search>
     <history>
       <history-search>
-        <entry>doquery</entry>
-        <entry>testQuery</entry>
-        <entry>--nosave</entry>
         <entry>country</entry>
         <entry>Country</entry>
         <entry>SubTeam</entry>
@@ -829,6 +831,9 @@
         <entry>getFullUpdate</entry>
         <entry>setFilename</entry>
         <entry>getDelta</entry>
+        <entry>innbyrdes</entry>
+        <entry>headtohead</entry>
+        <entry>VIRTUAL</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
