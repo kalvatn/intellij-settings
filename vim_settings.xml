@@ -110,12 +110,12 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1516192509242">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1516214698374">
         <mark key="'" line="531" column="58" />
-        <mark key="[" line="571" column="11" />
-        <mark key="]" line="571" column="26" />
-        <mark key="." line="571" column="26" />
-        <mark key="^" line="571" column="26" />
+        <mark key="[" line="578" column="80" />
+        <mark key="]" line="580" column="6" />
+        <mark key="." line="580" column="6" />
+        <mark key="^" line="580" column="6" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1506078055599">
         <mark key="'" line="195" column="112" />
@@ -990,7 +990,7 @@
         <text>56644, 56645</text>
       </register>
       <register name="/" type="4">
-        <text>getFull</text>
+        <text>postponed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlkc0J5VHlwZS5wdXRBbGwoRXhwb3J0UXVlcnkuSWRUeXBlLlRPVVJOQU1FTlRJRCwgSW1tdXRhYmxlTGlzdC5vZig1NjgwNSwgNjU2NzUpKTsK</text>
@@ -1030,9 +1030,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getFull</last-search>
+      <last-search>postponed</last-search>
       <last-offset />
-      <last-pattern>getFull</last-pattern>
+      <last-pattern>postponed</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1040,7 +1040,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SubTeam</entry>
         <entry>getStatus</entry>
         <entry>_call</entry>
         <entry>\|</entry>
@@ -1060,6 +1059,7 @@
         <entry>VIRTUAL</entry>
         <entry>getTranslationType</entry>
         <entry>getFull</entry>
+        <entry>postponed</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
