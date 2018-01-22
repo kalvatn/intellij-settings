@@ -110,12 +110,12 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1516611302991">
-        <mark key="'" line="661" column="59" />
-        <mark key="[" line="681" column="0" />
-        <mark key="]" line="677" column="61" />
-        <mark key="." line="677" column="60" />
-        <mark key="^" line="677" column="48" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1516614673950">
+        <mark key="'" line="31" column="7" />
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="36" />
+        <mark key="^" line="39" column="36" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1506078055599">
         <mark key="'" line="195" column="112" />
@@ -883,11 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="94" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="88" column="93" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="250" column="64" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="120" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="357" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="135" column="6" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" />
       <jump line="84" column="13" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="128" column="81" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
@@ -983,19 +978,24 @@
       <jump line="398" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="608" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="661" column="59" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="621" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="686" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="22" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="136" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="31" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IN (&quot;Matchtable&quot;, &quot;Resulttable&quot;);</text>
+        <text>11915200</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>IN (&quot;Matchtable&quot;, &quot;Resulttable&quot;);</text>
+        <text>11915200</text>
       </register>
       <register name="/" type="4">
-        <text>no matches</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">V0hFUkUgdHUucGFyYW1faW50MSA9IDEzNTM0NDUzIEFORCB0dS50YWJsZW5hbWUgSU4gKCJNYXRjaHRhYmxlIiwgIlJlc3VsdHRhYmxlIik7Cg==</text>
@@ -1031,22 +1031,20 @@
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>no matches</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>no matches</last-pattern>
-      <last-replace>&quot;</last-replace>
+      <last-pattern>$</last-pattern>
+      <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\|</entry>
-        <entry>|</entry>
         <entry>link type</entry>
         <entry>linkType</entry>
         <entry>type</entry>
@@ -1065,9 +1063,10 @@
         <entry>postponed</entry>
         <entry>doquery</entry>
         <entry>no matches</entry>
+        <entry>guth_matchtable</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry>299</entry>
         <entry>.99</entry>
         <entry>99</entry>
         <entry>107</entry>
@@ -1087,6 +1086,7 @@
         <entry encoding="base64">JzwsJz5zL14vIi9n</entry>
         <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
         <entry>set ignorecase</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
