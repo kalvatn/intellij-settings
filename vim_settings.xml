@@ -56,13 +56,12 @@
         <mark key="." line="226" column="5" />
         <mark key="^" line="226" column="5" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" timestamp="1516719373671">
-        <mark key="'" line="297" column="21" />
-        <mark key="[" line="315" column="0" />
-        <mark key="]" line="315" column="0" />
-        <mark key="^" line="316" column="105" />
-        <mark key="n" line="296" column="72" />
-        <mark key="." line="315" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" timestamp="1516722507901">
+        <mark key="'" line="25" column="50" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="n" line="272" column="72" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63805593-e9a0-4629-97ba-f9b9b05fd8cc/console.sql" timestamp="1502445140521">
         <mark key="[" line="0" column="37" />
@@ -880,10 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="444" column="30" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="97" column="29" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/TennisMatch.java" />
-      <jump line="171" column="4" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/TennisMatch.java" />
-      <jump line="29" column="8" filename="/work/projects/bac/java/source/filesender/org/tempuri/RPCInterfaceSoapStub.java" />
       <jump line="458" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
       <jump line="459" column="3" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
       <jump line="533" column="31" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
@@ -980,10 +975,14 @@
       <jump line="298" column="31" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="296" column="72" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="297" column="21" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="379" column="62" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="70" column="56" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="172" column="57" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="25" column="50" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB3aW5uZXIgY2Fubm90IGJlIGRlY2lkZWQuLi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdFJlc3VsdC5nZXQK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -992,37 +991,37 @@
         <text>team2AwayGoals</text>
       </register>
       <register name="/" type="4">
-        <text>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</text>
+        <text>walkover</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodGVhbTFBd2F5R29hbHMgPiB0ZWFtMkF3YXlHb2FscykgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IExlYWRpbmdUZWFtKHRlYW1pZDEsIHJlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmICh0ZWFtMUF3YXlHb2FscyA8IHRlYW0yQXdheUdvYWxzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgTGVhZGluZ1RlYW0odGVhbWlkMiwgcmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB3aW5uZXIgY2Fubm90IGJlIGRlY2lkZWQuLi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdFJlc3VsdC5nZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IExlYWRpbmdUZWFtKG51bGwsIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImxlYWRpbmd0ZWFtICE9IG51bGwgJiYgbGVhZGluZ1RlYW0uaXNGaW5pc2hlZCgpIik7CiAgICAgIGxvZy5pbmZvKCJzZXQgZmluaXNoZWQgPSAiICsgZmluaXNoZWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJsZWFkaW5nIHRlYW0gIiArIGxlYWRpbmdUZWFtKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtYXRjaGVzLmZvckVhY2gobG9nOjppbmZvKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gbW9yZSBob21lIGdvYWxzLi4uCg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJsYXN0IG1hdGNoICIgKyBsYXN0TWF0Y2gpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gaG9tZSB0ZWFtIGluIDFzdCBtYXRjaCBzY29yZWQgbW9yZSBnb2FscyBpbiBhd2F5IG1hdGNoIChtYXRjaCBuciAyKQo=</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJsYXN0IHJlc3VsdCAiICsgbGFzdFJlc3VsdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBhd2F5IGdvYWxzLi4uCg==</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oImxhc3QgcmVzdWx0IGlzIHdhbGtvdmVyIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJudW1iZXIgb2YgbWF0Y2hlcyBpbiBjdXByb3VuZCAiICsgbnVtYmVyT2ZNYXRjaGVzSW5DdXByb3VuZCk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -1032,9 +1031,9 @@
       </register>
     </registers>
     <search>
-      <last-search>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</last-search>
+      <last-search>walkover</last-search>
       <last-offset />
-      <last-pattern>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</last-pattern>
+      <last-pattern>walkover</last-pattern>
       <last-replace>team2TotalGoals</last-replace>
       <last-substitute>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,9 +1041,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VIRTUAL</entry>
-        <entry>getTranslationType</entry>
-        <entry>getFull</entry>
         <entry>postponed</entry>
         <entry>doquery</entry>
         <entry>no matches</entry>
@@ -1062,6 +1058,9 @@
         <entry>score.get(teamid1).get(CUMULATIVE\_GOAL\_INDEX)</entry>
         <entry>score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)</entry>
         <entry>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</entry>
+        <entry>forEach</entry>
+        <entry>log</entry>
+        <entry>walkover</entry>
       </history-search>
       <history-cmd>
         <entry>206</entry>
