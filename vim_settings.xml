@@ -56,12 +56,13 @@
         <mark key="." line="226" column="5" />
         <mark key="^" line="226" column="5" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" timestamp="1516718297153">
-        <mark key="'" line="128" column="47" />
-        <mark key="[" line="283" column="32" />
-        <mark key="]" line="283" column="37" />
-        <mark key="." line="283" column="37" />
-        <mark key="^" line="283" column="37" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" timestamp="1516719373671">
+        <mark key="'" line="297" column="21" />
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="0" />
+        <mark key="^" line="316" column="105" />
+        <mark key="n" line="296" column="72" />
+        <mark key="." line="315" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63805593-e9a0-4629-97ba-f9b9b05fd8cc/console.sql" timestamp="1502445140521">
         <mark key="[" line="0" column="37" />
@@ -879,10 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="409" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="260" column="41" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/TennisMatch.java" />
-      <jump line="63" column="13" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/filesender/dom/LiveScoreDOMGenerator.java" />
-      <jump line="441" column="4" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="444" column="30" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="97" column="29" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/TennisMatch.java" />
       <jump line="171" column="4" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/TennisMatch.java" />
@@ -979,79 +976,72 @@
       <jump line="30" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="77" column="7" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
       <jump line="127" column="75" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="295" column="80" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="298" column="31" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="296" column="72" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="297" column="21" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Integer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB3aW5uZXIgY2Fubm90IGJlIGRlY2lkZWQuLi4K</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>team2AwayGoals</text>
       </register>
       <register name="/" type="4">
-        <text>finished</text>
+        <text>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEhPTUVfR09BTFMgPSAiaG9tZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodGVhbTFBd2F5R29hbHMgPiB0ZWFtMkF3YXlHb2FscykgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IExlYWRpbmdUZWFtKHRlYW1pZDEsIHJlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmICh0ZWFtMUF3YXlHb2FscyA8IHRlYW0yQXdheUdvYWxzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgTGVhZGluZ1RlYW0odGVhbWlkMiwgcmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEhPTUVfR09BTF9JTkRFWCA9IC0xOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgQVdBWV9HT0FMX0lOREVYID0gLTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB3aW5uZXIgY2Fubm90IGJlIGRlY2lkZWQuLi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgaW50ZWdlciA6IHNjb3JlLmtleVNldCgpKSB7CiAgICAgICAgICAvLwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IExlYWRpbmdUZWFtKG51bGwsIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgd2lubmVyVGVhbSA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXIuZ2V0TG9nZ2VyKFdpbm5lckRlY2lkZXJNYW5hZ2VyLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gbW9yZSBob21lIGdvYWxzLi4uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoTWF0Y2h0YWJsZSBtYXRjaGVzRnJvbUlkIDogbWF0Y2hlc0Zyb21JZHMpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gaG9tZSB0ZWFtIGluIDFzdCBtYXRjaCBzY29yZWQgbW9yZSBnb2FscyBpbiBhd2F5IG1hdGNoIChtYXRjaCBuciAyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIm1hdGNoZXMgOiAlcyIsIG1hdGNoZXNGcm9tSWRzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBhd2F5IGdvYWxzLi4uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASW5qZWN0IHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
+        <text>%s/score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)/team2TotalGoals/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>finished</last-search>
+      <last-search>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</last-search>
       <last-offset />
-      <last-pattern>finished</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</last-pattern>
+      <last-replace>team2TotalGoals</last-replace>
+      <last-substitute>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>linkType</entry>
-        <entry>type</entry>
-        <entry>linktype</entry>
-        <entry>inherit</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry>invoke</entry>
-        <entry>getFullUpdate</entry>
-        <entry>setFilename</entry>
-        <entry>getDelta</entry>
-        <entry>innbyrdes</entry>
-        <entry>headtohead</entry>
         <entry>VIRTUAL</entry>
         <entry>getTranslationType</entry>
         <entry>getFull</entry>
@@ -1061,16 +1051,19 @@
         <entry>guth_matchtable</entry>
         <entry>$</entry>
         <entry>finished</entry>
+        <entry>score.get(teamid1.get(CUMULATIVE_GOAL_INDEX)</entry>
+        <entry>score.get\(teamid1.get\(CUMULATIVE_GOAL_INDEX\)</entry>
+        <entry>score\.get\(teamid1\.get\(CUMULATIVE_GOAL_INDEX\)</entry>
+        <entry>score.get</entry>
+        <entry>score.get(</entry>
+        <entry>score.get(CUMULATIVE_GOAL_INDEX</entry>
+        <entry>score\.get\(teamid1\.get\(CUMULATIVE\_GOAL\_INDEX\)</entry>
+        <entry>score.get(teamid1.get(CUMULATIVE\_GOAL\_INDEX)</entry>
+        <entry>score.get(teamid1).get(CUMULATIVE\_GOAL\_INDEX)</entry>
+        <entry>score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)</entry>
+        <entry>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</entry>
       </history-search>
       <history-cmd>
-        <entry>.99</entry>
-        <entry>99</entry>
-        <entry>107</entry>
-        <entry>72</entry>
-        <entry>114</entry>
-        <entry>515</entry>
-        <entry>519</entry>
-        <entry>74</entry>
         <entry>206</entry>
         <entry>54</entry>
         <entry>57</entry>
@@ -1083,6 +1076,14 @@
         <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
         <entry>set ignorecase</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
+        <entry>%s/score.get(teamid1.get(CUMULATIVE_GOAL_INDEX)/team1TotalGoals/gc</entry>
+        <entry>%s/score.get\(teamid1.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
+        <entry>%s/score\.get\(teamid1\.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
+        <entry>%s/score\.get\(teamid1\.get\(CUMULATIVE\_GOAL\_INDEX\)/team1TotalGoals/gc</entry>
+        <entry>%s/score.get(teamid1.get(CUMULATIVE\_GOAL\_INDEX)/team1TotalGoals/gc</entry>
+        <entry>%s/score.get(teamid1).get(CUMULATIVE\_GOAL\_INDEX)/team1TotalGoals/gc</entry>
+        <entry>%s/score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)/team1TotalGoals/gc</entry>
+        <entry>%s/score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)/team2TotalGoals/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
