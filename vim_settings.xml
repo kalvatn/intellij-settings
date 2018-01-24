@@ -117,12 +117,12 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1516785537877">
-        <mark key="'" line="751" column="66" />
-        <mark key="[" line="772" column="0" />
-        <mark key="]" line="772" column="95" />
-        <mark key="^" line="772" column="93" />
-        <mark key="." line="772" column="94" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1516795716840">
+        <mark key="'" line="752" column="66" />
+        <mark key="[" line="682" column="33" />
+        <mark key="]" line="682" column="33" />
+        <mark key="^" line="773" column="93" />
+        <mark key="." line="682" column="33" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1506078055599">
         <mark key="'" line="195" column="112" />
@@ -430,8 +430,12 @@
         <mark key="." line="16" column="89" />
       </file>
       <file name="/work/projects/bac/java/source/filesender/org/tempuri/IXternSvc.class" timestamp="1516362405462" />
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1516728242404">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1516795680537">
         <mark key="'" line="127" column="75" />
+        <mark key="[" line="129" column="76" />
+        <mark key="]" line="129" column="82" />
+        <mark key="." line="129" column="82" />
+        <mark key="^" line="129" column="82" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_6.sql" timestamp="1502708635659">
         <mark key="[" line="3" column="20" />
@@ -676,11 +680,11 @@
         <mark key="." line="517" column="76" />
         <mark key="^" line="517" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_4.sql" timestamp="1516785572589">
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="10" column="58" />
-        <mark key="." line="10" column="58" />
-        <mark key="^" line="10" column="58" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_4.sql" timestamp="1516795873068">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1511784193336">
         <mark key="'" line="78" column="8" />
@@ -710,11 +714,11 @@
         <mark key="." line="85" column="40" />
         <mark key="^" line="85" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console_2.sql" timestamp="1516635009194">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="39" />
-        <mark key="." line="2" column="39" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console_2.sql" timestamp="1516795758348">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/livescore/events/LivescoreEventUtil.java" timestamp="1508959193043">
         <mark key="[" line="35" column="28" />
@@ -1002,20 +1006,20 @@
       <jump line="249" column="103" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+      <register name="&quot;" type="4">
+        <text>13534453</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>13534453</text>
       </register>
       <register name="/" type="4">
         <text>team is null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMiwgKGludCkgc3RyaW5nTGlzdE1hcC5nZXQoInRhYmxlMSIpLmdldCgxKS5nZXRQYXJhbUludDEoKSk7Cg==</text>
+        <text encoding="base64">V0hFUkUgdHUucGFyYW1faW50MSA9IDEwNDk0ODgzIEFORCB0dS50YWJsZW5hbWUgbGlrZSAiJXRlYW0lIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdHJ5IHsK</text>
