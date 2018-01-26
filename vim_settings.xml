@@ -579,6 +579,12 @@
         <mark key="^" line="80" column="1" />
         <mark key="." line="80" column="1" />
       </file>
+      <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/Main.java" timestamp="1516971086895">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1516012206424">
         <mark key="'" line="117" column="66" />
       </file>
@@ -780,6 +786,12 @@
         <mark key="]" line="36" column="110" />
         <mark key="." line="36" column="110" />
         <mark key="^" line="36" column="110" />
+      </file>
+      <file name="/work/projects/personal/java9/jdbiexperiments/pom.xml" timestamp="1516971219195">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="40" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/TournamentManager.java" timestamp="1507295627384">
         <mark key="[" line="79" column="63" />
@@ -1008,49 +1020,47 @@
       <jump line="0" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/resources/META-INF/persistence.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>13534453</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9yaz50cnVlPC9mb3JrPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRhYmxlPmphdmFjOTwvZXhlY3V0YWJsZT4K</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>13534453</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text>team is null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V0hFUkUgdHUucGFyYW1faW50MSA9IDEwNDk0ODgzIEFORCB0dS50YWJsZW5hbWUgbGlrZSAiJXRlYW0lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c291cmNlPiR7bWF2ZW4uY29tcGlsZXIuc291cmNlfTwvc291cmNlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9yaz50cnVlPC9mb3JrPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRhYmxlPmphdmFjOTwvZXhlY3V0YWJsZT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgbG9nLmVycm9yKFN0cmluZy5mb3JtYXQoIiVzIC0gcnVubmluZyBVcGRhdGVGaW5kZXJKb2IgZmFpbGVkIiwgcm9sZU5hbWUpLCBlKTsKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2F0Y2ggKFNlcnZpY2VFeGNlKQo=</text>
+        <text encoding="base64">ICAgIDxidWlsZD4KICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj48L3ZlcnNpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgIDwvcGx1Z2lucz4KICAgIDwvYnVpbGQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHR1KTsK</text>
+        <text encoding="base64">ICAgIDxwcm9qZWN0PC9wcm9qZWN0Pgo=</text>
       </register>
-      <register name="6" type="8">
-        <text>1
-1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
       </register>
-      <register name="7" type="8">
-        <text>1
-1</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVHJpZ2dlclVwZGF0ZXMuCg==</text>
+        <text encoding="base64">ICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgbG9nLmVycm9yKFN0cmluZy5mb3JtYXQoIiVzIC0gcnVubmluZyBVcGRhdGVGaW5kZXJKb2IgZmFpbGVkIiwgcm9sZU5hbWUpLCBlKTsKICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZXcgSGFzaE1hcDw+KCk7CgogICAgZm9yIChUcmlnZ2VyVXBkYXRlcyB0dSA6IHR1cykgewogICAgICB0YWJsZVVwZGF0ZXMucHV0SWZBYnNlbnQodHUuZ2V0VGFibGVuYW1lKCksIG5ldyBBcnJheUxpc3Q8PigpKTsKICAgICAgdGFibGVVcGRhdGVzLmdldCh0dS5nZXRUYWJsZW5hbWUoKSkuYWRkKHR1KTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY2F0Y2ggKFNlcnZpY2VFeGNlKQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
