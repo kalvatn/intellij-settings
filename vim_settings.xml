@@ -251,9 +251,9 @@
         <mark key="." line="39" column="88" />
         <mark key="^" line="39" column="88" />
       </file>
-      <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/cache/CacheRegistry.java" timestamp="1517229512716">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="19" />
+      <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/cache/CacheRegistry.java" timestamp="1517233278412">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="16" column="6" />
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
@@ -566,11 +566,10 @@
         <mark key="." line="21" column="32" />
         <mark key="^" line="21" column="32" />
       </file>
-      <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/Main.java" timestamp="1517231747614">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
+      <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/Main.java" timestamp="1517233587785">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/conf/standalone.xml" timestamp="1505323999032">
         <mark key="'" line="246" column="74" />
@@ -1016,48 +1015,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEpkYmkgamRiaSA9IEpkYmkuY3JlYXRlKCJqZGJjOm15c3FsOi8vMTAuMTIuMjYuNDY6MzMwNi9vZGRzIiwgImRldmVsb3BlciIsICJPbHZNOWNwVmhoIik7Cg==</text>
+        <text encoding="base64">ICAgIE1hdGNoQ2FjaGUuaW52Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mysqlDS</text>
+        <text>CACHE_GUTHMATCH</text>
       </register>
       <register name="/" type="4">
         <text>team is null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRlYW0gdGVhbUhvbWUgPSBUZWFtLmJ1aWxkZXIoKS5pZChycy5nZXRMb25nKCJob21lX2lkIikpLm5hbWUocnMuZ2V0U3RyaW5nKCJob21lX25hbWUiKSkuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIEd1dGhNYXRjaCBtYXRjaCA9IGd1dGhNYXRjaERBTy5maW5kQnlJZCgxMTgzMDM1OCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEpkYmkgamRiaSA9IEpkYmkuY3JlYXRlKCJqZGJjOm15c3FsOi8vMTAuMTIuMjYuNDY6MzMwNi9vZGRzIiwgImRldmVsb3BlciIsICJPbHZNOWNwVmhoIik7Cg==</text>
+        <text encoding="base64">ICAgIE1hdGNoQ2FjaGUuaW52Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEd1dGhNYXRjaERBTyBndXRoTWF0Y2hEQU8gPSBqZGJpLm9uRGVtYW5kKEd1dGhNYXRjaERBTy5jbGFzcyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEhhbmRsZSBvcGVuID0gamRiaS5vcGVuKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGpkYmkuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEpkYmkgamRiaSA9IEpkYmkuY3JlYXRlKCJqZGJjOm15c3FsOi8vMTAuMTIuMjYuNDY6MzMwNi9vZGRzIiwgImRldmVsb3BlciIsICJPbHZNOWNwVmhoIik7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNwZHMuc2V0TWluUG9vbFNpemUoKTsK</text>
       </register>
-      <register name="3" type="8">
+      <register name="9" type="8">
         <text>mysqlDS
 mysqlDS
 mysqlDS</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIE15c3FsQ29ubmVjdGlvblBvb2xEYXRhU291cmNlIG15c3FsRFMgPSBuZXcgTXlzcWxDb25uZWN0aW9uUG9vbERhdGFTb3VyY2UoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9yZy5qZGJpLnYzLgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEpkYmkuY3JlYXRlKGRzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIERhdGFTb3VyY2UgZHMgPSBuZXcgSkRCQzRNeXNxbFBvb2xlZENvbm5lY3Rpb24oKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEpkYmkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmd1YXZhPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3VhdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yMy42LWpyZTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
