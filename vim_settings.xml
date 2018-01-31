@@ -39,6 +39,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1517402760437">
+        <mark key="[" line="827" column="0" />
+        <mark key="]" line="829" column="0" />
+        <mark key="." line="829" column="0" />
+        <mark key="^" line="829" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1517236201887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -454,12 +460,12 @@
         <mark key="^" line="16" column="89" />
         <mark key="." line="16" column="89" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1516795680537">
-        <mark key="'" line="127" column="75" />
-        <mark key="[" line="129" column="76" />
-        <mark key="]" line="129" column="82" />
-        <mark key="." line="129" column="82" />
-        <mark key="^" line="129" column="82" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1517402398415">
+        <mark key="'" line="130" column="75" />
+        <mark key="[" line="131" column="121" />
+        <mark key="]" line="131" column="121" />
+        <mark key="." line="131" column="121" />
+        <mark key="^" line="131" column="121" />
       </file>
       <file name="/work/projects/dei/www/www/base/lib/betradar/class/LMTMatchSourceJoinXmlFeed.class.php" timestamp="1500469097042">
         <mark key="[" line="93" column="12" />
@@ -499,11 +505,11 @@
         <mark key="." line="35" column="2" />
         <mark key="^" line="35" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_5.sql" timestamp="1516019892504">
-        <mark key="[" line="113" column="23" />
-        <mark key="]" line="121" column="71" />
-        <mark key="^" line="121" column="71" />
-        <mark key="." line="121" column="71" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_5.sql" timestamp="1517402749667">
+        <mark key="[" line="140" column="120" />
+        <mark key="]" line="140" column="40" />
+        <mark key="^" line="140" column="40" />
+        <mark key="." line="140" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_2.sql" timestamp="1509015480210">
         <mark key="[" line="16" column="9" />
@@ -853,7 +859,7 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516972095362">
+      <file name="/Dummy.txt" timestamp="1517402756593">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_2.sql" timestamp="1504531218428">
@@ -963,8 +969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="715" column="11" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/StatisticsTable.java" />
-      <jump line="718" column="33" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/StatisticsTable.java" />
       <jump line="719" column="11" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/StatisticsTable.java" />
       <jump line="130" column="74" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="94" column="15" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
@@ -1063,70 +1067,70 @@
       <jump line="249" column="103" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
       <jump line="0" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/resources/META-INF/persistence.xml" />
       <jump line="11" column="32" filename="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/mapper/GuthMatchMapper.java" />
+      <jump line="129" column="75" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="836" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>daoClass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MzEyMjcsIDMxMjExLCAzMTIxOSwgMzEyMTMsIDMxMjE1LCAzMTIxNywgMzEyMjUsIDMxMjIxLCAzMTIyMywK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>daoClass</text>
+        <text>41198, 50775</text>
       </register>
       <register name="/" type="4">
-        <text>team is null</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqZGJpLm9uRGVtYW5kKEd1dGhNYXRjaERBTy5jbGFzcykuZmluZEJ5SWQobWF0Y2hJZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPSAK</text>
+        <text encoding="base64">MzEyMjcsIDMxMjExLCAzMTIxOSwgMzEyMTMsIDMxMjE1LCAzMTIxNywgMzEyMjUsIDMxMjIxLCAzMTIyMywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPQo=</text>
+        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKChQYXJhbWV0ZXJpemVkVHlwZSkgVCkuZ2V0UmF3VHlwZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEd1dGhNYXRjaCBtYXRjaCA9IE1hdGNoQ2FjaGUuZ2V0KG1hdGNoSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKChQYXJhbWV0ZXJpemVkVHlwZSkgVCkuZ2V0UmF3VHlwZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoU3RyaW5nIGFyZyA6IGFyZ3MpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEd1dGhNYXRjaCBtYXRjaCA9IE1hdGNoQ2FjaGUuZ2V0KG1hdGNoSWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgTG9hZGluZ0NhY2hlPEludGVnZXIsIFNwb3J0PiBTcG9ydENhY2hlID0gY3JlYXRlQ2FjaGUobmV3IENhY2hlTG9hZGVyPEludGVnZXIsIFNwb3J0PigpIHsKLy8gICAgICBAT3ZlcnJpZGUKLy8gICAgICBwdWJsaWMgU3BvcnQgbG9hZChATm9ubnVsbCBJbnRlZ2VyIGtleSkgewovLyAgICAgICAgcmV0dXJuIGpkYmkub25EZW1hbmQoU3BvcnREQU8uY2xhc3MpLmZpbmRCeUlkKGtleSk7Ci8vICAgICAgfQovLyAgICB9KTsKLy8gICAgTG9hZGluZ0NhY2hlPEludGVnZXIsIFRlYW0+IFRlYW1DYWNoZSA9IGNyZWF0ZUNhY2hlKG5ldyBDYWNoZUxvYWRlcjxJbnRlZ2VyLCBUZWFtPigpIHsKLy8gICAgICBAT3ZlcnJpZGUKLy8gICAgICBwdWJsaWMgVGVhbSBsb2FkKEBOb25udWxsIEludGVnZXIga2V5KSB7Ci8vICAgICAgICByZXR1cm4gamRiaS5vbkRlbWFuZChUZWFtREFPLmNsYXNzKS5maW5kQnlJZChrZXkpOwovLyAgICAgIH0KLy8gICAgfSk7Ci8vCi8vICAgIExvYWRpbmdDYWNoZTxJbnRlZ2VyLCBDYXRlZ29yeT4gQ2F0ZWdvcnlDYWNoZSA9IGNyZWF0ZUNhY2hlKAovLyAgICAgIG5ldyBDYWNoZUxvYWRlcjxJbnRlZ2VyLCBDYXRlZ29yeT4oKSB7Ci8vICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgIHB1YmxpYyBDYXRlZ29yeSBsb2FkKEBOb25udWxsIEludGVnZXIga2V5KSB7Ci8vICAgICAgICAgIHJldHVybiBqZGJpLm9uRGVtYW5kKENhdGVnb3J5REFPLmNsYXNzKS5maW5kQnlJZChrZXkpOwovLyAgICAgICAgfQovLyAgICAgIH0pOwovLyAgICBMb2FkaW5nQ2FjaGU8TG9uZywgVG91cm5hbWVudD4gVG91cm5hbWVudENhY2hlID0gY3JlYXRlQ2FjaGUoCi8vICAgICAgbmV3IENhY2hlTG9hZGVyPExvbmcsIFRvdXJuYW1lbnQ+KCkgewovLyAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICBwdWJsaWMgVG91cm5hbWVudCBsb2FkKEBOb25udWxsIExvbmcga2V5KSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgICAgcmV0dXJuIGpkYmkub25EZW1hbmQoVG91cm5hbWVudERBTy5jbGFzcykuZmluZEJ5SWQoa2V5KTsKLy8gICAgICAgIH0KLy8gICAgICB9KTsKCi8vICAgIEd1dGhNYXRjaERBTyBndXRoTWF0Y2hEQU8gPSBqZGJpLm9uRGVtYW5kKEd1dGhNYXRjaERBTy5jbGFzcyk7Ci8vICAgIEd1dGhNYXRjaCBtYXRjaCA9IGd1dGhNYXRjaERBTy5maW5kQnlJZCgxMTgzMDM1OCk7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoU3RyaW5nIGFyZyA6IGFyZ3MpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgTG9hZGluZ0NhY2hlPEludGVnZXIsIFNwb3J0PiBTcG9ydENhY2hlID0gY3JlYXRlQ2FjaGUobmV3IENhY2hlTG9hZGVyPEludGVnZXIsIFNwb3J0PigpIHsKLy8gICAgICBAT3ZlcnJpZGUKLy8gICAgICBwdWJsaWMgU3BvcnQgbG9hZChATm9ubnVsbCBJbnRlZ2VyIGtleSkgewovLyAgICAgICAgcmV0dXJuIGpkYmkub25EZW1hbmQoU3BvcnREQU8uY2xhc3MpLmZpbmRCeUlkKGtleSk7Ci8vICAgICAgfQovLyAgICB9KTsKLy8gICAgTG9hZGluZ0NhY2hlPEludGVnZXIsIFRlYW0+IFRlYW1DYWNoZSA9IGNyZWF0ZUNhY2hlKG5ldyBDYWNoZUxvYWRlcjxJbnRlZ2VyLCBUZWFtPigpIHsKLy8gICAgICBAT3ZlcnJpZGUKLy8gICAgICBwdWJsaWMgVGVhbSBsb2FkKEBOb25udWxsIEludGVnZXIga2V5KSB7Ci8vICAgICAgICByZXR1cm4gamRiaS5vbkRlbWFuZChUZWFtREFPLmNsYXNzKS5maW5kQnlJZChrZXkpOwovLyAgICAgIH0KLy8gICAgfSk7Ci8vCi8vICAgIExvYWRpbmdDYWNoZTxJbnRlZ2VyLCBDYXRlZ29yeT4gQ2F0ZWdvcnlDYWNoZSA9IGNyZWF0ZUNhY2hlKAovLyAgICAgIG5ldyBDYWNoZUxvYWRlcjxJbnRlZ2VyLCBDYXRlZ29yeT4oKSB7Ci8vICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgIHB1YmxpYyBDYXRlZ29yeSBsb2FkKEBOb25udWxsIEludGVnZXIga2V5KSB7Ci8vICAgICAgICAgIHJldHVybiBqZGJpLm9uRGVtYW5kKENhdGVnb3J5REFPLmNsYXNzKS5maW5kQnlJZChrZXkpOwovLyAgICAgICAgfQovLyAgICAgIH0pOwovLyAgICBMb2FkaW5nQ2FjaGU8TG9uZywgVG91cm5hbWVudD4gVG91cm5hbWVudENhY2hlID0gY3JlYXRlQ2FjaGUoCi8vICAgICAgbmV3IENhY2hlTG9hZGVyPExvbmcsIFRvdXJuYW1lbnQ+KCkgewovLyAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICBwdWJsaWMgVG91cm5hbWVudCBsb2FkKEBOb25udWxsIExvbmcga2V5KSB0aHJvd3MgRXhjZXB0aW9uIHsKLy8gICAgICAgICAgcmV0dXJuIGpkYmkub25EZW1hbmQoVG91cm5hbWVudERBTy5jbGFzcykuZmluZEJ5SWQoa2V5KTsKLy8gICAgICAgIH0KLy8gICAgICB9KTsKCi8vICAgIEd1dGhNYXRjaERBTyBndXRoTWF0Y2hEQU8gPSBqZGJpLm9uRGVtYW5kKEd1dGhNYXRjaERBTy5jbGFzcyk7Ci8vICAgIEd1dGhNYXRjaCBtYXRjaCA9IGd1dGhNYXRjaERBTy5maW5kQnlJZCgxMTgzMDM1OCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvbERBTy5pZlByZXNlbnQoU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)/team2TotalGoals/gc</text>
+        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>team is null</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>team is null</last-pattern>
-      <last-replace>team2TotalGoals</last-replace>
-      <last-substitute>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$</entry>
-        <entry>finished</entry>
         <entry>score.get(teamid1.get(CUMULATIVE_GOAL_INDEX)</entry>
         <entry>score.get\(teamid1.get\(CUMULATIVE_GOAL_INDEX\)</entry>
         <entry>score\.get\(teamid1\.get\(CUMULATIVE_GOAL_INDEX\)</entry>
@@ -1145,6 +1149,8 @@
         <entry>was null</entry>
         <entry>null</entry>
         <entry>team is null</entry>
+        <entry>SCHED</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
         <entry>206</entry>
@@ -1158,7 +1164,6 @@
         <entry encoding="base64">JzwsJz5zL14vIi9n</entry>
         <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
         <entry>set ignorecase</entry>
-        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry>%s/score.get(teamid1.get(CUMULATIVE_GOAL_INDEX)/team1TotalGoals/gc</entry>
         <entry>%s/score.get\(teamid1.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
         <entry>%s/score\.get\(teamid1\.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
@@ -1167,6 +1172,7 @@
         <entry>%s/score.get(teamid1).get(CUMULATIVE\_GOAL\_INDEX)/team1TotalGoals/gc</entry>
         <entry>%s/score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)/team1TotalGoals/gc</entry>
         <entry>%s/score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)/team2TotalGoals/gc</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
