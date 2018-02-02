@@ -54,10 +54,11 @@
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" timestamp="1517583918242">
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="0" />
-        <mark key="." line="289" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" timestamp="1517585737881">
+        <mark key="[" line="258" column="76" />
+        <mark key="]" line="258" column="85" />
+        <mark key="." line="258" column="85" />
+        <mark key="^" line="258" column="85" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_6.sql" timestamp="1517243199254">
         <mark key="[" line="27" column="25" />
@@ -876,47 +877,47 @@
       <jump line="30" column="46" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>HOME_GOALS</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>away</text>
+        <text>HOME_GOALS</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqZGJpLm9uRGVtYW5kKEd1dGhNYXRjaERBTy5jbGFzcykuZmluZEJ5SWQobWF0Y2hJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzY29yZS5nZXQodGVhbWlkMSkucHV0KEFXQVlfR09BTFMsIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBSYW4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MzEyMjcsIDMxMjExLCAzMTIxOSwgMzEyMTMsIDMxMjE1LCAzMTIxNywgMzEyMjUsIDMxMjIxLCAzMTIyMywK</text>
+        <text encoding="base64">CUBSYW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPSAK</text>
+        <text encoding="base64">MzEyMjcsIDMxMjExLCAzMTIxOSwgMzEyMTMsIDMxMjE1LCAzMTIxNywgMzEyMjUsIDMxMjIxLCAzMTIyMywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPQo=</text>
+        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKChQYXJhbWV0ZXJpemVkVHlwZSkgVCkuZ2V0UmF3VHlwZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEd1dGhNYXRjaCBtYXRjaCA9IE1hdGNoQ2FjaGUuZ2V0KG1hdGNoSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKChQYXJhbWV0ZXJpemVkVHlwZSkgVCkuZ2V0UmF3VHlwZSgpKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
