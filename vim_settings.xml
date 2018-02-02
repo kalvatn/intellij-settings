@@ -54,11 +54,12 @@
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" timestamp="1517585737881">
-        <mark key="[" line="258" column="76" />
-        <mark key="]" line="258" column="85" />
-        <mark key="." line="258" column="85" />
-        <mark key="^" line="258" column="85" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" timestamp="1517589158141">
+        <mark key="'" line="0" column="36" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="261" column="85" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_6.sql" timestamp="1517243199254">
         <mark key="[" line="27" column="25" />
@@ -775,10 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="74" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="94" column="15" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="503" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="4" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8fa20082-3eed-4fa7-8994-b39d558745b7/console_1.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8fa20082-3eed-4fa7-8994-b39d558745b7/console_1.sql" />
       <jump line="0" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8e3897d1-7175-461b-96b8-11aecb5e71b6/console.sql" />
       <jump line="281" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
@@ -875,10 +872,14 @@
       <jump line="129" column="75" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="836" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="30" column="46" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
+      <jump line="269" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="290" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="320" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
+      <jump line="0" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HOME_GOALS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXAuRW50cnk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -887,37 +888,37 @@
         <text>HOME_GOALS</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzY29yZS5nZXQodGVhbWlkMSkucHV0KEFXQVlfR09BTFMsIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXAuRW50cnk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKHNjb3JlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oc2NvcmUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBSYW4K</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJ0ZWFtaWQxICVkLCB0ZWFtaWQyICVkIiwgdGVhbWlkMSwgdGVhbWlkMikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MzEyMjcsIDMxMjExLCAzMTIxOSwgMzEyMTMsIDMxMjE1LCAzMTIxNywgMzEyMjUsIDMxMjIxLCAzMTIyMywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJlYWRPbmx5REFPPExvbmcsIEd1dGhNYXRjaD4gZGFvQ2xhc3MgPQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">CUBSYW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKChQYXJhbWV0ZXJpemVkVHlwZSkgVCkuZ2V0UmF3VHlwZSgpKTsK</text>
+        <text encoding="base64">MzEyMjcsIDMxMjExLCAzMTIxOSwgMzEyMTMsIDMxMjE1LCAzMTIxNywgMzEyMjUsIDMxMjIxLCAzMTIyMywK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -927,9 +928,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -951,12 +952,12 @@
         <entry>forEach</entry>
         <entry>walkover</entry>
         <entry>checking</entry>
-        <entry>log</entry>
         <entry>was null</entry>
         <entry>null</entry>
         <entry>team is null</entry>
         <entry>SCHED</entry>
         <entry>$</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
