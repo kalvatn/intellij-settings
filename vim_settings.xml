@@ -917,7 +917,7 @@
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
+        <text>266</text>
       </register>
     </registers>
     <search>
@@ -953,7 +953,6 @@
         <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry>206</entry>
         <entry>54</entry>
         <entry>57</entry>
         <entry>156</entry>
@@ -973,6 +972,7 @@
         <entry>%s/score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)/team1TotalGoals/gc</entry>
         <entry>%s/score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)/team2TotalGoals/gc</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
+        <entry>266</entry>
       </history-cmd>
       <history-expr />
       <history-input />
