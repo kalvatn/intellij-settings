@@ -45,7 +45,7 @@
         <mark key="." line="610" column="3" />
         <mark key="^" line="610" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1517236201887">
+      <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CityManager.java" timestamp="1502286926872">
@@ -72,6 +72,12 @@
         <mark key="]" line="9" column="45" />
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
+      </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventAttendanceCheckFilter.java" timestamp="1517839085257">
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="33" column="57" />
+        <mark key="^" line="33" column="57" />
+        <mark key="." line="33" column="57" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Resulttable.java" timestamp="1516715903199">
         <mark key="[" line="182" column="5" />
@@ -104,6 +110,12 @@
         <mark key="]" line="2" column="75" />
         <mark key="^" line="2" column="75" />
         <mark key="." line="2" column="75" />
+      </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventAttendanceLimitCheckFilter.java" timestamp="1517837907344">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="43" />
+        <mark key="^" line="24" column="34" />
+        <mark key="." line="24" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_4.sql" timestamp="1502796497693">
         <mark key="[" line="23" column="50" />
@@ -220,11 +232,29 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="31" />
       </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventAccessCheckFilter.java" timestamp="1517839256646">
+        <mark key="[" line="25" column="60" />
+        <mark key="]" line="25" column="59" />
+        <mark key="^" line="25" column="59" />
+        <mark key="." line="25" column="59" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_2.sql" timestamp="1516109853122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="59" />
         <mark key="^" line="1" column="59" />
         <mark key="." line="1" column="59" />
+      </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/exception/EventCapacityReachedException.java" timestamp="1517838549844">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="53" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="5" column="53" />
+      </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventAttendanceLimitCheckFeature.java" timestamp="1517837870838">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="57" />
+        <mark key="^" line="23" column="57" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1504530116252">
         <mark key="[" line="33" column="50" />
@@ -249,10 +279,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/work/projects/social/backend/api/src/main/java/com/sportradar/model/Event.java" timestamp="1517573169844">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="/work/projects/social/backend/api/src/main/java/com/sportradar/model/Event.java" timestamp="1517838034026">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/work/projects/social/backend/app/config-local.yml" timestamp="1516972047097">
         <mark key="[" line="20" column="0" />
@@ -313,6 +343,11 @@
         <mark key="]" line="170" column="198" />
         <mark key="^" line="170" column="198" />
         <mark key="." line="170" column="198" />
+      </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/annotations/EventAttendanceLimitCheck.java" timestamp="1517837967994">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/StadiumManager.java" timestamp="1515510984396">
         <mark key="[" line="105" column="0" />
@@ -386,6 +421,7 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventAccessCheckFeature.java" timestamp="1517838817456" />
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/cache/GuthMatchCache.java" timestamp="1517229394667">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="4" column="16" />
@@ -441,6 +477,12 @@
         <mark key="^" line="140" column="40" />
         <mark key="." line="140" column="40" />
       </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventCapacityCheckFilter.java" timestamp="1517838650467">
+        <mark key="[" line="20" column="61" />
+        <mark key="]" line="20" column="97" />
+        <mark key="." line="20" column="97" />
+        <mark key="^" line="20" column="97" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_2.sql" timestamp="1509015480210">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="16" column="7" />
@@ -483,6 +525,12 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventCapacityCheckFeature.java" timestamp="1517838901735">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="23" column="60" />
+        <mark key="." line="23" column="60" />
+        <mark key="^" line="23" column="60" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/StadiumCache.java" timestamp="1509406755377">
         <mark key="[" line="21" column="62" />
         <mark key="]" line="21" column="81" />
@@ -524,6 +572,18 @@
         <mark key="]" line="53" column="58" />
         <mark key="." line="53" column="58" />
         <mark key="^" line="53" column="58" />
+      </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/SocialRESTApplication.java" timestamp="1517838870791">
+        <mark key="[" line="183" column="80" />
+        <mark key="]" line="184" column="78" />
+        <mark key="^" line="184" column="78" />
+        <mark key="." line="184" column="78" />
+      </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/exception/EventAttendanceClosedException.java" timestamp="1517839140942">
+        <mark key="[" line="6" column="72" />
+        <mark key="]" line="6" column="78" />
+        <mark key="." line="6" column="78" />
+        <mark key="^" line="6" column="78" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/model/Category.java" timestamp="1516977492998">
         <mark key="[" line="14" column="21" />
@@ -602,11 +662,20 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/repository/EventRepository.java" timestamp="1517838441318">
+        <mark key="[" line="74" column="3" />
+      </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/model/ISRModel.java" timestamp="1517244441554">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
+      </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/resources/EventResource.java" timestamp="1517838599125">
+        <mark key="[" line="146" column="102" />
+        <mark key="]" line="147" column="20" />
+        <mark key="^" line="147" column="20" />
+        <mark key="." line="147" column="20" />
       </file>
       <file name="/work/projects/personal/clojure/aoclj/src/main/java/Day05.java" timestamp="1512477818639">
         <mark key="[" line="35" column="11" />
@@ -778,13 +847,19 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/annotations/EventCapacityCheck.java" timestamp="1517838965859">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="18" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/ServiceParamCache.java" timestamp="1509458088129">
         <mark key="[" line="49" column="42" />
         <mark key="]" line="49" column="50" />
         <mark key="." line="49" column="50" />
         <mark key="^" line="49" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1517241161613">
+      <file name="/fragment.java" timestamp="1517839098710">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -892,46 +967,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>43320</text>
+        <text encoding="base64">IHRocm93cyBJbnN1ZmZpY2llbnRVc2VyQWNjZXNzRXhjZXB0aW9u</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>43320</text>
+        <text encoding="base64">IHRocm93cyBJbnN1ZmZpY2llbnRVc2VyQWNjZXNzRXhjZXB0aW9u</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzY29yZS5nZXQodGVhbWlkMSkucHV0KEFXQVlfR09BTFMsIDApOwo=</text>
+        <text encoding="base64">CQlNZXRob2QgcmVzb3VyY2VNZXRob2QgPSByZXNvdXJjZUluZm8uZ2V0UmVzb3VyY2VNZXRob2QoKTsKCQlpZiAocmVzb3VyY2VNZXRob2QuaXNBbm5vdGF0aW9uUHJlc2VudChFdmVudEFjY2Vzc0NoZWNrLmNsYXNzKSkgewoJCQlsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJyZWdpc3RlcmluZyBldmVudCBhY2Nlc3MgY2hlY2sgb24gJXMuJXMiLCByZXNvdXJjZUluZm8uZ2V0UmVzb3VyY2VDbGFzcygpLCByZXNvdXJjZU1ldGhvZC5nZXROYW1lKCkpKTsKCQkJY29udGV4dC5yZWdpc3RlcihuZXcgRXZlbnRBY2Nlc3NDaGVja0ZpbHRlcihldmVudFJlcG9zaXRvcnkpKTsKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">QExvZzRqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">am9pbiB4bWxleHBvcnRfcm8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXAuRW50cnk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKHNjb3JlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oc2NvcmUpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJ0ZWFtaWQxICVkLCB0ZWFtaWQyICVkIiwgdGVhbWlkMSwgdGVhbWlkMikpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXIuZ2V0TG9nZ2VyKEV2ZW50QWNjZXNzQ2hlY2tGZWF0dXJlLmNsYXNzKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LndzLnJzLmNvcmUuUmVzcG9uc2U7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXZlbnRSZXBvc2l0b3J5LmNoZWNrQ2FwYWNpdHkoZXZlbnRJZCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXB1YmxpYyBib29sZWFuIGlzRXZlbnRGdWxsKGludCBldmVudElkKSB7CgkJRXZlbnQgZXZlbnQgPSBnZXRFdmVudChldmVudElkKTsKCQlyZXR1cm4gZXZlbnQuZ2V0Q2FwYWNpdHkoKSA+PSAwICYmIGV2ZW50LmdldFBhcnRpY2lwYW50cygpLnNpemUoKSA+PSBldmVudC5nZXRDYXBhY2l0eSgpOwoJfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQkJcmV0dXIK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
