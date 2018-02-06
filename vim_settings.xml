@@ -110,12 +110,6 @@
         <mark key="^" line="24" column="34" />
         <mark key="." line="24" column="43" />
       </file>
-      <file name="/work/projects/social/frontend/src/stores/event/actions.js" timestamp="1517842851743">
-        <mark key="[" line="110" column="36" />
-        <mark key="]" line="110" column="34" />
-        <mark key="^" line="110" column="34" />
-        <mark key="." line="110" column="34" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_4.sql" timestamp="1502796497693">
         <mark key="[" line="23" column="50" />
         <mark key="]" line="23" column="50" />
@@ -205,12 +199,6 @@
         <mark key="]" line="47" column="16" />
         <mark key="." line="47" column="16" />
         <mark key="^" line="47" column="16" />
-      </file>
-      <file name="/work/projects/social/frontend/src/routes/Admin/routes/EventEdit/EventEdit.jsx" timestamp="1517843372567">
-        <mark key="[" line="244" column="8" />
-        <mark key="]" line="240" column="69" />
-        <mark key="." line="240" column="69" />
-        <mark key="^" line="240" column="69" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/StadiumEAO.java" timestamp="1502281282634">
         <mark key="[" line="81" column="0" />
@@ -438,8 +426,8 @@
         <mark key="^" line="16" column="89" />
         <mark key="." line="16" column="89" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1517840262634">
-        <mark key="'" line="130" column="75" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1517919707353">
+        <mark key="'" line="130" column="78" />
         <mark key="[" line="130" column="71" />
         <mark key="]" line="130" column="75" />
         <mark key="." line="130" column="75" />
@@ -860,13 +848,6 @@
       <file name="/fragment.java" timestamp="1517839098710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/social/frontend/src/routes/Event/routes/Detail/Detail.jsx" timestamp="1517842702521">
-        <mark key="'" line="152" column="52" />
-        <mark key="[" line="152" column="66" />
-        <mark key="]" line="152" column="66" />
-        <mark key="." line="152" column="66" />
-        <mark key="^" line="152" column="66" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="274" column="46" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
@@ -945,7 +926,6 @@
       <jump line="290" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="320" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="0" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
-      <jump line="130" column="75" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="30" column="46" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
       <jump line="37" column="14" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
       <jump line="38" column="7" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
@@ -969,6 +949,7 @@
       <jump line="277" column="27" filename="/work/projects/social/frontend/src/routes/Admin/routes/EventEdit/EventEdit.jsx" />
       <jump line="288" column="20" filename="/work/projects/social/frontend/src/routes/Admin/routes/EventEdit/EventEdit.jsx" />
       <jump line="268" column="35" filename="/work/projects/social/frontend/src/routes/Admin/routes/EventEdit/EventEdit.jsx" />
+      <jump line="130" column="78" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -981,7 +962,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>push</text>
+        <text>testQuery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZS5lcnJvcnMpIHsKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlID0gcmVzcG9uc2UuZXJyb3JzLmpvaW4oJ1xuJyk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSAnU2VydmVyIGVycm9yLiBQbGVhc2UgbGVhdmUgYSBtZXNzYWdlIGluICN0cmQtc2hpcGl0LXNvY2lhbCBvbiBTbGFjayc7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3BvbnNlLm1lc3NhZ2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IHJlc3BvbnNlLm1lc3NhZ2U7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdG9hc3RyLmVycm9yKCdTb21ldGhpbmcgd2VudCB3cm9uZyB3aGlsZSBzYXZpbmcgdGhlIGV2ZW50JywgbWVzc2FnZSk7Cg==</text>
@@ -1021,9 +1002,9 @@
       </register>
     </registers>
     <search>
-      <last-search>push</last-search>
+      <last-search>testQuery</last-search>
       <last-offset />
-      <last-pattern>push</last-pattern>
+      <last-pattern>testQuery</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1031,7 +1012,6 @@
     </search>
     <history>
       <history-search>
-        <entry>score.get(teamid1.get(CUMULATIVE\_GOAL\_INDEX)</entry>
         <entry>score.get(teamid1).get(CUMULATIVE\_GOAL\_INDEX)</entry>
         <entry>score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)</entry>
         <entry>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</entry>
@@ -1051,6 +1031,7 @@
         <entry>createEvent</entry>
         <entry>response.errors</entry>
         <entry>push</entry>
+        <entry>testQuery</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
