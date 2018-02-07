@@ -411,8 +411,8 @@
         <mark key="^" line="16" column="89" />
         <mark key="." line="16" column="89" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1518025033546">
-        <mark key="'" line="130" column="78" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1518025095959">
+        <mark key="'" line="140" column="16" />
         <mark key="[" line="130" column="71" />
         <mark key="]" line="130" column="74" />
         <mark key="." line="130" column="74" />
@@ -828,7 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="46" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="328" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="329" column="50" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="415" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
@@ -925,9 +924,10 @@
       <jump line="277" column="27" filename="/work/projects/social/frontend/src/routes/Admin/routes/EventEdit/EventEdit.jsx" />
       <jump line="288" column="20" filename="/work/projects/social/frontend/src/routes/Admin/routes/EventEdit/EventEdit.jsx" />
       <jump line="268" column="35" filename="/work/projects/social/frontend/src/routes/Admin/routes/EventEdit/EventEdit.jsx" />
-      <jump line="130" column="78" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="77" column="51" filename="/work/projects/social/backend/pom.xml" />
       <jump line="28" column="39" filename="/work/projects/social/backend/pom.xml" />
+      <jump line="130" column="74" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="140" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -940,7 +940,7 @@
         <text>41244</text>
       </register>
       <register name="/" type="4">
-        <text>swagger</text>
+        <text>testFull</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZS5lcnJvcnMpIHsKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlID0gcmVzcG9uc2UuZXJyb3JzLmpvaW4oJ1xuJyk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSAnU2VydmVyIGVycm9yLiBQbGVhc2UgbGVhdmUgYSBtZXNzYWdlIGluICN0cmQtc2hpcGl0LXNvY2lhbCBvbiBTbGFjayc7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3BvbnNlLm1lc3NhZ2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IHJlc3BvbnNlLm1lc3NhZ2U7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdG9hc3RyLmVycm9yKCdTb21ldGhpbmcgd2VudCB3cm9uZyB3aGlsZSBzYXZpbmcgdGhlIGV2ZW50JywgbWVzc2FnZSk7Cg==</text>
@@ -980,9 +980,9 @@
       </register>
     </registers>
     <search>
-      <last-search>swagger</last-search>
+      <last-search>testFull</last-search>
       <last-offset />
-      <last-pattern>swagger</last-pattern>
+      <last-pattern>testFull</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -990,7 +990,6 @@
     </search>
     <history>
       <history-search>
-        <entry>score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)</entry>
         <entry>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</entry>
         <entry>forEach</entry>
         <entry>walkover</entry>
@@ -1010,6 +1009,7 @@
         <entry>push</entry>
         <entry>testQuery</entry>
         <entry>swagger</entry>
+        <entry>testFull</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
