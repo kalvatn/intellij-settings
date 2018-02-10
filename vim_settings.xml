@@ -193,6 +193,13 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
+      <file name="/work/projects/social/backend/app/pom.xml" timestamp="1518272482349">
+        <mark key="'" line="72" column="19" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="144" />
+        <mark key="." line="39" column="140" />
+        <mark key="^" line="39" column="75" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/SeasonCache.java" timestamp="1509406834133">
         <mark key="[" line="148" column="40" />
         <mark key="]" line="148" column="40" />
@@ -669,8 +676,12 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/work/projects/social/backend/pom.xml" timestamp="1518271185436">
-        <mark key="'" line="39" column="69" />
+      <file name="/work/projects/social/backend/pom.xml" timestamp="1518272665385">
+        <mark key="'" line="28" column="86" />
+        <mark key="[" line="70" column="87" />
+        <mark key="]" line="71" column="90" />
+        <mark key="." line="71" column="90" />
+        <mark key="^" line="71" column="90" />
       </file>
       <file name="/Dummy.txt" timestamp="1518266324565">
         <mark key="[" line="0" column="0" />
@@ -762,11 +773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="12" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/TeamInfoType.java" />
-      <jump line="90" column="95" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="62" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
-      <jump line="110" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="145" column="83" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="24" column="27" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/TeamInfoType.java" />
       <jump line="134" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="55" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
@@ -862,58 +868,63 @@
       <jump line="153" column="38" filename="/work/projects/social/backend/pom.xml" />
       <jump line="154" column="52" filename="/work/projects/social/backend/pom.xml" />
       <jump line="39" column="69" filename="/work/projects/social/backend/pom.xml" />
+      <jump line="67" column="19" filename="/work/projects/social/backend/app/pom.xml" />
+      <jump line="91" column="38" filename="/work/projects/social/backend/pom.xml" />
+      <jump line="66" column="39" filename="/work/projects/social/backend/pom.xml" />
+      <jump line="67" column="57" filename="/work/projects/social/backend/pom.xml" />
+      <jump line="28" column="86" filename="/work/projects/social/backend/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50LmhlYWx0aENoZWNrcygpLnJlZ2lzdGVyKCJkYXRhYmFzZSIsIG5ldyBEYXRhYmFzZUhlYWx0aENoZWNrKGpkYmkpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>instead</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>execute</text>
+        <text>instead</text>
       </register>
       <register name="/" type="4">
-        <text>shade</text>
+        <text>swagger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dEZpZWxkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9Ik5hbWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLm5hbWV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhhbmRsZUNoYW5nZT17dGhpcy5vbkZpZWxkQ2hhbmdlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWxpZGF0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGluY2x1ZGluZyBvcmcucmVmbGVjdGlvbnMgdmVyc2lvbiAwLjkuMTAgKGluc3RlYWQgb2YgMC45LjExKSBkdWUgdG8gaHR0cHM6Ly9naXRodWIuY29tL3Ntb2tldHVybmVyL2Ryb3B3aXphcmQtc3dhZ2dlci9pc3N1ZXMvODUgLS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50LmhlYWx0aENoZWNrcygpLnJlZ2lzdGVyKCJkYXRhYmFzZSIsIG5ldyBEYXRhYmFzZUhlYWx0aENoZWNrKGpkYmkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MC45LjEwPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhkYXRhYmFzZUNvbmZpZy5nZXRQcm9wZXJ0aWVzKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oImF0dGVtcHRpbmcgdG8gY29ubmVjdCB0byBkYXRhYmFzZSwgYXR0ZW1wdCAiICsgaSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhYmFzZUNvbmZpZy5nZXRVCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYW5hZ2VkRGF0YVNvdXJjZSBteXNxbCA9IGRhdGFiYXNlQ29uZmlnLmJ1aWxkKGVudmlyb25tZW50Lm1ldHJpY3MoKSwgIm15c3FsIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhYmFzZUNvbmZpZy5nZXRIZWFsdGhDaGVja1ZhbGlkYXRpb25RdWVyeSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhYmFzZUNvbmZpZy4K</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEQkkub3BlbihteXNxbC4sICJyb290IiwgIiIpLmV4ZWN1dGUoIlNFTEVDVCAxIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/System.out.println/log.info/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>shade</last-search>
+      <last-search>swagger</last-search>
       <last-offset />
-      <last-pattern>shade</last-pattern>
+      <last-pattern>swagger</last-pattern>
       <last-replace>log.info</last-replace>
       <last-substitute>System.out.println</last-substitute>
       <last-dir>1</last-dir>
@@ -921,7 +932,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\|</entry>
         <entry>|</entry>
         <entry>signature</entry>
         <entry>redirect</entry>
@@ -941,6 +951,7 @@
         <entry>System.out.println</entry>
         <entry>lombok</entry>
         <entry>shade</entry>
+        <entry>swagger</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
