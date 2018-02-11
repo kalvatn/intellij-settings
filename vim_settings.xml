@@ -88,6 +88,12 @@
         <mark key="^" line="2" column="75" />
         <mark key="." line="2" column="75" />
       </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventAttendanceCheckFilter.java" timestamp="1518375721107">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1508935182234">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="4" column="24" />
@@ -155,6 +161,12 @@
         <mark key="]" line="32" column="2" />
         <mark key="^" line="32" column="2" />
         <mark key="." line="32" column="2" />
+      </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/UserDAO.java" timestamp="1518375663851">
+        <mark key="[" line="25" column="134" />
+        <mark key="]" line="25" column="133" />
+        <mark key="^" line="25" column="133" />
+        <mark key="." line="25" column="133" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" timestamp="1517955023855">
         <mark key="[" line="31" column="117" />
@@ -271,6 +283,13 @@
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/SocialRESTConfiguration.java" timestamp="1518269678880">
         <mark key="'" line="33" column="34" />
+      </file>
+      <file name="/work/projects/social/backend/api/src/main/java/com/sportradar/model/Event.java" timestamp="1518383031117">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="59" column="60" />
+        <mark key="]" line="60" column="24" />
+        <mark key="." line="60" column="24" />
+        <mark key="^" line="60" column="24" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/tournaments/TennisTournamentInfoServiceBean.java" timestamp="1504699862428">
         <mark key="'" line="438" column="0" />
@@ -587,6 +606,12 @@
         <mark key="." line="517" column="76" />
         <mark key="^" line="517" column="76" />
       </file>
+      <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/repository/EventRepository.java" timestamp="1518376464778">
+        <mark key="[" line="68" column="75" />
+        <mark key="]" line="68" column="75" />
+        <mark key="." line="68" column="75" />
+        <mark key="^" line="67" column="84" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/h2h/HeadToHeadManagerIntegrationTest.java" timestamp="1511784193336">
         <mark key="'" line="78" column="8" />
       </file>
@@ -773,8 +798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="27" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/TeamInfoType.java" />
-      <jump line="134" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="55" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
       <jump line="467" column="66" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
       <jump line="547" column="74" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
@@ -873,46 +896,48 @@
       <jump line="66" column="39" filename="/work/projects/social/backend/pom.xml" />
       <jump line="67" column="57" filename="/work/projects/social/backend/pom.xml" />
       <jump line="28" column="86" filename="/work/projects/social/backend/pom.xml" />
+      <jump line="71" column="0" filename="/work/projects/social/backend/api/src/main/java/com/sportradar/model/Event.java" />
+      <jump line="60" column="39" filename="/work/projects/social/backend/api/src/main/java/com/sportradar/model/Event.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>instead</text>
+        <text encoding="base64">IC0x</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>instead</text>
+        <text encoding="base64">IC0x</text>
       </register>
       <register name="/" type="4">
         <text>swagger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGluY2x1ZGluZyBvcmcucmVmbGVjdGlvbnMgdmVyc2lvbiAwLjkuMTAgKGluc3RlYWQgb2YgMC45LjExKSBkdWUgdG8gaHR0cHM6Ly9naXRodWIuY29tL3Ntb2tldHVybmVyL2Ryb3B3aXphcmQtc3dhZ2dlci9pc3N1ZXMvODUgLS0+Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgTGlzdDxVc2VyPiBwYXJ0aWNpcGFudHMgPSBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MC45LjEwPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">CQkJZXZlbnQuc2V0UGFydGljaXBhbnRzKHBhcnRpY2lwYW50c0ZvckV2ZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlldmVudC5zZXRQYXJ0aWNpcGFudHMocGFydGljaXBhbnRzRm9yRXZlbnQpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgaWYgKGV2ZW50LmdldENhcGFjaXR5KCkgPj0gMCAmJiBldmVudC5nZXRQYXJ0aWNpcGFudHMoKS5zaXplKCkgPj0gZXZlbnQuZ2V0Q2FwYWNpdHkoKSkgewogICAgICAgIHRocm93IG5ldyBFdmVudENhcGFjaXR5UmVhY2hlZEV4Y2VwdGlvbihldmVudElkKTsKICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MC45LjEwPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
