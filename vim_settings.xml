@@ -263,6 +263,9 @@
         <mark key="^" line="33" column="50" />
         <mark key="." line="33" column="50" />
       </file>
+      <file name="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/database/Database.java" timestamp="1519048242680">
+        <mark key="'" line="43" column="17" />
+      </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/dao/LolDAO.java" timestamp="1517243251685">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="19" />
@@ -862,7 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="666" column="56" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="674" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="679" column="56" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="178" column="31" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
@@ -962,6 +964,7 @@
       <jump line="74" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="834" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="90" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/matchdetails/MatchDetailsServiceBean.java" />
+      <jump line="43" column="17" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/database/Database.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -974,7 +977,7 @@
         <text>8226, 4788, 2765, 43320, 38738</text>
       </register>
       <register name="/" type="4">
-        <text>getFullHistory</text>
+        <text>borrow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZS5lcnJvcnMpIHsKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlID0gcmVzcG9uc2UuZXJyb3JzLmpvaW4oJ1xuJyk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSAnU2VydmVyIGVycm9yLiBQbGVhc2UgbGVhdmUgYSBtZXNzYWdlIGluICN0cmQtc2hpcGl0LXNvY2lhbCBvbiBTbGFjayc7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3BvbnNlLm1lc3NhZ2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IHJlc3BvbnNlLm1lc3NhZ2U7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdG9hc3RyLmVycm9yKCdTb21ldGhpbmcgd2VudCB3cm9uZyB3aGlsZSBzYXZpbmcgdGhlIGV2ZW50JywgbWVzc2FnZSk7Cg==</text>
@@ -1014,9 +1017,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getFullHistory</last-search>
+      <last-search>borrow</last-search>
       <last-offset />
-      <last-pattern>getFullHistory</last-pattern>
+      <last-pattern>borrow</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1024,7 +1027,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SCHED</entry>
         <entry>$</entry>
         <entry>CUPTREE</entry>
         <entry>insert</entry>
@@ -1044,6 +1046,7 @@
         <entry>finished</entry>
         <entry>MATCHDETAILS</entry>
         <entry>getFullHistory</entry>
+        <entry>borrow</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
