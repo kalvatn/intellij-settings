@@ -39,12 +39,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1519050800222">
-        <mark key="'" line="834" column="24" />
-        <mark key="[" line="865" column="1" />
-        <mark key="]" line="864" column="55" />
-        <mark key="." line="864" column="55" />
-        <mark key="^" line="864" column="55" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1519133270102">
+        <mark key="'" line="873" column="14" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -867,15 +867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="674" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="679" column="56" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="178" column="31" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="757" column="6" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="758" column="14" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="1146" column="60" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="132" column="57" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="72" column="0" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
-      <jump line="125" column="76" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="139" column="693" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="61" column="56" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/TeamServiceBean.java" />
       <jump line="118" column="37" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
@@ -888,7 +879,6 @@
       <jump line="398" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="608" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="661" column="59" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="621" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="686" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="22" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="136" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
@@ -967,49 +957,59 @@
       <jump line="90" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/matchdetails/MatchDetailsServiceBean.java" />
       <jump line="43" column="17" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/database/Database.java" />
       <jump line="834" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="214" column="60" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="267" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="458" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="606" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="621" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="704" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="772" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="802" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="805" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="872" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8226, 4788, 2765, 43320, 38738</text>
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>8226, 4788, 2765, 43320, 38738</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>borrow</text>
+        <text>guth_matchtable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZS5lcnJvcnMpIHsKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlID0gcmVzcG9uc2UuZXJyb3JzLmpvaW4oJ1xuJyk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSAnU2VydmVyIGVycm9yLiBQbGVhc2UgbGVhdmUgYSBtZXNzYWdlIGluICN0cmQtc2hpcGl0LXNvY2lhbCBvbiBTbGFjayc7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3BvbnNlLm1lc3NhZ2UpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9IHJlc3BvbnNlLm1lc3NhZ2U7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdG9hc3RyLmVycm9yKCdTb21ldGhpbmcgd2VudCB3cm9uZyB3aGlsZSBzYXZpbmcgdGhlIGV2ZW50JywgbWVzc2FnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SGlzdG9yeShJbnN0YW50VXRpbC5vZigyMDE3LCAxLCAxKSwgSW5zdGFudC5ub3coKS5wbHVzKDEsIENocm9ub1VuaXQuTU9OVEhTKSk7Cg==</text>
+        <text encoding="base64">ICBzcy5zdGFydCwgc3MuZW5kLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YW50IGZyb20gPSA7CiAgICAgICAgSW5zdGFudCB0byA9IEluc3RhbnQubm93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SGlzdG9yeShJbnN0YW50VXRpbC5vZigyMDE3LCAxLCAxKSwgSW5zdGFudC5ub3coKS5wbHVzKDEsIENocm9ub1VuaXQuTU9OVEhTKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEluc3RhbnQgZnJvbSA9IEluc3RhbnRVdGlsLm9mKDIwMTAsIDEsIDEpOwogICAgICAgICAgICAgICAgSW5zdGFudCB0byA9IEluc3RhbnQubm93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50IGZyb20gPSA7CiAgICAgICAgSW5zdGFudCB0byA9IEluc3RhbnQubm93KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEluc3RhbnQgZnJvbSA9IEluc3RhbnRVdGlsLm9mKDIwMTAsIDEsIDEpOwogICAgICAgICAgICAgICAgSW5zdGFudCB0byA9IEluc3RhbnQubm93KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZWEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oc2FtbFByb3BlcnRpZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLmVyci5wcmludGxuKCJlcnJvcnMgaW4gc2FtbCBzZXR0aW5nczoiKTsK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oc2FtbFByb3BlcnRpZXMpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -1019,9 +1019,9 @@
       </register>
     </registers>
     <search>
-      <last-search>borrow</last-search>
+      <last-search>guth_matchtable</last-search>
       <last-offset />
-      <last-pattern>borrow</last-pattern>
+      <last-pattern>guth_matchtable</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1029,7 +1029,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$</entry>
         <entry>CUPTREE</entry>
         <entry>insert</entry>
         <entry>toast</entry>
@@ -1049,6 +1048,7 @@
         <entry>MATCHDETAILS</entry>
         <entry>getFullHistory</entry>
         <entry>borrow</entry>
+        <entry>guth_matchtable</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
