@@ -46,12 +46,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1519742350241">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1519745766912">
         <mark key="'" line="884" column="0" />
-        <mark key="[" line="942" column="28" />
-        <mark key="]" line="942" column="26" />
-        <mark key="." line="942" column="26" />
-        <mark key="^" line="942" column="26" />
+        <mark key="[" line="959" column="42" />
+        <mark key="]" line="959" column="40" />
+        <mark key="." line="959" column="40" />
+        <mark key="^" line="959" column="40" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -1015,14 +1015,14 @@
       <jump line="884" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>win</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmdC5kcmF3VG90YWwsCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>win</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>league_winTotal</text>
@@ -1031,31 +1031,31 @@
         <text encoding="base64">ICAgICAgICBjb25mLmFkZChuZXcgU3RhdGlzdGljc1N0YXRpY1RhYmxlc0NvbmZpZygid2luU2hvb3RvdXRUb3RhbCIsICJXKFNPVCkiLCB0cnVlLCAyMikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZE5ITENvbHVtbnMoKTsK</text>
+        <text encoding="base64">ICBmdC5kcmF3VG90YWwsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbS5jb25md2luLAogIGFtLm5vbmNvbmZ3aW4sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICBmdC5yb3VuZCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoIm1hdGNoaWQiLCBtYXRjaGlkKQogICAgICAgICAgLmFkZCgicGxheWVkaG9tZSIsIHBsYXllZGhvbWUpCiAgICAgICAgICAuYWRkKCJwbGF5ZWRhd2F5IiwgcGxheWVkYXdheSkK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoIm1hdGNoaWQiLCBtYXRjaGlkKQo=</text>
+        <text encoding="base64">ICBsZWZ0IEpPSU4gc3RhdGlzdGljc19zdGF0aWNfdGFibGVzX2Z0IGZ0IE9OIGZ0LnRhYmxlSWQgPSB0LmlkIGFuZCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoIm1hdGNoaWQiLCBtYXRjaGlkKQo=</text>
+        <text encoding="base64">ICBmdC53aW5Ub3RhbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoInRlYW1pZCIsIHRlYW1pZCkK</text>
+        <text encoding="base64">ICAgICAgQU5EIGZ0LnRlYW1JZCA9IDk4MjY7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoIm1hdGNoaWQiLCBtYXRjaGlkKQo=</text>
+        <text encoding="base64">ICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGFtLnRhYmxlSWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoImlkIiwgaWQpCg==</text>
+        <text encoding="base64">ICAoYW0uY29uZndpbiArIGZ0Lm5vbmNvbmZ3aW4pIEFTIHdpbnMsCiAgKGZ0LmNvbmZsb3NzICsgZnQubm9uY29uZmxvc3MpIGFzIGxvc3NlcywKICBmdC5zaG9vdG91dF93aW5zCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
