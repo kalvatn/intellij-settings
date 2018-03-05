@@ -46,12 +46,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1519991320797">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1520257256230">
         <mark key="'" line="992" column="8" />
-        <mark key="[" line="1062" column="109" />
-        <mark key="]" line="1062" column="108" />
-        <mark key="." line="1062" column="108" />
-        <mark key="^" line="1062" column="108" />
+        <mark key="[" line="1089" column="50" />
+        <mark key="]" line="1089" column="74" />
+        <mark key="." line="1089" column="74" />
+        <mark key="^" line="1089" column="74" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -507,11 +507,11 @@
         <mark key="^" line="140" column="40" />
         <mark key="." line="140" column="40" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" timestamp="1519916558934">
-        <mark key="[" line="238" column="27" />
-        <mark key="]" line="239" column="12" />
-        <mark key="." line="239" column="12" />
-        <mark key="^" line="239" column="12" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" timestamp="1520257498104">
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="." line="252" column="0" />
+        <mark key="^" line="250" column="90" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventCapacityCheckFilter.java" timestamp="1517838650467">
         <mark key="[" line="20" column="61" />
@@ -1016,7 +1016,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYW5kIGYuY3JlYXRlZF9hdCA+PSBOT1coKSAtIGludGVydmFsIDEgbWludXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1028,34 +1028,34 @@
         <text>skipping row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YW5kIGYuZmlsZW5hbWUgbGlrZSAidGVubmlzcmFua2luZyVXVEElIgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJza2lwcGluZyBsb2cgJXMgYXMgIiwgKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYW5kIGYuY3JlYXRlZF9hdCA+PSBOT1coKSAtIGludGVydmFsIDEgbWludXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgdHUucGFyYW1faW50MSA9IDMxNjU5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlc3VsdHRhYmxlIGxhc3RSZXN1bHQgPSBtYXRjaC5nZXRMYXN0UmVzdWx0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">am9pbiAK</text>
+        <text encoding="base64">ICAgICAgYW5kIGYuY3JlYXRlZF9hdCA+PSBOT1coKSAtIGludGVydmFsIDEgbWludXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oc0xvZyk7Cg==</text>
+        <text encoding="base64">d2hlcmUgdHUucGFyYW1faW50MSA9IDMxNjU5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YW5kIGYuZmlsZW5hbWUgbGlrZSAic2NoZWR1bGVzJXNvY2NlciVjb3BhbGliZXJ0YWRvcmVzJSIK</text>
+        <text encoding="base64">am9pbiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYW5kIGYuZmlsZXNlbmRlcl9pZCBpbiAoMzM2MCkK</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oc0xvZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">YW5kIGYuZmlsZW5hbWUgbGlrZSAic2NoZWR1bGVzJXNvY2NlciVjb3BhbGliZXJ0YWRvcmVzJSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByLmlzY3VycmVudAo=</text>
+        <text encoding="base64">ICAgICAgYW5kIGYuZmlsZXNlbmRlcl9pZCBpbiAoMzM2MCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByLm51bW9mcG9pbnRzCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
