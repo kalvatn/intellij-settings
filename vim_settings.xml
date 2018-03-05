@@ -452,8 +452,8 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" timestamp="1520264019125">
-        <mark key="'" line="203" column="4" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" timestamp="1520264844847">
+        <mark key="'" line="173" column="0" />
         <mark key="[" line="209" column="24" />
         <mark key="]" line="209" column="32" />
         <mark key="." line="209" column="32" />
@@ -508,10 +508,11 @@
         <mark key="^" line="140" column="40" />
         <mark key="." line="140" column="40" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" timestamp="1520261817978">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" timestamp="1520265034993">
+        <mark key="'" line="234" column="73" />
+        <mark key="[" line="247" column="90" />
+        <mark key="]" line="247" column="90" />
+        <mark key="." line="247" column="90" />
         <mark key="^" line="210" column="21" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventCapacityCheckFilter.java" timestamp="1517838650467">
@@ -574,11 +575,12 @@
         <mark key="." line="21" column="81" />
         <mark key="^" line="21" column="81" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/DynamicLeagueTableBean.java" timestamp="1520261894603">
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="30" column="20" />
-        <mark key="." line="30" column="20" />
-        <mark key="^" line="30" column="20" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/DynamicLeagueTableBean.java" timestamp="1520265733658">
+        <mark key="'" line="34" column="16" />
+        <mark key="[" line="116" column="55" />
+        <mark key="]" line="116" column="67" />
+        <mark key="^" line="116" column="67" />
+        <mark key="." line="116" column="67" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_6.sql" timestamp="1502708635659">
         <mark key="[" line="3" column="20" />
@@ -920,9 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
-      <jump line="197" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
-      <jump line="292" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="762" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="751" column="66" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="56" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
@@ -1020,16 +1019,19 @@
       <jump line="992" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="1395" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
       <jump line="203" column="4" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" />
+      <jump line="173" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" />
+      <jump line="234" column="73" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" />
+      <jump line="33" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/DynamicLeagueTableBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKHNMb2cpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8qIEFuIGVycm9yIHdpbGwgYmUgbG9nZ2VkIGJlbG93ICovIA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>teamId</text>
+        <text encoding="base64">IC8qIEFuIGVycm9yIHdpbGwgYmUgbG9nZ2VkIGJlbG93ICovIA==</text>
       </register>
       <register name="/" type="4">
         <text>skipping row</text>
