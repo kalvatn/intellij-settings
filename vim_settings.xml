@@ -798,6 +798,9 @@
         <mark key="." line="34" column="79" />
         <mark key="^" line="34" column="79" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" timestamp="1520350488765">
+        <mark key="'" line="61" column="13" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/BookmakerMappingCache.java" timestamp="1509405263793">
         <mark key="[" line="36" column="91" />
         <mark key="]" line="36" column="110" />
@@ -921,7 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="103" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
       <jump line="0" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/resources/META-INF/persistence.xml" />
       <jump line="11" column="32" filename="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/mapper/GuthMatchMapper.java" />
       <jump line="129" column="75" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
@@ -1021,6 +1023,7 @@
       <jump line="1104" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="30" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_4.sql" />
       <jump line="37" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" />
+      <jump line="61" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1033,7 +1036,7 @@
         <text>gutmatchid</text>
       </register>
       <register name="/" type="4">
-        <text>skipping row</text>
+        <text>doquery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChzbC5nZXRUZWFtaWQoKSA9PSAxMTYyMTQpIHsKICAgICAgICAgICAgICBsb2cuaW5mbyhyb3cpOwogICAgICAgICAgICAgIGxvZy5pbmZvKHNsKTsKICAgICAgICAgICAgICBsb2cuaW5mbyhvdXRjb21lTGV0dGVyKTsKICAgICAgICAgIH0K</text>
@@ -1073,9 +1076,9 @@
       </register>
     </registers>
     <search>
-      <last-search>skipping row</last-search>
+      <last-search>doquery</last-search>
       <last-offset />
-      <last-pattern>skipping row</last-pattern>
+      <last-pattern>doquery</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1090,7 +1093,6 @@
         <entry>getFullHistory</entry>
         <entry>borrow</entry>
         <entry>guth_matchtable</entry>
-        <entry>doquery</entry>
         <entry>formtable</entry>
         <entry>invoke</entry>
         <entry encoding="base64">XDxTdGF0aXN0aWNzTG9nXD4=</entry>
@@ -1103,6 +1105,7 @@
         <entry>getFull</entry>
         <entry>testFull</entry>
         <entry>skipping row</entry>
+        <entry>doquery</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
