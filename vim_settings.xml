@@ -46,12 +46,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1520424398435">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1520429513222">
         <mark key="'" line="1110" column="30" />
-        <mark key="[" line="1157" column="60" />
-        <mark key="]" line="1157" column="102" />
-        <mark key="." line="1157" column="102" />
-        <mark key="^" line="1157" column="102" />
+        <mark key="[" line="1173" column="19" />
+        <mark key="]" line="1173" column="19" />
+        <mark key="." line="1173" column="19" />
+        <mark key="^" line="1173" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -629,6 +629,12 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_10.sql" timestamp="1520428394067">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="48" />
+        <mark key="^" line="25" column="48" />
+        <mark key="." line="25" column="48" />
+      </file>
       <file name="/tmp/filesender-soap/src/main/java/org/tempuri/ListTeamsResponse.java" timestamp="1515771430023">
         <mark key="[" line="38" column="41" />
         <mark key="]" line="38" column="48" />
@@ -1026,20 +1032,20 @@
       <jump line="1100" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3NfcGxheWVyX3N0YXRzX3R5cGUgc3Qgb24gc3QudHlwZWlkID0gcHMudHlwZWlkCg==</text>
+      <register name="&quot;" type="4">
+        <text>38564</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>stats</text>
+        <text>38564</text>
       </register>
       <register name="/" type="4">
         <text>doquery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChzbC5nZXRUZWFtaWQoKSA9PSAxMTYyMTQpIHsKICAgICAgICAgICAgICBsb2cuaW5mbyhyb3cpOwogICAgICAgICAgICAgIGxvZy5pbmZvKHNsKTsKICAgICAgICAgICAgICBsb2cuaW5mbyhvdXRjb21lTGV0dGVyKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">V0hFUkUgcGUucGxheWVyaWQgPSA0MDk3OSBBTkQgcGUuc2Vhc29uaWQgPSAzODU2NDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3NfcGxheWVyX3N0YXRzX3R5cGUgc3Qgb24gc3QudHlwZWlkID0gcHMudHlwZWlkCg==</text>
