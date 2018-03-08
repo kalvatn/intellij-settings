@@ -116,6 +116,9 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="24" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1520504867657">
+        <mark key="'" line="782" column="42" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_4.sql" timestamp="1520346813781">
         <mark key="'" line="30" column="37" />
         <mark key="[" line="38" column="123" />
@@ -935,11 +938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
-      <jump line="320" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
-      <jump line="0" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
-      <jump line="30" column="46" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
-      <jump line="37" column="14" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
       <jump line="38" column="7" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
       <jump line="46" column="14" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
       <jump line="47" column="7" filename="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/EventDAO.java" />
@@ -1035,6 +1033,11 @@
       <jump line="84" column="96" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="245" column="64" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="93" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="702" column="131" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="742" column="63" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="778" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="779" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="782" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1047,7 +1050,7 @@
         <text>306297</text>
       </register>
       <register name="/" type="4">
-        <text>testQuery</text>
+        <text>TeamValue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlkc0J5VHlwZS5wdXRBbGwoRXhwb3J0UXVlcnkuSWRUeXBlLlNUQUdFSUQsIEltbXV0YWJsZUxpc3Qub2YoMzA2Mjk3KSk7Cg==</text>
@@ -1087,9 +1090,9 @@
       </register>
     </registers>
     <search>
-      <last-search>testQuery</last-search>
+      <last-search>TeamValue</last-search>
       <last-offset />
-      <last-pattern>testQuery</last-pattern>
+      <last-pattern>TeamValue</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1097,7 +1100,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finished</entry>
         <entry>MATCHDETAILS</entry>
         <entry>getFullHistory</entry>
         <entry>borrow</entry>
@@ -1117,6 +1119,7 @@
         <entry>OUTRIGHT</entry>
         <entry>doquery</entry>
         <entry>testQuery</entry>
+        <entry>TeamValue</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
