@@ -46,12 +46,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1520864476269">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1520865165265">
         <mark key="'" line="1326" column="0" />
-        <mark key="[" line="1356" column="6" />
-        <mark key="]" line="1356" column="5" />
-        <mark key="." line="1356" column="5" />
-        <mark key="^" line="1356" column="5" />
+        <mark key="[" line="1363" column="35" />
+        <mark key="]" line="1363" column="34" />
+        <mark key="." line="1363" column="34" />
+        <mark key="^" line="1363" column="34" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -88,7 +88,6 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/TeamCache.java" timestamp="1519982543933" />
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventAttendanceCheckFilter.java" timestamp="1517839085257">
         <mark key="[" line="33" column="57" />
         <mark key="]" line="33" column="57" />
@@ -130,7 +129,6 @@
         <mark key="." line="38" column="125" />
         <mark key="^" line="38" column="125" />
       </file>
-      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" timestamp="1520514705518" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_5.sql" timestamp="1502698624316">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="2" column="75" />
@@ -143,7 +141,6 @@
         <mark key="^" line="24" column="34" />
         <mark key="." line="24" column="43" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/TriggerUpdateDeltaGenerator.java" timestamp="1520430817316" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_4.sql" timestamp="1502796497693">
         <mark key="[" line="23" column="50" />
         <mark key="]" line="23" column="50" />
@@ -711,7 +708,6 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/RankingType.java" timestamp="1519822493659" />
       <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" timestamp="1520515283942">
         <mark key="'" line="1670" column="14" />
       </file>
@@ -763,7 +759,6 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520863680915" />
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/SingleLogoutService.java" timestamp="1500576207279">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="19" column="17" />
@@ -888,7 +883,6 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="1" column="60" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/RankingEAO.java" timestamp="1519811634400" />
       <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" timestamp="1520515354487">
         <mark key="'" line="2855" column="14" />
       </file>
@@ -1062,8 +1056,8 @@
       <jump line="256" column="4" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3MyX3N0YWdldHlwZSBzdCBvbiBzdC50eXBlaWQgPSBzLnR5cGVpZAo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1078,31 +1072,31 @@
         <text encoding="base64">U0VMRUNUIHMuaWQsIHMuc3RhcnRkYXRlLCBzLmVuZGRhdGUgRlJPTSBzdGF0aXN0aWNzMl9zdGFnZSBzIHdoZXJlIHMuaWQgPSAzNDg4NjkgYW5kIHMuc3RhcnRkYXRlIGlzIG5vdCBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">am9pbiAK</text>
+        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3MyX3N0YWdldHlwZSBzdCBvbiBzdC50eXBlaWQgPSBzLnR5cGVpZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUIHMuaWQsIHMuc3RhcnRkYXRlLCBzLmVuZGRhdGUgRlJPTSBzdGF0aXN0aWNzMl9zdGFnZSBzIHdoZXJlIHMuaWQgPSAzNDg4NjkgYW5kIHVuaXhfdGltZXN0YW1wKHMuc3RhcnRkYXRlKSA+PSBOT1coKSAtIGludGVydmFsIDEgeWVhcjsK</text>
+        <text encoding="base64">am9pbiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBhbmQgcy5zdGFydGRhdGUgaXMgbnVsbAo=</text>
+        <text encoding="base64">U0VMRUNUIHMuaWQsIHMuc3RhcnRkYXRlLCBzLmVuZGRhdGUgRlJPTSBzdGF0aXN0aWNzMl9zdGFnZSBzIHdoZXJlIHMuaWQgPSAzNDg4NjkgYW5kIHVuaXhfdGltZXN0YW1wKHMuc3RhcnRkYXRlKSA+PSBOT1coKSAtIGludGVydmFsIDEgeWVhcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V0hFUkUgcy5pZCA9IDM0ODg2OTsK</text>
+        <text encoding="base64">IyBhbmQgcy5zdGFydGRhdGUgaXMgbnVsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TlVMTAo=</text>
+        <text encoding="base64">V0hFUkUgcy5pZCA9IDM0ODg2OTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKHN0YXIpOwo=</text>
+        <text encoding="base64">TlVMTAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwbGFpbgo=</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKHN0YXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYW4K</text>
+        <text encoding="base64">ZXhwbGFpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQU5EIG0uZGF0ZW9mbWF0Y2ggPj0gTk9XKCkgLSBJTlRFUlZBTCAxIFlFQVIK</text>
+        <text encoding="base64">ICAgICAgYW4K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
