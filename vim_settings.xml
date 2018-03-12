@@ -46,12 +46,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1520855747230">
-        <mark key="'" line="1323" column="47" />
-        <mark key="[" line="1329" column="21" />
-        <mark key="]" line="1329" column="139" />
-        <mark key="." line="1329" column="139" />
-        <mark key="^" line="1329" column="139" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1520859865300">
+        <mark key="'" line="1326" column="0" />
+        <mark key="[" line="1338" column="1" />
+        <mark key="]" line="1338" column="1" />
+        <mark key="." line="1338" column="1" />
+        <mark key="^" line="1338" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -484,12 +484,12 @@
         <mark key="^" line="16" column="89" />
         <mark key="." line="16" column="89" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1520859254637">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1520859910142">
         <mark key="'" line="87" column="0" />
-        <mark key="[" line="129" column="76" />
-        <mark key="]" line="129" column="82" />
-        <mark key="." line="129" column="82" />
-        <mark key="^" line="129" column="82" />
+        <mark key="[" line="136" column="70" />
+        <mark key="]" line="136" column="75" />
+        <mark key="." line="136" column="75" />
+        <mark key="^" line="136" column="75" />
       </file>
       <file name="/work/projects/dei/www/www/base/lib/betradar/class/LMTMatchSourceJoinXmlFeed.class.php" timestamp="1500469097042">
         <mark key="[" line="93" column="12" />
@@ -947,7 +947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
       <jump line="163" column="15" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
       <jump line="907" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="76" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/FormTableServiceBean.java" />
@@ -1047,16 +1046,17 @@
       <jump line="197" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" />
       <jump line="212" column="26" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" />
       <jump line="33" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" />
+      <jump line="1326" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>38738</text>
+        <text>307498</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>38738</text>
+        <text>307498</text>
       </register>
       <register name="/" type="4">
         <text>shootout</text>
