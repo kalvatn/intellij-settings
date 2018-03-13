@@ -462,11 +462,11 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" timestamp="1520946991581">
-        <mark key="[" line="200" column="5" />
-        <mark key="]" line="203" column="7" />
-        <mark key="^" line="203" column="7" />
-        <mark key="." line="203" column="7" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" timestamp="1520948139666">
+        <mark key="[" line="211" column="53" />
+        <mark key="]" line="211" column="53" />
+        <mark key="^" line="211" column="53" />
+        <mark key="." line="211" column="53" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1508935182234">
         <mark key="[" line="5" column="1" />
@@ -764,11 +764,11 @@
         <mark key="^" line="5" column="54" />
         <mark key="." line="5" column="54" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/StatisticsLogEAOIntegrationTest.java" timestamp="1520947521709">
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="37" column="80" />
-        <mark key="." line="37" column="80" />
-        <mark key="^" line="37" column="80" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/StatisticsLogEAOIntegrationTest.java" timestamp="1520948320180">
+        <mark key="[" line="29" column="65" />
+        <mark key="]" line="29" column="75" />
+        <mark key="." line="29" column="75" />
+        <mark key="^" line="29" column="75" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/AustrianDistrict.java" timestamp="1500034396038">
         <mark key="[" line="28" column="24" />
@@ -1067,14 +1067,14 @@
       <jump line="130" column="85" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8odGVhbVRhYmxlICsgIiAiICsgdGVuZGVuY3lMZXR0ZXJzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>comparing</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>collect</text>
+        <text>comparing</text>
       </register>
       <register name="/" type="4">
         <text>startdate</text>
