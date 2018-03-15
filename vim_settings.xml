@@ -557,8 +557,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="123" column="54" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/Form.java" timestamp="1521120095364">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/Form.java" timestamp="1521123808448">
         <mark key="[" line="14" column="26" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StagejoinEAO.java" timestamp="1506426729699">
         <mark key="[" line="42" column="109" />
@@ -637,10 +640,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/queries/FishnetAPITest.java" timestamp="1521120092332">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/queries/FishnetAPITest.java" timestamp="1521123993261">
+        <mark key="[" line="32" column="102" />
+        <mark key="]" line="32" column="111" />
+        <mark key="." line="32" column="111" />
+        <mark key="^" line="32" column="111" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/exception/EventAttendanceClosedException.java" timestamp="1517839140942">
         <mark key="[" line="6" column="72" />
@@ -926,12 +930,12 @@
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TeamTableData.java" timestamp="1521120123699">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TeamTableData.java" timestamp="1521123842788">
         <mark key="'" line="65" column="11" />
-        <mark key="[" line="64" column="30" />
-        <mark key="]" line="64" column="30" />
-        <mark key="." line="64" column="30" />
-        <mark key="^" line="64" column="30" />
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LiveTableServiceBean.java" timestamp="1509022939147">
         <mark key="[" line="89" column="12" />
@@ -1077,14 +1081,14 @@
       <jump line="64" column="11" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TeamTableData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdG90YWwuCg==</text>
+      <register name="&quot;" type="4">
+        <text>total</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>total</text>
       </register>
       <register name="/" type="4">
         <text>statistics_log</text>
@@ -1093,31 +1097,31 @@
         <text encoding="base64">ICBwcml2YXRlIFRhYmxlRGF0YSBnb2FsZGlmZmVyZW5jZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdG90YWwuCg==</text>
+        <text encoding="base64">ICAgICAgRm9ybSB0b3RhbCA9IGZvcm0uZ2V0KCJ0b3RhbCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8ocG9zaXRpb24uZ2V0VG90YWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgTWFwPFN0cmluZywgRm9ybT4gZm9ybSA9IHRlYW1UYWJsZURhdGEuZ2V0Rm9ybSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8odGVhbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdG90YWwuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE1hcDxUZWFtSlNPTiwgTGlzdDxUZWFtVGFibGVEYXRhPj4gY29sbGVjdCA9CiAgICAgICAgZm9ybXRhYmxlLmdldFRlYW1zKCkuc3RyZWFtKCkuY29sbGVjdChDb2xsZWN0b3JzLmdyb3VwaW5nQnkoVGVhbVRhYmxlRGF0YTo6Z2V0VGVhbSkpOwoKICAgIGZvciAoRW50cnk8VGVhbUpTT04sIExpc3Q8VGVhbVRhYmxlRGF0YT4+IHRlYW1KU09OTGlzdEVudHJ5IDogY29sbGVjdC5lbnRyeVNldCgpKSB7CiAgICAgIFRlYW1KU09OIGtleSA9IHRlYW1KU09OTGlzdEVudHJ5LmdldEtleSgpOwogICAgICBMaXN0PFRlYW1UYWJsZURhdGE+IHZhbHVlID0gdGVhbUpTT05MaXN0RW50cnkuZ2V0VmFsdWUoKTsKICAgICAgbG9nLmluZm8oa2V5LmdldE5hbWUoKSk7CiAgICAgIHZhbHVlLmdldAoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8ocG9zaXRpb24uZ2V0VG90YWwoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8odGVhbSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoKTsK</text>
+        <text encoding="base64">ICAgIE1hcDxUZWFtSlNPTiwgTGlzdDxUZWFtVGFibGVEYXRhPj4gY29sbGVjdCA9CiAgICAgICAgZm9ybXRhYmxlLmdldFRlYW1zKCkuc3RyZWFtKCkuY29sbGVjdChDb2xsZWN0b3JzLmdyb3VwaW5nQnkoVGVhbVRhYmxlRGF0YTo6Z2V0VGVhbSkpOwoKICAgIGZvciAoRW50cnk8VGVhbUpTT04sIExpc3Q8VGVhbVRhYmxlRGF0YT4+IHRlYW1KU09OTGlzdEVudHJ5IDogY29sbGVjdC5lbnRyeVNldCgpKSB7CiAgICAgIFRlYW1KU09OIGtleSA9IHRlYW1KU09OTGlzdEVudHJ5LmdldEtleSgpOwogICAgICBMaXN0PFRlYW1UYWJsZURhdGE+IHZhbHVlID0gdGVhbUpTT05MaXN0RW50cnkuZ2V0VmFsdWUoKTsKICAgICAgbG9nLmluZm8oa2V5LmdldE5hbWUoKSk7CiAgICAgIHZhbHVlLmdldAoKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcm10YWJsZS5nZXQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBASW5qZWN0Cg==</text>
+        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGZvcm10YWJsZS5nZXQK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
