@@ -46,12 +46,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1522068841676">
-        <mark key="'" line="1590" column="86" />
-        <mark key="[" line="1622" column="124" />
-        <mark key="]" line="1622" column="123" />
-        <mark key="." line="1622" column="123" />
-        <mark key="^" line="1622" column="123" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1522070013166">
+        <mark key="'" line="1607" column="34" />
+        <mark key="[" line="1623" column="1" />
+        <mark key="]" line="1626" column="67" />
+        <mark key="." line="1626" column="67" />
+        <mark key="^" line="1626" column="67" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -729,8 +729,8 @@
         <mark key="^" line="34" column="65" />
         <mark key="." line="34" column="65" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" timestamp="1521558415624">
-        <mark key="'" line="516" column="94" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" timestamp="1522070117334">
+        <mark key="'" line="655" column="62" />
         <mark key="[" line="593" column="0" />
         <mark key="]" line="593" column="0" />
         <mark key="." line="593" column="0" />
@@ -1048,8 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="17" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
-      <jump line="18" column="21" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="476" column="19" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="990" column="32" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="1033" column="20" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
@@ -1148,6 +1146,8 @@
       <jump line="1590" column="86" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="98" column="4" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="50" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="1607" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="655" column="62" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1160,7 +1160,7 @@
         <text>307498</text>
       </register>
       <register name="/" type="4">
-        <text>OUTRIGHT</text>
+        <text>invoke</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZXJhdGVEYXRhRm9yVXBkYXRlcyhzZXJ2aWNlLCB1cGRhdGVzLCBjbGllbnRJZHMpOwo=</text>
@@ -1200,9 +1200,9 @@
       </register>
     </registers>
     <search>
-      <last-search>OUTRIGHT</last-search>
+      <last-search>invoke</last-search>
       <last-offset />
-      <last-pattern>OUTRIGHT</last-pattern>
+      <last-pattern>invoke</last-pattern>
       <last-replace>();</last-replace>
       <last-substitute>(row\.get.*);</last-substitute>
       <last-dir>1</last-dir>
@@ -1210,7 +1210,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(short).*);</entry>
         <entry>goalsfor</entry>
         <entry>row.*);/</entry>
         <entry>(row.*);</entry>
@@ -1228,8 +1227,9 @@
         <entry>getIseMatch</entry>
         <entry>getLeague</entry>
         <entry>getHeadto</entry>
-        <entry>invoke</entry>
         <entry>OUTRIGHT</entry>
+        <entry>invopke</entry>
+        <entry>invoke</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
