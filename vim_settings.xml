@@ -342,11 +342,11 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/containers/cup/bracket/FishnetCupBracket.java" timestamp="1522759871885">
-        <mark key="[" line="4" column="56" />
-        <mark key="]" line="4" column="53" />
-        <mark key="^" line="4" column="53" />
-        <mark key="." line="4" column="53" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/containers/cup/bracket/FishnetCupBracket.java" timestamp="1522763794572">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/WeCache.java" timestamp="1509406673953">
         <mark key="[" line="39" column="69" />
@@ -377,6 +377,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/bracket/BracketRoundset.java" timestamp="1522763852365">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/model/Tournament.java" timestamp="1516977476169">
         <mark key="[" line="16" column="33" />
@@ -519,11 +525,11 @@
         <mark key="^" line="16" column="89" />
         <mark key="." line="16" column="89" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/StatisticsCup.java" timestamp="1522760058165">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/StatisticsCup.java" timestamp="1522763756764">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="20" column="1" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1522148840974">
         <mark key="'" line="70" column="96" />
@@ -1142,19 +1148,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tournamentId</text>
+        <text>firstmatchdate</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>tournamentId</text>
+        <text>firstmatchdate</text>
       </register>
       <register name="/" type="4">
         <text>testQuery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IHQuaWQsIHQuc2Vhc29uaWQsIHQuZGVzY3JpcHRpb24sIHQuaW5jbHVkZU1hdGNoZXNXaXRoTm9uTGVhZ3VlVGVhbXMgZnJvbSBzdGF0aXN0aWNzX3RhYmxlcyB0IHdoZXJlIHQuc2Vhc29uaWQgPSAzODcxMgo7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFRpbWVKU09OIGZpcnN0bWF0Y2hkYXRlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJ0YWJsZSBpcyBvZiB0eXBlIGludGVybmF0aW9uYWwgZnJpZW5kbHksIG5vdCBmaWx0ZXJpbmcgdGVhbXMiKTsKICAgICAgICB9IGVsc2Ugewo=</text>
