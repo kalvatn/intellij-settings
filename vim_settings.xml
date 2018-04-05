@@ -16,9 +16,9 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1522156587028">
-        <mark key="'" line="1610" column="34" />
-        <mark key="[" line="1685" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1522929119092">
+        <mark key="'" line="1687" column="81" />
+        <mark key="[" line="1696" column="85" />
         <mark key="]" line="1687" column="81" />
         <mark key="^" line="1687" column="81" />
         <mark key="." line="1687" column="81" />
@@ -701,12 +701,12 @@
         <mark key="^" line="53" column="11" />
         <mark key="." line="148" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b0bdf99c-aa72-4c30-bfcb-ae6b4d3945f6/console.sql" timestamp="1522927844558">
-        <mark key="a" line="12" column="27" />
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="28" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b0bdf99c-aa72-4c30-bfcb-ae6b4d3945f6/console.sql" timestamp="1522928882951">
+        <mark key="a" line="14" column="27" />
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="51" />
+        <mark key="^" line="31" column="51" />
+        <mark key="." line="31" column="51" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Logout.java" timestamp="1500576096489">
         <mark key="[" line="18" column="12" />
@@ -1086,7 +1086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1033" column="20" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="3127" column="31" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="1862" column="24" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="1863" column="24" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
@@ -1186,6 +1185,7 @@
       <jump line="655" column="62" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="70" column="96" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="30" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/queries/FishnetAPI.java" />
+      <jump line="1687" column="81" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
