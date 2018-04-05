@@ -23,6 +23,9 @@
         <mark key="^" line="1687" column="81" />
         <mark key="." line="1687" column="81" />
       </file>
+      <file name="/a.dummy" timestamp="1517839021938">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CityManager.java" timestamp="1502286926872">
         <mark key="[" line="27" column="30" />
         <mark key="]" line="27" column="29" />
@@ -487,6 +490,9 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1522920614161">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_2.sql" timestamp="1504531218428">
         <mark key="[" line="21" column="1" />
         <mark key="]" line="23" column="0" />
@@ -625,6 +631,9 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Resulttable.java" timestamp="1516715903199">
+        <mark key="[" line="182" column="5" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1520510211884">
         <mark key="'" line="797" column="28" />
         <mark key="[" line="494" column="53" />
@@ -691,6 +700,12 @@
         <mark key="]" line="148" column="40" />
         <mark key="^" line="53" column="11" />
         <mark key="." line="148" column="40" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b0bdf99c-aa72-4c30-bfcb-ae6b4d3945f6/console.sql" timestamp="1522920928517">
+        <mark key="[" line="41" column="65" />
+        <mark key="]" line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+        <mark key="." line="36" column="20" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Logout.java" timestamp="1500576096489">
         <mark key="[" line="18" column="12" />
@@ -1172,14 +1187,14 @@
       <jump line="30" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/queries/FishnetAPI.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxDdXBSb3VuZC5zZXQK</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>cuprounds</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>testQuery</text>
