@@ -353,10 +353,11 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1522850752062">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1523014978991">
+        <mark key="[" line="56" column="52" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
+        <mark key="^" line="56" column="27" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/model/Category.java" timestamp="1516977492998">
         <mark key="[" line="14" column="21" />
@@ -1189,13 +1190,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tennisheadtohead</text>
+        <text>key</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>tennisheadtohead</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>testQuery</text>
@@ -1204,31 +1205,31 @@
         <text encoding="base64">ICBgY3ViZV9ob2xkZXJgIGludCBOVUxMLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgaW50ZWdlciA6IGJsb2Nrcy5rZXlTZXQoKSkgewogICAgICAgICAgLy8KICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdXBSb3VuZCB4bWxDdXBSb3VuZCA9IG5ldyBDdXBSb3VuZCgpOwogICAgICAgIHhtbEN1cFJvdW5kLnNldE9yZGVyKG9yZGVyKyspOwogICAgICAgIHhtbEN1cFJvdW5kLnNldERlc2NyaXB0aW9uKHJvdW5kLmdldE5hbWUoKSk7CiAgICAgICAgeG1sQ3VwUm91bmRzLmFkZCh4bWxDdXBSb3VuZCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYG1hdGNoYCBBREQgQ09OU1RSQUlOVCBgbWF0Y2hfZmswYCBGT1JFSUdOIEtFWSAoYHBsYXllcl9vbmVfaWRgKSBSRUZFUkVOQ0VTIGBwbGF5ZXJgKGBpZGApOwoKQUxURVIgVEFCTEUgYG1hdGNoYCBBREQgQ09OU1RSQUlOVCBgbWF0Y2hfZmsxYCBGT1JFSUdOIEtFWSAoYHBsYXllcl90d29faWRgKSBSRUZFUkVOQ0VTIGBwbGF5ZXJgKGBpZGApOwoKQUxURVIgVEFCTEUgYGdhbWVgIEFERCBDT05TVFJBSU5UIGBnYW1lX2ZrMGAgRk9SRUlHTiBLRVkgKGBtYXRjaF9pZGApIFJFRkVSRU5DRVMgYG1hdGNoYChgaWRgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgYG1hdGNoYCBBREQgQ09OU1RSQUlOVCBgbWF0Y2hfZmswYCBGT1JFSUdOIEtFWSAoYHBsYXllcl9vbmVfaWRgKSBSRUZFUkVOQ0VTIGBwbGF5ZXJgKGBpZGApOwoKQUxURVIgVEFCTEUgYG1hdGNoYCBBREQgQ09OU1RSQUlOVCBgbWF0Y2hfZmsxYCBGT1JFSUdOIEtFWSAoYHBsYXllcl90d29faWRgKSBSRUZFUkVOQ0VTIGBwbGF5ZXJgKGBpZGApOwoKQUxURVIgVEFCTEUgYGdhbWVgIEFERCBDT05TVFJBSU5UIGBnYW1lX2ZrMGAgRk9SRUlHTiBLRVkgKGBtYXRjaF9pZGApIFJFRkVSRU5DRVMgYG1hdGNoYChgaWRgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxDdXBSb3VuZC5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxDdXBSb3VuZC4K</text>
+        <text encoding="base64">ICAgICAgICB4bWxDdXBSb3VuZC5zZXQK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
