@@ -75,12 +75,12 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_4.sql" timestamp="1522157011551">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_4.sql" timestamp="1523277470665">
         <mark key="'" line="30" column="37" />
         <mark key="[" line="65" column="97" />
-        <mark key="]" line="65" column="96" />
-        <mark key="." line="65" column="96" />
-        <mark key="^" line="65" column="96" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="0" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/AuthenticationConfiguration.java" timestamp="1500578285184">
         <mark key="[" line="29" column="3" />
@@ -736,11 +736,11 @@
         <mark key="." line="47" column="16" />
         <mark key="^" line="47" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console_4.sql" timestamp="1522933869944">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console_4.sql" timestamp="1523277571954">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/StadiumEAO.java" timestamp="1502281282634">
         <mark key="[" line="81" column="0" />
@@ -1225,8 +1225,8 @@
       <jump line="1695" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isNotBlank</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YW5kIGYuZmlsZW5hbWUgbGlrZSAiaGVhZHRvaGVhZF9UZW5uaXMlIgo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1241,31 +1241,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICB4bWxCbG9ja1BhcnRpY2lwYW50cy5hZGQobmV3IEJsb2NrUGFydGljaXBhbnQoaG9tZVRlYW0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRlYW1JbmZvLmdldFRleHQoKSAhPSBudWxsICYmICF0ZWFtSW5mby5nZXRUZXh0KCkuaXNFbXB0eSgpKSB7Cg==</text>
+        <text encoding="base64">YW5kIGYuZmlsZW5hbWUgbGlrZSAiaGVhZHRvaGVhZF9UZW5uaXMlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">am9pbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRlYW1JbmZvLmdldFRleHQoKSAhPSBudWxsICYmICF0ZWFtSW5mby5nZXRUZXh0KCkuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1cEVsZW1lbnQuCg==</text>
+        <text encoding="base64">am9pbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YQo=</text>
+        <text encoding="base64">ICAgIGN1cEVsZW1lbnQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNyZC5zZXQK</text>
+        <text encoding="base64">ICAgIHN0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB4bWxDdXBUcmVlOwo=</text>
+        <text encoding="base64">ICAgIHNyZC5zZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB4bWxDCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB4bWxDdXBUcmVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIExpc3Q8QmxvY2tQYXJ0aWNpcGFudD4geG1sQmxvY2tQYXJ0aWNpcGFudHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB4bWxDCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB4bWxCbG9ja1BhcnRpY2lwYW50cy5hZGQobmV3IEJsb2NrUGFydGljaXBhbnQoaG9tZVRlYW0pKTsKICAgICAgICAgICAgICB4bWxCbG9ja1BhcnRpY2lwYW50cy5hZGQobmV3IEJsb2NrUGFydGljaXBhbnQoYXdheVRlYW0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIExpc3Q8QmxvY2tQYXJ0aWNpcGFudD4geG1sQmxvY2tQYXJ0aWNpcGFudHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
