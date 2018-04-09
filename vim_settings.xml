@@ -16,12 +16,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1523275021433">
-        <mark key="'" line="1692" column="28" />
-        <mark key="[" line="1711" column="8" />
-        <mark key="]" line="1711" column="124" />
-        <mark key="." line="1711" column="124" />
-        <mark key="^" line="1711" column="124" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1523276421723">
+        <mark key="'" line="1695" column="0" />
+        <mark key="[" line="1729" column="86" />
+        <mark key="]" line="1729" column="86" />
+        <mark key="." line="1729" column="86" />
+        <mark key="^" line="1729" column="86" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -1012,6 +1012,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/CountryCache.java" timestamp="1523276459495">
+        <mark key="[" line="123" column="80" />
+        <mark key="]" line="123" column="97" />
+        <mark key="." line="123" column="97" />
+        <mark key="^" line="123" column="97" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/AustrianDistrict.java" timestamp="1500034396038">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="28" column="3" />
@@ -1117,7 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2299" column="57" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="2300" column="56" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="2301" column="57" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="2775" column="14" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
@@ -1217,16 +1222,17 @@
       <jump line="56" column="31" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="145" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="1690" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="1695" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>38712</text>
+        <text>isNotBlank</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>38712</text>
+        <text>isNotBlank</text>
       </register>
       <register name="/" type="4">
         <text>doquery</text>
@@ -1235,37 +1241,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICB4bWxCbG9ja1BhcnRpY2lwYW50cy5hZGQobmV3IEJsb2NrUGFydGljaXBhbnQoaG9tZVRlYW0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">am9pbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRlYW1JbmZvLmdldFRleHQoKSAhPSBudWxsICYmICF0ZWFtSW5mby5nZXRUZXh0KCkuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cEVsZW1lbnQuCg==</text>
+        <text encoding="base64">am9pbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YQo=</text>
+        <text encoding="base64">ICAgIGN1cEVsZW1lbnQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNyZC5zZXQK</text>
+        <text encoding="base64">ICAgIHN0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB4bWxDdXBUcmVlOwo=</text>
+        <text encoding="base64">ICAgIHNyZC5zZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB4bWxDCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB4bWxDdXBUcmVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIExpc3Q8QmxvY2tQYXJ0aWNpcGFudD4geG1sQmxvY2tQYXJ0aWNpcGFudHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB4bWxDCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB4bWxCbG9ja1BhcnRpY2lwYW50cy5hZGQobmV3IEJsb2NrUGFydGljaXBhbnQoaG9tZVRlYW0pKTsKICAgICAgICAgICAgICB4bWxCbG9ja1BhcnRpY2lwYW50cy5hZGQobmV3IEJsb2NrUGFydGljaXBhbnQoYXdheVRlYW0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIExpc3Q8QmxvY2tQYXJ0aWNpcGFudD4geG1sQmxvY2tQYXJ0aWNpcGFudHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIExpc3Q8QmxvY2tQYXJ0aWNpcGFudD4geG1sQmxvY2tQYXJ0aWNpcGFudHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB4bWxCbG9ja1BhcnRpY2lwYW50cy5hZGQobmV3IEJsb2NrUGFydGljaXBhbnQoaG9tZVRlYW0pKTsKICAgICAgICAgICAgICB4bWxCbG9ja1BhcnRpY2lwYW50cy5hZGQobmV3IEJsb2NrUGFydGljaXBhbnQoYXdheVRlYW0pKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>123</text>
       </register>
     </registers>
     <search>
@@ -1301,8 +1307,6 @@
         <entry>doquery</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
-        <entry>%s/score.get(teamid1.get(CUMULATIVE_GOAL_INDEX)/team1TotalGoals/gc</entry>
         <entry>%s/score.get\(teamid1.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
         <entry>%s/score\.get\(teamid1\.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
         <entry>%s/score\.get\(teamid1\.get\(CUMULATIVE\_GOAL\_INDEX\)/team1TotalGoals/gc</entry>
@@ -1321,6 +1325,8 @@
         <entry>%s/(row\.get*);/();/gc</entry>
         <entry>%s/(row\.get.*);/();/gc</entry>
         <entry>set ignorecase</entry>
+        <entry>1234</entry>
+        <entry>123</entry>
       </history-cmd>
       <history-expr />
       <history-input />
