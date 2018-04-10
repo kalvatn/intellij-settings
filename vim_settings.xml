@@ -592,6 +592,12 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/fishnet/api/queries/FishnetQueriesIntegrationTest.java" timestamp="1523369817020">
+        <mark key="[" line="387" column="27" />
+        <mark key="]" line="387" column="39" />
+        <mark key="^" line="387" column="39" />
+        <mark key="." line="387" column="39" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/ServiceParamCache.java" timestamp="1509458088129">
         <mark key="[" line="49" column="42" />
         <mark key="]" line="49" column="50" />
@@ -1245,14 +1251,14 @@
       <jump line="301" column="23" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1/16-finals (R32)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, filenameSuffix</text>
+        <text>1/16-finals (R32)</text>
       </register>
       <register name="/" type="4">
         <text>testQuery</text>
