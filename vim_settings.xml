@@ -378,12 +378,12 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1523448565312">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1523451619623">
         <mark key="'" line="139" column="32" />
-        <mark key="[" line="139" column="33" />
-        <mark key="]" line="139" column="39" />
-        <mark key="." line="139" column="39" />
-        <mark key="^" line="139" column="39" />
+        <mark key="[" line="143" column="81" />
+        <mark key="]" line="143" column="81" />
+        <mark key="." line="143" column="81" />
+        <mark key="^" line="143" column="80" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1521558541649">
         <mark key="'" line="412" column="7" />
@@ -1266,14 +1266,14 @@
       <jump line="135" column="32" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>fishnetCupBracketFeed</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>testQuery</text>
