@@ -9,12 +9,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1523448640287">
-        <mark key="'" line="1695" column="0" />
-        <mark key="[" line="1712" column="72" />
-        <mark key="]" line="1712" column="70" />
-        <mark key="." line="1712" column="70" />
-        <mark key="^" line="1712" column="70" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1523970129431">
+        <mark key="'" line="1709" column="16" />
+        <mark key="[" line="1734" column="1" />
+        <mark key="]" line="1736" column="75" />
+        <mark key="." line="1736" column="75" />
+        <mark key="^" line="1736" column="75" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -1114,7 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1256" column="74" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="75" column="82" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
       <jump line="1322" column="47" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="767" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/DynamicLeagueTableRow.java" />
@@ -1214,6 +1213,7 @@
       <jump line="123" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="104" column="46" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
       <jump line="131" column="37" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="1709" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
