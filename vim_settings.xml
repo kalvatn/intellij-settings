@@ -359,12 +359,8 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1524511619840">
-        <mark key="'" line="139" column="122" />
-        <mark key="[" line="150" column="12" />
-        <mark key="]" line="150" column="26" />
-        <mark key="." line="150" column="26" />
-        <mark key="^" line="150" column="26" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1524514210914">
+        <mark key="'" line="6" column="41" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1521558541649">
         <mark key="'" line="412" column="7" />
@@ -1120,8 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1407" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="1072" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="34" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="129" column="75" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="1359" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
@@ -1220,6 +1214,8 @@
       <jump line="142" column="11" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
       <jump line="138" column="122" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="1714" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="137" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="6" column="41" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1232,7 +1228,7 @@
         <text>homeParticipant</text>
       </register>
       <register name="/" type="4">
-        <text>winner</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChibG9ja1N0YXRlLnRvTG93ZXJDYXNlKCkuZXF1YWxzSWdub3JlQ2FzZSgiaG9tZSB3b24iKSkgewogICAgICAgICAgICBob21lUGFydGljaXBhbnQuc2V0V2lubmVyKHRydWUpOwogICAgICAgICAgfQo=</text>
@@ -1272,9 +1268,9 @@
       </register>
     </registers>
     <search>
-      <last-search>winner</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>winner</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>();</last-replace>
       <last-substitute>(row\.get.*);</last-substitute>
       <last-dir>1</last-dir>
@@ -1282,7 +1278,6 @@
     </search>
     <history>
       <history-search>
-        <entry>missing</entry>
         <entry>nextmeetings</entry>
         <entry>getHeadtoHead</entry>
         <entry>getMatchData</entry>
@@ -1302,6 +1297,7 @@
         <entry>country</entry>
         <entry>current</entry>
         <entry>winner</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
         <entry>%s/score.get\(teamid1.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
