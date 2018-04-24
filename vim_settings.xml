@@ -371,12 +371,12 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1524515944357">
-        <mark key="'" line="6" column="41" />
-        <mark key="[" line="183" column="20" />
-        <mark key="]" line="183" column="27" />
-        <mark key="." line="183" column="27" />
-        <mark key="^" line="183" column="27" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1524584859968">
+        <mark key="'" line="23" column="43" />
+        <mark key="[" line="146" column="55" />
+        <mark key="]" line="146" column="74" />
+        <mark key="." line="146" column="74" />
+        <mark key="^" line="146" column="74" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" timestamp="1524515889699">
         <mark key="'" line="148" column="82" />
@@ -1142,13 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/StatsFormtableConverter.java" />
-      <jump line="35" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/StatsFormtableConverter.java" />
-      <jump line="43" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/StatsFormtableConverter.java" />
-      <jump line="51" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/StatsFormtableConverter.java" />
-      <jump line="71" column="22" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/StatsFormtableConverter.java" />
-      <jump line="87" column="6" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/StatsFormtableConverter.java" />
-      <jump line="1487" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="54" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="343" column="91" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="542" column="58" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
@@ -1232,7 +1225,6 @@
       <jump line="138" column="122" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="1714" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="137" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
-      <jump line="6" column="41" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="131" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="164" column="50" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="171" column="52" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
@@ -1242,49 +1234,57 @@
       <jump line="190" column="65" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="205" column="19" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="148" column="82" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
+      <jump line="163" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="209" column="55" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="210" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="211" column="26" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="212" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="231" column="52" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="6" column="41" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="23" column="43" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cupName</text>
+        <text>blockState</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>cupName</text>
+        <text>blockState</text>
       </register>
       <register name="/" type="4">
-        <text>filename</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBmaWxlTmFtZSA9IHtzcG9ydC5nZXROYW1lKCksIGNhdGVnb3J5LmdldE5hbWUoKSwgdG91cm5hbWVudEVsZW1lbnQuZ2V0TmFtZSgpLCBjdXBOYW1lfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNyZC5zZXRGaWxlbmFtZShuZXcgU3RyaW5nW10ge30pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHhtbEN1cEJsb2NrLnNldFJlc3VsdChibG9ja1N0YXRlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdFJlc3VsdC5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgIEF0b21pY0ludGVnZXIgaG9tZVNjb3JlID0gbmV3IEF0b21pY0ludGVnZXIoMCk7CiAgICAgICAgICBBdG9taWNJbnRlZ2VyIGF3YXlTY29yZSA9IG5ldyBBdG9taWNJbnRlZ2VyKDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1tdIHJlc3VsdFN0cmluZ3MgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWw8U2NvcmU+IGVuZFJlc3VsdCA9IGdldEVuZFJlc3VsdChsYXN0UmVzdWx0KTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXN1bHRTdHJpbmdzICE9IG51bGwpIHsKICAgICAgdHJ5IHsKICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YobmV3IFNjb3JlKEludGVnZXIudmFsdWVPZihyZXN1bHRTdHJpbmdzWzBdLnRyaW0oKSksCiAgICAgICAgICBJbnRlZ2VyLnZhbHVlT2YocmVzdWx0U3RyaW5nc1sxXS50cmltKCkpKSk7CiAgICAgIH0gY2F0Y2ggKE51bWJlckZvcm1hdEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgbG9nLndhcm4oU3RyaW5nLmZvcm1hdCgidW5hYmxlIHRvIHBhcnNlIGVuZCByZXN1bHRzIGZyb20gJXMiLCByZXN1bHRTdHJpbmdzKSk7CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kUmVzdWx0LmlmUHJlc2VudChzIC0+IHsKICAgICAgICAgICAgICBpZiAocy5ob21lID4gcy5hd2F5KSB7CiAgICAgICAgICAgICAgICBob21lU2NvcmUuCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0U3RyaW5ncyA9IG5vcm1hbHRpbWUuc3BsaXQoIjoiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBob21lU2NvcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0U3RyaW5ncyA9IG92ZXJ0aW1lLnNwbGl0KCI6Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVuZFJlc3VsdC4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0U3RyaW5ncyA9IHBlbmFsdGllcy5zcGxpdCgiOiIpOwo=</text>
+        <text encoding="base64">ICBARUpCIHByaXZhdGUgUmVzdWx0TWFuYWdlciByZXN1bHRNYW5hZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChTdHJpbmdVdCkK</text>
+        <text encoding="base64">ICAgIHNyZC5zZXRGaWxlbmFtZShuZXcgU3RyaW5nW10ge30pOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -1294,9 +1294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filename</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>filename</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>();</last-replace>
       <last-substitute>(row\.get.*);</last-substitute>
       <last-dir>1</last-dir>
@@ -1322,8 +1322,8 @@
         <entry>country</entry>
         <entry>current</entry>
         <entry>winner</entry>
-        <entry>result</entry>
         <entry>filename</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
         <entry>%s/score.get\(teamid1.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
