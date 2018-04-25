@@ -1257,7 +1257,7 @@
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>139</text>
       </register>
     </registers>
     <search>
@@ -1293,7 +1293,6 @@
         <entry>setCountry</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/score.get\(teamid1.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
         <entry>%s/score\.get\(teamid1\.get\(CUMULATIVE_GOAL_INDEX\)/team1TotalGoals/gc</entry>
         <entry>%s/score\.get\(teamid1\.get\(CUMULATIVE\_GOAL\_INDEX\)/team1TotalGoals/gc</entry>
         <entry>%s/score.get(teamid1.get(CUMULATIVE\_GOAL\_INDEX)/team1TotalGoals/gc</entry>
@@ -1313,6 +1312,7 @@
         <entry>1234</entry>
         <entry>123</entry>
         <entry>set ignorecase</entry>
+        <entry>139</entry>
       </history-cmd>
       <history-expr />
       <history-input />
