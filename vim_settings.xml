@@ -9,12 +9,12 @@
         <mark key="^" line="13" column="76" />
         <mark key="." line="13" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1524511286856">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" timestamp="1524668020398">
         <mark key="'" line="1714" column="0" />
-        <mark key="[" line="1744" column="18" />
-        <mark key="]" line="1744" column="16" />
-        <mark key="." line="1744" column="16" />
-        <mark key="^" line="1744" column="16" />
+        <mark key="[" line="1750" column="37" />
+        <mark key="]" line="1750" column="37" />
+        <mark key="." line="1750" column="37" />
+        <mark key="^" line="1750" column="37" />
       </file>
       <file name="/a.dummy" timestamp="1517839021938">
         <mark key="[" line="0" column="0" />
@@ -43,11 +43,12 @@
         <mark key="^" line="33" column="57" />
         <mark key="." line="33" column="57" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" timestamp="1524659726267">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="37" column="42" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" timestamp="1524668187931">
+        <mark key="'" line="24" column="51" />
+        <mark key="[" line="40" column="63" />
+        <mark key="]" line="40" column="71" />
+        <mark key="." line="40" column="71" />
+        <mark key="^" line="40" column="71" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_7.sql" timestamp="1504184439080">
         <mark key="[" line="6" column="9" />
@@ -151,6 +152,12 @@
         <mark key="." line="86" column="64" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/resources/META-INF/persistence.xml" timestamp="1523530693455" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/BracketEAO.java" timestamp="1524667818399">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1504530116252">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="50" />
@@ -564,7 +571,7 @@
         <mark key="." line="49" column="50" />
         <mark key="^" line="49" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1523367753343">
+      <file name="/fragment.java" timestamp="1524667827204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -886,6 +893,11 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/BracketEAOTest.java" timestamp="1524667927203">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StagejoinEAO.java" timestamp="1506426729699">
         <mark key="[" line="42" column="109" />
         <mark key="]" line="44" column="44" />
@@ -1009,6 +1021,10 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/StaticTableEAO.java" timestamp="1524667673867">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="28" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63805593-e9a0-4629-97ba-f9b9b05fd8cc/console.sql" timestamp="1502445140521">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="45" />
@@ -1093,7 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="516" column="94" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="925" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/DynamicLeagueTableRow.java" />
       <jump line="149" column="34" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/DynamicLeagueTableRow.java" />
       <jump line="153" column="65" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
@@ -1193,49 +1208,50 @@
       <jump line="119" column="83" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="100" column="58" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="1032" column="33" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
+      <jump line="22" column="51" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gdGVhbVNvdXJjZSA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>homeTeam</text>
+        <text>allBracketId</text>
       </register>
       <register name="/" type="4">
         <text>setCountry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRlYW1Tb3VyY2UucHV0KGhvbWVUZWFtLmdldFVuaXF1ZVRlYW1JZCgpLCBibG9ja0lkKTsK</text>
+        <text encoding="base64">ICAgIEBQZXJzaXN0ZW5jZUNvbnRleHQodW5pdE5hbWUgPSBEYXRhYmFzZVByb2R1Y2VyLlNFTEVDVCkKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gdGVhbVNvdXJjZSA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPiB0ZWFtU291cmNlID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBob21lVGVhbVNvdXJjZUJsb2NrID0gdGVhbVNvdXJjZS5nZXQoaG9tZVRlYW0uZ2V0VW5pcXVlVGVhbUlkKCkpOwogICAgICAgICAgICBJbnRlZ2VyIGF3YXlUZWFtU291cmNlQmxvY2sgPSB0ZWFtU291cmNlLmdldChhd2F5VGVhbS5nZXRVbmlxdWVUZWFtSWQoKSk7Cg==</text>
+        <text encoding="base64">am9pbiBzdGF0c2l0ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEludGVnZXIgaG9tZVRlYW1Tb3VyY2VCbG9jayA9IHRlYW1Tb3VyY2UuZ2V0KGhvbWVUZWFtLmdldFVuaXF1ZVRlYW1JZCgpKTsKICAgICAgICAgIEludGVnZXIgYXdheVRlYW1Tb3VyY2VCbG9jayA9IHRlYW1Tb3VyY2UuZ2V0KGF3YXlUZWFtLmdldFVuaXF1ZVRlYW1JZCgpKTsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRlYW1Tb3VyY2UucHV0KGhvbWVUZWFtLmdldFVuaXF1ZVRlYW1JZCgpLCBibG9ja0lkKTsKICAgICAgICAgIHRlYW1Tb3VyY2UucHV0KGF3YXlUZWFtLmdldFVuaXF1ZVRlYW1JZCgpLCBibG9ja0lkKTsK</text>
+        <text encoding="base64">ICAgIGZvciAoSW50ZWdlciBhbGxCcmFja2V0SWQgOiBhbGxCcmFja2V0SWRzKSB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhbGxCcmFja2V0SWQpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChob21lVGVhbVNvdXJjZUJsb2NrICE9IG51bGwgJiYgIWhvbWVUZWFtU291cmNlQmxvY2suZXF1YWxzKGJsb2NrSWQpKSB7CiAgICAgICAgICAgIGhvbWVQYXJ0aWNpcGFudC5zZXRTb3VyY2VCbG9ja0lkKGhvbWVUZWFtU291cmNlQmxvY2spOwogICAgICAgICAgfQogICAgICAgICAgaWYgKGF3YXlUZWFtU291cmNlQmxvY2sgIT0gbnVsbCAmJiAhYXdheVRlYW1Tb3VyY2VCbG9jay5lcXVhbHMoYmxvY2tJZCkpIHsKICAgICAgICAgICAgYXdheVBhcnRpY2lwYW50LnNldFNvdXJjZUJsb2NrSWQoYXdheVRlYW1Tb3VyY2VCbG9jayk7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFNlc3Npb24gc2Vzc2lvbiA9IChTZXNzaW9uKSBlbS5nZXREZWxlZ2F0ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIEludGVnZXIgaG9tZVRlYW1Tb3VyY2VCbG9jayA9IHRlYW1Tb3VyY2UuZ2V0KGhvbWVUZWFtLmdldFVuaXF1ZVRlYW1JZCgpKTsKICAgICAgICAgIEludGVnZXIgYXdheVRlYW1Tb3VyY2VCbG9jayA9IHRlYW1Tb3VyY2UuZ2V0KGF3YXlUZWFtLmdldFVuaXF1ZVRlYW1JZCgpKTsKICAgICAgICAgIGlmIChob21lVGVhbVNvdXJjZUJsb2NrICE9IG51bGwgJiYgIWhvbWVUZWFtU291cmNlQmxvY2suZXF1YWxzKGJsb2NrSWQpKSB7CiAgICAgICAgICAgIGhvbWVQYXJ0aWNpcGFudC5zZXRTb3VyY2VCbG9ja0lkKGhvbWVUZWFtU291cmNlQmxvY2spOwogICAgICAgICAgfQogICAgICAgICAgaWYgKGF3YXlUZWFtU291cmNlQmxvY2sgIT0gbnVsbCAmJiAhYXdheVRlYW1Tb3VyY2VCbG9jay5lcXVhbHMoYmxvY2tJZCkpIHsKICAgICAgICAgICAgYXdheVBhcnRpY2lwYW50LnNldFNvdXJjZUJsb2NrSWQoYXdheVRlYW1Tb3VyY2VCbG9jayk7CiAgICAgICAgICB9CiAgICAgICAgICB0ZWFtU291cmNlLnB1dChob21lVGVhbS5nZXRVbmlxdWVUZWFtSWQoKSwgYmxvY2tJZCk7CiAgICAgICAgICB0ZWFtU291cmNlLnB1dChhd2F5VGVhbS5nZXRVbmlxdWVUZWFtSWQoKSwgYmxvY2tJZCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbS5jcmVhdGVRdWVyeSgiU0VMRUNUIGIuaWQgRlJPTSAiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVhbVNvdXJjZS5wdXQoaG9tZVRlYW0uZ2V0VW5pcXVlVGVhbUlkKCksICkK</text>
+        <text encoding="base64">ICBACg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICh0ZWFtU291cmNlLmNvbnRhaW5zS2V5KGhvbWVUZWFtLmdldFVuaXF1ZVRlYW1JZCgpKSkgewogICAgICAgICAgICB0ZWFtCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gdGVhbVNvdXJjZSA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
