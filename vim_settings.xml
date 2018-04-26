@@ -57,12 +57,12 @@
         <mark key="^" line="33" column="57" />
         <mark key="." line="33" column="57" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" timestamp="1524745034146">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" timestamp="1524746631528">
         <mark key="'" line="24" column="51" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="16" />
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_7.sql" timestamp="1504184439080">
         <mark key="[" line="6" column="9" />
@@ -379,12 +379,12 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1524744947960">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1524746714859">
         <mark key="'" line="102" column="58" />
-        <mark key="[" line="159" column="86" />
-        <mark key="]" line="160" column="41" />
-        <mark key="." line="160" column="41" />
-        <mark key="^" line="160" column="41" />
+        <mark key="[" line="235" column="29" />
+        <mark key="]" line="235" column="29" />
+        <mark key="." line="235" column="29" />
+        <mark key="^" line="235" column="29" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/BracketEAOIntegrationTest.java" timestamp="1524742971330">
         <mark key="]" line="8" column="33" />
@@ -1268,13 +1268,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>83781</text>
+        <text>convertBracket</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>83781</text>
+        <text>convertBracket</text>
       </register>
       <register name="/" type="4">
         <text>setCountry</text>
