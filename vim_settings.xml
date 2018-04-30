@@ -359,11 +359,11 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1525087477837">
-        <mark key="[" line="86" column="89" />
-        <mark key="]" line="86" column="101" />
-        <mark key="." line="86" column="101" />
-        <mark key="^" line="86" column="101" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1525090008615">
+        <mark key="[" line="88" column="64" />
+        <mark key="]" line="88" column="90" />
+        <mark key="." line="88" column="90" />
+        <mark key="^" line="88" column="90" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/BracketEAOIntegrationTest.java" timestamp="1524742971330">
         <mark key="]" line="8" column="33" />
@@ -1231,13 +1231,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getId</text>
+        <text>season.getId()</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getId</text>
+        <text>season.getId()</text>
       </register>
       <register name="/" type="4">
         <text>setCountry</text>
