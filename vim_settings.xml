@@ -359,11 +359,11 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1525098030793">
-        <mark key="[" line="159" column="88" />
-        <mark key="]" line="159" column="86" />
-        <mark key="." line="159" column="86" />
-        <mark key="^" line="159" column="86" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1525257695855">
+        <mark key="[" line="161" column="86" />
+        <mark key="]" line="161" column="104" />
+        <mark key="^" line="161" column="104" />
+        <mark key="." line="161" column="104" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/BracketEAOIntegrationTest.java" timestamp="1524742971330">
         <mark key="]" line="8" column="33" />
@@ -1231,13 +1231,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>integers</text>
+        <text>Matchtable::getGuthmatchid</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>integers</text>
+        <text>Matchtable::getGuthmatchid</text>
       </register>
       <register name="/" type="4">
         <text>setCountry</text>
