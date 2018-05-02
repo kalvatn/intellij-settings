@@ -359,11 +359,11 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1525270807332">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="207" column="45" />
-        <mark key="." line="115" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1525273427325">
+        <mark key="'" line="200" column="51" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/BracketEAOIntegrationTest.java" timestamp="1524742971330">
         <mark key="]" line="8" column="33" />
@@ -1128,8 +1128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="429" column="40" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
-      <jump line="163" column="26" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
       <jump line="204" column="52" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
       <jump line="194" column="59" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
       <jump line="197" column="39" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
@@ -1228,10 +1226,12 @@
       <jump line="1794" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="40" column="56" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" />
       <jump line="1804" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
+      <jump line="187" column="11" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
+      <jump line="200" column="51" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgTWFwPEludGVnZXIsIEJyYWNrZXRNYXRjaHVwPiBibG9ja3MgPSByb3VuZHNldFJvdW5kV3JhcHBlci5nZXRCbG9ja3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICB4bWxDdXBSb3VuZC5zZXRSb3VuZElkKHJvdW5kU2V0Um91bmRJZCk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1240,37 +1240,37 @@
         <text>matchEAO.findById</text>
       </register>
       <register name="/" type="4">
-        <text>setCountry</text>
+        <text>current</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBtYXRjaGVzID0gKE1hcDxJbnRlZ2VyLCBNYXRjaEpTT04+KSBKU09OVXRpbC5tYXBOb2RlVG9UeXBlKG1hdGNoTm9kZSwgbmV3IFR5cGVSZWZlcmVuY2U8TWFwPEludGVnZXIsIE1hdGNoSlNPTj4+KCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgTWFwPEludGVnZXIsIEJyYWNrZXRNYXRjaHVwPiBibG9ja3MgPSByb3VuZHNldFJvdW5kV3JhcHBlci5nZXRCbG9ja3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICB4bWxDdXBSb3VuZC5zZXRSb3VuZElkKHJvdW5kU2V0Um91bmRJZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMuZ3JvdXBpbmdCeShGdW5jdGlvbi5pZGVudGl0eSgpKSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgTWFwPEludGVnZXIsIEJyYWNrZXRNYXRjaHVwPiBibG9ja3MgPSByb3VuZHNldFJvdW5kV3JhcHBlci5nZXRCbG9ja3MoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0dGFibGUgbGFzdFJlc3VsdCA9IG1hdGNodGFibGUuZ2V0TGFzdFJlc3VsdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMuZ3JvdXBpbmdCeShGdW5jdGlvbi5pZGVudGl0eSgpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEN1cCBjdXBFbGVtZW50ID0gY3VwTWFuYWdlci5jcmVhdGVDdXAoc3RhdGlzdGljc0N1cCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0dGFibGUgbGFzdFJlc3VsdCA9IG1hdGNodGFibGUuZ2V0TGFzdFJlc3VsdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEN1cEpTT04gY3VwID0gZmlzaG5ldEN1cEJyYWNrZXRGZWVkLmdldEN1cCgpOwogICAgU2Vhc29uSlNPTiBzZWFzb24gPSBmaXNobmV0Q3VwQnJhY2tldEZlZWQuZ2V0U2Vhc29uKCk7Cg==</text>
+        <text encoding="base64">ICAgIEN1cCBjdXBFbGVtZW50ID0gY3VwTWFuYWdlci5jcmVhdGVDdXAoc3RhdGlzdGljc0N1cCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0YXRpc3RpY3NTZWFzb25zIHN0YXRpc3RpY3NTZWFzb24gPSBzZWFzb25NYW5hZ2VyLmdldFN0YXRpc3RpY3NTZWFzb24oc2Vhc29uLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgIEN1cEpTT04gY3VwID0gZmlzaG5ldEN1cEJyYWNrZXRGZWVkLmdldEN1cCgpOwogICAgU2Vhc29uSlNPTiBzZWFzb24gPSBmaXNobmV0Q3VwQnJhY2tldEZlZWQuZ2V0U2Vhc29uKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pcXVlVGVhbUpTT04gaG9tZSA9IHZhbHVlLmdldFRlYW1zKCkuZ2V0KCJob21lIik7CiAgICAgICAgICAgIFVuaXF1ZVRlYW1KU09OIGF3YXkgPSB2YWx1ZS5nZXRUZWFtcygpLmdldCgiYXdheSIpOwo=</text>
+        <text encoding="base64">ICAgIFN0YXRpc3RpY3NTZWFzb25zIHN0YXRpc3RpY3NTZWFzb24gPSBzZWFzb25NYW5hZ2VyLmdldFN0YXRpc3RpY3NTZWFzb24oc2Vhc29uLmdldElkKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCBob21lVGVhbVNjb3JlID0gMDsKICAgICAgICAgIGludCBhd2F5VGVhbVNjb3JlID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVW5pcXVlVGVhbUpTT04gaG9tZSA9IHZhbHVlLmdldFRlYW1zKCkuZ2V0KCJob21lIik7CiAgICAgICAgICAgIFVuaXF1ZVRlYW1KU09OIGF3YXkgPSB2YWx1ZS5nZXRUZWFtcygpLmdldCgiYXdheSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWw8U2NvcmU+IGVuZFJlc3VsdCA9IGdldEVuZFJlc3VsdChsYXN0UmVzdWx0KTsKICAgICAgICAgICAgaWYgKGVuZFJlc3VsdC5pc1ByZXNlbnQoKSkgewogICAgICAgICAgICAgIFNjb3JlIHNjb3JlID0gZW5kUmVzdWx0LmdldCgpOwogICAgICAgICAgICAgIGlmIChzY29yZS5ob21lID4gc2NvcmUuYXdheSkgewogICAgICAgICAgICAgICAgaWYgKGhvbWVUZWFtLmdldFVuaXF1ZVRlYW1JZCgpLmVxdWFscyhob21lLmdldFVuaXF1ZVRlYW1JZCgpKSkgewogICAgICAgICAgICAgICAgICBob21lVGVhbVNjb3JlKys7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICBhd2F5VGVhbVNjb3JlKys7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIGlmIChzY29yZS5hd2F5ID4gc2NvcmUuaG9tZSkgewogICAgICAgICAgICAgICAgaWYgKGhvbWVUZWFtLmdldFVuaXF1ZVRlYW1JZCgpLmVxdWFscyhob21lLmdldFVuaXF1ZVRlYW1JZCgpKSkgewogICAgICAgICAgICAgICAgICBhd2F5VGVhbVNjb3JlKys7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICBob21lVGVhbVNjb3JlKys7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGludCBob21lVGVhbVNjb3JlID0gMDsKICAgICAgICAgIGludCBhd2F5VGVhbVNjb3JlID0gMDsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -1280,9 +1280,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setCountry</last-search>
+      <last-search>current</last-search>
       <last-offset />
-      <last-pattern>setCountry</last-pattern>
+      <last-pattern>current</last-pattern>
       <last-replace>();</last-replace>
       <last-substitute>(row\.get.*);</last-substitute>
       <last-dir>1</last-dir>
@@ -1308,8 +1308,8 @@
         <entry>winner</entry>
         <entry>filename</entry>
         <entry>result</entry>
-        <entry>current</entry>
         <entry>setCountry</entry>
+        <entry>current</entry>
       </history-search>
       <history-cmd>
         <entry>%s/score\.get\(teamid1\.get\(CUMULATIVE\_GOAL\_INDEX\)/team1TotalGoals/gc</entry>
