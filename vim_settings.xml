@@ -333,11 +333,11 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_7.sql" timestamp="1525695202174">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="34" column="126" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="34" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_7.sql" timestamp="1525698755925">
+        <mark key="[" line="82" column="66" />
+        <mark key="]" line="79" column="15" />
+        <mark key="." line="79" column="15" />
+        <mark key="^" line="79" column="15" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/Lol.java" timestamp="1514896879720">
         <mark key="[" line="9" column="19" />
@@ -1230,8 +1230,8 @@
       <jump line="1846" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s.seasonid, s.seasonname, s.start, s.end,  tu.uniquetournamentid, tu.uniquetournament, t.TOURNAMENTID, t.TOURNAMENTNAME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1246,31 +1246,31 @@
         <text>s.seasonid, s.seasonname, s.start, s.end,  tu.uniquetournamentid, tu.uniquetournament, t.TOURNAMENTID, t.TOURNAMENTNAME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0hFUkUgcy5kZXNjcmlwdGlvbiBMSUtFICIlaWNlIGhvY2tleSUiOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3NfMl8K</text>
+        <text encoding="base64">V0hFUkUgcy5kZXNjcmlwdGlvbiBMSUtFICIlaWNlIGhvY2tleSUiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">am9pbiBzdGF0aXN0aWNzMl9zdGEgCg==</text>
+        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3NfMl8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjaGlsZC5kZXNjcmlwdGlvbiBhcyBjaGlsZF9uYW1lCg==</text>
+        <text encoding="base64">am9pbiBzdGF0aXN0aWNzMl9zdGEgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzMnMuY2hpbGQsCg==</text>
+        <text encoding="base64">ICBjaGlsZC5kZXNjcmlwdGlvbiBhcyBjaGlsZF9uYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzMl8K</text>
+        <text encoding="base64">ICBzMnMuY2hpbGQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">am9pbgo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzMl8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxDdXBSb3VuZC5zZXRSb3VuZElkKHJvdW5kU2V0Um91bmRJZCk7Cg==</text>
+        <text encoding="base64">am9pbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgTWFwPEludGVnZXIsIEJyYWNrZXRNYXRjaHVwPiBibG9ja3MgPSByb3VuZHNldFJvdW5kV3JhcHBlci5nZXRCbG9ja3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICB4bWxDdXBSb3VuZC5zZXRSb3VuZElkKHJvdW5kU2V0Um91bmRJZCk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
