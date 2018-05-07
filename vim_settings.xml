@@ -366,6 +366,12 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1525708136931">
+        <mark key="[" line="208" column="29" />
+        <mark key="]" line="208" column="30" />
+        <mark key="^" line="208" column="30" />
+        <mark key="." line="208" column="30" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/BracketEAOIntegrationTest.java" timestamp="1524742971330">
         <mark key="]" line="8" column="33" />
         <mark key="^" line="8" column="33" />
@@ -1227,14 +1233,14 @@
       <jump line="173" column="34" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vICAgICAgICAgIHhtbEN1cEJsb2NrLnNldFJlc3VsdChTdHJpbmcuZm9ybWF0KCIlZDolZCIsIGhvbWVUZWFtU2NvcmUsIGF3YXlUZWFtU2NvcmUpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e0001, 51081, 51083, 52247</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>roundOrder</text>
