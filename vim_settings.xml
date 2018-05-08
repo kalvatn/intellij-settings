@@ -40,12 +40,11 @@
         <mark key="^" line="33" column="57" />
         <mark key="." line="33" column="57" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" timestamp="1525789328624">
-        <mark key="'" line="42" column="56" />
-        <mark key="[" line="66" column="60" />
-        <mark key="]" line="66" column="68" />
-        <mark key="." line="66" column="68" />
-        <mark key="^" line="66" column="68" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" timestamp="1525793369815">
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="14" />
+        <mark key="." line="48" column="14" />
+        <mark key="^" line="48" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_7.sql" timestamp="1504184439080">
         <mark key="[" line="6" column="9" />
@@ -1230,13 +1229,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>integer</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
         <text>could</text>
