@@ -712,11 +712,11 @@
         <mark key="^" line="425" column="31" />
         <mark key="." line="425" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1500466576096">
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="39" />
-        <mark key="^" line="13" column="39" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" timestamp="1526987263564">
+        <mark key="[" line="30" column="69" />
+        <mark key="]" line="30" column="68" />
+        <mark key="." line="30" column="68" />
+        <mark key="^" line="30" column="68" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/dao/SportDAO.java" timestamp="1517238201761">
         <mark key="[" line="9" column="62" />
@@ -1242,7 +1242,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>allCups</text>
+        <text encoding="base64">d2hlcmUgZnQuY2hhbmdlVG90YWwgPiAwCmFuZCBmdC5sYXN0VXBkYXRlZEF0ID49IE5PVygpIC0gaW50ZXJ2YWwgMiBkYXk=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1256,32 +1256,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhY2hlTWFuYWdlci5wdXRTcG9ydHJhZGFyRGF0YShrZXksIGJzZCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEludGVnZXIgY3VwSWQgPSBudWxsOwogICAgaWYgKGN1cCAhPSBudWxsKSB7CiAgICAgIGN1cElkID0gY3VwLmdldEN1cGlkKCk7CiAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">d2hlcmUgZnQuY2hhbmdlVG90YWwgPiAwCmFuZCBmdC5sYXN0VXBkYXRlZEF0ID49IE5PVygpIC0gaW50ZXJ2YWwgMiBkYXk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldFVwZGF0ZShVcGRhdGVUeXBlLlFVRVJZLCB0b3VybmFtZW50LmdldFRvdXJuYW1lbnRpZCgpKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIEludGVnZXIgY3VwSWQgPSBudWxsOwogICAgaWYgKGN1cCAhPSBudWxsKSB7CiAgICAgIGN1cElkID0gY3VwLmdldEN1cGlkKCk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGdldFVwZGF0ZShVcGRhdGVUeXBlLlFVRVJZLCB0b3VybmFtZW50LmdldFRvdXJuYW1lbnRpZCgpKQogICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFNlcnZpY2VVcGRhdGUgZ2V0VXBkYXRlKFVwZGF0ZVR5cGUgdXBkYXRlVHlwZSwgSW50ZWdlciBjdXBJZCkgewogIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnZXRVcGRhdGUodXBkYXRlVHlwZSwgY3VwSWQpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgU2VydmljZVVwZGF0ZSgKICAgICAgICBnZXRTZXJ2aWNlSWQoKSwKICAgICAgICBnZXRTZXJ2aWNlTmFtZSgpLAogICAgICAgIG5ldyBQYXJhbXMuUGFyYW1zQnVpbGRlcih1cGRhdGVUeXBlKQogICAgICAgICAgICAudHlwZShQYXJhbVR5cGUuQ1VQKQogICAgICAgICAgICAuYWRkKFBhcmFtVHlwZS5DVVAsIFN0cmluZy52YWx1ZU9mKGN1cElkKSkKICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFNlcnZpY2VVcGRhdGUgZ2V0VXBkYXRlKFVwZGF0ZVR5cGUgdXBkYXRlVHlwZSwgSW50ZWdlciBjdXBJZCkgewogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBnZXRVcGRhdGUodXBkYXRlVHlwZSwgY3VwSWQpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgU2VydmljZVVwZGF0ZSgKICAgICAgICBnZXRTZXJ2aWNlSWQoKSwKICAgICAgICBnZXRTZXJ2aWNlTmFtZSgpLAogICAgICAgIG5ldyBQYXJhbXMuUGFyYW1zQnVpbGRlcih1cGRhdGVUeXBlKQogICAgICAgICAgICAudHlwZShQYXJhbVR5cGUuQ1VQKQogICAgICAgICAgICAuYWRkKFBhcmFtVHlwZS5DVVAsIFN0cmluZy52YWx1ZU9mKGN1cElkKSkKICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGJzZCA9IGN1cEJyYWNrZXRDb252ZXJ0ZXIuY29udmVydChmaXNobmV0QVBJLmdldEN1cEJyYWNrZXQoYnJhY2tldElkKSk7CiAgICAgIGNhY2hlTWFuYWdlci5wdXRTcG9ydHJhZGFyRGF0YShrZXksIGJzZCk7CiAgICB9IGNhdGNoIChGaXNobmV0RXhjZXB0aW9uIGUpIHsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
