@@ -337,12 +337,12 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_7.sql" timestamp="1526995587091">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_7.sql" timestamp="1526996943881">
         <mark key="'" line="95" column="42" />
-        <mark key="[" line="137" column="74" />
-        <mark key="]" line="137" column="74" />
-        <mark key="." line="137" column="74" />
-        <mark key="^" line="137" column="74" />
+        <mark key="[" line="144" column="447" />
+        <mark key="]" line="144" column="445" />
+        <mark key="." line="144" column="445" />
+        <mark key="^" line="144" column="445" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/Lol.java" timestamp="1514896879720">
         <mark key="[" line="9" column="19" />
@@ -457,7 +457,7 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526994527465" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526996337645" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/bracket/BracketRoundBlock.java" timestamp="1522843230554">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="20" />
@@ -825,8 +825,8 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1526994242982">
-        <mark key="'" line="203" column="74" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1526996510088">
+        <mark key="'" line="102" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1505219261833">
         <mark key="[" line="42" column="1" />
@@ -1137,7 +1137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1607" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="655" column="62" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="70" column="96" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="30" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/queries/FishnetAPI.java" />
@@ -1237,49 +1236,50 @@
       <jump line="444" column="79" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="203" column="74" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="94" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_7.sql" />
+      <jump line="102" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YW5kIGZzZC5TZW5kZXJDbGFzc05hbWUgPSAiU2VuZGVyUGVyc2lzdGVudEZUUCIK</text>
+      <register name="&quot;" type="4">
+        <text>group_concat(distinct tis.uniqueteamid)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>group_concat(distinct tis.uniqueteamid)</text>
       </register>
       <register name="/" type="4">
         <text>invoke</text>
       </register>
-      <register name="0" type="4">
-        <text>fsd.Id, fsd.SenderClassName, fsd.username, fsd.password, fsd.parameter1, fsd.parameter2, fsd.parameter3, fsd.parameter4, fsd.parameter5, fsd.active, fsd.errormessage, fsd.errorLastSent</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0IGdyb3VwX2NvbmNhdChkaXN0aW5jdCB0aXMudW5pcXVldGVhbWlkKSBmcm9tIHN0YXRpc3RpY3NfdGVhbXNpbnNlYXNvbiB0aXMgd2hlcmUgdGlzLnNlYXNvbmlkID0gNDgyMzgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5kIGZzZC5TZW5kZXJDbGFzc05hbWUgPSAiU2VuZGVyUGVyc2lzdGVudEZUUCIK</text>
+        <text encoding="base64">ICBjLmlkLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RlJPTSB4bWxleHBvcnRfZmlsZXB1c2hzZXR0aW5ncyBmcHMKICBKT0lOIGZpbGVzZW5kZXJkZWZpbml0b24gZnNkIE9OIGZzZC5JZCA9IGZwcy51c2VyCiAgSk9JTiB4bWxleHBvcnRfY2xpZW50IGMgT04gYy5pZCA9IGZwcy5jbGllbnRpZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">am9pbiBmaWxzZW5kZXJkZWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgZnNkLmFjdGl2ZSA9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
+        <text encoding="base64">YW5kIGZzZC5TZW5kZXJDbGFzc05hbWUgPSAiU2VuZGVyUGVyc2lzdGVudEZUUCIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">d2hlcmUgZnQuY2hhbmdlVG90YWwgPiAwCmFuZCBmdC5sYXN0VXBkYXRlZEF0ID49IE5PVygpIC0gaW50ZXJ2YWwgMiBkYXk=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEludGVnZXIgY3VwSWQgPSBudWxsOwogICAgaWYgKGN1cCAhPSBudWxsKSB7CiAgICAgIGN1cElkID0gY3VwLmdldEN1cGlkKCk7CiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldFVwZGF0ZShVcGRhdGVUeXBlLlFVRVJZLCB0b3VybmFtZW50LmdldFRvdXJuYW1lbnRpZCgpKQogICAgICAgIH0pCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">am9pbiBmaWxzZW5kZXJkZWYK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">d2hlcmUgZnQuY2hhbmdlVG90YWwgPiAwCmFuZCBmdC5sYXN0VXBkYXRlZEF0ID49IE5PVygpIC0gaW50ZXJ2YWwgMiBkYXk=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFNlcnZpY2VVcGRhdGUgZ2V0VXBkYXRlKFVwZGF0ZVR5cGUgdXBkYXRlVHlwZSwgSW50ZWdlciBjdXBJZCkgewogIH0K</text>
+        <text encoding="base64">ICAgIEludGVnZXIgY3VwSWQgPSBudWxsOwogICAgaWYgKGN1cCAhPSBudWxsKSB7CiAgICAgIGN1cElkID0gY3VwLmdldEN1cGlkKCk7CiAgICB9Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
