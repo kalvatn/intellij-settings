@@ -266,12 +266,12 @@
         <mark key="^" line="80" column="1" />
         <mark key="." line="80" column="1" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1524745055872">
-        <mark key="'" line="273" column="67" />
-        <mark key="[" line="118" column="72" />
-        <mark key="]" line="118" column="76" />
-        <mark key="." line="118" column="76" />
-        <mark key="^" line="118" column="76" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1527159875844">
+        <mark key="'" line="315" column="8" />
+        <mark key="[" line="119" column="67" />
+        <mark key="]" line="119" column="71" />
+        <mark key="." line="119" column="71" />
+        <mark key="^" line="119" column="71" />
       </file>
       <file name="/work/projects/dei/www/www/base/lib/betradar/class/LMTMatchSourceJoinXmlFeed.class.php" timestamp="1526384907789">
         <mark key="'" line="74" column="43" />
@@ -825,8 +825,11 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1527073530073">
-        <mark key="'" line="102" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1527159843724">
+        <mark key="'" line="77" column="36" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1505219261833">
         <mark key="[" line="42" column="1" />
@@ -1137,8 +1140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="655" column="62" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
-      <jump line="70" column="96" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="30" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/queries/FishnetAPI.java" />
       <jump line="1687" column="81" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
       <jump line="65" column="62" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
@@ -1237,16 +1238,18 @@
       <jump line="203" column="74" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="94" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_7.sql" />
       <jump line="102" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="77" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="315" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gc3RhdGlzdGljc19wbGF5ZXJfcm9sZSBwciB3aGVyZSBwci5hY3RpdmUgPSAwIGFuZCBwci5kaXNhYmxlZCA9IDAgYW5kIHByLnJvbGVfdHlwZSA9IDEgYW5kIHByLmVuZCBpcyBOVUxMIDsK</text>
+      <register name="&quot;" type="4">
+        <text>38712</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>group_concat(distinct tis.uniqueteamid)</text>
+        <text>38712</text>
       </register>
       <register name="/" type="4">
         <text>invoke</text>
@@ -1255,31 +1258,31 @@
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gc3RhdGlzdGljc19wbGF5ZXJfcm9sZSBwciB3aGVyZSBwci5hY3RpdmUgPSAwIGFuZCBwci5kaXNhYmxlZCA9IDAgYW5kIHByLnJvbGVfdHlwZSA9IDEgYW5kIHByLmVuZCBpcyBOVUxMIDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwci50ZWFtX2lkLCB0dS5UZWFtTmFtZSwgcHIuc3RhcnQsIHByLmVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IGpvaW4gc3RhdGlzdGljc19wbGF5ZXJzIHAgb24gcC5wCg==</text>
+        <text encoding="base64">ICBwci50ZWFtX2lkLCB0dS5UZWFtTmFtZSwgcHIuc3RhcnQsIHByLmVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjLmlkLAo=</text>
+        <text encoding="base64">IGpvaW4gc3RhdGlzdGljc19wbGF5ZXJzIHAgb24gcC5wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJPTSB4bWxleHBvcnRfZmlsZXB1c2hzZXR0aW5ncyBmcHMKICBKT0lOIGZpbGVzZW5kZXJkZWZpbml0b24gZnNkIE9OIGZzZC5JZCA9IGZwcy51c2VyCiAgSk9JTiB4bWxleHBvcnRfY2xpZW50IGMgT04gYy5pZCA9IGZwcy5jbGllbnRpZAo=</text>
+        <text encoding="base64">ICBjLmlkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgZnNkLmFjdGl2ZSA9IDEK</text>
+        <text encoding="base64">RlJPTSB4bWxleHBvcnRfZmlsZXB1c2hzZXR0aW5ncyBmcHMKICBKT0lOIGZpbGVzZW5kZXJkZWZpbml0b24gZnNkIE9OIGZzZC5JZCA9IGZwcy51c2VyCiAgSk9JTiB4bWxleHBvcnRfY2xpZW50IGMgT04gYy5pZCA9IGZwcy5jbGllbnRpZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5kIGZzZC5TZW5kZXJDbGFzc05hbWUgPSAiU2VuZGVyUGVyc2lzdGVudEZUUCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgZnNkLmFjdGl2ZSA9IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5kIGZzZC5TZW5kZXJDbGFzc05hbWUgPSAiU2VuZGVyUGVyc2lzdGVudEZUUCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">am9pbiBmaWxzZW5kZXJkZWYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
+        <text encoding="base64">am9pbiBmaWxzZW5kZXJkZWYK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
