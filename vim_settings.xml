@@ -259,6 +259,12 @@
         <mark key="^" line="80" column="1" />
         <mark key="." line="80" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dc853e10-97a3-43b2-bb41-edf2e5bfcec3/console_1.sql" timestamp="1527691977418">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1527505467716">
         <mark key="'" line="318" column="0" />
         <mark key="[" line="121" column="0" />
@@ -776,6 +782,12 @@
         <mark key="." line="39" column="88" />
         <mark key="^" line="39" column="88" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e6af12a-6c18-4583-8b51-245eab98df09/console.sql" timestamp="1527692202589">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="/work/projects/social/backend/app/config-local.yml" timestamp="1516972047097">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="22" column="69" />
@@ -787,6 +799,12 @@
         <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" timestamp="1527692181860">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="1" column="52" />
+        <mark key="." line="1" column="52" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TableData.java" timestamp="1521038050997">
         <mark key="[" line="15" column="28" />
@@ -1223,20 +1241,20 @@
       <jump line="318" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwogICAgaWRzQnlUeXBlLnB1dEFsbChFeHBvcnRRdWVyeS5JZFR5cGUuU0VBU09OSUQsIEltbXV0YWJsZUxpc3Qub2YoMzg3MTIpKTsKPT09PT09PQovLyAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzODcxMikpOwo+Pj4+Pj4+IFdJUCBmaXNobmV0IGN1cCBicmFja2V0IGltcGxlbWVudGF0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>livescore_source</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>livescore_source</text>
       </register>
       <register name="/" type="4">
         <text>invoke</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFORCBtLnNob3dJU0UgPSAxCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfc291cmNlIHMgd2hlcmUgcy5pZCBpbiAoMTIwNiwKMTAzNTgsCjE1OTI3LAoyMDA3NCwKMjA4MTIsCjIyMDYzLAoyMjIzOCwKMjIyMzksCjIyNDU1LAoyMjUyMSwKMjQxMTMKKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwogICAgaWRzQnlUeXBlLnB1dEFsbChFeHBvcnRRdWVyeS5JZFR5cGUuU0VBU09OSUQsIEltbXV0YWJsZUxpc3Qub2YoMzg3MTIpKTsKPT09PT09PQovLyAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzODcxMikpOwo+Pj4+Pj4+IFdJUCBmaXNobmV0IGN1cCBicmFja2V0IGltcGxlbWVudGF0aW9uCg==</text>
