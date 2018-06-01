@@ -265,11 +265,10 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1527505467716">
-        <mark key="'" line="318" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1527854686529">
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
+        <mark key="." line="317" column="0" />
       </file>
       <file name="/work/projects/dei/www/www/base/lib/betradar/class/LMTMatchSourceJoinXmlFeed.class.php" timestamp="1527248635342">
         <mark key="'" line="75" column="43" />
@@ -1139,7 +1138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="116" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="136" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="56" column="31" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
@@ -1239,10 +1237,11 @@
       <jump line="328" column="35" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="155" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="318" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="317" column="22" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>livescore_source</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXRobmFtZSArPSAiLnhtbCI7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1257,31 +1256,31 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfc291cmNlIHMgd2hlcmUgcy5pZCBpbiAoMTIwNiwKMTAzNTgsCjE1OTI3LAoyMDA3NCwKMjA4MTIsCjIyMDYzLAoyMjIzOCwKMjIyMzksCjIyNDU1LAoyMjUyMSwKMjQxMTMKKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwogICAgaWRzQnlUeXBlLnB1dEFsbChFeHBvcnRRdWVyeS5JZFR5cGUuU0VBU09OSUQsIEltbXV0YWJsZUxpc3Qub2YoMzg3MTIpKTsKPT09PT09PQovLyAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzODcxMikpOwo+Pj4+Pj4+IFdJUCBmaXNobmV0IGN1cCBicmFja2V0IGltcGxlbWVudGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRobmFtZSArPSAiLnhtbCI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwogICAgaWRzQnlUeXBlLnB1dEFsbChFeHBvcnRRdWVyeS5JZFR5cGUuU0VBU09OSUQsIEltbXV0YWJsZUxpc3Qub2YoMzg3MTIpKTsKPT09PT09PQovLyAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzODcxMikpOwo+Pj4+Pj4+IFdJUCBmaXNobmV0IGN1cCBicmFja2V0IGltcGxlbWVudGF0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW0uc2hvd0lTRQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CW0uc2hvd0lTRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUlGKG0uc2hvd0lTRSA9IDEsICd0cnVlJywgJ2ZhbHNlJwo=</text>
+        <text encoding="base64">CW0uc2hvd0lTRQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFORCAK</text>
+        <text encoding="base64">CUlGKG0uc2hvd0lTRSA9IDEsICd0cnVlJywgJ2ZhbHNlJwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEFORCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFORCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFzb24gPSBudWxsOwogICAgICAgIHNlYXNvbklkID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
