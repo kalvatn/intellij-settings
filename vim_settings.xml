@@ -823,12 +823,12 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" timestamp="1528198225243">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="14" column="69" />
-        <mark key="]" line="14" column="66" />
-        <mark key="." line="14" column="66" />
-        <mark key="^" line="14" column="66" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" timestamp="1528202836501">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="97" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="20" column="96" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TableData.java" timestamp="1521038050997">
         <mark key="[" line="15" column="28" />
@@ -1267,13 +1267,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">akEK</text>
+        <text encoding="base64">ICBncm91cCBieSB0LlRPVVJOQU1FTlRJRAo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>48238</text>
+        <text>, tu.time, count(tu.id)</text>
       </register>
       <register name="/" type="4">
         <text>testQuery</text>
@@ -1282,28 +1282,28 @@
         <text encoding="base64">ICAgIGlkc0J5VHlwZS5wdXRBbGwoRXhwb3J0UXVlcnkuSWRUeXBlLlNFQVNPTklELCBJbW11dGFibGVMaXN0Lm9mKDQ4MjM4KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">akEK</text>
+        <text encoding="base64">ICBncm91cCBieSB0LlRPVVJOQU1FTlRJRAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRobmFtZSArPSAiLnhtbCI7Cg==</text>
+        <text encoding="base64">akEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwogICAgaWRzQnlUeXBlLnB1dEFsbChFeHBvcnRRdWVyeS5JZFR5cGUuU0VBU09OSUQsIEltbXV0YWJsZUxpc3Qub2YoMzg3MTIpKTsKPT09PT09PQovLyAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzODcxMikpOwo+Pj4+Pj4+IFdJUCBmaXNobmV0IGN1cCBicmFja2V0IGltcGxlbWVudGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRobmFtZSArPSAiLnhtbCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwogICAgaWRzQnlUeXBlLnB1dEFsbChFeHBvcnRRdWVyeS5JZFR5cGUuU0VBU09OSUQsIEltbXV0YWJsZUxpc3Qub2YoMzg3MTIpKTsKPT09PT09PQovLyAgICBpZHNCeVR5cGUucHV0QWxsKEV4cG9ydFF1ZXJ5LklkVHlwZS5TRUFTT05JRCwgSW1tdXRhYmxlTGlzdC5vZigzODcxMikpOwo+Pj4+Pj4+IFdJUCBmaXNobmV0IGN1cCBicmFja2V0IGltcGxlbWVudGF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW0uc2hvd0lTRQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CW0uc2hvd0lTRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUlGKG0uc2hvd0lTRSA9IDEsICd0cnVlJywgJ2ZhbHNlJwo=</text>
+        <text encoding="base64">CW0uc2hvd0lTRQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFORCAK</text>
+        <text encoding="base64">CUlGKG0uc2hvd0lTRSA9IDEsICd0cnVlJywgJ2ZhbHNlJwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEFORCAK</text>
