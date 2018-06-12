@@ -188,7 +188,7 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_9.php" timestamp="1528808741044" />
+      <file name="$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_9.php" timestamp="1528811307390" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerIntegrationTest.java" timestamp="1504616441205">
         <mark key="[" line="287" column="56" />
         <mark key="]" line="288" column="30" />
@@ -529,7 +529,7 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528808741866">
+      <file name="/Dummy.txt" timestamp="1528811307622">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_2.sql" timestamp="1504531218428">
@@ -850,12 +850,13 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" timestamp="1528809537107">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="173" column="41" />
-        <mark key="]" line="173" column="63" />
-        <mark key="." line="173" column="63" />
-        <mark key="^" line="173" column="63" />
+      <file name="/work/projects/dei/www/www/base/lib/guth/class/streaming/decodersubscription.class.php" timestamp="1528811363870" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" timestamp="1528811406286">
+        <mark key="'" line="117" column="5" />
+        <mark key="[" line="176" column="51" />
+        <mark key="]" line="176" column="49" />
+        <mark key="." line="176" column="49" />
+        <mark key="^" line="176" column="49" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TableData.java" timestamp="1521038050997">
         <mark key="[" line="15" column="28" />
@@ -1170,11 +1171,11 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_11.sql" timestamp="1528805251455">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_11.sql" timestamp="1528811274662">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/backend/UpdateFinderManagerIntegrationTest.java" timestamp="1516787393982">
         <mark key="[" line="24" column="5" />
@@ -1196,7 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="83" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="100" column="58" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="1032" column="33" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
       <jump line="22" column="51" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" />
@@ -1296,10 +1296,11 @@
       <jump line="442" column="97" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/tvstreaming/StreamingScheduleController.java" />
       <jump line="439" column="16" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/tvstreaming/StreamingScheduleController.java" />
       <jump line="163" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" />
+      <jump line="117" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>streaming_match_recording</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1314,31 +1315,31 @@
         <text encoding="base64">c2hvdyBmdWxsIGNvbHVtbnMgZnJvbSBzdHJlYW1pbmdfbWF0Y2hfcmVjb3JkaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnN0YXJ0ZGF0ZQoKRwpHCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Rwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICYmIGhhc0RFSVByb3BlcnR5KCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzREVJUHJvcGVydHkodG91cm5hbWVudElkLCBERUlQcm9wZXJ0eS5BTExfRlVMTF9USU1FX1NDT1JFKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBURUFNOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hbnlNYXRjaCh2YWx1ZTo6ZXF1YWxzSWdub3JlQ2FzZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgZHBvLmlkIGlzIG5vdCBudWxsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CnN0YXJ0ZGF0ZQoKRwpHCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Rwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICYmIGhhc0RFSVByb3BlcnR5KCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzREVJUHJvcGVydHkodG91cm5hbWVudElkLCBERUlQcm9wZXJ0eS5BTExfRlVMTF9USU1FX1NDT1JFKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBURUFNOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5hbnlNYXRjaCh2YWx1ZTo6ZXF1YWxzSWdub3JlQ2FzZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBhbmQgZHBvLmlkIGlzIG5vdCBudWxsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
