@@ -540,11 +540,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1528731671993">
-        <mark key="[" line="119" column="30" />
-        <mark key="]" line="120" column="55" />
-        <mark key="." line="120" column="55" />
-        <mark key="^" line="120" column="55" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1528805083254">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="105" column="10" />
+        <mark key="]" line="105" column="24" />
+        <mark key="^" line="105" column="24" />
+        <mark key="." line="105" column="24" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Match.java" timestamp="1524055972781">
         <mark key="[" line="480" column="39" />
@@ -839,12 +840,12 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" timestamp="1528731602460">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" timestamp="1528802609899">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="154" column="28" />
-        <mark key="]" line="154" column="59" />
-        <mark key="." line="154" column="59" />
-        <mark key="^" line="154" column="59" />
+        <mark key="[" line="168" column="1" />
+        <mark key="]" line="159" column="83" />
+        <mark key="." line="159" column="83" />
+        <mark key="^" line="159" column="83" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TableData.java" timestamp="1521038050997">
         <mark key="[" line="15" column="28" />
@@ -1040,6 +1041,9 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/DEIProperty.java" timestamp="1528802183223">
+        <mark key="'" line="180" column="35" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/repository/EventRepository.java" timestamp="1518440149741">
         <mark key="[" line="75" column="50" />
         <mark key="]" line="76" column="57" />
@@ -1064,12 +1068,12 @@
         <mark key="^" line="83" column="57" />
         <mark key="." line="83" column="57" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" timestamp="1528728703048">
-        <mark key="'" line="92" column="44" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="6" column="0" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" timestamp="1528801978621">
+        <mark key="'" line="181" column="34" />
+        <mark key="[" line="187" column="5" />
+        <mark key="]" line="189" column="23" />
+        <mark key="^" line="189" column="23" />
+        <mark key="." line="189" column="23" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/SingleLogoutService.java" timestamp="1500576207279">
         <mark key="[" line="19" column="12" />
@@ -1155,6 +1159,12 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_11.sql" timestamp="1528805109782">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/backend/UpdateFinderManagerIntegrationTest.java" timestamp="1516787393982">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="16" column="5" />
@@ -1175,12 +1185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="122" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
-      <jump line="1714" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="131" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
-      <jump line="164" column="50" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
-      <jump line="171" column="52" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
-      <jump line="175" column="43" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="176" column="65" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="189" column="43" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
       <jump line="190" column="65" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/WinnerDeciderManager.java" />
@@ -1275,70 +1279,74 @@
       <jump line="19" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
       <jump line="88" column="48" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
       <jump line="92" column="44" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
+      <jump line="8" column="51" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
+      <jump line="10" column="4" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
+      <jump line="181" column="34" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
+      <jump line="45" column="30" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/DEIProperty.java" />
+      <jump line="180" column="35" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/DEIProperty.java" />
+      <jump line="149" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzREVJUHJvcGVydHkodG91cm5hbWVudElkLCBERUlQcm9wZXJ0eS5BTExfRlVMTF9USU1FX1NDT1JFKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>32,63,65,67,81,85,87,91,93,151,155,172,186,194,213,223,224,228,230,234,250,277,279,281,283,285,287,289,291,293,295,297,299,301,303,305,307,309,311,317,341,343,345,347,349,353,359,361,363,367</text>
+        <text>ignored</text>
       </register>
       <register name="/" type="4">
-        <text>coverage</text>
+        <text>71</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzREVJUHJvcGVydHkodG91cm5hbWVudElkLCBQcm9wZXJ0eUlkcy5BTExfRlVMTF9USU1FX1NDT1JFKTsK</text>
+        <text encoding="base64">IHNlbGVjdCBjb25jYXQoJ3B1YmxpYyBzdGF0aWMgZmluYWwgaW50ICcsIFJFUExBQ0UoVVBQRVIoZHAubmFtZSksICcgJywgJ18nKSwgJyA9ICcsIGRwLmlkLCAnOycpIGZyb20gZGVmYXVsdF9wcm9wZXJ0eSBkcCB3aGVyZSBkcC5kZXByZWNhdGVkID0gMCBhbmQgZHAuZGlzYWJsZWQgPSAwIDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzREVJUHJvcGVydHkodG91cm5hbWVudElkLCBERUlQcm9wZXJ0eS5BTExfRlVMTF9USU1FX1NDT1JFKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YS5zd2luZy5wbGFmLndpbmRvd3MuVE1TY2hlbWEuUHJvcDsK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBURUFNOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgIC5hbnlNYXRjaCh2YWx1ZTo6ZXF1YWxzSWdub3JlQ2FzZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICBhbmQgZHBvLmlkIGlzIG5vdCBudWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBoYXNERUlQcm9wZXJ0eSh0b3VybmFtZW50SWQsIFByb3BlcnR5SWRzLkZJWCkK</text>
+        <text encoding="base64">ICAgICAgaWYgKCFyZXNwb25zZS5pc1ByZXNlbnQoKSkgewogICAgICAgIGxvZy5kZWJ1ZygKICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgKICAgICAgICAgICAgICAgICJubyByZXNwb25zZSB3aGVuIGxvb2tpbmcgdXAgcHJvcGVydHkgJXMgZm9yIHRvdXJuYW1lbnQgJWQiLAogICAgICAgICAgICAgICAgcHJvcGVydHksIHRvdXJuYW1lbnRJZCkpOwogICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgfQogICAgICBmb3IgKFByb3BlcnR5UmVzcG9uc2UgcHJvcGVydGllcyA6IHJlc3BvbnNlKSB7CiAgICAgICAgU3RyaW5nIHByb3BlcnR5VmFsdWUgPSBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KHByb3BlcnR5LmdldElkKCkpOwogICAgICAgIGlmIChwcm9wZXJ0eVZhbHVlID09IG51bGwpIHsKICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIGlmICh2YWx1ZS5lcXVhbHMocHJvcGVydHlWYWx1ZSkpIHsKICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzREVJUHJvcGVydHkodG91cm5hbWVudElkLCBQcm9wZXJ0eUlkcy5URU5OSVMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>%s/&quot;//g</text>
       </register>
     </registers>
     <search>
-      <last-search>coverage</last-search>
+      <last-search>71</last-search>
       <last-offset />
-      <last-pattern>coverage</last-pattern>
-      <last-replace>();</last-replace>
-      <last-substitute>(row\.get.*);</last-substitute>
+      <last-pattern>71</last-pattern>
+      <last-replace />
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>current</entry>
-        <entry>roundorder</entry>
         <entry>roundOrder</entry>
         <entry>info</entry>
         <entry>error</entry>
@@ -1357,9 +1365,10 @@
         <entry>194</entry>
         <entry>155</entry>
         <entry>coverage</entry>
+        <entry>&quot;</entry>
+        <entry>71</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/score\.get\(teamid1\.get\(CUMULATIVE\_GOAL\_INDEX\)/team1TotalGoals/gc</entry>
         <entry>%s/score.get(teamid1.get(CUMULATIVE\_GOAL\_INDEX)/team1TotalGoals/gc</entry>
         <entry>%s/score.get(teamid1).get(CUMULATIVE\_GOAL\_INDEX)/team1TotalGoals/gc</entry>
         <entry>%s/score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)/team1TotalGoals/gc</entry>
@@ -1379,6 +1388,7 @@
         <entry>139</entry>
         <entry>214</entry>
         <entry>set ignorecase</entry>
+        <entry>%s/&quot;//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
