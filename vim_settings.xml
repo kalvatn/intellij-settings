@@ -288,11 +288,12 @@
         <mark key="." line="1917" column="14" />
         <mark key="^" line="1917" column="14" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1528899568776">
-        <mark key="[" line="41" column="88" />
-        <mark key="]" line="45" column="70" />
-        <mark key="." line="45" column="70" />
-        <mark key="^" line="45" column="70" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1528913429441">
+        <mark key="'" line="284" column="24" />
+        <mark key="[" line="45" column="66" />
+        <mark key="]" line="45" column="69" />
+        <mark key="." line="45" column="69" />
+        <mark key="^" line="45" column="69" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e1039c38-5c9c-439b-92ae-732873bc4650/console.sql" timestamp="1528714719337">
         <mark key="[" line="1" column="0" />
@@ -1243,7 +1244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="7" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
       <jump line="54" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="275" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
       <jump line="116" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
@@ -1343,16 +1343,17 @@
       <jump line="238" column="105" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="341" column="55" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="162" column="83" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationCacheV2.java" />
+      <jump line="284" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, clientId</text>
+        <text>false</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, clientId</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>addName</text>
