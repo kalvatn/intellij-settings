@@ -57,12 +57,11 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1528816326969">
-        <mark key="'" line="14" column="56" />
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="51" />
-        <mark key="^" line="5" column="51" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1528899637889">
+        <mark key="'" line="7" column="51" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/AuthenticationConfiguration.java" timestamp="1500578285184">
         <mark key="[" line="29" column="3" />
@@ -289,8 +288,11 @@
         <mark key="." line="1917" column="14" />
         <mark key="^" line="1917" column="14" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1528895584822">
-        <mark key="[" line="41" column="78" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1528899568776">
+        <mark key="[" line="41" column="88" />
+        <mark key="]" line="45" column="70" />
+        <mark key="." line="45" column="70" />
+        <mark key="^" line="45" column="70" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e1039c38-5c9c-439b-92ae-732873bc4650/console.sql" timestamp="1528714719337">
         <mark key="[" line="1" column="0" />
@@ -435,6 +437,12 @@
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/pom.xml" timestamp="1528710450067">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Teamsunique.java" timestamp="1528898658540">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="52" column="35" />
+        <mark key="." line="52" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_9.sql" timestamp="1507034635041">
         <mark key="[" line="9" column="0" />
@@ -790,11 +798,11 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_13.sql" timestamp="1528813826225">
-        <mark key="[" line="0" column="73" />
-        <mark key="]" line="0" column="70" />
-        <mark key="^" line="0" column="70" />
-        <mark key="." line="0" column="70" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_13.sql" timestamp="1528899653044">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventAccessCheckFilter.java" timestamp="1517841131383">
         <mark key="[" line="49" column="16" />
@@ -895,6 +903,13 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1528899709246">
+        <mark key="'" line="341" column="55" />
+        <mark key="[" line="96" column="16" />
+        <mark key="]" line="96" column="20" />
+        <mark key="." line="96" column="20" />
+        <mark key="^" line="96" column="20" />
+      </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/mapper/SportMapper.java" timestamp="1517236681529">
         <mark key="[" line="13" column="39" />
         <mark key="]" line="14" column="14" />
@@ -930,6 +945,7 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsTeamsinseason.java" timestamp="1528899048596" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/messaging/mdb/DeltaMDB.java" timestamp="1505808488606">
         <mark key="[" line="16" column="89" />
         <mark key="]" line="16" column="89" />
@@ -1218,24 +1234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1794" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="40" column="56" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverterIntegrationTest.java" />
-      <jump line="187" column="11" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
-      <jump line="200" column="51" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
-      <jump line="1804" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="43" column="13" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/outright/OutrightStage.java" />
-      <jump line="81" column="70" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/referee/RefereeProfileServiceBean.java" />
-      <jump line="1846" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="15" column="13" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/CupTree.java" />
-      <jump line="173" column="34" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
-      <jump line="203" column="39" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
-      <jump line="137" column="92" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
-      <jump line="94" column="132" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
-      <jump line="64" column="58" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
-      <jump line="785" column="78" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
-      <jump line="66" column="43" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
-      <jump line="1849" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_6.sql" />
-      <jump line="239" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="28" column="5" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/BracketEAO.java" />
       <jump line="241" column="7" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" />
       <jump line="54" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
@@ -1255,7 +1253,6 @@
       <jump line="444" column="79" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="203" column="74" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="94" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_7.sql" />
-      <jump line="102" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="77" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="315" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="98" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
@@ -1318,61 +1315,80 @@
       <jump line="11" column="56" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
       <jump line="60" column="27" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Player.java" />
       <jump line="134" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationCacheV2.java" />
+      <jump line="138" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="5" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
+      <jump line="101" column="58" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="102" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="103" column="55" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="114" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="115" column="79" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="123" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="128" column="108" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="134" column="103" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="182" column="12" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="187" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="195" column="98" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="233" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="234" column="23" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="235" column="14" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="236" column="41" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="238" column="105" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="341" column="55" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newPlayername</text>
+        <text>warn</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>newPlayername</text>
+        <text>warn</text>
       </register>
       <register name="/" type="4">
-        <text>loadAndCache</text>
+        <text>season</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkc0J5VHlwZS5wdXRBbGwoRXhwb3J0UXVlcnkuSWRUeXBlLlNFQVNPTklELCBJbW11dGFibGVMaXN0Lm9mKDQ4MjM4KSk7Cg==</text>
+        <text encoding="base64">CnNlbGVjdCAqCmZyb20gc3RhdGlzdGljc190ZWFtc2luc2Vhc29uIHRpcwogIGpvaW4gdGVhbXN1bmlxdWUgdHUgb24gdHUuSWQgPSB0aXMudW5pcXVldGVhbWlkCiAgam9pbiB0ZWFtc3VuaXF1ZXR5cGVzIHR5cGUgb24gdHUudGVhbXR5cGVpZCA9IHR5cGUuaWQKd2hlcmUgMQo7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxheWVyTmFtZSA9IHRyYW5zbGF0ZWRWYWx1ZTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBuZXdQbGF5ZXJuYW1lID0gcGxheWVyTmFtZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG5ld1BsYXllcm5hbWUgPSBwbGF5ZXJOYW1lOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBuZXdQbGF5ZXJuYW1lID0gcGxheWVyTmFtZTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwbGF5ZXJOYW1lLmNvbnRhaW5zKCIsIikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmdbXSBwYXJ0cyA9IHBsYXllck5hbWUuc3BsaXQoIiwiLCAyKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXdQbGF5ZXJuYW1lID0gU3RyaW5nLmZvcm1hdCgiJXMgJXMiLCBwYXJ0c1sxXS50cmltKCksIHBhcnRzWzBdLnRyaW0oKSkudHJpbSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlkcwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">NDgyMzgKcAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YW5kIHR5cGUuaWQgIT0gMAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">d2hlcmUgdGlzLnNlYXNvbmlkID0gNDgyMzg7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUZWFtc3VuaXF1ZSB0ZWFtc3VuaXF1ZSA9IHRlYW1NYW5hZ2VyLmdldFVuaXF1ZVRlYW0odW5pcXVlVGVhbUlkKTsKCiAgICAgICAgaWYgKHRlYW1zdW5pcXVlLmdldFRlYW10eXBlSWQoKSAhPSAwKSB7CiAgICAgICAgICAgIGxvZy53YXJuKFN0cmluZy5mb3JtYXQoInNraXBwaW5nIG5vbi1ub3JtYWwgdGVhbSAlcywgdGVhbXR5cGUgJWQiLCB0ZWFtc3VuaXF1ZSwgdGVhbXN1bmlxdWUuZ2V0VGVhbXR5cGVJZCgpKSk7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGVhbXN1bmlxdWUuZ2V0VCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBmb3JtYXR0ZWRQbGF5ZXJOYW1lID0gcGxheWVyTmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxheWVyTmFtZSA9IHRyYW5zbGF0ZWRWYWx1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBmb3JtYXR0ZWRQbGF5ZXJOYW1lID0gcGxheWVyTmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBuZXdQbGF5ZXJuYW1lID0gcGxheWVyTmFtZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2xhdGlvbnMucHV0KExBTkdVQUdFX0VOR0xJU0gsIGZvcm1hdHRlZFBsYXllck5hbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG5ld1BsYXllcm5hbWUgPSBwbGF5ZXJOYW1lOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>384</text>
       </register>
     </registers>
     <search>
-      <last-search>loadAndCache</last-search>
+      <last-search>season</last-search>
       <last-offset />
-      <last-pattern>loadAndCache</last-pattern>
+      <last-pattern>season</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1380,9 +1396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testQuery</entry>
-        <entry>sportradar-common</entry>
-        <entry>dei</entry>
         <entry>formation</entry>
         <entry>playername</entry>
         <entry>player</entry>
@@ -1400,10 +1413,11 @@
         <entry>cupbracket</entry>
         <entry>translation sources</entry>
         <entry>loadAndCache</entry>
+        <entry>failed</entry>
+        <entry>384</entry>
+        <entry>season</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/score.get(teamid1).get(CUMULATIVE\_GOAL\_INDEX)/team1TotalGoals/gc</entry>
-        <entry>%s/score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)/team1TotalGoals/gc</entry>
         <entry>%s/score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)/team2TotalGoals/gc</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry>266</entry>
@@ -1422,6 +1436,8 @@
         <entry>%s/&quot;//g</entry>
         <entry>set noignorecase</entry>
         <entry>set ignorecase</entry>
+        <entry>306</entry>
+        <entry>384</entry>
       </history-cmd>
       <history-expr />
       <history-input />
