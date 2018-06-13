@@ -1136,11 +1136,11 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationCacheV3.java" timestamp="1528924401999">
-        <mark key="[" line="162" column="24" />
-        <mark key="]" line="162" column="32" />
-        <mark key="^" line="162" column="32" />
-        <mark key="." line="162" column="32" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationCacheV3.java" timestamp="1528925242140">
+        <mark key="[" line="96" column="27" />
+        <mark key="]" line="96" column="30" />
+        <mark key="^" line="96" column="30" />
+        <mark key="." line="96" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_6.sql" timestamp="1502708635659">
         <mark key="[" line="3" column="20" />
@@ -1300,14 +1300,14 @@
       <jump line="347" column="31" filename="/work/projects/bac/java/lib/filesender-common.jar!/conf/general.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>100</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>value.get()</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>backup</text>
