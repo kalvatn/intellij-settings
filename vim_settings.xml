@@ -18,11 +18,11 @@
       <file name="/a.dummy" timestamp="1528725963584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV3.java" timestamp="1528965201083">
-        <mark key="[" line="466" column="0" />
-        <mark key="]" line="466" column="0" />
-        <mark key="." line="466" column="0" />
-        <mark key="^" line="489" column="27" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV3.java" timestamp="1528974114189">
+        <mark key="[" line="464" column="108" />
+        <mark key="]" line="464" column="154" />
+        <mark key="." line="464" column="154" />
+        <mark key="^" line="464" column="154" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_2.sql" timestamp="1510660813661">
         <mark key="[" line="1" column="71" />
@@ -341,11 +341,11 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1528973034911">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1528974136757">
         <mark key="'" line="142" column="0" />
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="57" column="33" />
-        <mark key="." line="57" column="33" />
+        <mark key="[" line="120" column="57" />
+        <mark key="]" line="120" column="57" />
+        <mark key="." line="120" column="57" />
         <mark key="^" line="57" column="33" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/TranslationType.java" timestamp="1528949619140">
@@ -1387,20 +1387,20 @@
       <jump line="62" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PlayerManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygiY29uc3RydWN0b3IiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>4704</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;no-arg-constructor&quot;</text>
+        <text>4704</text>
       </register>
       <register name="/" type="4">
         <text>createPlayer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZShJbnRlZ2VyIGlkLCBTdHJpbmcgbGFuZ3VhZ2VDb2RlLCBJbnRlZ2VyIHNvdXJjZUlkLCBJbnRlZ2VyIHR5cGVJZCkgewogICAgICAgIHJldHVybiB0cmFuc2xhdGlvbkNhY2hlLmdldFRyYW5zbGF0aW9uTWFwKCkuZ2V0KHNvdXJjZUlkKS5nZXQodHlwZUlkKS5nZXQobGFuZ3VhZ2VDb2RlKS5nZXQoaWQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIFNvdXJjZUFuZFR5cGUgc291cmNlQW5kVHlwZUZvckRlZmF1bHRTb3VyY2UgPQogICAgICAgICAgICB0cmFuc2xhdGlvbkNhY2hlLmdldFRyYW5zbGF0aW9uc0ZvclNvdXJjZUFuZFR5cGUoc291cmNlSWQsIHRyYW5zbGF0aW9uVHlwZSk7CiAgICAgICAgICB2YWx1ZSA9IHNvdXJjZUFuZFR5cGVGb3JEZWZhdWx0U291cmNlLmdldFZhbHVlKGxhbmd1YWdlLCBudW1lcmljS2V5KTsKICAgICAgICAgIHZhbHVlLmlmUHJlc2VudChzIC0+IHRyYW5zbGF0aW9ucy5wdXQobGFuZ3VhZ2UsIHMpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygiY29uc3RydWN0b3IiKQo=</text>
