@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/translation/TranslationCacheV3IntegrationTest.java" timestamp="1528927607560">
-        <mark key="[" line="25" column="48" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
-        <mark key="^" line="26" column="15" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/translation/TranslationCacheV3IntegrationTest.java" timestamp="1528976722867">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="5" />
+        <mark key="." line="30" column="5" />
+        <mark key="^" line="30" column="5" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/util/TimeUtil.java" timestamp="1509394110633">
         <mark key="[" line="13" column="76" />
@@ -18,11 +18,11 @@
       <file name="/a.dummy" timestamp="1528725963584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV3.java" timestamp="1528974114189">
-        <mark key="[" line="464" column="108" />
-        <mark key="]" line="464" column="154" />
-        <mark key="." line="464" column="154" />
-        <mark key="^" line="464" column="154" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV3.java" timestamp="1528977162252">
+        <mark key="[" line="453" column="57" />
+        <mark key="]" line="453" column="101" />
+        <mark key="." line="453" column="101" />
+        <mark key="^" line="453" column="101" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_2.sql" timestamp="1510660813661">
         <mark key="[" line="1" column="71" />
@@ -178,12 +178,12 @@
       <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/tvstreaming/StreamingScheduleController.java" timestamp="1528808702770">
         <mark key="'" line="439" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1528949565693">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="80" column="111" />
-        <mark key="]" line="80" column="126" />
-        <mark key="." line="80" column="126" />
-        <mark key="^" line="80" column="126" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1528976328580">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="73" column="119" />
+        <mark key="]" line="73" column="118" />
+        <mark key="." line="73" column="118" />
+        <mark key="^" line="73" column="118" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/BracketEAO.java" timestamp="1525866293365">
         <mark key="[" line="30" column="23" />
@@ -215,7 +215,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1528364632793">
+      <file name="/a.sql" timestamp="1528976305408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/social/backend/api/src/main/java/com/sportradar/model/Event.java" timestamp="1518440106637">
@@ -334,6 +334,10 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/PlayerRoleEAO.java" timestamp="1528975176206">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_6.sql" timestamp="1502708635659">
         <mark key="[" line="3" column="20" />
@@ -574,17 +578,21 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1528976305622">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_1.sql" timestamp="1502283389608">
         <mark key="[" line="46" column="28" />
         <mark key="]" line="47" column="16" />
         <mark key="." line="47" column="16" />
         <mark key="^" line="47" column="16" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/NameEAO.java" timestamp="1528959440544">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="69" column="31" />
-        <mark key="." line="69" column="31" />
-        <mark key="^" line="69" column="31" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/NameEAO.java" timestamp="1528975184606">
+        <mark key="'" line="72" column="34" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="72" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1528924310075">
         <mark key="[" line="0" column="0" />
@@ -608,6 +616,10 @@
         <mark key="]" line="1917" column="14" />
         <mark key="." line="1917" column="14" />
         <mark key="^" line="1917" column="14" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/PlayerRoleCache.java" timestamp="1528910415928">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="245" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Match.java" timestamp="1524055972781">
         <mark key="[" line="480" column="39" />
@@ -666,7 +678,7 @@
         <mark key="." line="49" column="50" />
         <mark key="^" line="49" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1528962787402">
+      <file name="/fragment.java" timestamp="1528976083307">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/CountryManager.java" timestamp="1502286568008">
@@ -1285,9 +1297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
-      <jump line="315" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="98" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="276" column="57" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="114" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_7.sql" />
       <jump line="328" column="35" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
@@ -1385,49 +1394,53 @@
       <jump line="104" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV2.java" />
       <jump line="14" column="37" filename="/work/projects/bac/xmlexport/pom.xml" />
       <jump line="62" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PlayerManager.java" />
+      <jump line="69" column="34" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/NameEAO.java" />
+      <jump line="67" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
+      <jump line="74" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4704</text>
+        <text>sourceId</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>4704</text>
+        <text>sourceId</text>
       </register>
       <register name="/" type="4">
         <text>createPlayer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFNvdXJjZUFuZFR5cGUgc291cmNlQW5kVHlwZUZvckRlZmF1bHRTb3VyY2UgPQogICAgICAgICAgICB0cmFuc2xhdGlvbkNhY2hlLmdldFRyYW5zbGF0aW9uc0ZvclNvdXJjZUFuZFR5cGUoc291cmNlSWQsIHRyYW5zbGF0aW9uVHlwZSk7CiAgICAgICAgICB2YWx1ZSA9IHNvdXJjZUFuZFR5cGVGb3JEZWZhdWx0U291cmNlLmdldFZhbHVlKGxhbmd1YWdlLCBudW1lcmljS2V5KTsKICAgICAgICAgIHZhbHVlLmlmUHJlc2VudChzIC0+IHRyYW5zbGF0aW9ucy5wdXQobGFuZ3VhZ2UsIHMpKTsK</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFN0cmluZz4gZGUgPSBkZWZhdWx0U291cmNlLmdldFZhbHVlKCJkZSIsIDEpOwogICAgZGUuaWZQcmVzZW50KHMgLT4gQXNzZXJ0LmFzc2VydEVxdWFscygiRnXDn2JhbGwiLCBzKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygiY29uc3RydWN0b3IiKQo=</text>
+      <register name="1" type="8">
+        <text>True
+True</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vICAgIGZvciAoU3RyaW5nIGxhbmd1YWdlIDogY2xpZW50TGFuZ3VhZ2VzKSB7CiAgICAgIC8vICAgICAgICAgICAgICAgICAgICBPcHRpb25hbDxTdHJpbmc+IGNhY2hlZFZhbHVlID0gdHJhbnNsYXRpb25DYWNoZS5nZXRUcmFuc2xhdGlvbihzb3VyY2VJZCwKICAgICAgLy8gdHJhbnNsYXRpb25UeXBlLCBsYW5ndWFnZSwgbnVtZXJpY0tleSk7CiAgICAgIC8vICAgICAgICAgICAgICAgICAgICBpZiAoY2FjaGVkVmFsdWUuaXNQcmVzZW50KCkpIHsKICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgdHJhbnNsYXRpb25zLnB1dChsYW5ndWFnZSwgY2FjaGVkVmFsdWUuZ2V0KCkpOwogICAgICAvLyAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICBjYWNoZWRWYWx1ZSA9CiAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2xhdGlvbkNhY2hlLmdldFRyYW5zbGF0aW9uKAogICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBUcmFuc2xhdGlvbkNhY2hlVjMuREVGQVVMVF9UUkFOU0xBVElPTl9TT1VSQ0UsCiAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zbGF0aW9uVHlwZSwKICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFuZ3VhZ2UsCiAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bWVyaWNLZXkpOwogICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgIGNhY2hlZFZhbHVlLmlmUHJlc2VudChzIC0+IHRyYW5zbGF0aW9ucy5wdXQobGFuZ3VhZ2UsIHMpKTsKICAgICAgLy8gICAgICAgICAgICAgICAgICAgIH0KICAgICAgLy8gICAgICAgICAgICAgICAgICBPcHRpb25hbDxTdHJpbmc+IHZhbHVlOwogICAgICAvLyAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICBTb3VyY2VUeXBlQW5kTGFuZ3VhZ2UgdHJhbnNsYXRpb25zRm9yU291cmNlID0gdHJhbnNsYXRpb25DYWNoZQogICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldFRyYW5zbGF0aW9uc0ZvclNvdXJjZVR5cGVBbmRMYW5ndWFnZShzb3VyY2VJZCwKICAgICAgLy8gdHJhbnNsYXRpb25UeXBlLAogICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYW5ndWFnZSk7CiAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB0cmFuc2xhdGlvbnNGb3JTb3VyY2UuZ2V0VmFsdWUobnVtZXJpY0tleSk7CiAgICAgIC8vCiAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbHVlLmlzUHJlc2VudCgpKSB7CiAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zbGF0aW9ucy5wdXQobGFuZ3VhZ2UsIHZhbHVlLmdldCgpKTsKICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBTb3VyY2VUeXBlQW5kTGFuZ3VhZ2UgdHJhbnNsYXRpb25zRm9yRGVmYXVsdFNvdXJjZSA9CiAgICAgIC8vIHRyYW5zbGF0aW9uQ2FjaGUKICAgICAgLy8KICAgICAgLy8gLmdldFRyYW5zbGF0aW9uc0ZvclNvdXJjZVR5cGVBbmRMYW5ndWFnZShUcmFuc2xhdGlvbkNhY2hlVjMuREVGQVVMVF9UUkFOU0xBVElPTl9TT1VSQ0UsCiAgICAgIC8vIHRyYW5zbGF0aW9uVHlwZSwKICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbmd1YWdlKTsKICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB0cmFuc2xhdGlvbnNGb3JEZWZhdWx0U291cmNlLmdldFZhbHVlKG51bWVyaWNLZXkpOwogICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZS5pZlByZXNlbnQocyAtPiB0cmFuc2xhdGlvbnMucHV0KGxhbmd1YWdlLCBzKSk7CiAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAvLyAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhlY3V0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgbG9nLmVycm9yKFN0cmluZy5mb3JtYXQoImVycm9yIGxvYWRpbmcgdHJhbnNsYXRpb25zIGZvciBzb3VyY2UgJWQsCiAgICAgIC8vIHR5cGUgJXMsIGxhbmd1YWdlICVzIiwgc291cmNlSWQsIHRyYW5zbGF0aW9uVHlwZSwgbGFuZ3VhZ2UpLCBlKTsKICAgICAgLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgIGNhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5leHBvcnQuZWFvLkZpbGVzZW5kZXJEZWZpbml0b25FQU87Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgbG9nLndhcm4oCiAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoCiAgICAgICAgICAgICAgInVuYWJsZSB0byBmaW5kIHRyYW5zbGF0aW9uIGZvciBzb3VyY2UgJWQsIHR5cGUgJXMsIGxhbmd1YWdlICVzLCBpZCAlZCIsCiAgICAgICAgICAgICAgc291cmNlSWQsIHRyYW5zbGF0aW9uVHlwZSwgbGFuZ3VhZ2UsIG51bWVyaWNLZXkpKTsKICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgRmlsZXNlbmRlckRlZmluaXRvbkVBTyBmaWxlc2VuZGVyRGVmaW5pdG9uRUFPOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbmN5TmFtZSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgT3B0aW9uYWw8U3RyaW5nPiB2YWx1ZSA9IHNvdXJjZUFuZFR5cGVGb3JEZWZhdWx0U291cmNlLmdldFZhbHVlKGxhbmd1YWdlLCBudW1lcmljS2V5KTsKICAgICAgaWYgKHZhbHVlLmlzUHJlc2VudCgpKSB7CiAgICAgICAgdHJhbnNsYXRpb25zLnB1dChsYW5ndWFnZSwgdmFsdWUuZ2V0KCkpOwogICAgICB9IGVsc2UgewogICAgICAgIGxvZy53YXJuKAogICAgICAgICAgU3RyaW5nLmZvcm1hdCgKICAgICAgICAgICAgInVuYWJsZSB0byBmaW5kIHRyYW5zbGF0aW9uIGZvciBzb3VyY2UgJWQsIHR5cGUgJXMsIGxhbmd1YWdlICVzLCBpZCAlZCIsCiAgICAgICAgICAgIHNvdXJjZUlkLCB0cmFuc2xhdGlvblR5cGUsIGxhbmd1YWdlLCBudW1lcmljS2V5KSk7CiAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cmFuc2xhdGlvbkNhY2hlLmdldFRyYW5zbGF0aW9uTWFwKCkuZ2V0KHNvdXJjZUlkKS5nZXQodHlwZUlkKS5nZXQobGFuZ3VhZ2VDb2RlKS5nZXQoaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoaW50IGludFZhbHVlLCBTdHJpbmcgZW4sIGludCBpLCBpbnQgaWQpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFNvdXJjZUFuZFR5cGUgc291cmNlQW5kVHlwZUZvckRlZmF1bHRTb3VyY2UgPQogICAgICAgICAgICAgIHRyYW5zbGF0aW9uQ2FjaGUuZ2V0VHJhbnNsYXRpb25zRm9yU291cmNlQW5kVHlwZShzb3VyY2VJZCwgdHJhbnNsYXRpb25UeXBlKTsKICAgICAgICAgIHZhbHVlID0gc291cmNlQW5kVHlwZUZvckRlZmF1bHRTb3VyY2UuZ2V0VmFsdWUobGFuZ3VhZ2UsIG51bWVyaWNLZXkpOwogICAgICAgICAgaWYgKHZhbHVlLmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgIHRyYW5zbGF0aW9ucy5wdXQobGFuZ3VhZ2UsIHZhbHVlLmdldCgpKTsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGxvZy53YXJuKAogICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAidW5hYmxlIHRvIGZpbmQgdHJhbnNsYXRpb24gZm9yIHNvdXJjZSAlZCwgdHlwZSAlcywgbGFuZ3VhZ2UgJXMsIGlkICVkIiwKICAgICAgICAgICAgICAgICAgICBzb3VyY2VJZCwgdHJhbnNsYXRpb25UeXBlLCBsYW5ndWFnZSwgbnVtZXJpY0tleSkpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
