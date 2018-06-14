@@ -36,6 +36,9 @@
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="29" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PlayerManager.java" timestamp="1528968032314">
+        <mark key="'" line="62" column="13" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TeamForm.java" timestamp="1521036722838">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="17" />
@@ -605,10 +608,6 @@
         <mark key="]" line="1917" column="14" />
         <mark key="." line="1917" column="14" />
         <mark key="^" line="1917" column="14" />
-      </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/PlayerRoleCache.java" timestamp="1528910415928">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="245" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Match.java" timestamp="1524055972781">
         <mark key="[" line="480" column="39" />
@@ -1286,7 +1285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_7.sql" />
       <jump line="77" column="36" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
       <jump line="315" column="8" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="98" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
@@ -1386,6 +1384,7 @@
       <jump line="31" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV2.java" />
       <jump line="104" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV2.java" />
       <jump line="14" column="37" filename="/work/projects/bac/xmlexport/pom.xml" />
+      <jump line="62" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PlayerManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1398,7 +1397,7 @@
         <text>&quot;no-arg-constructor&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>guava</text>
+        <text>createPlayer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZShJbnRlZ2VyIGlkLCBTdHJpbmcgbGFuZ3VhZ2VDb2RlLCBJbnRlZ2VyIHNvdXJjZUlkLCBJbnRlZ2VyIHR5cGVJZCkgewogICAgICAgIHJldHVybiB0cmFuc2xhdGlvbkNhY2hlLmdldFRyYW5zbGF0aW9uTWFwKCkuZ2V0KHNvdXJjZUlkKS5nZXQodHlwZUlkKS5nZXQobGFuZ3VhZ2VDb2RlKS5nZXQoaWQpOwogICAgfQo=</text>
@@ -1438,9 +1437,9 @@
       </register>
     </registers>
     <search>
-      <last-search>guava</last-search>
+      <last-search>createPlayer</last-search>
       <last-offset />
-      <last-pattern>guava</last-pattern>
+      <last-pattern>createPlayer</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1448,7 +1447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>coverage</entry>
         <entry>&quot;</entry>
         <entry>71</entry>
         <entry>INSERT</entry>
@@ -1468,6 +1466,7 @@
         <entry>getTranslations</entry>
         <entry>getName</entry>
         <entry>guava</entry>
+        <entry>createPlayer</entry>
       </history-search>
       <history-cmd>
         <entry>%s/score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)/team2TotalGoals/gc</entry>
