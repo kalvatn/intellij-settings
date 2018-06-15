@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" timestamp="1529069162438">
+        <mark key="'" line="242" column="30" />
+        <mark key="[" line="270" column="99" />
+        <mark key="]" line="270" column="99" />
+        <mark key="." line="270" column="99" />
+        <mark key="^" line="270" column="99" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/translation/TranslationCacheV3IntegrationTest.java" timestamp="1528976722867">
         <mark key="[" line="30" column="6" />
         <mark key="]" line="30" column="5" />
@@ -109,6 +116,12 @@
         <mark key="]" line="9" column="54" />
         <mark key="^" line="9" column="54" />
         <mark key="." line="9" column="54" />
+      </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/stadium/StadiumInfoServiceBean.java" timestamp="1529069417679">
+        <mark key="'" line="151" column="58" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/cache/StadiumCacheIntegrationTest.java" timestamp="1502281664584">
         <mark key="[" line="31" column="40" />
@@ -330,10 +343,6 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
-      </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/PlayerRoleEAO.java" timestamp="1528975176206">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_6.sql" timestamp="1502708635659">
         <mark key="[" line="3" column="20" />
@@ -1317,8 +1326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="74" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Player.java" />
-      <jump line="159" column="11" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Player.java" />
       <jump line="53" column="13" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
       <jump line="107" column="19" filename="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/Team.java" />
       <jump line="92" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_8.sql" />
@@ -1417,16 +1424,18 @@
       <jump line="0" column="0" filename="/work/projects/bac/xmlexport/conf/standalone.xml" />
       <jump line="40" column="25" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/PlayerRoleCache.java" />
       <jump line="101" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/NameEAO.java" />
+      <jump line="234" column="30" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
+      <jump line="148" column="58" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/stadium/StadiumInfoServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bGFuZ3VhZ2UgIT0gbnVsbCAmJiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IGZhY3RzQnlJZCA9IG5hbWVFQU8uZ2V0VHJhbnNsYXRpb25zKFRyYW5zbGF0aW9uVHlwZS5TVEFESVVNX0ZBQ1QsIC0xLCBzdGFkaXVtSWQsIG5ldyBBcnJheUxpc3Q8PigpKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGFuZ3VhZ2UgIT0gbnVsbCAmJiA=</text>
+        <text>factsById.get(&quot;en&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>SELECT</text>
@@ -1435,31 +1444,31 @@
         <text encoding="base64">ICAgIGlmIChsYW5ndWFnZSAhPSBudWxsICYmIHR5cGUgIT0gbnVsbCAmJiBpZCAhPSBudWxsICYmIHZhbHVlICE9IG51bGwpIHsKICAgICAgU291cmNlVHlwZUtleSBzb3VyY2VUeXBlS2V5ID0gbmV3IFNvdXJjZVR5cGVLZXkoLTEsIHR5cGUpOwogICAgICB0cnkgewogICAgICAgIFNvdXJjZUFuZFR5cGUgc291cmNlQW5kVHlwZSA9IHNvdXJjZUFuZFR5cGVDYWNoZS5nZXQoc291cmNlVHlwZUtleSk7CiAgICAgICAgc291cmNlQW5kVHlwZS5wdXRWYWx1ZShsYW5ndWFnZSwgaWQsIHZhbHVlKTsKICAgICAgICBzb3VyY2VBbmRUeXBlQ2FjaGUucHV0KHNvdXJjZVR5cGVLZXksIHNvdXJjZUFuZFR5cGUpOwogICAgICB9IGNhdGNoIChFeGVjdXRpb25FeGNlcHRpb24gZSkgewogICAgICAgIGxvZy5lcnJvcihlLCBlKTsKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IGZhY3RzQnlJZCA9IG5hbWVFQU8uZ2V0VHJhbnNsYXRpb25zKFRyYW5zbGF0aW9uVHlwZS5TVEFESVVNX0ZBQ1QsIC0xLCBzdGFkaXVtSWQsIG5ldyBBcnJheUxpc3Q8PigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChzb3VyY2VJZCAhPSBudWxsICYmIGxhbmd1YWdlICE9IG51bGwgJiYgdHlwZSAhPSBudWxsICYmIGlkICE9IG51bGwgJiYgdmFsdWUgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCJjaGVja2luZyBmb3IgdXBkYXRlZCB0cmFuc2xhdGlvbiBlbnRyaWVzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhZGl1bS5hZGRGYWN0KGZhY3RNYW5hZ2VyLmNyZWF0ZUZhY3Qoc3RhZGl1bUlkLCBmYWN0c0J5SWQuZ2V0KCJlbiIpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgbmxjLmxhc3RfY2hhbmdlZF90aW1lc3RhbXAgPj0gTk9XKCkgLQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmFjdHNCeUlkLnNpemUoKSA9PSAxKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgbmxjLnVpZCA9IDE2NTc3MTkwMwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBsb2cuZGVidWcoImZhY3RzIGZvciBzdGFkaXVtSWQ6ICIgKyBzdGFkaXVtLmdldElkKCkgKyAiIGZhY3RzQnlJZCBmcm9tIE5hbWU6ICIgKyBmYWN0c0J5SWQuc2l6ZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGFzdENoZWNrRm9yVXBkYXRlZFRyYW5zbGF0aW9ucyA9IEluc3RhbnQubm93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGVhZ3VlUm93Q29tbWVudCBjb21tZW50ID0gbmV3IExlYWd1ZVJvd0NvbW1lbnQoY29tbWVudElkLCBjb21tZW50VHJhbnMuZ2V0KCJlbiIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGx0ci5nZXRDb21tZW50cygpID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGx0ci5zZXRDb21tZW50cyhuZXcgQXJyYXlMaXN0PD4oKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbHRyLmdldENvbW1lbnRzKCkuYWRkKGNvbW1lbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEluc3RhbnQgbGFzdENoZWNrRm9yVXBkYXRlZFRyYW5zbGF0aW9ucyA9IEluc3RhbnQubm93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBjb21tZW50VHJhbnMgPSBuYW1lRUFPLmdldFRyYW5zbGF0aW9ucyhUcmFuc2xhdGlvblR5cGUuTE9HQ09NRU5ULCAtMSwgY29tbWVudElkLCBuZXcgQXJyYXlMaXN0PD4oKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2xhdGlvbk1hbmFnZXIuZ2V0TmFtZSgpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
