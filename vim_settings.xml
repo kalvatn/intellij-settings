@@ -117,11 +117,11 @@
         <mark key="^" line="9" column="54" />
         <mark key="." line="9" column="54" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/stadium/StadiumInfoServiceBean.java" timestamp="1529069417679">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/stadium/StadiumInfoServiceBean.java" timestamp="1529070290565">
         <mark key="'" line="151" column="58" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="161" column="101" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/cache/StadiumCacheIntegrationTest.java" timestamp="1502281664584">
         <mark key="[" line="31" column="40" />
@@ -869,6 +869,12 @@
         <mark key="^" line="18" column="17" />
         <mark key="." line="18" column="17" />
       </file>
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV2.java" timestamp="1528965159600">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="103" column="4" />
+        <mark key="." line="381" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1528987105184">
         <mark key="[" line="14" column="55" />
         <mark key="]" line="159" column="0" />
@@ -1429,7 +1435,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IGZhY3RzQnlJZCA9IG5hbWVFQU8uZ2V0VHJhbnNsYXRpb25zKFRyYW5zbGF0aW9uVHlwZS5TVEFESVVNX0ZBQ1QsIC0xLCBzdGFkaXVtSWQsIG5ldyBBcnJheUxpc3Q8PigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IHN0YWRpdW1GYWN0VHJhbnNsYXRpb24gPSB0cmFuc2xhdGlvbk1hbmFnZXIuZ2V0TmFtZShzdGFkaXVtSWQsICJlbiIsCiAgICAgICAgICBUcmFuc2xhdGlvbkNhY2hlLkRFRkFVTFRfVFJBTlNMQVRJT05fU09VUkNFLCBUcmFuc2xhdGlvblR5cGUuU1RBRElVTV9GQUNUKTsKICAgICAgICBzdGFkaXVtRmFjdFRyYW5zbGF0aW9uLmlmUHJlc2VudChzIC0+IHN0YWRpdW0uYWRkRmFjdChmYWN0TWFuYWdlci5jcmVhdGVGYWN0KHN0YWRpdW1JZCwgcykpKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1441,7 +1447,7 @@
         <text>SELECT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChsYW5ndWFnZSAhPSBudWxsICYmIHR5cGUgIT0gbnVsbCAmJiBpZCAhPSBudWxsICYmIHZhbHVlICE9IG51bGwpIHsKICAgICAgU291cmNlVHlwZUtleSBzb3VyY2VUeXBlS2V5ID0gbmV3IFNvdXJjZVR5cGVLZXkoLTEsIHR5cGUpOwogICAgICB0cnkgewogICAgICAgIFNvdXJjZUFuZFR5cGUgc291cmNlQW5kVHlwZSA9IHNvdXJjZUFuZFR5cGVDYWNoZS5nZXQoc291cmNlVHlwZUtleSk7CiAgICAgICAgc291cmNlQW5kVHlwZS5wdXRWYWx1ZShsYW5ndWFnZSwgaWQsIHZhbHVlKTsKICAgICAgICBzb3VyY2VBbmRUeXBlQ2FjaGUucHV0KHNvdXJjZVR5cGVLZXksIHNvdXJjZUFuZFR5cGUpOwogICAgICB9IGNhdGNoIChFeGVjdXRpb25FeGNlcHRpb24gZSkgewogICAgICAgIGxvZy5lcnJvcihlLCBlKTsKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IHN0YWRpdW1GYWN0VHJhbnNsYXRpb24gPSB0cmFuc2xhdGlvbk1hbmFnZXIuZ2V0TmFtZShzdGFkaXVtSWQsICJlbiIsCiAgICAgICAgICBUcmFuc2xhdGlvbkNhY2hlLkRFRkFVTFRfVFJBTlNMQVRJT05fU09VUkNFLCBUcmFuc2xhdGlvblR5cGUuU1RBRElVTV9GQUNUKTsKICAgICAgICBzdGFkaXVtRmFjdFRyYW5zbGF0aW9uLmlmUHJlc2VudChzIC0+IHN0YWRpdW0uYWRkRmFjdChmYWN0TWFuYWdlci5jcmVhdGVGYWN0KHN0YWRpdW1JZCwgcykpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IGZhY3RzQnlJZCA9IG5hbWVFQU8uZ2V0VHJhbnNsYXRpb25zKFRyYW5zbGF0aW9uVHlwZS5TVEFESVVNX0ZBQ1QsIC0xLCBzdGFkaXVtSWQsIG5ldyBBcnJheUxpc3Q8PigpKTsK</text>
