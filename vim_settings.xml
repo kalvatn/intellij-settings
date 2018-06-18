@@ -811,13 +811,6 @@
         <mark key="." line="70" column="22" />
         <mark key="^" line="70" column="22" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1529073811401">
-        <mark key="'" line="916" column="33" />
-        <mark key="[" line="607" column="85" />
-        <mark key="]" line="608" column="19" />
-        <mark key="." line="652" column="74" />
-        <mark key="^" line="608" column="19" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/DEIPropertiesAPI.java" timestamp="1528708673851">
         <mark key="[" line="2" column="31" />
       </file>
@@ -1353,13 +1346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="45" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
-      <jump line="155" column="55" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
-      <jump line="156" column="45" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
-      <jump line="157" column="46" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
-      <jump line="108" column="51" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
-      <jump line="19" column="60" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
-      <jump line="88" column="48" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
       <jump line="92" column="44" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
       <jump line="8" column="51" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
       <jump line="10" column="4" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyIds.java" />
@@ -1453,49 +1439,56 @@
       <jump line="911" column="37" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="912" column="42" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="916" column="33" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="877" column="27" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="40" column="31" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="49" column="63" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="110" column="51" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="131" column="20" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="238" column="71" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
+      <jump line="608" column="47" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zbGF0aW9uTWFuYWdlci5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lTWFwLmdldChOQU1FX1RZUEVfQ09NUEVUSVRPUl9WQUxVRSkucHV0KHR5cGVJZCwgZW4pOwogICAgICAgICAgICAgICAgICAgIG5hbWVUeXBlTWFwLmdldChOQU1FX1RZUEVfQ09NUEVUSVRPUl9WQUxVRSkucHV0KHR5cGVJZCwgbmFtZVR5cGVJZCk7CiAgICAgICAgICAgICAgICAgICAgb3V0cmlnaHRUZWFtVmFsdWVUeXBlLnNldERhdGF0eXBlKCJzdHJpbmciKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>PLAYERSTATISTICS</text>
+        <text>names</text>
       </register>
       <register name="/" type="4">
-        <text>getFull</text>
+        <text>nameEAO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIHNlcnZpY2VzLmFkZChzZXJ2aWNlTG9jYXRvci5maW5kRXhwb3J0U2VydmljZShFeHBvcnRTZXJ2aWNlLmNsYXNzLCBYbWxFeHBvcnRTZXJ2aWNlLlBMQVlFUlNUQVRJU1RJQ1MuaWQoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zbGF0aW9uTWFuYWdlci5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lTWFwLmdldChOQU1FX1RZUEVfQ09NUEVUSVRPUl9WQUxVRSkucHV0KHR5cGVJZCwgZW4pOwogICAgICAgICAgICAgICAgICAgIG5hbWVUeXBlTWFwLmdldChOQU1FX1RZUEVfQ09NUEVUSVRPUl9WQUxVRSkucHV0KHR5cGVJZCwgbmFtZVR5cGVJZCk7CiAgICAgICAgICAgICAgICAgICAgb3V0cmlnaHRUZWFtVmFsdWVUeXBlLnNldERhdGF0eXBlKCJzdHJpbmciKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBgYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChTdHJpbmcgcyA6IHZhbHVlTWFwLmtleVNldCgpKSB7CiAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFuc2xhdGlvbk1hbmFnZXIuZ2V0TmFtZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zbGF0aW9uTWFuYWdlci5nZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb2xsZWN0aW9uPFN0cmluZz4gZ2V0VmFsdWVzKFN0cmluZyBsYW5ndWFnZSkgewogICAgICByZXR1cm4gYnlMYW5ndWFnZS5nZXQobGFuZ3VhZ2UpLnZhbHVlcygpOwogICAgfQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBgYAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW50cnkuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChTdHJpbmcgcyA6IHZhbHVlTWFwLmtleVNldCgpKSB7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoamF2YS5sYW5nLk9iamVjdCBvIDogKSB7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8U3RyaW5nLCBTdHJpbmc+IGZhY3RzQnlJZCA9IG5hbWVFQU8uZ2V0VHJhbnNsYXRpb25zKFRyYW5zbGF0aW9uVHlwZS5TVEFESVVNX0ZBQ1QsIC0xLCBzdGFkaXVtSWQsIG5ldyBBcnJheUxpc3Q8PigpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDb2xsZWN0aW9uPFN0cmluZz4gZ2V0VmFsdWVzKFN0cmluZyBsYW5ndWFnZSkgewogICAgICByZXR1cm4gYnlMYW5ndWFnZS5nZXQobGFuZ3VhZ2UpLnZhbHVlcygpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW50cnkuZ2V0Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -1505,9 +1498,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getFull</last-search>
+      <last-search>nameEAO</last-search>
       <last-offset />
-      <last-pattern>getFull</last-pattern>
+      <last-pattern>nameEAO</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1515,7 +1508,6 @@
     </search>
     <history>
       <history-search>
-        <entry>translation sources</entry>
         <entry>loadAndCache</entry>
         <entry>failed</entry>
         <entry>384</entry>
@@ -1535,6 +1527,7 @@
         <entry>EVENTNAME</entry>
         <entry>SELECT</entry>
         <entry>getFull</entry>
+        <entry>nameEAO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)/team2TotalGoals/gc</entry>
