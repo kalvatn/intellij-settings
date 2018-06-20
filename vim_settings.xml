@@ -747,11 +747,11 @@
         <mark key="^" line="386" column="39" />
         <mark key="." line="385" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_14.sql" timestamp="1529507403132">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="44" />
-        <mark key="^" line="27" column="44" />
-        <mark key="." line="27" column="44" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_14.sql" timestamp="1529510977253">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="62" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/ServiceParamCache.java" timestamp="1509458088129">
         <mark key="[" line="49" column="42" />
@@ -924,6 +924,12 @@
         <mark key="]" line="425" column="31" />
         <mark key="^" line="425" column="31" />
         <mark key="." line="425" column="31" />
+      </file>
+      <file name="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/properties/PropertyQuery.java" timestamp="1529511214224">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="58" />
+        <mark key="^" line="19" column="58" />
+        <mark key="." line="19" column="58" />
       </file>
       <file name="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/DeiProperties.java" timestamp="1529336995226">
         <mark key="[" line="18" column="0" />
@@ -1170,12 +1176,12 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="1" />
       </file>
-      <file name="/work/projects/bac/java-common/dei-api/src/test/java/com/sportradar/common/dei/api/properties/PropertyApiTest.java" timestamp="1529509226537">
+      <file name="/work/projects/bac/java-common/dei-api/src/test/java/com/sportradar/common/dei/api/properties/PropertyApiTest.java" timestamp="1529511537406">
         <mark key="'" line="28" column="2" />
-        <mark key="[" line="25" column="60" />
-        <mark key="]" line="25" column="60" />
-        <mark key="." line="25" column="60" />
-        <mark key="^" line="27" column="20" />
+        <mark key="[" line="32" column="80" />
+        <mark key="]" line="32" column="82" />
+        <mark key="." line="32" column="82" />
+        <mark key="^" line="32" column="82" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/model/Sport.java" timestamp="1516977345359">
         <mark key="[" line="11" column="17" />
@@ -1602,46 +1608,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 117</text>
+        <text>8406780</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, 117</text>
+        <text>8406780</text>
       </register>
       <register name="/" type="4">
         <text>Properties</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnR5UXVlcnkgcXVlcnkgPSBQcm9wZXJ0eVF1ZXJ5Lm9mVW5pcXVlVG91cm5hbWVudCgxLCAxMTcpOwo=</text>
+        <text encoding="base64">c2VsZWN0IGRwLmlkLCBkcC5uYW1lLCBwLnVuaXF1ZV90b3VybmFtZW50X2lkCmZyb20gZGVmYXVsdF9wcm9wZXJ0eV91bmlxdWVfdG91cm5hbWVudCBwCiAgam9pbiBkZWZhdWx0X3Byb3BlcnR5IGRwIG9uIGRwLmlkID0gcC5wcm9wZXJ0eV9pZAp3aGVyZSBkcC5kaXNhYmxlZCA9IDAgYW5kIHAuZGlzYWJsZWQgPSAwIGFuZCBwLnVuaXF1ZV90b3VybmFtZW50X2lkID0gMTc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBsaW5lRm9ybWF0ID0gIiVuJTE2cyAlOXMgICAgJXMiOwo=</text>
+        <text encoding="base64">Z3JvdXAgYnkgcC5wcm9wZXJ0eV9pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBNYXA8SW50ZWdlciwgTWFwPEludGVnZXIsIFN0cmluZz4+IGJ5RW50aXR5SWQgPSBieVR5cGUuZ2V0KHR5cGUpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBsaW5lRm9ybWF0ID0gIiVuJTE2cyAlOXMgICAgJXMiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAua2V5U2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBNYXA8SW50ZWdlciwgTWFwPEludGVnZXIsIFN0cmluZz4+IGJ5RW50aXR5SWQgPSBieVR5cGUuZ2V0KHR5cGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLmVudHJ5U2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAua2V5U2V0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFwPEludGVnZXIsIFN0cmluZz4gYnlQcm9wZXJ0eUlkID0gYnlFbnRpdHlJZC5nZXQoZW50aXR5SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLmVudHJ5U2V0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgcHJpbnRBbGxQcm9wZXJ0aWVzKFByb3BlcnR5UmVzcG9uc2UgcmVzcG9uc2UpIHsKCiAgICBNYXA8RW50aXR5VHlwZSwgTWFwPEludGVnZXIsIE1hcDxJbnRlZ2VyLCBTdHJpbmc+Pj4gYnlUeXBlID0gcmVzcG9uc2UucHJvcGVydGllc0J5VHlwZSgpOwogICAgZm9yIChFbnRyeTxFbnRpdHlUeXBlLCBNYXA8SW50ZWdlciwgTWFwPEludGVnZXIsIFN0cmluZz4+PiBlbnRyeSA6IGJ5VHlwZS5lbnRyeVNldCgpKSB7CiAgICAgIEVudGl0eVR5cGUgdHlwZSA9IGVudHJ5LmdldEtleSgpOwogICAgICBNYXA8SW50ZWdlciwgTWFwPEludGVnZXIsIFN0cmluZz4+IGJ5RW50aXR5SWQgPSBlbnRyeS5nZXRWYWx1ZSgpOwogICAgICBmb3IgKEVudHJ5PEludGVnZXIsIE1hcDxJbnRlZ2VyLCBTdHJpbmc+PiBlbnRpdHlFbnRyeSA6IGJ5RW50aXR5SWQuZW50cnlTZXQoKSkgewogICAgICAgIEludGVnZXIgZW50aXR5SWQgPSBlbnRpdHlFbnRyeS5nZXRLZXkoKTsKICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiBieVByb3BlcnR5SWQgPSBlbnRpdHlFbnRyeS5nZXRWYWx1ZSgpOwogICAgICAgIGZvciAoRW50cnk8SW50ZWdlciwgU3RyaW5nPiBwcm9wZXJ0eUVudHJ5IDogYnlQcm9wZXJ0eUlkLmVudHJ5U2V0KCkpIHsKICAgICAgICAgIGxvZy5pbmZvKAogICAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICIlcyAlZCwgJWQgLT4gJXMiLAogICAgICAgICAgICAgICAgICB0eXBlLCBlbnRpdHlJZCwgcHJvcGVydHlFbnRyeS5nZXRLZXkoKSwgcHJvcGVydHlFbnRyeS5nZXRWYWx1ZSgpKSk7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFwPEludGVnZXIsIFN0cmluZz4gYnlQcm9wZXJ0eUlkID0gYnlFbnRpdHlJZC5nZXQoZW50aXR5SWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50QWxsUHJvcGVydGllcyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgcHJpbnRBbGxQcm9wZXJ0aWVzKFByb3BlcnR5UmVzcG9uc2UgcmVzcG9uc2UpIHsKCiAgICBNYXA8RW50aXR5VHlwZSwgTWFwPEludGVnZXIsIE1hcDxJbnRlZ2VyLCBTdHJpbmc+Pj4gYnlUeXBlID0gcmVzcG9uc2UucHJvcGVydGllc0J5VHlwZSgpOwogICAgZm9yIChFbnRyeTxFbnRpdHlUeXBlLCBNYXA8SW50ZWdlciwgTWFwPEludGVnZXIsIFN0cmluZz4+PiBlbnRyeSA6IGJ5VHlwZS5lbnRyeVNldCgpKSB7CiAgICAgIEVudGl0eVR5cGUgdHlwZSA9IGVudHJ5LmdldEtleSgpOwogICAgICBNYXA8SW50ZWdlciwgTWFwPEludGVnZXIsIFN0cmluZz4+IGJ5RW50aXR5SWQgPSBlbnRyeS5nZXRWYWx1ZSgpOwogICAgICBmb3IgKEVudHJ5PEludGVnZXIsIE1hcDxJbnRlZ2VyLCBTdHJpbmc+PiBlbnRpdHlFbnRyeSA6IGJ5RW50aXR5SWQuZW50cnlTZXQoKSkgewogICAgICAgIEludGVnZXIgZW50aXR5SWQgPSBlbnRpdHlFbnRyeS5nZXRLZXkoKTsKICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiBieVByb3BlcnR5SWQgPSBlbnRpdHlFbnRyeS5nZXRWYWx1ZSgpOwogICAgICAgIGZvciAoRW50cnk8SW50ZWdlciwgU3RyaW5nPiBwcm9wZXJ0eUVudHJ5IDogYnlQcm9wZXJ0eUlkLmVudHJ5U2V0KCkpIHsKICAgICAgICAgIGxvZy5pbmZvKAogICAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICIlcyAlZCwgJWQgLT4gJXMiLAogICAgICAgICAgICAgICAgICB0eXBlLCBlbnRpdHlJZCwgcHJvcGVydHlFbnRyeS5nZXRLZXkoKSwgcHJvcGVydHlFbnRyeS5nZXRWYWx1ZSgpKSk7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgcHJvcGVydHlJZCA6IGJ5UHJvcGVydHlJZC5rZXlTZXQoKSkgewogICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaW50QWxsUHJvcGVydGllcyhyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgcHJvcGVydHlJZCA6IGJ5UHJvcGVydHlJZC5rZXlTZXQoKSkgewogICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
