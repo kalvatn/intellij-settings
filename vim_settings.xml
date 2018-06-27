@@ -1040,18 +1040,19 @@
         <mark key="." line="39" column="88" />
         <mark key="^" line="39" column="88" />
       </file>
-      <file name="/work/projects/bac/java-common/filesender-common/pom.xml" timestamp="1529674069131">
+      <file name="/work/projects/bac/java-common/filesender-common/pom.xml" timestamp="1530086620620">
+        <mark key="'" line="61" column="27" />
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="0" />
         <mark key="^" line="173" column="106" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/pom.xml" timestamp="1529675466606">
-        <mark key="'" line="66" column="39" />
-        <mark key="[" line="74" column="39" />
-        <mark key="]" line="74" column="47" />
-        <mark key="." line="74" column="47" />
-        <mark key="^" line="74" column="47" />
+      <file name="/work/projects/bac/xmlexport/pom.xml" timestamp="1530086813793">
+        <mark key="'" line="69" column="39" />
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="76" column="40" />
+        <mark key="." line="76" column="40" />
+        <mark key="^" line="77" column="47" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationCache.java" timestamp="1529072702749">
         <mark key="[" line="178" column="45" />
@@ -1523,7 +1524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="44" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV2.java" />
       <jump line="31" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV2.java" />
       <jump line="104" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManagerV2.java" />
       <jump line="14" column="37" filename="/work/projects/bac/xmlexport/pom.xml" />
@@ -1623,16 +1623,17 @@
       <jump line="50" column="52" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
       <jump line="36" column="6" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" />
       <jump line="82" column="57" filename="/work/projects/bac/java-common/dei-api/src/test/java/com/sportradar/common/dei/api/properties/PropertyApiTest.java" />
+      <jump line="61" column="27" filename="/work/projects/bac/java-common/filesender-common/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TOURNAMENT</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>TOURNAMENT</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>DEIProperty</text>
