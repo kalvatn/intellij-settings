@@ -1174,12 +1174,11 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="1" />
       </file>
-      <file name="/work/projects/bac/java-common/dei-api/src/test/java/com/sportradar/common/dei/api/properties/PropertyApiTest.java" timestamp="1530102221151">
-        <mark key="'" line="170" column="13" />
-        <mark key="[" line="166" column="20" />
-        <mark key="]" line="166" column="24" />
-        <mark key="." line="166" column="24" />
-        <mark key="^" line="166" column="24" />
+      <file name="/work/projects/bac/java-common/dei-api/src/test/java/com/sportradar/common/dei/api/properties/PropertyApiTest.java" timestamp="1530102292449">
+        <mark key="[" line="158" column="4" />
+        <mark key="]" line="158" column="3" />
+        <mark key="^" line="158" column="3" />
+        <mark key="." line="158" column="3" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/model/Sport.java" timestamp="1516977345359">
         <mark key="[" line="11" column="17" />
@@ -1612,7 +1611,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>createCacheTestQuery()</text>
+        <text>Arrays.asList(
+      PropertyQuery.forProperty(EntityType.SPORT, DeiProperty.SOCCER_GOALS),
+      PropertyQuery.forProperty(EntityType.REALCATEGORY, DeiProperty.SOCCER_GOALS),
+      PropertyQuery.forProperty(EntityType.UNIQUETOURNAMENT, DeiProperty.SOCCER_GOALS),
+      PropertyQuery.forProperty(EntityType.TOURNAMENT, DeiProperty.SOCCER_GOALS)
+//      , PropertyQuery.forProperty(EntityType.MATCH, DeiProperty.SOCCER_GOALS)
+    );</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1623,8 +1628,14 @@
       <register name="/" type="4">
         <text>194</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAucmVhZFRpbWVvdXQoMjAsIFRpbWVVbml0LlNFQ09ORFMpCg==</text>
+      <register name="0" type="4">
+        <text>Arrays.asList(
+      PropertyQuery.forProperty(EntityType.SPORT, DeiProperty.SOCCER_GOALS),
+      PropertyQuery.forProperty(EntityType.REALCATEGORY, DeiProperty.SOCCER_GOALS),
+      PropertyQuery.forProperty(EntityType.UNIQUETOURNAMENT, DeiProperty.SOCCER_GOALS),
+      PropertyQuery.forProperty(EntityType.TOURNAMENT, DeiProperty.SOCCER_GOALS)
+//      , PropertyQuery.forProperty(EntityType.MATCH, DeiProperty.SOCCER_GOALS)
+    );</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGh0dHBDbGllbnQuCg==</text>
