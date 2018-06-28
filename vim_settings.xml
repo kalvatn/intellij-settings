@@ -557,11 +557,11 @@
         <mark key="^" line="147" column="20" />
         <mark key="." line="147" column="20" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" timestamp="1530186623187">
-        <mark key="[" line="67" column="29" />
-        <mark key="]" line="68" column="35" />
-        <mark key="." line="68" column="35" />
-        <mark key="^" line="68" column="35" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" timestamp="1530188538930">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="66" column="35" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="/work/projects/personal/clojure/aoclj/src/main/java/Day05.java" timestamp="1512477818639">
         <mark key="[" line="35" column="11" />
@@ -1620,7 +1620,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW50IGNvdW50T2xkID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1635,31 +1635,31 @@
         <text encoding="base64">ICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgic2VydmljZSAlZCAoJXMpLCBvbGQgOiAlZCwgbmV3IDogJWQiLCBzZXJ2aWNlLmlkKCksIHNlcnZpY2UubmFtZSgpLCBjb3VudE9sZCwgY291bnROZXcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW50IGNvdW50T2xkID0gMDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudE5ldyA9IG5ld0NvdmVyYWdlID8gY291bnROZXcgKyAxIDogY291bnROZXc7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvdXJuYW1lbnRNYW5hZ2VyLmdldAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvdXJuYW1lbnRNYW5hZ2VyLmdldAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaW50IGNvdW50T2xkID0gMDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb3VudE5ldyA9IG5ld0NvdmVyYWdlID8gY291bnROZXcgKyAxIDogY291bnROZXc7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRvdXJuYW1lbnRNYW5hZ2VyLmdldAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRvdXJuYW1lbnRNYW5hZ2VyLmdldAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyggU3RyaW5nLmZvcm1hdCgKICAgICAgICAgICAgInRvdXJuYW1lbnQgJWQgKCVzKSBvbGRjb3ZlcmFnZSA6ICVzLCBuZXdjb3ZlcmFnZSA6ICVzIiwKICAgICAgICAgICAgdG91cm5hbWVudElkLCB0b3VybmFtZW50LmdldFRvdXJuYW1lbnRuYW1lKCksIG9sZENvdmVyYWdlLCBuZXdDb3ZlcmFnZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShvbGRDb3ZlcmFnZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
