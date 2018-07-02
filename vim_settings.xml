@@ -299,6 +299,12 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="38" />
       </file>
+      <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/Dockerfile" timestamp="1530541516162">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="4" column="79" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/Statistics2Stage2stageEAOIntegrationTest.java" timestamp="1500546620908">
         <mark key="[" line="16" column="100" />
         <mark key="]" line="16" column="15" />
@@ -830,6 +836,12 @@
         <mark key="." line="131" column="14" />
         <mark key="^" line="131" column="14" />
       </file>
+      <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/src/main/java/com/sportradar/k8s/java/examples/api/ApiController.java" timestamp="1530541153487">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_11.sql" timestamp="1528814340718">
         <mark key="[" line="16" column="43" />
         <mark key="]" line="18" column="0" />
@@ -873,6 +885,12 @@
         <mark key="]" line="4" column="24" />
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
+      </file>
+      <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/src/main/java/com/sportradar/k8s/java/examples/api/Application.java" timestamp="1530540909581">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="50" />
+        <mark key="^" line="9" column="50" />
+        <mark key="." line="9" column="50" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventAttendanceLimitCheckFilter.java" timestamp="1517837907344">
         <mark key="[" line="24" column="43" />
@@ -1332,11 +1350,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/pom.xml" timestamp="1530540602563">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="35" column="0" />
+      <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/pom.xml" timestamp="1530541977688">
+        <mark key="[" line="42" column="54" />
+        <mark key="]" line="42" column="74" />
+        <mark key="." line="42" column="74" />
+        <mark key="^" line="42" column="74" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/Constants.java" timestamp="1528725958155">
         <mark key="[" line="3" column="0" />
@@ -1624,13 +1642,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjMuUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>old : %d, new</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>194</text>
@@ -1639,31 +1657,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHt2ZXJzaW9uLnNwcmluZy1ib290fTwvdmVyc2lvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjMuUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wYXJlbnQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L3BhcmVudD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjMuUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItcGFyZW50PC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICA8L3BhcmVudD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjMuUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW50IGNvdW50T2xkID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudE5ldyA9IG5ld0NvdmVyYWdlID8gY291bnROZXcgKyAxIDogY291bnROZXc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9wYXJlbnQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L3BhcmVudD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjMuUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
