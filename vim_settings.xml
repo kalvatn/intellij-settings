@@ -101,6 +101,11 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/src/main/java/com/sportradar/k8s/java/examples/api/Asdf.java" timestamp="1530556887733">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/AuthenticationConfiguration.java" timestamp="1500578285184">
         <mark key="[" line="29" column="3" />
         <mark key="]" line="32" column="2" />
@@ -811,6 +816,12 @@
         <mark key="^" line="22" column="54" />
         <mark key="." line="23" column="50" />
       </file>
+      <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/src/main/resources/application.properties" timestamp="1530556759347">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" timestamp="1529073262066">
         <mark key="[" line="496" column="6" />
         <mark key="]" line="496" column="12" />
@@ -1350,11 +1361,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/pom.xml" timestamp="1530541977688">
-        <mark key="[" line="42" column="54" />
-        <mark key="]" line="42" column="74" />
-        <mark key="." line="42" column="74" />
-        <mark key="^" line="42" column="74" />
+      <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/pom.xml" timestamp="1530556899508">
+        <mark key="[" line="31" column="65" />
+        <mark key="]" line="32" column="41" />
+        <mark key="." line="32" column="41" />
+        <mark key="^" line="32" column="41" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/Constants.java" timestamp="1528725958155">
         <mark key="[" line="3" column="0" />
@@ -1642,7 +1653,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1657,31 +1668,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHt2ZXJzaW9uLnNwcmluZy1ib290fTwvdmVyc2lvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItcGFyZW50PC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICA8L3BhcmVudD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjMuUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wYXJlbnQ+Cg==</text>
+        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItcGFyZW50PC9hcnRpZmFjdElkPgogICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+CiAgICA8L3BhcmVudD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L3BhcmVudD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjMuUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjMuUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
