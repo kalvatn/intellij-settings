@@ -212,8 +212,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1531396574473">
-        <mark key="'" line="170" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1531733101194">
+        <mark key="'" line="184" column="23" />
         <mark key="[" line="185" column="28" />
         <mark key="]" line="188" column="59" />
         <mark key="." line="188" column="59" />
@@ -1566,7 +1566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="71" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="608" column="47" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="94" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
       <jump line="90" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
@@ -1666,6 +1665,7 @@
       <jump line="370" column="53" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
       <jump line="39" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/dei/properties/DEIPropertiesIntegrationTest.java" />
       <jump line="0" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/dei/properties/DEIPropertiesIntegrationTest.java" />
+      <jump line="184" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
