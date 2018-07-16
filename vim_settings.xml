@@ -384,12 +384,12 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" timestamp="1531744766770">
-        <mark key="'" line="38" column="13" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
-        <mark key="^" line="239" column="7" />
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" timestamp="1531768373859">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="^" line="225" column="7" />
+        <mark key="." line="198" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/translation/TranslationCacheIntegrationTest.java" timestamp="1529073187681">
         <mark key="[" line="48" column="45" />
@@ -1579,7 +1579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
       <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
       <jump line="0" column="0" filename="/work/projects/bac/xmlexport/pom.xml" />
       <jump line="104" column="23" filename="/work/projects/bac/xmlexport/pom.xml" />
@@ -1679,6 +1678,7 @@
       <jump line="184" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
       <jump line="38" column="13" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" />
       <jump line="180" column="45" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
+      <jump line="198" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsLog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1703,22 +1703,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgby5vcHRpb25faWQgPSA4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5yb3VuZC5jb21wYXJlVG8odGhhdC5yb3VuZCkgPCAwKSB7CiAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgIH0gZWxzZSBpZiAodGhpcy5yb3VuZC5jb21wYXJlVG8odGhhdC5yb3VuZCkgPiAwKSB7CiAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50YWJsZWlkLmNvbXBhcmVUbyh0aGF0LnRhYmxlaWQpIDwgMCkgewogICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgfSBlbHNlIGlmICh0aGlzLnRhYmxlaWQuY29tcGFyZVRvKHRoYXQudGFibGVpZCkgPiAwKSB7CiAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pZC5jb21wYXJlVG8odGhhdC5pZCkgPCAwKSB7CiAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICB9IGVsc2UgaWYgKHRoaXMuaWQuY29tcGFyZVRvKHRoYXQuaWQpID4gMCkgewogICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gLXRoaXMucm91bmQuY29tcGFyZVRvKG8ucm91bmQpOwogICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Ly8gICAgQE92ZXJyaWRlCi8vICAgIHB1YmxpYyBpbnQgY29tcGFyZVRvKFN0YXRpc3RpY3NMb2cgbykgewovLyAgICAgICAgaWYgKHRoaXMudGVhbWlkLmNvbXBhcmVUbyhvLnRlYW1pZCkgIT0gMCkgewovLyAgICAgICAgICAgIHJldHVybiB0aGlzLnRlYW1pZC5jb21wYXJlVG8oby50ZWFtaWQpOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIC10aGlzLmNyZWF0ZWRhdC5jb21wYXJlVG8oby5jcmVhdGVkYXQpOwovLyAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
