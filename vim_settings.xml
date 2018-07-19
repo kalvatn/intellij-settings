@@ -1584,16 +1584,15 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_11.sql" timestamp="1531826484734">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="137" column="62" />
-        <mark key="]" line="137" column="61" />
-        <mark key="^" line="137" column="61" />
-        <mark key="." line="137" column="61" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_11.sql" timestamp="1532000057950">
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="154" column="45" />
+        <mark key="]" line="155" column="56" />
+        <mark key="^" line="155" column="56" />
+        <mark key="." line="155" column="56" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="29" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/filepushing/FileStorageController.java" />
       <jump line="18" column="0" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
       <jump line="43" column="13" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/util/StringUtil.java" />
       <jump line="103" column="8" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/util/StringUtil.java" />
@@ -1693,6 +1692,7 @@
       <jump line="1244" column="61" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/sourcejoin/SourceJoinClient.java" />
       <jump line="230" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
       <jump line="244" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" />
+      <jump line="143" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_11.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1705,7 +1705,7 @@
         <text>cupround</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>compare</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNqYy5hZGRPcHRpb24oU291cmNlSm9pbk9wdGlvbi5VU0VfQk9PS01BS0VSX0VOVElUWSwgInRydWUiKTsK</text>
@@ -1745,9 +1745,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>compare</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern>compare</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1755,8 +1755,6 @@
     </search>
     <history>
       <history-search>
-        <entry>edt</entry>
-        <entry>log4j</entry>
         <entry>dei</entry>
         <entry>DEIProperty</entry>
         <entry>&quot;</entry>
@@ -1775,6 +1773,8 @@
         <entry>filter</entry>
         <entry>RoundInfo</entry>
         <entry>$</entry>
+        <entry>compareTo</entry>
+        <entry>compare</entry>
       </history-search>
       <history-cmd>
         <entry>%s/(row\.get.*);/();/gc</entry>
