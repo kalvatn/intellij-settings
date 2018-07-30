@@ -294,11 +294,10 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_12.sql" timestamp="1532937319806">
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="15" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_12.sql" timestamp="1532938835193">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/TournamentManagerIntegrationTest.java" timestamp="1514895597185">
         <mark key="[" line="153" column="40" />
@@ -860,7 +859,8 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" timestamp="1529073262066">
+      <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" timestamp="1532938676320">
+        <mark key="'" line="385" column="14" />
         <mark key="[" line="496" column="6" />
         <mark key="]" line="496" column="12" />
         <mark key="^" line="496" column="12" />
@@ -1601,14 +1601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="23" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/util/StringUtil.java" />
-      <jump line="153" column="42" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
-      <jump line="187" column="28" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
-      <jump line="253" column="26" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
-      <jump line="14" column="46" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
-      <jump line="144" column="25" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/download/DownloadUtil.java" />
-      <jump line="24" column="49" filename="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/DeiProperties.java" />
-      <jump line="144" column="10" filename="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/DeiApi.java" />
       <jump line="170" column="29" filename="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/DeiApi.java" />
       <jump line="155" column="46" filename="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/DeiApi.java" />
       <jump line="57" column="26" filename="/work/projects/bac/java-common/dei-api/pom.xml" />
@@ -1701,10 +1693,18 @@
       <jump line="118" column="11" filename="/work/projects/dei/www/www/base/lib/betradar/class/LMTMatchSourceJoinXmlFeed.class.php" />
       <jump line="49" column="78" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console.sql" />
       <jump line="17" column="49" filename="/work/projects/bac/xmlexport/conf/standalone.xml" />
+      <jump line="365" column="28" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
+      <jump line="387" column="0" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
+      <jump line="439" column="35" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
+      <jump line="456" column="29" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
+      <jump line="468" column="29" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
+      <jump line="179" column="24" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
+      <jump line="362" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
+      <jump line="385" column="14" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhbmQgbG0uaGlkZGVuID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1713,37 +1713,37 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>Select</text>
+        <text>translations.put</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5zZXJ0IGludG8gY29uZmlnX2ZpbHRlciAoaWQsIHR5cGUsIHNwb3J0SWQsIHJlYWxjYXRlZ29yeUlkLCB0b3VybmFtZW50SWQsIHVuaXF1ZXRvdXJuYW1lbnRpZCwgbWF0Y2hJZCkgVkFMVUVTICgxMDQ3MSwgLTYsIDE2LCA0MywgNjI0MTgsIC0xLCAtMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbmQgbG0uaGlkZGVuID0gMAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBhbmQgbS5ndXRobWF0Y2hpZCA9IDE0ODg4MTgxCiAgYW5kIGxtLmhpZGRlbiA9IDAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YW5kIGMuamF2YVBhcmFtZXRlcmVzIGxpa2UgIiVVVEMlIgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBhbmQgbG0uaGlkZGVuID0gMAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhbmQgbS5ndXRobWF0Y2hpZCA9IDE0ODg4MTgxCiAgYW5kIGxtLmhpZGRlbiA9IDAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YW5kIGMuamF2YVBhcmFtZXRlcmVzIGxpa2UgIiVVVEMlIgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgbG07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5kIGYuc3BvcnRJZCA9IDE2Cg==</text>
+        <text encoding="base64">d2hlcmUgbG07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">am9pbgo=</text>
+        <text encoding="base64">YW5kIGYuc3BvcnRJZCA9IDE2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLlJFTkFNRV9TT1VSQ0VJRF9UQUcsICJhYW1zSWQiKTsK</text>
+        <text encoding="base64">am9pbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLkZJTFRFUl9CWV9UT1VSTkFNRU5ULCAiMTc3Iik7Ci8vICAgIHNqYy5hZGRPcHRpb24oU291cmNlSm9pbk9wdGlvbi5GSUxURVJfQllfVU5JUVVFX1RPVVJOQU1FTlQsICIxMzIiKTsKLy8gICAgc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLkZJTFRFUl9CWV9EQVRFLCAidHJ1ZSIpOwovLyAgICBzamMuYWRkT3B0aW9uKFNvdXJjZUpvaW5PcHRpb24uSU5DTFVERV9OQU1FLCAidHJ1ZSIpOwo=</text>
+        <text encoding="base64">ICAgIC8vc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLlJFTkFNRV9TT1VSQ0VJRF9UQUcsICJhYW1zSWQiKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -1753,9 +1753,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Select</last-search>
+      <last-search>translations.put</last-search>
       <last-offset />
-      <last-pattern>Select</last-pattern>
+      <last-pattern>translations.put</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1763,7 +1763,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>174</entry>
         <entry>204</entry>
         <entry>155</entry>
@@ -1783,6 +1782,7 @@
         <entry>compare</entry>
         <entry>lineup</entry>
         <entry>Select</entry>
+        <entry>translations.put</entry>
       </history-search>
       <history-cmd>
         <entry>1234</entry>
