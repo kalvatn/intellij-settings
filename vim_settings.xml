@@ -212,12 +212,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1532934147725">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1532935530472">
         <mark key="'" line="246" column="0" />
-        <mark key="[" line="267" column="46" />
-        <mark key="]" line="267" column="45" />
-        <mark key="." line="267" column="45" />
-        <mark key="^" line="267" column="45" />
+        <mark key="[" line="267" column="112" />
+        <mark key="]" line="267" column="129" />
+        <mark key="." line="267" column="129" />
+        <mark key="^" line="267" column="129" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/BracketEAO.java" timestamp="1525866293365">
         <mark key="[" line="30" column="23" />
@@ -293,6 +293,12 @@
         <mark key="]" line="7" column="2" />
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="2" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_12.sql" timestamp="1532935824944">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="18" column="36" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/TournamentManagerIntegrationTest.java" timestamp="1514895597185">
         <mark key="[" line="153" column="40" />
@@ -1698,13 +1704,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>13497501</text>
+        <text>15065005</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>13497501</text>
+        <text>15065005</text>
       </register>
       <register name="/" type="4">
         <text>Select</text>
@@ -1713,31 +1719,31 @@
         <text encoding="base64">aW5zZXJ0IGludG8gY29uZmlnX2ZpbHRlciAoaWQsIHR5cGUsIHNwb3J0SWQsIHJlYWxjYXRlZ29yeUlkLCB0b3VybmFtZW50SWQsIHVuaXF1ZXRvdXJuYW1lbnRpZCwgbWF0Y2hJZCkgVkFMVUVTICgxMDQ3MSwgLTYsIDE2LCA0MywgNjI0MTgsIC0xLCAtMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5kIGYuc3BvcnRJZCA9IDE2Cg==</text>
+        <text encoding="base64">YW5kIGMuamF2YVBhcmFtZXRlcmVzIGxpa2UgIiVVVEMlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">am9pbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLlJFTkFNRV9TT1VSQ0VJRF9UQUcsICJhYW1zSWQiKTsK</text>
+        <text encoding="base64">d2hlcmUgbG07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLkZJTFRFUl9CWV9UT1VSTkFNRU5ULCAiMTc3Iik7Ci8vICAgIHNqYy5hZGRPcHRpb24oU291cmNlSm9pbk9wdGlvbi5GSUxURVJfQllfVU5JUVVFX1RPVVJOQU1FTlQsICIxMzIiKTsKLy8gICAgc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLkZJTFRFUl9CWV9EQVRFLCAidHJ1ZSIpOwovLyAgICBzamMuYWRkT3B0aW9uKFNvdXJjZUpvaW5PcHRpb24uSU5DTFVERV9OQU1FLCAidHJ1ZSIpOwo=</text>
+        <text encoding="base64">YW5kIGYuc3BvcnRJZCA9IDE2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLlJVTl9GUkVRVUVOQ1lfSE9VUlMsICI2MCIpOwo=</text>
+        <text encoding="base64">am9pbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZpbGVzLmNyZWF0ZURpcmVjdG9yaWVzKHBhdGgpCg==</text>
+        <text encoding="base64">ICAgIC8vc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLlJFTkFNRV9TT1VSQ0VJRF9UQUcsICJhYW1zSWQiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLkZJTFRFUl9CWV9UT1VSTkFNRU5ULCAiMTc3Iik7Ci8vICAgIHNqYy5hZGRPcHRpb24oU291cmNlSm9pbk9wdGlvbi5GSUxURVJfQllfVU5JUVVFX1RPVVJOQU1FTlQsICIxMzIiKTsKLy8gICAgc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLkZJTFRFUl9CWV9EQVRFLCAidHJ1ZSIpOwovLyAgICBzamMuYWRkT3B0aW9uKFNvdXJjZUpvaW5PcHRpb24uSU5DTFVERV9OQU1FLCAidHJ1ZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgc2pjLmFkZE9wdGlvbihTb3VyY2VKb2luT3B0aW9uLlJVTl9GUkVRVUVOQ1lfSE9VUlMsICI2MCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpbGVzLmNyZWF0ZURpcmVjdG9yaWVzKHBhdGgpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
