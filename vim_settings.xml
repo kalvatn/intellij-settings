@@ -212,12 +212,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1532932351589">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_9.sql" timestamp="1532934147725">
         <mark key="'" line="246" column="0" />
-        <mark key="[" line="260" column="62" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
-        <mark key="^" line="264" column="0" />
+        <mark key="[" line="267" column="46" />
+        <mark key="]" line="267" column="45" />
+        <mark key="." line="267" column="45" />
+        <mark key="^" line="267" column="45" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/BracketEAO.java" timestamp="1525866293365">
         <mark key="[" line="30" column="23" />
@@ -1743,7 +1743,7 @@
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
+        <text>363</text>
       </register>
     </registers>
     <search>
@@ -1779,7 +1779,6 @@
         <entry>Select</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/(row\.get.*);/();/gc</entry>
         <entry>1234</entry>
         <entry>123</entry>
         <entry>139</entry>
@@ -1799,6 +1798,7 @@
         <entry>613</entry>
         <entry>200</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
+        <entry>363</entry>
       </history-cmd>
       <history-expr />
       <history-input />
