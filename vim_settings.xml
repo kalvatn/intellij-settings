@@ -1430,11 +1430,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/work/projects/bac/livescore-exporters/pom.xml" timestamp="1534171366945">
-        <mark key="[" line="84" column="36" />
-        <mark key="]" line="85" column="20" />
-        <mark key="^" line="85" column="20" />
-        <mark key="." line="85" column="20" />
+      <file name="/work/projects/bac/livescore-exporters/pom.xml" timestamp="1534175377437">
+        <mark key="[" line="17" column="76" />
+        <mark key="]" line="17" column="80" />
+        <mark key="^" line="17" column="80" />
+        <mark key="." line="17" column="80" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1531396772164">
         <mark key="'" line="371" column="53" />
@@ -1786,14 +1786,14 @@
       <jump line="75" column="8" filename="/work/projects/bac/xmlexport/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>exporters</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>${version.filesender-common}</text>
+        <text>exporters</text>
       </register>
       <register name="/" type="4">
         <text>filesender</text>
