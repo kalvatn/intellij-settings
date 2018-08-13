@@ -1098,8 +1098,8 @@
         <mark key="^" line="173" column="106" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="/work/projects/bac/xmlexport/pom.xml" timestamp="1530177226525">
-        <mark key="'" line="69" column="39" />
+      <file name="/work/projects/bac/xmlexport/pom.xml" timestamp="1534163885431">
+        <mark key="'" line="61" column="40" />
         <mark key="[" line="77" column="39" />
         <mark key="]" line="77" column="39" />
         <mark key="." line="77" column="39" />
@@ -1364,6 +1364,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="/work/projects/bac/livescore-exporters/pom.xml" timestamp="1534164063787">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1531396772164">
         <mark key="'" line="371" column="53" />
         <mark key="[" line="371" column="69" />
@@ -1598,7 +1604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="46" filename="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/DeiApi.java" />
       <jump line="57" column="26" filename="/work/projects/bac/java-common/dei-api/pom.xml" />
       <jump line="48" column="34" filename="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/PropertyRequest.java" />
       <jump line="218" column="38" filename="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/DeiApi.java" />
@@ -1698,16 +1703,17 @@
       <jump line="362" column="16" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
       <jump line="385" column="14" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" />
       <jump line="96" column="18" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="61" column="40" filename="/work/projects/bac/xmlexport/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>java</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>java</text>
       </register>
       <register name="/" type="4">
         <text>testquery</text>
@@ -1716,37 +1722,37 @@
         <text encoding="base64">Ly8gICAgICAgIHNlcnZpY2VzLmFkZChzZXJ2aWNlTG9jYXRvci5maW5kRXhwb3J0U2VydmljZShFeHBvcnRTZXJ2aWNlLmNsYXNzLCBYbWxFeHBvcnRTZXJ2aWNlLk9VVFJJR0hUU0NIRURVTEUuaWQoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGJ1aWxkZXIuY29tbWFuZCgia3ViZWN0bCIsICJnZXQiLCAicG9kcyIsICItbyIsICJ3aWRlIiwgIi0tYWxsLW5hbWVzcGFjZXMiKTsK</text>
+        <text encoding="base64">ICA8c2NtPgogICAgPGRldmVsb3BlckNvbm5lY3Rpb24+c2NtOmdpdDpnaXRAZ2l0bGFiLnNwb3J0cmFkYXIuYWc6amF2YS9zcG9ydHJhZGFyLWNvbW1vbi5naXQ8L2RldmVsb3BlckNvbm5lY3Rpb24+CiAgICA8dGFnPkhFQUQ8L3RhZz4KICA8L3NjbT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIGJ1aWxkZXIuY29tbWFuZCgia3ViZWN0bCIsICJnZXQiLCAicG9kcyIsICItbyIsICJ3aWRlIiwgIi0tYWxsLW5hbWVzcGFjZXMiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb21tYW5kKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYnVpCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb21tYW5kKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcmdzKTsK</text>
+        <text encoding="base64">ICAgICAgYnVpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSAoQnVmZmVyZWRSZWFkZXIgcmVhZGVyID0KICAgICAgICBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKHByb2Nlc3MuZ2V0SW5wdXRTdHJlYW0oKSkpKSB7CiAgICAgIHJlYWRlci5saW5lcygpLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7CiAgICB9CiAgICBpbnQgZXhpdENvZGUgPSBwcm9jZXNzLndhaXRGb3IoKTsKICAgIGlmIChleGl0Q29kZSAhPSAwKSB7CiAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJjb21tYW5kICclcycgZmFpbGVkIiwgYnVpbGRlci5jb21tYW5kKCkudG9TdHJpbmcoKSkpOwoKICAgIH0K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcmdzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKGJ1aWxkZXIudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHRyeSAoQnVmZmVyZWRSZWFkZXIgcmVhZGVyID0KICAgICAgICBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKHByb2Nlc3MuZ2V0SW5wdXRTdHJlYW0oKSkpKSB7CiAgICAgIHJlYWRlci5saW5lcygpLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7CiAgICB9CiAgICBpbnQgZXhpdENvZGUgPSBwcm9jZXNzLndhaXRGb3IoKTsKICAgIGlmIChleGl0Q29kZSAhPSAwKSB7CiAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJjb21tYW5kICclcycgZmFpbGVkIiwgYnVpbGRlci5jb21tYW5kKCkudG9TdHJpbmcoKSkpOwoKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWlsZGVyLmNvbW1hbmQoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKGJ1aWxkZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWlsZGVyLmNvbW1hbmQoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1800,8 +1806,8 @@
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry>363</entry>
         <entry>143</entry>
-        <entry>w</entry>
         <entry>set ignorecase</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
