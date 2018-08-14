@@ -534,11 +534,11 @@
         <mark key="^" line="52" column="7" />
         <mark key="." line="52" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_13.sql" timestamp="1534239229342">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="47" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="5" column="47" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_13.sql" timestamp="1534239383417">
+        <mark key="[" line="8" column="126" />
+        <mark key="]" line="8" column="126" />
+        <mark key="^" line="8" column="126" />
+        <mark key="." line="8" column="126" />
       </file>
       <file name="/work/projects/bac/livescore/pom.xml" timestamp="1534236308982">
         <mark key="[" line="103" column="0" />
@@ -898,6 +898,7 @@
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleTeamSeasonStats2.java" timestamp="1534194155531">
         <mark key="[" line="10" column="37" />
       </file>
+      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/alert/Alert.java" timestamp="1534239585474" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/Asdf.java" timestamp="1528890522119">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="20" column="6" />
@@ -2008,19 +2009,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pasport</text>
+        <text>%</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>pasport</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>BeforeToday</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGMuYWN0aXZlLCBjLkNvbXBvbmVudElkLCBjLkNvbXBvbmVudE5hbWUgZnJvbSBjb21wb25lbnR0YWJsZSBjIHdoZXJlIGMuY2xhc3NGaWxlTmFtZSBsaWtlICIlcGFzcG9ydCUiOwpzZWxlY3QgYy5hY3RpdmUsIGMuQ29tcG9uZW50SWQsIGMuQ29tcG9uZW50TmFtZSBmcm9tIGNvbXBvbmVudHRhYmxlIGMgd2hlcmUgYy5Db21wb25lbnROYW1lIGxpa2UgIiVwYXNwb3J0JSI7Cg==</text>
+        <text encoding="base64">c2VsZWN0IGMuYWN0aXZlLCBjLkNvbXBvbmVudElkLCBjLmNsYXNzRmlsZU5hbWUsIGMuQ29tcG9uZW50TmFtZSBmcm9tIGNvbXBvbmVudHRhYmxlIGMgd2hlcmUgYy5jbGFzc0ZpbGVOYW1lIGxpa2UgIiVzZXJ2ZXJtb25pdG9yJSI7CnNlbGVjdCBjLmFjdGl2ZSwgYy5Db21wb25lbnRJZCwgYy5jbGFzc0ZpbGVOYW1lLCBjLkNvbXBvbmVudE5hbWUgZnJvbSBjb21wb25lbnR0YWJsZSBjIHdoZXJlIGMuQ29tcG9uZW50TmFtZSBsaWtlICIlc2VydmVybW9uaXRvciUiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgaWYgKE91dHJpZ2h0VXBkYXRlSGFuZGxlci5kZWJ1ZykgewogICAgICAgIHRocm93IHRoOwogICAgICB9IGVsc2UgewogICAgICAgIGxvZ2dlci5lcnJvcigiVGhyb3dhYmxlIG9jY3VyZWQ6Iik7CiAgICAgICAgbG9nZ2VyLmVycm9yKHRoLCB0aCk7CiAgICAgICAgVGhyb3dhYmxlTG9nZ2VyLnNldFRocm93YWJsZU9jY3VyZWRQb3N0T25seUV2ZXJ5WEhvdXIoCiAgICAgICAgICAgICJMaXZlc2NvcmVPdXRyaWdodFVwZGF0ZUhhbmRsZXIiLAogICAgICAgICAgICB0aC5nZXRNZXNzYWdlKCksCiAgICAgICAgICAgICJMaXZlc2NvcmVPdXRyaWdodFVwZGF0ZUhhbmRsZXJfV3JhcHBlck1lc3NhZ2UiLAogICAgICAgICAgICBTeXN0ZW1EQi5nZXRDb25uZWN0aW9uKCksCiAgICAgICAgICAgIDEpOwogICAgICB9Cg==</text>
