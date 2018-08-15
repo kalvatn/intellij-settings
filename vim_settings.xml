@@ -69,6 +69,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="24" column="36" />
       </file>
+      <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/database/pool/TimedConnectionPool.java" timestamp="1534340917211" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/TennisHeadToHeadServiceBean.java" timestamp="1521722925422">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="38" />
@@ -197,10 +198,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
-      <file name="/work/projects/livescore/common/pom.xml" timestamp="1534338747293">
+      <file name="/work/projects/livescore/common/pom.xml" timestamp="1534340508823">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="60" column="16" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="76" column="16" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
@@ -248,6 +249,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="/work/projects/bac/java-common/sportradar-common-database/pom.xml" timestamp="1534340513673">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/pasport/Stage.java" timestamp="1534198030552">
         <mark key="'" line="180" column="0" />
@@ -544,6 +550,7 @@
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1531136605211">
         <mark key="'" line="66" column="13" />
       </file>
+      <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/database/cache/TableCache.java" timestamp="1534340354906" />
       <file name="/work/projects/bac/xmlexport/conf/standalone.xml" timestamp="1532439270397">
         <mark key="'" line="17" column="49" />
       </file>
@@ -774,6 +781,11 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/util/SystemUtil.java" timestamp="1534341111964">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleTeamSeasonStats2.java" timestamp="1534194155531">
         <mark key="[" line="10" column="37" />
       </file>
@@ -834,7 +846,7 @@
         <mark key="." line="49" column="50" />
         <mark key="^" line="49" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1534339337735">
+      <file name="/fragment.java" timestamp="1534341074602">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/util/NumberUtil.java" timestamp="1509393720627">
@@ -966,6 +978,7 @@
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Resulttable.java" timestamp="1516715903199">
         <mark key="[" line="182" column="5" />
       </file>
+      <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/PropertiesFile.java" timestamp="1534340838523" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4a777c8-52ce-47cf-b671-b77fcbac8231/console_2.sql" timestamp="1534160102220">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="70" />
@@ -1164,6 +1177,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
+      <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/database/mongo/SportradarMongoDBFactory.java" timestamp="1534340970741" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1528924474629">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="7" column="11" />
@@ -1420,6 +1434,7 @@
         <mark key="^" line="34" column="65" />
         <mark key="." line="34" column="65" />
       </file>
+      <file name="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/database/mongo/SportradarMongoDBFactory.java" timestamp="1534341063926" />
       <file name="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api2/PropertyResponseValue.java" timestamp="1529412605504">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -1789,46 +1804,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYmV0cmFkYXIudXRpbC5jb25jdXJyZW50LnRocmVhZGZhY3Rvcnk7CgpwdWJsaWMgY2xhc3MgTnVtYmVyZWRUaHJlYWRGYWN0b3J5IHsKfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci51dGlsLnppcC5Mb2daaXBwZXI7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>missing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb248L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmNvbXBvbmVudDwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MC4xPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb248L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnByb3BlcnRpZXM8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjIuMC4wPC92ZXJzaW9uPgogICAgICA8dHlwZT5wb208L3R5cGU+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYmV0cmFkYXIudXRpbC5jb25jdXJyZW50LnRocmVhZGZhY3Rvcnk7CgpwdWJsaWMgY2xhc3MgTnVtYmVyZWRUaHJlYWRGYWN0b3J5IHsKfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci51dGlsLnppcC5Mb2daaXBwZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb248L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnByb3BlcnRpZXM8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYmV0cmFkYXIudXRpbDsKCnB1YmxpYyBjbGFzcyBEYXRhTG9hZGVyIHsKfQo=</text>
+        <text encoding="base64">ICA8IS0tIEZJWE1FIGNoYW5nZSBpdCB0byB0aGUgcHJvamVjdCdzIHdlYnNpdGUgLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5sb2c0ajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuMi4xNzwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHNlZSBodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9yZWYvY3VycmVudC9tYXZlbi1jb3JlL2RlZmF1bHQtYmluZGluZ3MuaHRtbCNQbHVnaW5fYmluZGluZ3NfZm9yX2phcl9wYWNrYWdpbmcgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGo8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmxvZzRqPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjIuMTc8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYmV0cmFkYXIudXRpbC5jb25jdXJyZW50LnRocmVhZGZhY3Rvcnk7CgpwdWJsaWMgY2xhc3MgTnVtYmVyZWRUaHJlYWRGYWN0b3J5IHsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2Vhc29uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYmV0cmFkYXIudXRpbDsKCnB1YmxpYyBjbGFzcyBEYXRhTG9hZGVyIHsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIG5hbWUoKSB7fQo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5sb2c0ajwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuMi4xNzwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnR5UmVxdWVzdCByZXF1ZXN0ID0gUHJvcGVydHlSZXF1ZXN0Lm9mTWF0Y2hlcyhtYXRjaElkcykuYWRkUHJvcGVydHlJZChwcm9wZXJ0eUlkKTsK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGo8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmxvZzRqPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjIuMTc8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
