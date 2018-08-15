@@ -76,13 +76,6 @@
         <mark key="^" line="104" column="38" />
         <mark key="." line="104" column="38" />
       </file>
-      <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/database/SportradarConnection.java" timestamp="1534342191324">
-        <mark key="'" line="183" column="28" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="71" column="8" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/LivescoreMatchExtra.java" timestamp="1515510376258">
         <mark key="[" line="37" column="24" />
         <mark key="]" line="37" column="24" />
@@ -326,6 +319,9 @@
         <mark key="." line="7" column="2" />
       </file>
       <file name="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/central/ComponentProperties.java" timestamp="1534345298373" />
+      <file name="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/central/ComponentPropertiesLoader.java" timestamp="1534354673987">
+        <mark key="'" line="78" column="13" />
+      </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/importer/Statistics.java" timestamp="1534195633115">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="11" column="10" />
@@ -1724,9 +1720,6 @@
       <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/database/SportradarCachedStatement.java" timestamp="1534342269469" />
     </filemarks>
     <jumps>
-      <jump line="678" column="66" filename="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/pasport/StageSaver.java" />
-      <jump line="701" column="46" filename="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/pasport/StageSaver.java" />
-      <jump line="702" column="42" filename="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/pasport/StageSaver.java" />
       <jump line="755" column="37" filename="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/pasport/StageSaver.java" />
       <jump line="756" column="33" filename="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/pasport/StageSaver.java" />
       <jump line="22" column="32" filename="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/pasport/StageSaver.java" />
@@ -1824,6 +1817,9 @@
       <jump line="112" column="41" filename="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/common/Util.java" />
       <jump line="1220" column="18" filename="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/database/SportradarResultSet.java" />
       <jump line="2" column="28" filename="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/database/SportradarResultSet.java" />
+      <jump line="28" column="39" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/central/ComponentPropertiesLoader.java" />
+      <jump line="75" column="6" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/central/ComponentPropertiesLoader.java" />
+      <jump line="78" column="13" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/central/ComponentPropertiesLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1836,7 +1832,7 @@
         <text>ublic</text>
       </register>
       <register name="/" type="4">
-        <text>Central</text>
+        <text>Database</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFZlY3RvciBzcGxpdFN0cmluZyhTdHJpbmcgdGV4dCwgU3RyaW5nIHNwbGl0UnVsZSkgewogICAgVmVjdG9yIHJldFZhbCA9IG5ldyBWZWN0b3IoKTsKICAgIFN0cmluZ1Rva2VuaXplciBzdCA9IG5ldyBTdHJpbmdUb2tlbml6ZXIodGV4dCwgc3BsaXRSdWxlKTsKICAgIHdoaWxlIChzdC5oYXNNb3JlRWxlbWVudHMoKSkgcmV0VmFsLmFkZEVsZW1lbnQoc3QubmV4dFRva2VuKCkpOwogICAgcmV0dXJuIHJldFZhbDsKICB9Cg==</text>
@@ -1876,9 +1872,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Central</last-search>
+      <last-search>Database</last-search>
       <last-offset />
-      <last-pattern>Central</last-pattern>
+      <last-pattern>Database</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1886,7 +1882,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getDateString</entry>
         <entry>WithYear</entry>
         <entry>NiceWithYear</entry>
         <entry>mappetext</entry>
@@ -1906,6 +1901,7 @@
         <entry>splitString</entry>
         <entry>splitStringCorrect2</entry>
         <entry>Central</entry>
+        <entry>Database</entry>
       </history-search>
       <history-cmd>
         <entry>123</entry>
