@@ -197,11 +197,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
-      <file name="/work/projects/livescore/common/pom.xml" timestamp="1534326293110">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="64" column="19" />
-        <mark key="^" line="80" column="29" />
-        <mark key="." line="59" column="0" />
+      <file name="/work/projects/livescore/common/pom.xml" timestamp="1534326570866">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/BracketEAO.java" timestamp="1525866293365">
         <mark key="[" line="30" column="23" />
@@ -439,6 +439,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/work/projects/livescore/common/src/main/java/com/oddsarbitrage/livescore/card/publisher/message/CustomMessageLoader.java" timestamp="1534326604687" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console_4.sql" timestamp="1502280037352">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
@@ -1664,8 +1665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2772" column="23" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/common/Util4.java" />
-      <jump line="2956" column="23" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/common/Util4.java" />
       <jump line="2966" column="11" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/common/Util4.java" />
       <jump line="2980" column="9" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/common/Util4.java" />
       <jump line="3009" column="17" filename="/work/projects/bac/java/source/src/com/oddsarbitrage/common/Util4.java" />
@@ -1764,10 +1763,12 @@
       <jump line="157" column="69" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="344" column="91" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="543" column="58" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
+      <jump line="7" column="25" filename="/work/projects/livescore/common/pom.xml" />
+      <jump line="0" column="0" filename="/work/projects/livescore/common/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgIDxncm91cElkPmNvbS5zcG9ydHJhZGFyPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9leGNsdXNpb24+CiAgICAgIDwvZXhjbHVzaW9ucz4K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGo8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmxvZzRqPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjIuMTc8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -1782,31 +1783,31 @@
         <text encoding="base64">ICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgIDxncm91cElkPmNvbS5zcG9ydHJhZGFyPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9leGNsdXNpb24+CiAgICAgIDwvZXhjbHVzaW9ucz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2Vhc29uKTsK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmxvZ2dpbmcubG9nNGo8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmxvZzRqPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4xLjIuMTc8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2Vhc29uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIG5hbWUoKSB7fQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnR5UmVxdWVzdCByZXF1ZXN0ID0gUHJvcGVydHlSZXF1ZXN0Lm9mTWF0Y2hlcyhtYXRjaElkcykuYWRkUHJvcGVydHlJZChwcm9wZXJ0eUlkKTsK</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIG5hbWUoKSB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFByb3BlcnR5UmVxdWVzdCBvZk1hdGNoZXMoTGlzdDxJbnRlZ2VyPiBtYXRjaElkcykgewogICAgcmV0dXJuIG5ldyBQcm9wZXJ0eVJlcXVlc3QoRW50aXR5VHlwZS5NQVRDSCwgbWF0Y2hJZHMuZ2V0KDApLCBtYXRjaElkcy5nKQogIH0K</text>
+        <text encoding="base64">ICAgIFByb3BlcnR5UmVxdWVzdCByZXF1ZXN0ID0gUHJvcGVydHlSZXF1ZXN0Lm9mTWF0Y2hlcyhtYXRjaElkcykuYWRkUHJvcGVydHlJZChwcm9wZXJ0eUlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCiAgICAgICAgb3JnLmFwYWNoZS5odHRwY29tcG9uZW50czpodHRwY29yZTo0LjQKICAgICAgICBUSElTIElTIE9OTFkgSU5DTFVERUQgVE8gU1VQUFJFU1MgY29tcGlsZSBlcnJvcgogICAgICAgICdjbGFzcyBmaWxlIGZvciBvcmcuYXBhY2hlLmh0dHAuYW5ub3RhdGlvbi5Ob3RUaHJlYWRTYWZlIG5vdCBmb3VuZCcKICAgICAgICAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aHR0cGNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuNDwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFByb3BlcnR5UmVxdWVzdCBvZk1hdGNoZXMoTGlzdDxJbnRlZ2VyPiBtYXRjaElkcykgewogICAgcmV0dXJuIG5ldyBQcm9wZXJ0eVJlcXVlc3QoRW50aXR5VHlwZS5NQVRDSCwgbWF0Y2hJZHMuZ2V0KDApLCBtYXRjaElkcy5nKQogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tCiAgICAgICAgb3JnLmFwYWNoZS5odHRwY29tcG9uZW50czpodHRwY29yZTo0LjQKICAgICAgICBUSElTIElTIE9OTFkgSU5DTFVERUQgVE8gU1VQUFJFU1MgY29tcGlsZSBlcnJvcgogICAgICAgICdjbGFzcyBmaWxlIGZvciBvcmcuYXBhY2hlLmh0dHAuYW5ub3RhdGlvbi5Ob3RUaHJlYWRTYWZlIG5vdCBmb3VuZCcKICAgICAgICAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aHR0cGNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuNDwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCiAgICAgICAgVEhJUyBJUyBPTkxZIElOQ0xVREVEIFRPIFNVUFBSRVNTIGNvbXBpbGUgZXJyb3IKICAgICAgICAnY2xhc3MgZmlsZSBmb3Igb3JnLmFwYWNoZS5odHRwLmFubm90YXRpb24uTm90VGhyZWFkU2FmZSBub3QgZm91bmQnCiAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
