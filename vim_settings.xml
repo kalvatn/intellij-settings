@@ -197,6 +197,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
+      <file name="/work/projects/livescore/common/pom.xml" timestamp="1534326293110">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="64" column="19" />
+        <mark key="^" line="80" column="29" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/BracketEAO.java" timestamp="1525866293365">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="23" />
@@ -1760,20 +1766,20 @@
       <jump line="543" column="58" filename="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Start</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgIDxncm91cElkPmNvbS5zcG9ydHJhZGFyPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9leGNsdXNpb24+CiAgICAgIDwvZXhjbHVzaW9ucz4K</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Start</text>
+        <text>Project-B</text>
       </register>
       <register name="/" type="4">
         <text>missing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKG9iZXJsaWdhMTgxOS5nZXRTdGFydCgpKTsK</text>
+        <text encoding="base64">ICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgIDxncm91cElkPmNvbS5zcG9ydHJhZGFyPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9leGNsdXNpb24+CiAgICAgIDwvZXhjbHVzaW9ucz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2Vhc29uKTsK</text>
