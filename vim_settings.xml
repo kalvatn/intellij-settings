@@ -1023,6 +1023,11 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="24" />
       </file>
+      <file name="/work/projects/bac/java/sportradar-common/pom.xml" timestamp="1534457772101">
+        <mark key="'" line="189" column="31" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="130" column="16" />
+      </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/util/DailyRollingMaxFileAppender.java" timestamp="1534447416262">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="28" />
@@ -1433,6 +1438,7 @@
         <mark key="^" line="18" column="86" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/dei-properties/src/main/java/com/betradar/dei/api/DeiApi.java" timestamp="1534457808106" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_6.sql" timestamp="1517243199254">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="26" />
@@ -1587,6 +1593,12 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/dei-properties/pom.xml" timestamp="1534457875892">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/EntityType.java" timestamp="1529505271020">
         <mark key="[" line="4" column="23" />
@@ -1849,12 +1861,6 @@
         <mark key="^" line="46" column="2" />
         <mark key="." line="46" column="2" />
       </file>
-      <file name="/work/projects/bac/java/source/src/com/oddsarbitrage/livescore/CachedPropertyLoader.java" timestamp="1534253781425">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="116" column="26" />
-        <mark key="^" line="114" column="119" />
-        <mark key="." line="114" column="119" />
-      </file>
       <file name="/work/projects/bac/java-common/cache/src/main/java/com/betradar/util/StringUtil.java" timestamp="1534374084959">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="3" />
@@ -2003,7 +2009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="70" filename="/work/projects/bac/java-common/zabbix/src/main/java/com/betradar/zabbix/api/ZabbixAPICall.java" />
       <jump line="45" column="4" filename="/work/projects/bac/java-common/zabbix/src/main/java/com/betradar/util/StringUtil.java" />
       <jump line="214" column="30" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/util/StringUtil.java" />
       <jump line="945" column="23" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/util/StringUtil.java" />
@@ -2103,49 +2108,50 @@
       <jump line="61" column="72" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/OddsUtil.java" />
       <jump line="7" column="16" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/oddsarbitrage/schedule2/tasks/racktables/Subnet.java" />
       <jump line="115" column="0" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/betradar/component/ComponentDiagnosticThread.java" />
+      <jump line="189" column="31" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uLWRhdGFiYXNlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4wLjAuMS1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="&quot;" type="4">
+        <text>sportradar-common-properties</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>${dependency.version.sportradar.common}</text>
+        <text>sportradar-common-properties</text>
       </register>
       <register name="/" type="4">
-        <text>SelectDB</text>
+        <text>net.sf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcG9ydHJhZGFyLWNvbW1vbi1kYXRhYmFzZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb248L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uLXByb3BlcnRpZXM8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uLWRhdGFiYXNlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4wLjAuMS1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuc2YuanNvbi1saWI8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmpzb24tbGliPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4yLjQ8L3ZlcnNpb24+CiAgICAgIDxjbGFzc2lmaWVyPmpkazE1PC9jbGFzc2lmaWVyPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTG9nc3Rhc2hNYWludGVuYW5jZUFwcGVuZGVyKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uLWRhdGFiYXNlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4wLjAuMS1TTkFQU0hPVDwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETyBGSVhNRSBYWFggRVJST1IK</text>
+        <text encoding="base64">ICBwdWJsaWMgTG9nc3Rhc2hNYWludGVuYW5jZUFwcGVuZGVyKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL1RPRE8gRklYTUUgWFhYIEVSUk9SCg==</text>
+        <text encoding="base64">ICAgIC8vVE9ETyBGSVhNRSBYWFggRVJST1IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VE9ETyBGSVhNRSBYWFggRVJST1IgVEhJUyBTSE9VTEQgRVhJU1QgRUxTRVdIRVJFCg==</text>
+        <text encoding="base64">ICAvL1RPRE8gRklYTUUgWFhYIEVSUk9SCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL1RPRE8gRklYTUUgWFhYIEVSUk9SCg==</text>
+        <text encoding="base64">VE9ETyBGSVhNRSBYWFggRVJST1IgVEhJUyBTSE9VTEQgRVhJU1QgRUxTRVdIRVJFCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9UT0RPIEZJWE1FIFhYWCBFUlJPUgo=</text>
+        <text encoding="base64">CQkvL1RPRE8gRklYTUUgWFhYIEVSUk9SCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy9UT0RPIEZJWE1FIFhYWCBFUlJPUiAgY2JhIHRvIGNvcHkgdGhpcwo=</text>
+        <text encoding="base64">Ly9UT0RPIEZJWE1FIFhYWCBFUlJPUgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vVE9ETyBGSVhNRSBYWFggRVJST1IK</text>
+        <text encoding="base64">CQkJLy9UT0RPIEZJWE1FIFhYWCBFUlJPUiAgY2JhIHRvIGNvcHkgdGhpcwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -2155,9 +2161,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SelectDB</last-search>
+      <last-search>net.sf</last-search>
       <last-offset />
-      <last-pattern>SelectDB</last-pattern>
+      <last-pattern>net.sf</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -2165,8 +2171,6 @@
     </search>
     <history>
       <history-search>
-        <entry>truncate</entry>
-        <entry>getDateSTringxml</entry>
         <entry>withyearandseconds</entry>
         <entry>makesure</entry>
         <entry>addminutes</entry>
@@ -2185,6 +2189,8 @@
         <entry>SystemDB</entry>
         <entry>SelecTDB</entry>
         <entry>SelectDB</entry>
+        <entry>net-sf</entry>
+        <entry>net.sf</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
