@@ -1383,6 +1383,10 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
+      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/data-loader/settings.xml" timestamp="1534439828925">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="56" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/resources/conf/general.properties.@env@" timestamp="1528719584221">
         <mark key="[" line="175" column="14" />
         <mark key="]" line="175" column="45" />
@@ -2116,8 +2120,8 @@
       <jump line="76" column="21" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/sms/MailSMSSender.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StringUtil</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHVzZXJuYW1lPnNjb3V0LXRvLWxpdmVzY29yZS1qZW5raW5zPC91c2VybmFtZT4KICAgICAgICAgICAgPHBhc3N3b3JkPkU0ZzBkVzlOaW9DQ3psSnRCYnNDcTNFcjwvcGFzc3dvcmQ+Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -2129,7 +2133,7 @@
         <text>explode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb248L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPm1haWw8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVzZXJuYW1lPnNjb3V0LXRvLWxpdmVzY29yZS1qZW5raW5zPC91c2VybmFtZT4KICAgICAgICAgICAgPHBhc3N3b3JkPkU0ZzBkVzlOaW9DQ3psSnRCYnNDcTNFcjwvcGFzc3dvcmQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5EZWJ1ZzsK</text>
