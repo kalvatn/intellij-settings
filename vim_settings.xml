@@ -753,7 +753,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" timestamp="1534443083033">
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" timestamp="1534443806004">
+        <mark key="'" line="27" column="19" />
         <mark key="[" line="22" column="63" />
         <mark key="]" line="23" column="34" />
         <mark key="^" line="23" column="34" />
@@ -1939,7 +1940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1311" column="20" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/common/Util.java" />
       <jump line="1434" column="20" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/common/Util.java" />
       <jump line="131" column="2" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/common/Util.java" />
       <jump line="419" column="21" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/common/Util.java" />
@@ -2039,6 +2039,7 @@
       <jump line="230" column="4" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/util/StringUtil.java" />
       <jump line="48" column="40" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/util/StringUtil.java" />
       <jump line="76" column="21" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/sms/MailSMSSender.java" />
+      <jump line="27" column="19" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2051,7 +2052,7 @@
         <text>StringUtil</text>
       </register>
       <register name="/" type="4">
-        <text>explode</text>
+        <text>log4j</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHVzZXJuYW1lPnNjb3V0LXRvLWxpdmVzY29yZS1qZW5raW5zPC91c2VybmFtZT4KICAgICAgICAgICAgPHBhc3N3b3JkPkU0ZzBkVzlOaW9DQ3psSnRCYnNDcTNFcjwvcGFzc3dvcmQ+Cg==</text>
@@ -2091,9 +2092,9 @@
       </register>
     </registers>
     <search>
-      <last-search>explode</last-search>
+      <last-search>log4j</last-search>
       <last-offset />
-      <last-pattern>explode</last-pattern>
+      <last-pattern>log4j</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -2101,7 +2102,6 @@
     </search>
     <history>
       <history-search>
-        <entry>splitString</entry>
         <entry>convertDateSeconds</entry>
         <entry>convertDate</entry>
         <entry>addHours</entry>
@@ -2121,6 +2121,7 @@
         <entry>security</entry>
         <entry>Util</entry>
         <entry>explode</entry>
+        <entry>log4j</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
