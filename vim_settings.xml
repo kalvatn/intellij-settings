@@ -18,11 +18,6 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="1" column="60" />
       </file>
-      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/util/LogLineCountAppender.java" timestamp="1534447524876">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TeamForm.java" timestamp="1521036722838">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="17" />
@@ -272,7 +267,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-settlement/pom.xml" timestamp="1534443012698" />
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-settlement/pom.xml" timestamp="1534507337699">
+        <mark key="[" line="34" column="43" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
+      </file>
       <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/oddsarbitrage/database/Component.java" timestamp="1534365207775">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -436,12 +436,12 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" timestamp="1534460958954">
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" timestamp="1534507533019">
         <mark key="'" line="27" column="24" />
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="32" />
-        <mark key="^" line="52" column="32" />
-        <mark key="." line="52" column="32" />
+        <mark key="[" line="57" column="46" />
+        <mark key="]" line="57" column="32" />
+        <mark key="^" line="57" column="32" />
+        <mark key="." line="57" column="32" />
       </file>
       <file name="/work/projects/bac/java-common/zabbix/src/main/java/com/betradar/zabbix/ZabbixReporterUtil.java" timestamp="1534360358743">
         <mark key="[" line="80" column="66" />
@@ -800,6 +800,11 @@
         <mark key="." line="285" column="1" />
         <mark key="^" line="285" column="1" />
       </file>
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-qci-app/src/assembly/qci-assembly.xml" timestamp="1534507043622">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="71" column="68" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/pom.xml" timestamp="1534438356172">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="43" />
@@ -907,6 +912,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-settlement/src/main/java/com/sportradar/betting/settlement/clearing/AutoSettlementScheduler.java" timestamp="1534507208346" />
       <file name="/work/projects/bac/livescore-exporters/src/main/java/com/sportradar/scout/livescore/ScoutLivescoreTennis.java" timestamp="1534171902743">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="27" />
@@ -952,6 +958,12 @@
         <mark key="]" line="34" column="65" />
         <mark key="^" line="34" column="65" />
         <mark key="." line="34" column="65" />
+      </file>
+      <file name="/work/projects/gitlab/internal/sportsdata/finders/pom.xml" timestamp="1534506063698">
+        <mark key="[" line="115" column="24" />
+        <mark key="]" line="115" column="49" />
+        <mark key="." line="115" column="49" />
+        <mark key="^" line="115" column="49" />
       </file>
       <file name="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api2/PropertyResponseValue.java" timestamp="1529412605504">
         <mark key="[" line="2" column="13" />
@@ -1132,9 +1144,6 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/io/src/main/java/com/betradar/io/EolConvertingWriterDecorator.java" timestamp="1534465628097">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/util/TimeUtil.java" timestamp="1509394110633">
         <mark key="[" line="13" column="76" />
         <mark key="]" line="13" column="76" />
@@ -1190,11 +1199,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.8/ingame-betting-core-2018.4.8.jar!/com/oddsarbitrage/scout/sports/tennis/ScoutMatchDataTennis.class" timestamp="1534177091914">
         <mark key="'" line="76" column="10" />
-      </file>
-      <file name="/work/projects/bac/java/sportradar-common/pom.xml" timestamp="1534464777154">
-        <mark key="'" line="232" column="33" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="235" column="16" />
       </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/util/DailyRollingMaxFileAppender.java" timestamp="1534447416262">
         <mark key="[" line="47" column="0" />
@@ -1369,11 +1373,6 @@
         <mark key="." line="69" column="89" />
         <mark key="^" line="69" column="89" />
       </file>
-      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/io/src/main/java/com/betradar/io/SportradarFileUtil.java" timestamp="1534465535526">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="56" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/TournamentManagerIntegrationTest.java" timestamp="1514895597185">
         <mark key="[" line="153" column="40" />
         <mark key="]" line="153" column="38" />
@@ -1412,6 +1411,9 @@
       </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/pasport/CricketParser.java" timestamp="1534199452271">
         <mark key="'" line="434" column="47" />
+      </file>
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-old-lo-app/pom.xml" timestamp="1534506987791">
+        <mark key="'" line="44" column="24" />
       </file>
       <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/src/main/java/com/sportradar/k8s/java/examples/api/music/repo/AlbumRepository.java" timestamp="1530617429927">
         <mark key="[" line="2" column="33" />
@@ -1455,6 +1457,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
+      </file>
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-old-lo-app/src/assembly/old-lo-app-assembly.xml" timestamp="1534507428034">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="66" column="67" />
+        <mark key="^" line="66" column="67" />
+        <mark key="." line="34" column="57" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/Lol.java" timestamp="1532954259828">
         <mark key="[" line="6" column="13" />
@@ -1650,9 +1658,6 @@
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
-      </file>
-      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/general-properties/src/main/java/com/betradar/util/StringUtil.java" timestamp="1534448957491">
-        <mark key="[" line="6" column="23" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/Asdf.java" timestamp="1528890522119">
         <mark key="[" line="15" column="0" />
@@ -1929,8 +1934,8 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1534463715101">
-        <mark key="[" line="115" column="18" />
+      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1534506445255">
+        <mark key="[" line="69" column="20" />
         <mark key="]" line="115" column="25" />
         <mark key="^" line="115" column="25" />
         <mark key="." line="115" column="25" />
@@ -2005,11 +2010,6 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
-      </file>
-      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty-database-dependent/src/main/java/com/betradar/util/FindProductUtil.java" timestamp="1534452039120">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/StatisticsCup.java" timestamp="1522763756764">
         <mark key="[" line="18" column="22" />
@@ -2094,7 +2094,7 @@
         <mark key="." line="26" column="91" />
         <mark key="^" line="26" column="91" />
       </file>
-      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-qci-app/pom.xml" timestamp="1534442990702" />
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-qci-app/pom.xml" timestamp="1534507057775" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e6af12a-6c18-4583-8b51-245eab98df09/console_1.sql" timestamp="1531826411284">
         <mark key="[" line="3" column="58" />
         <mark key="]" line="3" column="57" />
@@ -2116,11 +2116,6 @@
       <file name="/work/projects/bac/livescore-exporters/src/main/java/com/sportradar/scout/livescore/ScoutLivescoreCs.java" timestamp="1534171835439">
         <mark key="'" line="20" column="58" />
       </file>
-      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/betradar/component/log/LogstashMaintenanceAppender.java" timestamp="1534454410940">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/Constants.java" timestamp="1528725958155">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2137,16 +2132,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/betradar/component/schedules/ComponentDeadlockDetectionSchedule.java" timestamp="1534454337839">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-      </file>
-      <file name="/work/projects/bac/java/sportradar-common/src/main/java/com/oddsarbitrage/schedule2/tasks/racktables/Subnet.java" timestamp="1534452354122">
-        <mark key="'" line="7" column="16" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="51" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/CountryCache.java" timestamp="1523276459495">
         <mark key="[" line="123" column="80" />
@@ -2390,46 +2375,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gVE9ETyBGSVhNRSBYWFggRVJST1IgcmVtb3ZlIENvbXBvbmVudFJvdXRlQWRkZXIK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>xml target set</text>
+        <text>-properties</text>
       </register>
       <register name="/" type="4">
         <text>close</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gVE9ETyBGSVhNRSBYWFggRVJST1IgcmVtb3ZlIENvbXBvbmVudFJvdXRlQWRkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdWRlPmNvbS5zcG9ydHJhZGFyLmNvbW1vbjpzcG9ydHJhZGFyLWNvbW1vbi1wcm9wZXJ0aWVzPC9leGNsdWRlPgogICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tLnNwb3J0cmFkYXIuY29tbW9uOnNwb3J0cmFkYXItY29tbW9uLWRhdGFiYXNlPC9leGNsdWRlPgogICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tLnNwb3J0cmFkYXIuY29tbW9uOmlvPC9leGNsdWRlPgogICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tLnNwb3J0cmFkYXIuY29tbW9uOm5ldDwvZXhjbHVkZT4KICAgICAgICAgICAgICAgIDxleGNsdWRlPmNvbS5zcG9ydHJhZGFyLmNvbW1vbjp1dGlsLXNoaXR0eTwvZXhjbHVkZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETyBGSVhNRSBYWFggRVJST1IgcmVtb3ZlIENvbXBvbmVudFJvdXRlQWRkZXIK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETyBGSVhNRSBYWFggRVJST1IgcmVtb3ZlIENvbXBvbmVudFJvdXRlQWRkZXIK</text>
+      <register name="2" type="8">
+        <text>include
+include
+include
+include
+include</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TcG9ydHJhZGFyU3RhdGVtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJU3BvcnRyYWRhclN0YXRlbWVudC5jbG9zZShzdCk7Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyBGSVhNRSBYWFggRVJST1IgcmVtb3ZlIENvbXBvbmVudFJvdXRlQWRkZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9UT0RPIEZJWE1FIFhYWCBFUlJPUiByZW1vdmUgdXNhZ2VzIG9mIENlbnRyYWwK</text>
+        <text encoding="base64">Ly8gVE9ETyBGSVhNRSBYWFggRVJST1IgcmVtb3ZlIENvbXBvbmVudFJvdXRlQWRkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5pby5MaW1pdGVkQnVmZmVyZWRSZWFkZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TcG9ydHJhZGFyU3RhdGVtZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgU3lzdGVtU2V0dGluZ3MuZ2V0U3lzdGVtU2V0dGluZygiQkVUUmFkYXJGVFBfVXNlcm5hbWUiKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW1TZXR0aW5ncy5nZXRTeXN0ZW1TZXR0aW5nKCJCRVRSYWRhckZUUF9QYXNzd29yZCIpKQo=</text>
+        <text encoding="base64">CQkJU3BvcnRyYWRhclN0YXRlbWVudC5jbG9zZShzdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL1RPRE8gRklYTUUgWFhYIEVSUk9SIHJlbW92ZSB1c2FnZXMgb2YgU3lzdGVtU2V0dGluZ3MgY29waWVkIGZyb20gc3lzdGVtc2V0dGluZ3MK</text>
+        <text encoding="base64">Ly9UT0RPIEZJWE1FIFhYWCBFUlJPUiByZW1vdmUgdXNhZ2VzIG9mIENlbnRyYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIHN0b3JlUGFzc3dvcmQgPSBTeXN0ZW1TZXR0aW5ncy5nZXRTeXN0ZW1TZXR0aW5nKCJMaXZlT2Rkc19TU0xLZXlTdG9yZUtleSIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5pby5MaW1pdGVkQnVmZmVyZWRSZWFkZXI7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
