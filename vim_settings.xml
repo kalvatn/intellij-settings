@@ -23,6 +23,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="53" column="16" />
       </file>
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/liveodds/saver/system/ProdContext.java" timestamp="1534509118062">
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+      </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/servermonitor/Crawler.java" timestamp="1534198146458">
         <mark key="'" line="4" column="32" />
       </file>
@@ -82,12 +87,12 @@
         <mark key="'" line="19" column="16" />
       </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/pom.xml" timestamp="1534448667658" />
-      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" timestamp="1534507533019">
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" timestamp="1534508955962">
         <mark key="'" line="27" column="24" />
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="57" column="32" />
-        <mark key="^" line="57" column="32" />
-        <mark key="." line="57" column="32" />
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="72" column="31" />
+        <mark key="^" line="72" column="31" />
+        <mark key="." line="72" column="31" />
       </file>
       <file name="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/dei/api/PropertyRequest.java" timestamp="1534253646442">
         <mark key="[" line="124" column="0" />
@@ -215,13 +220,18 @@
         <mark key="]" line="275" column="61" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/work/projects/gitlab/internal/sportsdata/finders/pom.xml" timestamp="1534507911752">
+      <file name="/work/projects/gitlab/internal/sportsdata/finders/pom.xml" timestamp="1534508683192">
         <mark key="[" line="115" column="24" />
         <mark key="]" line="115" column="49" />
         <mark key="." line="115" column="49" />
         <mark key="^" line="115" column="49" />
       </file>
-      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/liveodds/server/TennisOddsCalculator.java" timestamp="1534449690554" />
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/liveodds/server/TennisOddsCalculator.java" timestamp="1534509166453">
+        <mark key="[" line="3046" column="62" />
+        <mark key="]" line="3046" column="63" />
+        <mark key="^" line="3046" column="63" />
+        <mark key="." line="3046" column="63" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/data/modifier/LoadNumberOfSets.java" timestamp="1534462900537">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -616,20 +626,20 @@
       <jump line="25" column="18" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/database/SportradarStatement.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>sms</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>-properties</text>
+        <text>sms</text>
       </register>
       <register name="/" type="4">
         <text>close</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdWRlPmNvbS5zcG9ydHJhZGFyLmNvbW1vbjpzcG9ydHJhZGFyLWNvbW1vbi1wcm9wZXJ0aWVzPC9leGNsdWRlPgogICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tLnNwb3J0cmFkYXIuY29tbW9uOnNwb3J0cmFkYXItY29tbW9uLWRhdGFiYXNlPC9leGNsdWRlPgogICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tLnNwb3J0cmFkYXIuY29tbW9uOmlvPC9leGNsdWRlPgogICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tLnNwb3J0cmFkYXIuY29tbW9uOm5ldDwvZXhjbHVkZT4KICAgICAgICAgICAgICAgIDxleGNsdWRlPmNvbS5zcG9ydHJhZGFyLmNvbW1vbjp1dGlsLXNoaXR0eTwvZXhjbHVkZT4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbXM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
