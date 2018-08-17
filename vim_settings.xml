@@ -424,8 +424,8 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" timestamp="1534513678950">
-        <mark key="'" line="22" column="24" />
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" timestamp="1534520061897">
+        <mark key="'" line="486" column="38" />
         <mark key="[" line="97" column="24" />
         <mark key="]" line="97" column="27" />
         <mark key="^" line="97" column="27" />
@@ -446,6 +446,11 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="30" column="17" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-unified-feed/pom.xml" timestamp="1534520096671">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="75" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/BookmakerMappingCache.java" timestamp="1509405263793">
         <mark key="[" line="36" column="91" />
@@ -679,11 +684,6 @@
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
-      </file>
-      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/ingame/darts/DartsIngame.java" timestamp="1534515142640">
-        <mark key="'" line="2001" column="6" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63805593-e9a0-4629-97ba-f9b9b05fd8cc/console.sql" timestamp="1502445140521">
         <mark key="[" line="0" column="37" />
@@ -1227,6 +1227,12 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="/work/projects/gitlab/betting/unified-feed/uf-core-components/pom.xml" timestamp="1534520226908">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="34" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+      </file>
       <file name="/work/projects/bac/java-common/sportradar-common-properties/pom.xml" timestamp="1534344075989">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1388,7 +1394,7 @@
         <mark key="." line="69" column="89" />
         <mark key="^" line="69" column="89" />
       </file>
-      <file name="/work/projects/gitlab/betting/unified-feed/uf-core-components/uf-message-log-ws-component/pom.xml" timestamp="1534518242901" />
+      <file name="/work/projects/gitlab/betting/unified-feed/uf-core-components/uf-message-log-ws-component/pom.xml" timestamp="1534520273573" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/TournamentManagerIntegrationTest.java" timestamp="1514895597185">
         <mark key="[" line="153" column="40" />
         <mark key="]" line="153" column="38" />
@@ -1581,10 +1587,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/work/projects/gitlab/betting/unified-feed/uf-dummy-bookingservice/pom.xml" timestamp="1534518235890">
+      <file name="/work/projects/gitlab/betting/unified-feed/uf-dummy-bookingservice/pom.xml" timestamp="1534520336877">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="." line="88" column="50" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/CategoryCache.java" timestamp="1509405278713">
         <mark key="[" line="36" column="56" />
@@ -1782,6 +1788,7 @@
         <mark key="." line="76" column="54" />
         <mark key="^" line="76" column="54" />
       </file>
+      <file name="/work/projects/gitlab/java/unified-feed/uf-health-checks/pom.xml" timestamp="1534519335400" />
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/dao/TournamentDAO.java" timestamp="1517238241470">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="45" />
@@ -1823,6 +1830,12 @@
         <mark key="]" line="425" column="31" />
         <mark key="^" line="425" column="31" />
         <mark key="." line="425" column="31" />
+      </file>
+      <file name="/work/projects/gitlab/java/unified-feed/uf-core/pom.xml" timestamp="1534519815253">
+        <mark key="[" line="117" column="57" />
+        <mark key="]" line="118" column="28" />
+        <mark key="^" line="118" column="28" />
+        <mark key="." line="118" column="28" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/dao/SportDAO.java" timestamp="1517238201761">
         <mark key="[" line="9" column="62" />
@@ -1963,6 +1976,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
+      <file name="/work/projects/gitlab/betting/unified-feed/uf-core-components/uf-monitoring-component/pom.xml" timestamp="1534520267157" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1528924474629">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="7" column="11" />
@@ -1980,6 +1994,12 @@
         <mark key="]" line="19" column="22" />
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="22" />
+      </file>
+      <file name="/work/projects/gitlab/java/unified-feed/uf-datamodel/pom.xml" timestamp="1534519652640">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="39" column="28" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/team/form/TableData.java" timestamp="1521038050997">
         <mark key="[" line="15" column="28" />
@@ -2168,6 +2188,9 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/work/projects/gitlab/betting/unified-feed/uf-core-components/uf-archive-log-component/pom.xml" timestamp="1534520308075">
+        <mark key="'" line="18" column="22" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/CountryCache.java" timestamp="1523276459495">
         <mark key="[" line="123" column="80" />
         <mark key="]" line="123" column="97" />
@@ -2300,11 +2323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="759" column="25" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
-      <jump line="774" column="6" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
-      <jump line="825" column="25" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
-      <jump line="832" column="26" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
-      <jump line="835" column="12" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
       <jump line="847" column="11" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
       <jump line="901" column="14" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
       <jump line="904" column="123" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
@@ -2400,10 +2418,15 @@
       <jump line="24" column="24" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-settlement/pom.xml" />
       <jump line="2001" column="6" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/ingame/darts/DartsIngame.java" />
       <jump line="3508" column="0" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/liveodds/server/OddsSubType.java" />
+      <jump line="678" column="30" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" />
+      <jump line="487" column="30" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" />
+      <jump line="486" column="38" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" />
+      <jump line="21" column="38" filename="/work/projects/gitlab/betting/unified-feed/uf-core-components/uf-archive-log-component/pom.xml" />
+      <jump line="18" column="22" filename="/work/projects/gitlab/betting/unified-feed/uf-core-components/uf-archive-log-component/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5LnZlcnNpb24uVW5pZmllZEZlZWQ+MS4xLjc5PC9kZXBlbmRlbmN5LnZlcnNpb24uVW5pZmllZEZlZWQ+Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -2415,34 +2438,34 @@
         <text>sportradar-common</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9UT0RPIEZJWE1FIFhYWCBFUlJPUiByZW1vdmUgdXNhZ2VzIG9mIFRocm93YWJsZUxvZ2dlci9kYXRhYmFzZQo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5LnZlcnNpb24uVW5pZmllZEZlZWQ+MS4xLjc5PC9kZXBlbmRlbmN5LnZlcnNpb24uVW5pZmllZEZlZWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmd1YXZhPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5ndWF2YTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MjUuMS1qcmU8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MS4wLjIzPC92ZXJzaW9uPgogICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjAuMjM8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MS4wLjIzPC92ZXJzaW9uPgogICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmNvbW1vbi5FeHRyYWN0ZWROdW1iZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjAuMjM8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmNvbW1vbjIuQmV0cmFkYXJTeXN0ZW0uRW52aXJvbm1lbnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmNvbW1vbi5FeHRyYWN0ZWROdW1iZXJzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3kudmVyc2lvbi5zcG9ydHJhZGFyLmNvbW1vbj4xLjAuNDE8L2RlcGVuZGVuY3kudmVyc2lvbi5zcG9ydHJhZGFyLmNvbW1vbj4tLT4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmNvbW1vbjIuQmV0cmFkYXJTeXN0ZW0uRW52aXJvbm1lbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4tLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPi0tPgogICAgICAgICAgICA8IS0tPHZlcnNpb24+JHtkZXBlbmRlbmN5LnZlcnNpb24uc3BvcnRyYWRhci5jb21tb259PC92ZXJzaW9uPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3kudmVyc2lvbi5zcG9ydHJhZGFyLmNvbW1vbj4xLjAuNDE8L2RlcGVuZGVuY3kudmVyc2lvbi5zcG9ydHJhZGFyLmNvbW1vbj4tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4tLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPi0tPgogICAgICAgICAgICA8IS0tPHZlcnNpb24+MS4wLjIzPC92ZXJzaW9uPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4tLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPi0tPgogICAgICAgICAgICA8IS0tPHZlcnNpb24+JHtkZXBlbmRlbmN5LnZlcnNpb24uc3BvcnRyYWRhci5jb21tb259PC92ZXJzaW9uPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXhjbHVkZT5jb20uc3BvcnRyYWRhcjpzcG9ydHJhZGFyLWNvbW1vbjwvZXhjbHVkZT4tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4tLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPi0tPgogICAgICAgICAgICA8IS0tPHZlcnNpb24+MS4wLjIzPC92ZXJzaW9uPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -2462,7 +2485,6 @@
     </search>
     <history>
       <history-search>
-        <entry>winterwell</entry>
         <entry>implode</entry>
         <entry>LogUtil</entry>
         <entry>security</entry>
@@ -2481,6 +2503,7 @@
         <entry>websocket</entry>
         <entry>guava</entry>
         <entry>close</entry>
+        <entry>uf</entry>
         <entry>sportradar-common</entry>
       </history-search>
       <history-cmd>
