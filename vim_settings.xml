@@ -856,6 +856,11 @@
         <mark key="^" line="44" column="44" />
         <mark key="." line="44" column="44" />
       </file>
+      <file name="/work/projects/gitlab/betting/unified-feed/uf-support-interface-backend/pom.xml" timestamp="1534518287614">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/download/src/main/java/com/oddsarbitrage/webdownload/WebConnection.java" timestamp="1534458596799">
         <mark key="'" line="250" column="0" />
         <mark key="[" line="288" column="38" />
@@ -1383,6 +1388,7 @@
         <mark key="." line="69" column="89" />
         <mark key="^" line="69" column="89" />
       </file>
+      <file name="/work/projects/gitlab/betting/unified-feed/uf-core-components/uf-message-log-ws-component/pom.xml" timestamp="1534518242901" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/TournamentManagerIntegrationTest.java" timestamp="1514895597185">
         <mark key="[" line="153" column="40" />
         <mark key="]" line="153" column="38" />
@@ -1574,6 +1580,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/betting/unified-feed/uf-dummy-bookingservice/pom.xml" timestamp="1534518235890">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/CategoryCache.java" timestamp="1509405278713">
         <mark key="[" line="36" column="56" />
@@ -2105,6 +2116,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/work/projects/gitlab/betting/unified-feed/uf-config-backend/pom.xml" timestamp="1534518329046">
+        <mark key="[" line="136" column="17" />
+        <mark key="]" line="138" column="3" />
+        <mark key="^" line="138" column="3" />
+        <mark key="." line="138" column="3" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/Team2TeamCache.java" timestamp="1509406639073">
         <mark key="[" line="26" column="72" />
         <mark key="]" line="26" column="91" />
@@ -2386,7 +2403,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9UT0RPIEZJWE1FIFhYWCBFUlJPUiByZW1vdmUgdXNhZ2VzIG9mIFRocm93YWJsZUxvZ2dlci9kYXRhYmFzZQo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -2401,31 +2418,31 @@
         <text encoding="base64">Ly9UT0RPIEZJWE1FIFhYWCBFUlJPUiByZW1vdmUgdXNhZ2VzIG9mIFRocm93YWJsZUxvZ2dlci9kYXRhYmFzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmNvbW1vbi5FeHRyYWN0ZWROdW1iZXJzOwo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmNvbW1vbjIuQmV0cmFkYXJTeXN0ZW0uRW52aXJvbm1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MS4wLjIzPC92ZXJzaW9uPgogICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3kudmVyc2lvbi5zcG9ydHJhZGFyLmNvbW1vbj4xLjAuNDE8L2RlcGVuZGVuY3kudmVyc2lvbi5zcG9ydHJhZGFyLmNvbW1vbj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjAuMjM8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4tLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPi0tPgogICAgICAgICAgICA8IS0tPHZlcnNpb24+JHtkZXBlbmRlbmN5LnZlcnNpb24uc3BvcnRyYWRhci5jb21tb259PC92ZXJzaW9uPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmNvbW1vbi5FeHRyYWN0ZWROdW1iZXJzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4tLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPi0tPgogICAgICAgICAgICA8IS0tPHZlcnNpb24+MS4wLjIzPC92ZXJzaW9uPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmNvbW1vbjIuQmV0cmFkYXJTeXN0ZW0uRW52aXJvbm1lbnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXhjbHVkZT5jb20uc3BvcnRyYWRhcjpzcG9ydHJhZGFyLWNvbW1vbjwvZXhjbHVkZT4tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3kudmVyc2lvbi5zcG9ydHJhZGFyLmNvbW1vbj4xLjAuNDE8L2RlcGVuZGVuY3kudmVyc2lvbi5zcG9ydHJhZGFyLmNvbW1vbj4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08aW5jbHVkZT5jb20uc3BvcnRyYWRhcjpzcG9ydHJhZGFyLWNvbW1vbjwvaW5jbHVkZT4tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4tLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPi0tPgogICAgICAgICAgICA8IS0tPHZlcnNpb24+JHtkZXBlbmRlbmN5LnZlcnNpb24uc3BvcnRyYWRhci5jb21tb259PC92ZXJzaW9uPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXhjbHVkZT5jb20uc3BvcnRyYWRhcjpzcG9ydHJhZGFyLWNvbW1vbjwvZXhjbHVkZT4tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4tLT4KICAgICAgICAgICAgPCEtLTxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPi0tPgogICAgICAgICAgICA8IS0tPHZlcnNpb24+MS4wLjIzPC92ZXJzaW9uPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08aW5jbHVkZT5jb20uc3BvcnRyYWRhcjpzcG9ydHJhZGFyLWNvbW1vbjwvaW5jbHVkZT4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXhjbHVkZT5jb20uc3BvcnRyYWRhcjpzcG9ydHJhZGFyLWNvbW1vbjwvZXhjbHVkZT4tLT4K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
