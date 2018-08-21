@@ -115,6 +115,12 @@
         <mark key="." line="66" column="34" />
         <mark key="^" line="66" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_8.sql" timestamp="1534857103518">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+      </file>
       <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/liveodds/saver/system/ProdContext.java" timestamp="1534512323222">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1424,11 +1430,11 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_17.sql" timestamp="1534512019981">
-        <mark key="[" line="0" column="76" />
-        <mark key="]" line="0" column="74" />
-        <mark key="^" line="0" column="74" />
-        <mark key="." line="0" column="74" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_17.sql" timestamp="1534856703342">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="13" column="117" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="13" column="117" />
       </file>
       <file name="/tmp/filesender-soap/src/main/java/org/tempuri/ListTeamsResponse.java" timestamp="1515771430023">
         <mark key="[" line="38" column="41" />
@@ -2290,19 +2296,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>afbd7c5e</text>
+        <text>Description</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>afbd7c5e</text>
+        <text>Description</text>
       </register>
       <register name="/" type="4">
         <text>datamodel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5LnZlcnNpb24uVW5pZmllZEZlZWQ+MS4xLjc5PC9kZXBlbmRlbmN5LnZlcnNpb24uVW5pZmllZEZlZWQ+Cg==</text>
+        <text encoding="base64">c2VsZWN0IHIuaWQsIHIubmFtZSwganQuY2xhc3NuYW1lX3NpbXBsZSwgcmouKgpmcm9tIHhtbGV4cG9ydF9yb2xlX2pvYl90eXBlIGp0CiAgICAgICBsZWZ0IGpvaW4geG1sZXhwb3J0X3JvbGVfam9iIHJqIG9uIHJqLnhtbGV4cG9ydF9yb2xlX2pvYl90eXBlX2lkID0ganQuaWQKICAgICAgIGxlZnQgam9pbiB4bWxleHBvcnRfcm9sZSByIG9uIHIuaWQgPSByai54bWxleHBvcnRfcm9sZV9pZAp3aGVyZSAxCiAgYW5kIHIubmFtZSBsaWtlICIlcHJvZCUiOwoKc2VsZWN0ICogZnJvbSB4bWxleHBvcnRfcm9sZV9qb2Igcmogd2hlcmUgcmoueG1sCgp1cGRhdGUgeG1sZXhwb3J0X3JvbGVfam9iIHJqIHNldCByai5hY3RpdmUgPSAxIHdoZXJlIHJqLnhtbGV4cG9ydF9yb2xlX2lkID0gNCBhbmQgcmoueG1sZXhwb3J0X3JvbGVfam9iX3R5cGVfaWQgaW4gKDEpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmd1YXZhPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5ndWF2YTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MjUuMS1qcmU8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
