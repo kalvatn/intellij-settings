@@ -467,6 +467,9 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/tools/connectionkiller/ConnectionKiller.java" timestamp="1535055455275">
+        <mark key="'" line="331" column="22" />
+      </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/template/pom.xml" timestamp="1534461469342">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="30" column="17" />
@@ -1025,6 +1028,7 @@
         <mark key="^" line="17" column="80" />
         <mark key="." line="17" column="80" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/common/split/component/0.0.1/component-0.0.1.jar!/com/oddsarbitrage/componentcontroller/LiveOddsServerUtils.class" timestamp="1535055714207" />
       <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/liveodds/server/TennisOddsCalculator.java" timestamp="1534509166453">
         <mark key="[" line="3046" column="62" />
         <mark key="]" line="3046" column="63" />
@@ -1251,6 +1255,9 @@
         <mark key="]" line="8" column="56" />
         <mark key="^" line="8" column="56" />
         <mark key="." line="8" column="56" />
+      </file>
+      <file name="/work/projects/gitlab/java/sportradar-common-replace-branch/src/main/java/com/betradar/tools/connectionkiller/ConnectionKillerNonProduction.java" timestamp="1535055378210">
+        <mark key="'" line="32" column="6" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/util/TimeUtil.java" timestamp="1509394110633">
         <mark key="[" line="13" column="76" />
@@ -2441,11 +2448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1047" column="34" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
-      <jump line="1048" column="89" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
-      <jump line="1052" column="87" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
-      <jump line="1090" column="36" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
-      <jump line="1115" column="14" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
       <jump line="1137" column="6" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
       <jump line="1142" column="68" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
       <jump line="1144" column="12" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
@@ -2541,6 +2543,11 @@
       <jump line="0" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
       <jump line="4" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_18.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_18.sql" />
+      <jump line="32" column="6" filename="/work/projects/gitlab/java/sportradar-common-replace-branch/src/main/java/com/betradar/tools/connectionkiller/ConnectionKillerNonProduction.java" />
+      <jump line="132" column="6" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/tools/connectionkiller/ConnectionKiller.java" />
+      <jump line="300" column="40" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/tools/connectionkiller/ConnectionKiller.java" />
+      <jump line="329" column="77" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/tools/connectionkiller/ConnectionKiller.java" />
+      <jump line="331" column="22" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/tools/connectionkiller/ConnectionKiller.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2553,7 +2560,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>datamodel</text>
+        <text>LiveOdds</text>
       </register>
       <register name="0" type="4">
         <text>,</text>
@@ -2589,13 +2596,13 @@
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>33</text>
       </register>
     </registers>
     <search>
-      <last-search>datamodel</last-search>
+      <last-search>LiveOdds</last-search>
       <last-offset />
-      <last-pattern>datamodel</last-pattern>
+      <last-pattern>LiveOdds</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -2603,7 +2610,6 @@
     </search>
     <history>
       <history-search>
-        <entry>score.get(teamid1).get(CUMULATIVE_GOAL_INDEX)</entry>
         <entry>score.get(teamid2).get(CUMULATIVE_GOAL_INDEX)</entry>
         <entry>forEach</entry>
         <entry>walkover</entry>
@@ -2623,9 +2629,9 @@
         <entry>push</entry>
         <entry>testQuery</entry>
         <entry>swagger</entry>
+        <entry>LiveOdds</entry>
       </history-search>
       <history-cmd>
-        <entry>54</entry>
         <entry>57</entry>
         <entry>156</entry>
         <entry>141</entry>
@@ -2645,6 +2651,7 @@
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry>266</entry>
         <entry>w</entry>
+        <entry>33</entry>
       </history-cmd>
       <history-expr />
       <history-input />
