@@ -565,6 +565,10 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/common/Util.java" timestamp="1535062750371">
+        <mark key="[" line="669" column="0" />
+        <mark key="]" line="673" column="2" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/util/NumberUtil.java" timestamp="1509393720627">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1233,6 +1237,7 @@
         <mark key="^" line="48" column="32" />
         <mark key="." line="48" column="32" />
       </file>
+      <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/usapi/UsApiFeed.java" timestamp="1535063169845" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LiveTableServiceBean.java" timestamp="1509022939147">
         <mark key="[" line="89" column="12" />
         <mark key="]" line="89" column="40" />
@@ -2553,7 +2558,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgc3dhcChWZWN0b3Igc291cmNlLCBpbnQgaW5kZXhhLCBpbnQgaW5kZXhiKSB7CiAgICBPYmplY3QgdGVtcCA9IHNvdXJjZS5lbGVtZW50QXQoaW5kZXhhKTsKICAgIHNvdXJjZS5zZXRFbGVtZW50QXQoc291cmNlLmVsZW1lbnRBdChpbmRleGIpLCBpbmRleGEpOwogICAgc291cmNlLnNldEVsZW1lbnRBdCh0ZW1wLCBpbmRleGIpOwogIH0K</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -2564,8 +2569,8 @@
       <register name="/" type="4">
         <text>LiveOdds</text>
       </register>
-      <register name="0" type="4">
-        <text>,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgc3dhcChWZWN0b3Igc291cmNlLCBpbnQgaW5kZXhhLCBpbnQgaW5kZXhiKSB7CiAgICBPYmplY3QgdGVtcCA9IHNvdXJjZS5lbGVtZW50QXQoaW5kZXhhKTsKICAgIHNvdXJjZS5zZXRFbGVtZW50QXQoc291cmNlLmVsZW1lbnRBdChpbmRleGIpLCBpbmRleGEpOwogICAgc291cmNlLnNldEVsZW1lbnRBdCh0ZW1wLCBpbmRleGIpOwogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
