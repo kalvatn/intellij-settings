@@ -834,8 +834,11 @@
         <mark key="^" line="81" column="13" />
         <mark key="." line="81" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_18.sql" timestamp="1535024946722">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_18.sql" timestamp="1535026293072">
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+        <mark key="." line="9" column="6" />
       </file>
       <file name="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/dei/api/PropertyRequest.java" timestamp="1534253646442">
         <mark key="[" line="124" column="0" />
@@ -1165,6 +1168,7 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/common/dei/dei-properties-api/1.2/dei-properties-api-1.2-sources.jar!/com/sportradar/common/dei/api/properties/DeiProperty.java" timestamp="1535026511644" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_4.sql" timestamp="1518529946726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="5" />
@@ -1278,12 +1282,12 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1535025191706">
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1535025230955">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="102" />
-        <mark key="]" line="88" column="108" />
-        <mark key="." line="88" column="108" />
-        <mark key="^" line="88" column="108" />
+        <mark key="[" line="79" column="102" />
+        <mark key="]" line="79" column="108" />
+        <mark key="." line="79" column="108" />
+        <mark key="^" line="79" column="108" />
       </file>
       <file name="/work/projects/gitlab/java/unified-feed/uf-core/pom.xml" timestamp="1534519815253">
         <mark key="[" line="117" column="57" />
@@ -2312,19 +2316,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>collect</text>
+        <text>,</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>collect</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>datamodel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFNldDxTdHJpbmc+IHZhbGlkVmFsdWVzID0gbmV3IEhhc2hTZXQ8PihBcnJheXMuYXNMaXN0KHZhbHVlcykpOwo=</text>
+      <register name="0" type="4">
+        <text>dp.id, dp.name, t.TOURNAMENTID, t.TOURNAMENTNAME</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy4K</text>
