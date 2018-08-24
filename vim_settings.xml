@@ -56,7 +56,7 @@
         <mark key="]" line="17" column="75" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535070626108">
+      <file name="/Dummy.txt" timestamp="1535071135944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/SocketQueueSender.java" timestamp="1534502742208">
@@ -379,7 +379,7 @@
         <text>mail</text>
       </register>
       <register name="/" type="4">
-        <text>Central</text>
+        <text>zabbix</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly9UT0RPIEZJWE1FIFhYWCBFUlJPUiByZW1vdmUgdXNhZ2VzIG9mIENlbnRyYWwK</text>
@@ -419,9 +419,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Central</last-search>
+      <last-search>zabbix</last-search>
       <last-offset />
-      <last-pattern>Central</last-pattern>
+      <last-pattern>zabbix</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -429,8 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>checking</entry>
-        <entry>was null</entry>
         <entry>null</entry>
         <entry>team is null</entry>
         <entry>SCHED</entry>
@@ -449,6 +447,8 @@
         <entry>Database</entry>
         <entry>central</entry>
         <entry>Central</entry>
+        <entry>mail</entry>
+        <entry>zabbix</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
