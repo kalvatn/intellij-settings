@@ -49,6 +49,13 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="16" />
       </file>
+      <file name="/work/projects/gitlab/java-common/split/component/pom.xml" timestamp="1535068589261">
+        <mark key="'" line="57" column="20" />
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="20" />
+        <mark key="." line="58" column="20" />
+        <mark key="^" line="58" column="20" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/jdbi/mapper/EventMapper.java" timestamp="1517572954463">
         <mark key="[" line="25" column="34" />
         <mark key="]" line="26" column="35" />
@@ -1367,6 +1374,7 @@
         <mark key="^" line="32" column="2" />
         <mark key="." line="32" column="2" />
       </file>
+      <file name="/work/projects/gitlab/java-common/split/component/src/main/java/com/oddsarbitrage/componentcontroller/AutoRestarter.java" timestamp="1535067965447" />
       <file name="/work/projects/bac/java-common/util-concurrent/src/main/java/com/betradar/util/concurrent/threadpoolmanager/LiveOddsThreadPoolConfigSource.java" timestamp="1534356059975">
         <mark key="'" line="17" column="21" />
         <mark key="[" line="13" column="11" />
@@ -2314,6 +2322,7 @@
         <mark key="^" line="15" column="54" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/work/projects/gitlab/java-common/split/component/src/main/java/com/betradar/component/schedules/ComponentDeadlockDetectionSchedule.java" timestamp="1535063808642" />
       <file name="/work/projects/gitlab/java-common/split/sportradar-common-replace-branch/src/main/java/com/betradar/pagerduty/PagerDuty.java" timestamp="1535062033597" />
       <file name="/work/projects/bac/java-common/ftp/src/main/java/com/betradar/StaticIpHolder.java" timestamp="1534362989935">
         <mark key="[" line="46" column="40" />
@@ -2455,8 +2464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1137" column="6" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
-      <jump line="1142" column="68" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
       <jump line="1144" column="12" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
       <jump line="2" column="27" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
       <jump line="19" column="31" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/component/src/main/java/com/oddsarbitrage/componentcontroller/LocalComponentController.java" />
@@ -2555,22 +2562,24 @@
       <jump line="300" column="40" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/tools/connectionkiller/ConnectionKiller.java" />
       <jump line="329" column="77" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/tools/connectionkiller/ConnectionKiller.java" />
       <jump line="331" column="22" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/tools/connectionkiller/ConnectionKiller.java" />
+      <jump line="0" column="0" filename="/work/projects/gitlab/java-common/split/component/pom.xml" />
+      <jump line="57" column="20" filename="/work/projects/gitlab/java-common/split/component/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgc3dhcChWZWN0b3Igc291cmNlLCBpbnQgaW5kZXhhLCBpbnQgaW5kZXhiKSB7CiAgICBPYmplY3QgdGVtcCA9IHNvdXJjZS5lbGVtZW50QXQoaW5kZXhhKTsKICAgIHNvdXJjZS5zZXRFbGVtZW50QXQoc291cmNlLmVsZW1lbnRBdChpbmRleGIpLCBpbmRleGEpOwogICAgc291cmNlLnNldEVsZW1lbnRBdCh0ZW1wLCBpbmRleGIpOwogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>mail</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mail</text>
       </register>
       <register name="/" type="4">
         <text>LiveOdds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgc3dhcChWZWN0b3Igc291cmNlLCBpbnQgaW5kZXhhLCBpbnQgaW5kZXhiKSB7CiAgICBPYmplY3QgdGVtcCA9IHNvdXJjZS5lbGVtZW50QXQoaW5kZXhhKTsKICAgIHNvdXJjZS5zZXRFbGVtZW50QXQoc291cmNlLmVsZW1lbnRBdChpbmRleGIpLCBpbmRleGEpOwogICAgc291cmNlLnNldEVsZW1lbnRBdCh0ZW1wLCBpbmRleGIpOwogIH0K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb24uc3BsaXQ8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPm1haWw8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
