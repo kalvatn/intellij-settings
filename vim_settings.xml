@@ -130,12 +130,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535246771909">
-        <mark key="'" line="612" column="31" />
-        <mark key="[" line="582" column="15" />
-        <mark key="]" line="582" column="19" />
-        <mark key="." line="582" column="19" />
-        <mark key="^" line="582" column="19" />
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535368789570">
+        <mark key="'" line="481" column="0" />
+        <mark key="[" line="571" column="19" />
+        <mark key="]" line="571" column="22" />
+        <mark key="." line="571" column="22" />
+        <mark key="^" line="571" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_6.sql" timestamp="1528809107023">
         <mark key="[" line="9" column="0" />
@@ -1754,7 +1754,9 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="/tmp/source/pom.xml" timestamp="1535366766134" />
+      <file name="/tmp/source/pom.xml" timestamp="1535368437706">
+        <mark key="'" line="546" column="57" />
+      </file>
       <file name="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/properties/PropertyApiConfiguration.java" timestamp="1530099331071">
         <mark key="[" line="39" column="19" />
         <mark key="]" line="39" column="30" />
@@ -2117,9 +2119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="36" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/util/StringUtil.java" />
-      <jump line="175" column="39" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/util/StringUtil.java" />
-      <jump line="230" column="4" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/util/StringUtil.java" />
       <jump line="48" column="40" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/util/StringUtil.java" />
       <jump line="76" column="21" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/sms/MailSMSSender.java" />
       <jump line="17" column="32" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
@@ -2217,6 +2216,9 @@
       <jump line="604" column="31" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="90" column="25" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
       <jump line="201" column="13" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="546" column="57" filename="/tmp/source/pom.xml" />
+      <jump line="510" column="16" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="481" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2229,7 +2231,7 @@
         <text>.RELE</text>
       </register>
       <register name="/" type="4">
-        <text>JSON</text>
+        <text>guava</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8IS0tIFRPRE8gRklYTUUgWFhYIG1hbnVhbGx5IHVwbG9hZGVkPyAtLT4KICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5wb2k8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnBvaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+cG9pLTMuMi1GSU5BTC0yMDA4MTAxOTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
@@ -2274,9 +2276,9 @@ HSSF</text>
       </register>
     </registers>
     <search>
-      <last-search>JSON</last-search>
+      <last-search>guava</last-search>
       <last-offset />
-      <last-pattern>JSON</last-pattern>
+      <last-pattern>guava</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -2284,7 +2286,6 @@ HSSF</text>
     </search>
     <history>
       <history-search>
-        <entry>SelecTDB</entry>
         <entry>SelectDB</entry>
         <entry>net-sf</entry>
         <entry>net.sf</entry>
@@ -2302,8 +2303,9 @@ HSSF</text>
         <entry>selenium</entry>
         <entry>poi</entry>
         <entry>guavba</entry>
-        <entry>guava</entry>
         <entry>JSON</entry>
+        <entry>nv-websocket</entry>
+        <entry>guava</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
