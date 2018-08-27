@@ -130,9 +130,9 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535371282869">
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535373171352">
         <mark key="'" line="23" column="57" />
-        <mark key="[" line="173" column="25" />
+        <mark key="[" line="203" column="29" />
         <mark key="]" line="173" column="25" />
         <mark key="." line="173" column="25" />
         <mark key="^" line="173" column="25" />
@@ -1454,6 +1454,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1535373338822">
+        <mark key="'" line="168" column="54" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/zabbix/pom.xml" timestamp="1534449374466">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="28" />
@@ -2126,7 +2132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1234" column="58" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
       <jump line="190" column="0" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/OddsUtil.java" />
       <jump line="61" column="72" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/OddsUtil.java" />
       <jump line="7" column="16" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/oddsarbitrage/schedule2/tasks/racktables/Subnet.java" />
@@ -2226,10 +2231,11 @@
       <jump line="12" column="13" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="0" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="23" column="57" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="168" column="54" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5-SNAPSHOT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCUdlbmVyYWxTY291dERhdGFDb25uZWN0b3IuOwo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -2244,28 +2250,28 @@
         <text encoding="base64">ICAgICAgPCEtLSBUT0RPIEZJWE1FIFhYWCBtYW51YWxseSB1cGxvYWRlZD8gLS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCUdlbmVyYWxTY291dERhdGFDb25uZWN0b3IuOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5qb29xL2pvb3EgLS0+Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5qb29xL2pvb3EtY29kZWdlbiAtLT4K</text>
+        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5qb29xL2pvb3EgLS0+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5qb29xL2pvb3EtY29kZWdlbiAtLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUuYWN0aXZlbXEvYWN0aXZlbXEtYWxsIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5qb29xL2pvb3EtY29kZWdlbiAtLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUuYWN0aXZlbXEvYWN0aXZlbXEtYWxsIC0tPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
