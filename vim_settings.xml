@@ -921,7 +921,7 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Objects.java" timestamp="1535395701584" />
+      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Objects.java" timestamp="1535397050519" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/xmlexport/MapStanleybetGermanyIds.java" timestamp="1535242131523">
         <mark key="[" line="93" column="8" />
         <mark key="]" line="93" column="8" />
@@ -1167,6 +1167,9 @@
         <mark key="]" line="29" column="34" />
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1535397062741">
+        <mark key="'" line="72" column="46" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livedash/domain/RealCategoryMenuItem.java" timestamp="1535242745788">
         <mark key="[" line="83" column="11" />
@@ -2182,7 +2185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="28" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-old-lo-app/pom.xml" />
       <jump line="44" column="24" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-old-lo-app/pom.xml" />
       <jump line="125" column="0" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
       <jump line="117" column="41" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/data/modifier/AddPhrases.java" />
@@ -2282,6 +2284,7 @@
       <jump line="39" column="64" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Objects.java" />
       <jump line="44" column="34" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Objects.java" />
       <jump line="51" column="27" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Objects.java" />
+      <jump line="72" column="46" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/LiveScoreController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2294,7 +2297,7 @@
         <text>zabbix</text>
       </register>
       <register name="/" type="4">
-        <text>nonnull</text>
+        <text>MatchDao</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uLnNwbGl0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD56YWJiaXg8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
@@ -2334,9 +2337,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nonnull</last-search>
+      <last-search>MatchDao</last-search>
       <last-offset />
-      <last-pattern>nonnull</last-pattern>
+      <last-pattern>MatchDao</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -2344,8 +2347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jinterop</entry>
-        <entry>websocket</entry>
         <entry>virtual</entry>
         <entry>gaming</entry>
         <entry>selenium</entry>
@@ -2364,6 +2365,8 @@
         <entry>nonNull</entry>
         <entry>null</entry>
         <entry>nonnull</entry>
+        <entry>matchDao</entry>
+        <entry>MatchDao</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
