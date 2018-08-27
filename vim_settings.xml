@@ -864,7 +864,9 @@
         <mark key="^" line="8" column="63" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/matchmapping/MapperCup.java" timestamp="1535381180904" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/matchmapping/MapperCup.java" timestamp="1535395445894">
+        <mark key="[" line="25" column="47" />
+      </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/pom.xml" timestamp="1517242177801">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="60" column="0" />
@@ -919,6 +921,7 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/usr/lib/jvm/java-8-oracle/src.zip!/java/util/Objects.java" timestamp="1535395701584" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/xmlexport/MapStanleybetGermanyIds.java" timestamp="1535242131523">
         <mark key="[" line="93" column="8" />
         <mark key="]" line="93" column="8" />
@@ -1644,6 +1647,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Objects.java" timestamp="1535395497302">
+        <mark key="'" line="51" column="27" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/StatisticsCup.java" timestamp="1522763756764">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="20" column="1" />
@@ -2176,10 +2182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="31" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
-      <jump line="250" column="0" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/download/src/main/java/com/oddsarbitrage/webdownload/WebConnection.java" />
-      <jump line="118" column="19" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" />
-      <jump line="27" column="24" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" />
       <jump line="180" column="28" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-old-lo-app/pom.xml" />
       <jump line="44" column="24" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-old-lo-app/pom.xml" />
       <jump line="125" column="0" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
@@ -2276,6 +2278,10 @@
       <jump line="205" column="27" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="242" column="21" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="307" column="21" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="38" column="64" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Objects.java" />
+      <jump line="39" column="64" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Objects.java" />
+      <jump line="44" column="34" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Objects.java" />
+      <jump line="51" column="27" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Objects.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2288,7 +2294,7 @@
         <text>zabbix</text>
       </register>
       <register name="/" type="4">
-        <text>com.betradar</text>
+        <text>nonnull</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uLnNwbGl0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD56YWJiaXg8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
@@ -2328,9 +2334,9 @@
       </register>
     </registers>
     <search>
-      <last-search>com.betradar</last-search>
+      <last-search>nonnull</last-search>
       <last-offset />
-      <last-pattern>com.betradar</last-pattern>
+      <last-pattern>nonnull</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -2338,9 +2344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sportradar-common</entry>
-        <entry>datamodel</entry>
-        <entry>diffutils</entry>
         <entry>jinterop</entry>
         <entry>websocket</entry>
         <entry>virtual</entry>
@@ -2358,6 +2361,9 @@
         <entry>TennisFormat</entry>
         <entry>com.betradra</entry>
         <entry>com.betradar</entry>
+        <entry>nonNull</entry>
+        <entry>null</entry>
+        <entry>nonnull</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
