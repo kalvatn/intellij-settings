@@ -130,12 +130,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535368789570">
-        <mark key="'" line="481" column="0" />
-        <mark key="[" line="571" column="19" />
-        <mark key="]" line="571" column="22" />
-        <mark key="." line="571" column="22" />
-        <mark key="^" line="571" column="22" />
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535371282869">
+        <mark key="'" line="23" column="57" />
+        <mark key="[" line="173" column="25" />
+        <mark key="]" line="173" column="25" />
+        <mark key="." line="173" column="25" />
+        <mark key="^" line="173" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_6.sql" timestamp="1528809107023">
         <mark key="[" line="9" column="0" />
@@ -1598,6 +1598,13 @@
         <mark key="^" line="141" column="14" />
         <mark key="." line="141" column="14" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" timestamp="1535369545764">
+        <mark key="'" line="677" column="7" />
+        <mark key="[" line="728" column="13" />
+        <mark key="]" line="730" column="4" />
+        <mark key="^" line="730" column="4" />
+        <mark key="." line="730" column="4" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/StatisticsCup.java" timestamp="1522763756764">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="20" column="1" />
@@ -2119,19 +2126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="40" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/util/StringUtil.java" />
-      <jump line="76" column="21" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/sms/MailSMSSender.java" />
-      <jump line="17" column="32" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="1393" column="56" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="1388" column="28" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="3" column="31" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="12" column="33" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="1334" column="39" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="4" column="31" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="1331" column="45" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="1332" column="38" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="6" column="29" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
-      <jump line="5" column="25" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
       <jump line="1234" column="58" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/Util.java" />
       <jump line="190" column="0" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/OddsUtil.java" />
       <jump line="61" column="72" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/util-shitty/src/main/java/com/betradar/common/OddsUtil.java" />
@@ -2219,51 +2213,59 @@
       <jump line="546" column="57" filename="/tmp/source/pom.xml" />
       <jump line="510" column="16" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="481" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="1195" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
+      <jump line="1550" column="32" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
+      <jump line="218" column="63" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
+      <jump line="333" column="55" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
+      <jump line="334" column="9" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
+      <jump line="628" column="8" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
+      <jump line="630" column="8" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
+      <jump line="638" column="15" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
+      <jump line="677" column="7" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
+      <jump line="587" column="6" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="12" column="13" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="0" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="23" column="57" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.RELE</text>
+        <text>5-SNAPSHOT</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.RELE</text>
+        <text>5-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>guava</text>
+        <text>finders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8IS0tIFRPRE8gRklYTUUgWFhYIG1hbnVhbGx5IHVwbG9hZGVkPyAtLT4KICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5wb2k8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnBvaTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+cG9pLTMuMi1GSU5BTC0yMDA4MTAxOTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgPCEtLSBUT0RPIEZJWE1FIFhYWCBtYW51YWxseSB1cGxvYWRlZD8gLS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQXV0aG9yOiBNb3J0ZW4gVO+/vXJ1bSwgMjQuMDEuMjAwNgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>HSSF
-HSSF</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>HSSF
-HSSF
-HSSF
-HSSF
-HSSF</text>
+      <register name="3" type="2">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnBvaTwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+cG9pPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4zLjItRklOQUwtMjAwODEwMTk8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5qb29xL2pvb3EgLS0+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmd1YXZhPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5ndWF2YTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MTguMDwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5qb29xL2pvb3EtY29kZWdlbiAtLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmNvbW1vbjIuQmV0cmFkYXJTeXN0ZW0uRW52aXJvbm1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5qb29xL2pvb3EtY29kZWdlbiAtLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5EZWJ1ZzsK</text>
+        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUuYWN0aXZlbXEvYWN0aXZlbXEtYWxsIC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2276,9 +2278,9 @@ HSSF</text>
       </register>
     </registers>
     <search>
-      <last-search>guava</last-search>
+      <last-search>finders</last-search>
       <last-offset />
-      <last-pattern>guava</last-pattern>
+      <last-pattern>finders</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -2286,10 +2288,6 @@ HSSF</text>
     </search>
     <history>
       <history-search>
-        <entry>SelectDB</entry>
-        <entry>net-sf</entry>
-        <entry>net.sf</entry>
-        <entry>freemarker</entry>
         <entry>jetty</entry>
         <entry>close</entry>
         <entry>uf</entry>
@@ -2306,6 +2304,10 @@ HSSF</text>
         <entry>JSON</entry>
         <entry>nv-websocket</entry>
         <entry>guava</entry>
+        <entry>process</entry>
+        <entry>processMatchDocument</entry>
+        <entry>org.json</entry>
+        <entry>finders</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
