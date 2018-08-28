@@ -700,6 +700,13 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1535375965025">
+        <mark key="'" line="169" column="54" />
+        <mark key="[" line="169" column="46" />
+        <mark key="]" line="170" column="61" />
+        <mark key="." line="170" column="61" />
+        <mark key="^" line="170" column="61" />
+      </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/zabbix/pom.xml" timestamp="1534449374466">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="28" />
@@ -771,13 +778,6 @@
         <mark key="]" line="141" column="14" />
         <mark key="^" line="141" column="14" />
         <mark key="." line="141" column="14" />
-      </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" timestamp="1535369545764">
-        <mark key="'" line="677" column="7" />
-        <mark key="[" line="728" column="13" />
-        <mark key="]" line="730" column="4" />
-        <mark key="^" line="730" column="4" />
-        <mark key="." line="730" column="4" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventCapacityCheckFilter.java" timestamp="1517838650467">
         <mark key="[" line="20" column="61" />
@@ -1158,12 +1158,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535445028300">
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535456510530">
         <mark key="'" line="72" column="19" />
-        <mark key="[" line="244" column="37" />
-        <mark key="]" line="244" column="35" />
-        <mark key="." line="244" column="35" />
-        <mark key="^" line="244" column="35" />
+        <mark key="[" line="255" column="26" />
+        <mark key="]" line="255" column="29" />
+        <mark key="." line="255" column="29" />
+        <mark key="^" line="255" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_6.sql" timestamp="1528809107023">
         <mark key="[" line="9" column="0" />
@@ -2255,14 +2255,14 @@
       <jump line="72" column="19" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uLnNwbGl0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD51c2FwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>5.1-SNAPSHOT</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>zabbix</text>
+        <text>5.1-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>ingame</text>
