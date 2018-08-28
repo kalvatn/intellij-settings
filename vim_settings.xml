@@ -1148,12 +1148,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535457112912">
-        <mark key="'" line="176" column="50" />
-        <mark key="[" line="525" column="25" />
-        <mark key="]" line="525" column="28" />
-        <mark key="." line="525" column="28" />
-        <mark key="^" line="525" column="28" />
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535466257126">
+        <mark key="'" line="103" column="57" />
+        <mark key="[" line="541" column="0" />
+        <mark key="]" line="541" column="0" />
+        <mark key="." line="541" column="0" />
+        <mark key="^" line="541" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_6.sql" timestamp="1528809107023">
         <mark key="[" line="9" column="0" />
@@ -2154,11 +2154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="0" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
-      <jump line="221" column="0" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
-      <jump line="227" column="27" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
-      <jump line="228" column="18" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
-      <jump line="222" column="27" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
       <jump line="223" column="18" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
       <jump line="233" column="18" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
       <jump line="232" column="33" filename="/work/projects/bac/java/sportradar-common/pom.xml" />
@@ -2254,49 +2249,54 @@
       <jump line="228" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="149" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="176" column="50" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="298" column="19" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="243" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="254" column="60" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="84" column="39" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="103" column="57" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVvZGRzLnNlcnZlci5GdWxsTWF0Y2hEZXRhaWxzLlRlbm5pc0Zvcm1hdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjIwMTMxMDE4PC92ZXJzaW9uPi0tPgo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>5.1-SNAPSHOT</text>
+        <text>20090211</text>
       </register>
       <register name="/" type="4">
-        <text>guava</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uLnNwbGl0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD56YWJiaXg8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MjAxMzEwMTg8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVvZGRzLnNlcnZlci5GdWxsTWF0Y2hEZXRhaWxzLlRlbm5pc0Zvcm1hdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjIwMTMxMDE4PC92ZXJzaW9uPi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uQXV0b1Njb3V0Q29udHJvbGxlcjsKaW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uU21wVXNlckNoYW5nZUhhbmRsZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uQXV0b1Njb3V0Q29udHJvbGxlcjsKaW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uQXV0b1Njb3V0RXZlbnQ7CmltcG9ydCBjb20ub2Rkc2FyYml0cmFnZS5zY291dC5hdXRvLkF1dG9TY291dE1hdGNoOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uLnNwbGl0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD51c2FwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIDwhLS0gPGRlcGVuZGVuY3k+IC0tPgogICAgPCEtLSAgIDxncm91cElkPmNvbS5zcG9ydHJhZGFyLmNvbW1vbi5zcGxpdDwvZ3JvdXBJZD4gLS0+CiAgICA8IS0tICAgPGFydGlmYWN0SWQ+dXRpbC1zaGl0dHk8L2FydGlmYWN0SWQ+IC0tPgogICAgPCEtLSAgIDx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPiAtLT4KICAgIDwhLS0gPC9kZXBlbmRlbmN5PiAtLT4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0gPGRlcGVuZGVuY3k+IC0tPgogICAgPCEtLSAgIDxncm91cElkPjwvZ3JvdXBJZD4gLS0+CiAgICA8IS0tICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPiAtLT4KICAgIDwhLS0gICA8dmVyc2lvbj48L3ZlcnNpb24+IC0tPgogICAgPCEtLSA8L2RlcGVuZGVuY3k+IC0tPgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVvZGRzLnNlcnZlci5GdWxsTWF0Y2hEZXRhaWxzLlRlbm5pc0Zvcm1hdDsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uQXV0b1Njb3V0Q29udHJvbGxlcjsKaW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uU21wVXNlckNoYW5nZUhhbmRsZXI7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uQXV0b1Njb3V0Q29udHJvbGxlcjsKaW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uQXV0b1Njb3V0RXZlbnQ7CmltcG9ydCBjb20ub2Rkc2FyYml0cmFnZS5zY291dC5hdXRvLkF1dG9TY291dE1hdGNoOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uLnNwbGl0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD51c2FwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIDwhLS0gPGRlcGVuZGVuY3k+IC0tPgogICAgPCEtLSAgIDxncm91cElkPmNvbS5zcG9ydHJhZGFyLmNvbW1vbi5zcGxpdDwvZ3JvdXBJZD4gLS0+CiAgICA8IS0tICAgPGFydGlmYWN0SWQ+dXRpbC1zaGl0dHk8L2FydGlmYWN0SWQ+IC0tPgogICAgPCEtLSAgIDx2ZXJzaW9uPjAuMC4xPC92ZXJzaW9uPiAtLT4KICAgIDwhLS0gPC9kZXBlbmRlbmN5PiAtLT4=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwhLS0gPGRlcGVuZGVuY3k+IC0tPgogICAgPCEtLSAgIDxncm91cElkPjwvZ3JvdXBJZD4gLS0+CiAgICA8IS0tICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPiAtLT4KICAgIDwhLS0gICA8dmVyc2lvbj48L3ZlcnNpb24+IC0tPgogICAgPCEtLSA8L2RlcGVuZGVuY3k+IC0tPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVvZGRzLnNlcnZlci5GdWxsTWF0Y2hEZXRhaWxzLlRlbm5pc0Zvcm1hdDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLm9kZHNhcmJpdHJhZ2Uuc2NvdXQuYXV0by5BdXRvU2NvdXRDb250cm9sbGVyOwovL2ltcG9ydCBjb20ub2Rkc2FyYml0cmFnZS5zY291dC5hdXRvLkF1dG9TY291dEV2ZW50OwovL2ltcG9ydCBjb20ub2Rkc2FyYml0cmFnZS5zY291dC5hdXRvLkF1dG9TY291dE1hdGNoOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uQXV0b1Njb3V0Q29udHJvbGxlcjsKaW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmF1dG8uU21wVXNlckNoYW5nZUhhbmRsZXI7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -2306,9 +2306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>guava</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>guava</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -2316,15 +2316,12 @@
     </search>
     <history>
       <history-search>
-        <entry>selenium</entry>
-        <entry>poi</entry>
         <entry>guavba</entry>
         <entry>JSON</entry>
         <entry>nv-websocket</entry>
         <entry>process</entry>
         <entry>processMatchDocument</entry>
         <entry>org.json</entry>
-        <entry>finders</entry>
         <entry>TennisFormat</entry>
         <entry>com.betradra</entry>
         <entry>com.betradar</entry>
@@ -2336,6 +2333,9 @@
         <entry>ingame</entry>
         <entry>usapi</entry>
         <entry>guava</entry>
+        <entry>ingame-betting</entry>
+        <entry>finders</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
