@@ -1223,10 +1223,10 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535629766091">
-        <mark key="'" line="539" column="25" />
-        <mark key="[" line="546" column="21" />
-        <mark key="]" line="546" column="28" />
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1535631200356">
+        <mark key="'" line="546" column="28" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="262" column="20" />
         <mark key="." line="546" column="28" />
         <mark key="^" line="546" column="28" />
       </file>
@@ -1933,11 +1933,11 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1535469007779">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="66" column="19" />
-        <mark key="^" line="66" column="19" />
-        <mark key="." line="66" column="19" />
+      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1535631219285">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api/properties/PropertyAPI.java" timestamp="1529506706090">
         <mark key="[" line="19" column="22" />
@@ -2004,6 +2004,12 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/sportstatdata/SportStatMatch.java" timestamp="1535456789646">
+        <mark key="'" line="840" column="6" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Objects.java" timestamp="1535395497302">
         <mark key="'" line="51" column="27" />
@@ -2247,8 +2253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-settlement/pom.xml" />
-      <jump line="24" column="24" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-settlement/pom.xml" />
       <jump line="2001" column="6" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/ingame/darts/DartsIngame.java" />
       <jump line="3508" column="0" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/liveodds/server/OddsSubType.java" />
       <jump line="678" column="30" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" />
@@ -2274,7 +2278,6 @@
       <jump line="545" column="19" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="536" column="45" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="304" column="55" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="546" column="31" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="598" column="31" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="604" column="31" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="90" column="25" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
@@ -2347,49 +2350,52 @@
       <jump line="174" column="17" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
       <jump line="175" column="28" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
       <jump line="676" column="20" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="35" column="0" filename="/work/projects/gitlab/livescore/common/pom.xml" />
+      <jump line="0" column="0" filename="/work/projects/gitlab/livescore/common/pom.xml" />
+      <jump line="546" column="28" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>20180813</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>20180813</text>
+        <text>betradar.mapping</text>
       </register>
       <register name="/" type="4">
-        <text>execute</text>
+        <text>ingame</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2hlcmUgYy5Db21wb25lbnROYW1lIGxpa2UgIiVERkMlIjsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmluZ2FtZS1iZXR0aW5nLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwMTguNC4xMzwvdmVyc2lvbj4KICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5zcG9ydHJhZGFyPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5zcG9ydHJhZGFyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5pbmdhbWUtYmV0dGluZy1kYXRhbW9kZWw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwMTguNC4xMzwvdmVyc2lvbj4KICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5zcG9ydHJhZGFyPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgb3IgYy5Db21wb25lbnROYW1lIGxpa2UgIiVTY2hlZHVsZUNvbnRyb2xsZXIlIjsK</text>
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5wb2k8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnBvaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My45PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUT0RPIEZJWE1FIFhYWCBtYW51YWxseSB1cGxvYWRlZD8gLS0+Cg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb24uc3BsaXQ8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmZ1bmN0aW9uPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4wLjAuMTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPCEtLSBUT0RPIEZJWE1FIFhYWCBtYW51YWxseSB1cGxvYWRlZD8gLS0+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zZWxlbml1bWhxLnNlbGVuaXVtLnNlcnZlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2VsZW5pdW0tc2VydmVyLXN0YW5kYWxvbmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuMjUuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgb3IgYy5Db21wb25lbnROYW1lIGxpa2UgIiVTY2hlZHVsZUNvbnRyb2xsZXIlIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUT0RPIEZJWE1FIFhYWCBtYW51YWxseSB1cGxvYWRlZD8gLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5wb2k8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnBvaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My45PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBERUNMQVJBVElPTlMKICAgKiAKICAgKiAKICAgKiAKICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUT0RPIEZJWE1FIFhYWCBtYW51YWxseSB1cGxvYWRlZD8gLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKioKICAgKgogICAqIE1FVEhJT0RTCiAgICoKICAgKiA9ID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQogICAqCiAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPCEtLSBUT0RPIEZJWE1FIFhYWCBtYW51YWxseSB1cGxvYWRlZD8gLS0+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zZWxlbml1bWhxLnNlbGVuaXVtLnNlcnZlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2VsZW5pdW0tc2VydmVyLXN0YW5kYWxvbmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuMjUuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">am9pbiBsaXZlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUT0RPIEZJWE1FIFhYWCBtYW51YWxseSB1cGxvYWRlZD8gLS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqb2luIAo=</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBERUNMQVJBVElPTlMKICAgKiAKICAgKiAKICAgKiAKICAgKi8K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -2399,9 +2405,9 @@
       </register>
     </registers>
     <search>
-      <last-search>execute</last-search>
+      <last-search>ingame</last-search>
       <last-offset />
-      <last-pattern>execute</last-pattern>
+      <last-pattern>ingame</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -2415,7 +2421,6 @@
         <entry>nonnull</entry>
         <entry>matchDao</entry>
         <entry>MatchDao</entry>
-        <entry>ingame</entry>
         <entry>usapi</entry>
         <entry>guava</entry>
         <entry>ingame-betting</entry>
@@ -2429,6 +2434,7 @@
         <entry>selenium</entry>
         <entry>json</entry>
         <entry>execute</entry>
+        <entry>ingame</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
