@@ -260,6 +260,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/scheduleversion1/ScheduleDateLoggerAlerts.java" timestamp="1535620462642">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/SSOConfiguration.java" timestamp="1500578338040">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="35" column="2" />
@@ -325,6 +330,11 @@
         <mark key="]" line="50" column="28" />
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/sportstatdata/SportStatReceiver.java" timestamp="1535456824078">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="25" column="79" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/Login.java" timestamp="1500576035480">
         <mark key="[" line="20" column="42" />
@@ -820,6 +830,9 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/common/split/util-shitty/0.0.1/util-shitty-0.0.1.jar!/com/betradar/common/Util.class" timestamp="1535621523987">
+        <mark key="'" line="1219" column="13" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/SportradarData.java" timestamp="1516021287098">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1272,6 +1285,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/common/Util4.java" timestamp="1535621339120" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1504530116252">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="50" />
@@ -1373,6 +1387,11 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/supervision/alertsender/PopupSenderController.java" timestamp="1535245923511">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/system/monitor/CheckDateLoggerAlerts.java" timestamp="1535238878631">
         <mark key="[" line="202" column="16" />
@@ -2100,6 +2119,11 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" timestamp="1535456868195">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1505219261833">
         <mark key="[" line="42" column="1" />
         <mark key="]" line="33" column="27" />
@@ -2198,9 +2222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="28" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/ftp/FTPConnectionFactory.java" />
-      <jump line="594" column="26" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/CryptedSocketConnection.java" />
-      <jump line="55" column="4" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/SocketQueueReceiver.java" />
       <jump line="38" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" />
       <jump line="28" column="44" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/ftp/FTPConnectionFactory.java" />
       <jump line="27" column="54" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/ftp/FTPConnectionFactory.java" />
@@ -2298,49 +2319,52 @@
       <jump line="7" column="45" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_19.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_10.sql" />
       <jump line="5" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_19.sql" />
+      <jump line="252" column="32" filename="$MAVEN_REPOSITORY$/com/sportradar/common/split/util-shitty/0.0.1/util-shitty-0.0.1.jar!/com/betradar/common/Util.class" />
+      <jump line="1074" column="23" filename="$MAVEN_REPOSITORY$/com/sportradar/common/split/util-shitty/0.0.1/util-shitty-0.0.1.jar!/com/betradar/common/Util.class" />
+      <jump line="1219" column="13" filename="$MAVEN_REPOSITORY$/com/sportradar/common/split/util-shitty/0.0.1/util-shitty-0.0.1.jar!/com/betradar/common/Util.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">am9pbiBsaXZlcwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBERUNMQVJBVElPTlMKICAgKiAKICAgKiAKICAgKiAKICAgKi8K</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>15467504</text>
+        <text>DECLARATIONS</text>
       </register>
       <register name="/" type="4">
-        <text>execute</text>
+        <text>makeTeam</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUgd2hlcmUgZS5zY291dGV2ZW50aWQgPSAxNTgwOTk3MDA0Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBERUNMQVJBVElPTlMKICAgKiAKICAgKiAKICAgKiAKICAgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">am9pbiBsaXZlcwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKiBERUNMQVJBVElPTlMKICAgKiAKICAgKiAKICAgKiAKICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqb2luIAo=</text>
+        <text encoding="base64">ICAvKioKICAgKgogICAqIE1FVEhJT0RTCiAgICoKICAgKiA9ID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQogICAqCiAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbmQgY3BzLmlkID0gNTA7Cg==</text>
+        <text encoding="base64">am9pbiBsaXZlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gYmV0cmFkYXJfY292ZXJhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqb2luIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgYy4K</text>
+        <text encoding="base64">ICBhbmQgY3BzLmlkID0gNTA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gYmV0cmFkYXJfY292ZXJhZ2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hlcmUgbnQubmFtZSBsaWtlICIldGVhbSUiOwo=</text>
+        <text encoding="base64">d2hlcmUgYy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlZ2VyIHJvdW5kID0gbWF0Y2guZ2V0Um91bmRpbmZvKCkuZ2V0Um91bmQoKTsK</text>
+        <text encoding="base64">d2hlcmUgbnQubmFtZSBsaWtlICIldGVhbSUiOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -2350,9 +2374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>execute</last-search>
+      <last-search>makeTeam</last-search>
       <last-offset />
-      <last-pattern>execute</last-pattern>
+      <last-pattern>makeTeam</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -2360,7 +2384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>JSON</entry>
         <entry>nv-websocket</entry>
         <entry>process</entry>
         <entry>processMatchDocument</entry>
@@ -2380,6 +2403,7 @@
         <entry>finders</entry>
         <entry>json</entry>
         <entry>execute</entry>
+        <entry>makeTeam</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
