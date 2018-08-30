@@ -97,12 +97,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_19.sql" timestamp="1535541819880">
-        <mark key="'" line="7" column="45" />
-        <mark key="[" line="17" column="69" />
-        <mark key="]" line="7" column="45" />
-        <mark key="^" line="7" column="45" />
-        <mark key="." line="7" column="45" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_19.sql" timestamp="1535610023441">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="33" column="95" />
+        <mark key="." line="33" column="95" />
+        <mark key="^" line="33" column="95" />
       </file>
       <file name="/work/projects/social/frontend/src/routes/Dashboard/Dashboard.jsx" timestamp="1518031945448">
         <mark key="[" line="86" column="63" />
@@ -678,11 +678,11 @@
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_9.sql" timestamp="1535545546457">
-        <mark key="[" line="2" column="68" />
-        <mark key="]" line="2" column="66" />
-        <mark key="^" line="2" column="66" />
-        <mark key="." line="2" column="66" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_9.sql" timestamp="1535609201593">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/livescore/card/generator/infographic/SoccerInfographicProvider.java" timestamp="1534194074839">
         <mark key="[" line="75" column="27" />
@@ -801,13 +801,6 @@
         <mark key="]" line="141" column="14" />
         <mark key="^" line="141" column="14" />
         <mark key="." line="141" column="14" />
-      </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" timestamp="1535369545764">
-        <mark key="'" line="677" column="7" />
-        <mark key="[" line="728" column="13" />
-        <mark key="]" line="730" column="4" />
-        <mark key="^" line="730" column="4" />
-        <mark key="." line="730" column="4" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/filters/EventCapacityCheckFilter.java" timestamp="1517838650467">
         <mark key="[" line="20" column="61" />
@@ -2199,7 +2192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="57" filename="/work/projects/bac/java/sportradar-common/src/main/java/com/betradar/io/SportradarFileUtil.java" />
       <jump line="158" column="28" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/ftp/FTPConnectionFactory.java" />
       <jump line="594" column="26" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/CryptedSocketConnection.java" />
       <jump line="55" column="4" filename="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/SocketQueueReceiver.java" />
@@ -2299,49 +2291,50 @@
       <jump line="171" column="67" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreRequestHandler.java" />
       <jump line="7" column="45" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_19.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_10.sql" />
+      <jump line="5" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_19.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhbmQgY3BzLmlkID0gNTA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>15467504</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>CoveredTables</text>
+        <text>15467504</text>
       </register>
       <register name="/" type="4">
         <text>execute</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IHQuVE9VUk5BTUVOVElELAogICAgICAgdC5UT1VSTkFNRU5UTkFNRSwKICAgICAgIGNzLmlkLAogICAgICAgY3Muc2hvcnQsCiAgICAgICBjcGMuaWQsCiAgICAgICBjcGMubmFtZSwKICAgICAgIGNwYy5zaG9ydCwKICAgICAgIGNwcy5pZCwKICAgICAgIGNwcy5uYW1lLAogICAgICAgY3BzLnNob3J0CmZyb20gdG91cm5hbWVudHRhYmxlIHQKICAgICAgIGxlZnQgam9pbiBiZXRyYWRhcl9jb3ZlcmFnZSBjIG9uIGMudG91cm5hbWVudGlkID0gdC5UT1VSTkFNRU5USUQKICAgICAgIGxlZnQgam9pbiBiZXRyYWRhcl9jb3ZlcmFnZV9zdWIgY3Mgb24gY3MuaWQgPSBjLnN1Yl9pZAogICAgICAgbGVmdCBqb2luIGJldHJhZGFyX2NvdmVyYWdlX3Byb2R1Y3Rpb25fY2F0ZWdvcnkgY3BjIG9uIGNwYy5pZCA9IGMucHJvZHVjdGlvbl9jYXRlZ29yeV9pZAogICAgICAgbGVmdCBqb2luIGJldHJhZGFyX2NvdmVyYWdlX3Byb2R1Y3Rpb25fc3RlcCBjcHMgb24gY3BzLmlkID0gYy5wcm9kdWN0aW9uX3N0ZXBfaWQKd2hlcmUgdC50b3VybmFtZW50aWQgaW4gKDY5MjIzLCA2OTIyNSkKICBhbmQgY3BzLmlkID0gNTA7CgpzZWxlY3QgKgpmcm9tIGJldHJhZGFyX2NvdmVyYWdlIGMKd2hlcmUgYy50b3VybmFtZW50aWQgaW4gKDY5MjIzLCA2OTIyNSkKYW5kIGMucHJvZHVjdGlvbl9jYXRlZ29yeV9pZCBpbiAoMjQ2LCAyNDcpOwoKCnNlbGVjdCAqCmZyb20geG1sZXhwb3J0X3NlcnZpY2VfY292ZXJhZ2VfZGVwZW5kZW5jaWVzIHhzY2QKd2hlcmUgeHNjZC54bWxleHBvcnRfc2VydmljZWlkID0gMTsKCgpzZWxlY3QgKgpmcm9tIGJldHJhZGFyX2NvdmVyYWdlX3N1YiBzCndoZXJlIHMuaWQgaW4gKC03MDAsIDYyKTsKOwo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUgd2hlcmUgZS5zY291dGV2ZW50aWQgPSAxNTgwOTk3MDA0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbmQgY3BzLmlkID0gNTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqb2luIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gYmV0cmFkYXJfY292ZXJhZ2UK</text>
+        <text encoding="base64">ICBhbmQgY3BzLmlkID0gNTA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgYy4K</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gYmV0cmFkYXJfY292ZXJhZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">d2hlcmUgYy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgbnQubmFtZSBsaWtlICIldGVhbSUiOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgbnQubmFtZSBsaWtlICIldGVhbSUiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlZ2VyIHJvdW5kID0gbWF0Y2guZ2V0Um91bmRpbmZvKCkuZ2V0Um91bmQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjIwMTMxMDE4PC92ZXJzaW9uPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlZ2VyIHJvdW5kID0gbWF0Y2guZ2V0Um91bmRpbmZvKCkuZ2V0Um91bmQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVvZGRzLnNlcnZlci5GdWxsTWF0Y2hEZXRhaWxzLlRlbm5pc0Zvcm1hdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx2ZXJzaW9uPjIwMTMxMDE4PC92ZXJzaW9uPi0tPgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
