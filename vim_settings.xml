@@ -69,8 +69,10 @@
       <file name="/work/projects/gitlab/java/source/conf/component_996.classpath" timestamp="1535628103411">
         <mark key="'" line="0" column="1154" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/common/Util4.java" timestamp="1535633305145">
-        <mark key="'" line="568" column="8" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/common/Util4.java" timestamp="1535961485966">
+        <mark key="'" line="51" column="26" />
+        <mark key="[" line="1566" column="0" />
+        <mark key="]" line="1574" column="2" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/supervision/alertsender/PopupSenderController.java" timestamp="1535245923511">
         <mark key="[" line="19" column="0" />
@@ -121,7 +123,6 @@
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/remoteretriever2/RemoteInternetConnection.java" timestamp="1535960527198" />
     </filemarks>
     <jumps>
-      <jump line="56" column="49" filename="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/pom.xml" />
       <jump line="83" column="21" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
       <jump line="84" column="17" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
       <jump line="95" column="58" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
@@ -221,10 +222,11 @@
       <jump line="21" column="30" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/filesender/FileSenderController.java" />
       <jump line="67" column="32" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/filesender/FileSenderInfo.java" />
       <jump line="81" column="6" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/filesender/SenderArlandSOAP.java" />
+      <jump line="51" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/common/Util4.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5leHBvcnQuYnVzaW5lc3Nsb2dpYy50cmFuc2xhdGlvbi5UcmFuc2xhdGlvbk1hbmFnZXJWMjsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGRvdWJsZSB3b3Jkek1hdGNoKFN0cmluZyBzb3VyY2UsIFN0cmluZyB0ZXN0TmFtZSkgewogICAgaW50IGhpdHMgPSAwOwogICAgaW50IGkgPSAwOwogICAgZm9yIChpID0gMDsgaSA8IHNvdXJjZS5sZW5ndGgoKSAtIDI7IGkrKykgewogICAgICBTdHJpbmcgc3ViID0gc291cmNlLnN1YnN0cmluZyhpLCBpICsgMik7CiAgICAgIGlmICh0ZXN0TmFtZS50b1VwcGVyQ2FzZSgpLmluZGV4T2Yoc3ViKSA+IC0xKSBoaXRzKys7CiAgICB9CiAgICByZXR1cm4gaGl0cyAvIChpICogMS4wKTsKICB9Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -233,7 +235,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>ProcessMonitor</text>
+        <text>followPage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb24uc3BsaXQ8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmRhdGFiYXNlPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4wLjAuMTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
@@ -273,9 +275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ProcessMonitor</last-search>
+      <last-search>followPage</last-search>
       <last-offset />
-      <last-pattern>ProcessMonitor</last-pattern>
+      <last-pattern>followPage</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -283,7 +285,6 @@
     </search>
     <history>
       <history-search>
-        <entry>null</entry>
         <entry>nonnull</entry>
         <entry>matchDao</entry>
         <entry>MatchDao</entry>
@@ -303,6 +304,7 @@
         <entry>ingame</entry>
         <entry>Connections</entry>
         <entry>ProcessMonitor</entry>
+        <entry>followPage</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
