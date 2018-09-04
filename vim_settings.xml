@@ -1001,8 +1001,8 @@
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1536057907340">
-        <mark key="'" line="71" column="39" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1536059315055">
+        <mark key="'" line="810" column="55" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/messaging/mdb/LiveTableMDB.java" timestamp="1505808527174">
         <mark key="[" line="16" column="89" />
@@ -2237,7 +2237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="604" column="31" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="90" column="25" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
       <jump line="201" column="13" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
       <jump line="546" column="57" filename="/tmp/source/pom.xml" />
@@ -2337,6 +2336,7 @@
       <jump line="438" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="71" column="39" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="182" column="56" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/hosted/provider/update/GenericUpdateProvider.java" />
+      <jump line="810" column="55" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
