@@ -1494,11 +1494,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_23.sql" timestamp="1536175460536">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_23.sql" timestamp="1536176111001">
         <mark key="'" line="14" column="21" />
-        <mark key="[" line="93" column="9" />
-        <mark key="]" line="93" column="63" />
-        <mark key="." line="93" column="63" />
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="29" />
         <mark key="^" line="93" column="63" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1536154222699">
@@ -2499,14 +2499,14 @@
       <jump line="14" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_23.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb3Btbwo=</text>
+      <register name="&quot;" type="4">
+        <text>livescore%</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>4365</text>
+        <text>livescore%</text>
       </register>
       <register name="/" type="4">
         <text>redshift</text>
