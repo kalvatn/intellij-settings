@@ -45,11 +45,11 @@
         <mark key="." line="70" column="6" />
         <mark key="^" line="70" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console_3.sql" timestamp="1536140038660">
-        <mark key="[" line="13" column="64" />
-        <mark key="]" line="13" column="64" />
-        <mark key="." line="13" column="64" />
-        <mark key="^" line="13" column="64" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console_3.sql" timestamp="1536151455164">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="58" />
       </file>
       <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/src/main/java/com/sportradar/k8s/java/examples/api/Asdf.java" timestamp="1530617023957">
         <mark key="[" line="9" column="13" />
@@ -1488,7 +1488,7 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1536067871900">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1536152082298">
         <mark key="'" line="176" column="61" />
         <mark key="[" line="825" column="8" />
         <mark key="]" line="825" column="26" />
@@ -2172,9 +2172,9 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1536150095270">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1536152371074">
         <mark key="i" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -2483,14 +2483,14 @@
       <jump line="265" column="16" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="/" type="4">
         <text>redshift</text>
