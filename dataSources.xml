@@ -266,7 +266,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="lodev-main-odds-RO" read-only="true" uuid="a8af0c63-1d21-4c0e-82d1-1d27cad43978">
+    <data-source source="LOCAL" name="lodev-main-odds-RW" uuid="a8af0c63-1d21-4c0e-82d1-1d27cad43978">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
