@@ -1524,6 +1524,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1536135451793">
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="." line="217" column="0" />
+      </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/Main.java" timestamp="1517320672128">
         <mark key="[" line="53" column="60" />
         <mark key="]" line="53" column="58" />
@@ -2453,8 +2458,8 @@
       <jump line="89" column="62" filename="/CupTreeRosterServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>XmlExportService.CUPTREE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNyZC5zZXRTZXJ2aWNlTmFtZSgiY3VwYnJhY2tldCIpOwogICAgc3JkLnNldFNlcnZpY2VJZCg1MCk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -2469,31 +2474,31 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUgd2hlcmUgZS5tYXRjaGlkID0gMTQ5Mzg5NTEgYW5kIGUuZXZlbnR0eXBlID0gMTA1MSA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNyZC5zZXRTZXJ2aWNlTmFtZSgiY3VwYnJhY2tldCIpOwogICAgc3JkLnNldFNlcnZpY2VJZCg1MCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiB0aW1lTmVlZHNVcGRhdGUoRXZlbnQgbmV3RXZlbnQpIHsKICAgIHJldHVybiBmYWxzZTsKICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiB0aW1lTmVlZHNVcGRhdGUoRXZlbnQgbmV3RXZlbnQpIHsKICAgIHJldHVybiBmYWxzZTsKICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiB0aW1lTmVlZHNVcGRhdGUoRXZlbnQgbmV3RXZlbnQpIHsKICAgIHJldHVybiBmYWxzZTsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiB0aW1lTmVlZHNVcGRhdGUoRXZlbnQgbmV3RXZlbnQpIHsKICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiB0aW1lTmVlZHNVcGRhdGUoRXZlbnQgbmV3RXZlbnQpIHsKICAgIHJldHVybiBmYWxzZTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5kIGUuCg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiB0aW1lTmVlZHNVcGRhdGUoRXZlbnQgbmV3RXZlbnQpIHsKICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihHZW5lcmFsUHJvcGVydGllcy5pbnN0YW5jZSgpKTsK</text>
+        <text encoding="base64">YW5kIGUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbmQgKGUuZXZlbnRkYXRlID49IE5PVygpIC0gaW50ZXJ2YWwgMSBob3VyIG9yIGUudXBkYXRlZGF0ZSA+PSBOT1coKSAtIGludGVydmFsIDEgaG91cikK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihHZW5lcmFsUHJvcGVydGllcy5pbnN0YW5jZSgpKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
