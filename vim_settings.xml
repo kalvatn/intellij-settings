@@ -615,6 +615,9 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
+      <file name="/CupTreeRosterServiceBean.java" timestamp="1536134228200">
+        <mark key="'" line="89" column="62" />
+      </file>
       <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/database/DatabaseDefinition.java" timestamp="1534357042280">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1347,11 +1350,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/common/Util4.java" timestamp="1535964798931">
-        <mark key="'" line="4267" column="4" />
-        <mark key="[" line="1566" column="0" />
-        <mark key="]" line="1574" column="2" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1504530116252">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="50" />
@@ -1447,11 +1445,6 @@
         <mark key="]" line="86" column="40" />
         <mark key="^" line="86" column="40" />
         <mark key="." line="86" column="40" />
-      </file>
-      <file name="/work/projects/gitlab/java/sportradar-common/pom.xml" timestamp="1536059888334">
-        <mark key="'" line="57" column="15" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="262" column="14" />
       </file>
       <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/src/main/java/com/sportradar/k8s/java/examples/api/music/repo/AlbumRepository.java" timestamp="1530617429927">
         <mark key="[" line="2" column="33" />
@@ -2179,8 +2172,12 @@
         <mark key="." line="26" column="91" />
         <mark key="^" line="26" column="91" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" timestamp="1535965165840">
-        <mark key="'" line="227" column="2" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/cupdetails/CupTreeRosterServiceBean.java" timestamp="1536134272010">
+        <mark key="'" line="229" column="2" />
+        <mark key="[" line="100" column="45" />
+        <mark key="]" line="101" column="38" />
+        <mark key="^" line="101" column="38" />
+        <mark key="." line="101" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e6af12a-6c18-4583-8b51-245eab98df09/console_1.sql" timestamp="1531826411284">
         <mark key="[" line="3" column="58" />
@@ -2354,7 +2351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="630" column="8" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
       <jump line="638" column="15" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
       <jump line="677" column="7" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/external/dfc/DFCDataHandler.java" />
       <jump line="587" column="6" filename="/work/projects/gitlab/java/source/pom.xml" />
@@ -2454,19 +2450,20 @@
       <jump line="26" column="54" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/rule/Rule.java" />
       <jump line="20" column="7" filename="/work/projects/gitlab/livescore/common/conf/general.properties.@env@" />
       <jump line="44" column="65" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="89" column="62" filename="/CupTreeRosterServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>XmlExportService.CUPTREE</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>999999</text>
+        <text>XmlExportService.CUPTREE</text>
       </register>
       <register name="/" type="4">
-        <text>needsUpdate</text>
+        <text>invoke</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUgd2hlcmUgZS5tYXRjaGlkID0gMTQ5Mzg5NTEgYW5kIGUuZXZlbnR0eXBlID0gMTA1MSA7Cg==</text>
@@ -2506,9 +2503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>needsUpdate</last-search>
+      <last-search>invoke</last-search>
       <last-offset />
-      <last-pattern>needsUpdate</last-pattern>
+      <last-pattern>invoke</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -2523,7 +2520,6 @@
         <entry>followPage</entry>
         <entry>bobble</entry>
         <entry>getFullUpdate</entry>
-        <entry>invoke</entry>
         <entry>hasprefix</entry>
         <entry>getUnique</entry>
         <entry>unique</entry>
@@ -2536,6 +2532,7 @@
         <entry>300</entry>
         <entry>CoreSelect</entry>
         <entry>needsUpdate</entry>
+        <entry>invoke</entry>
       </history-search>
       <history-cmd>
         <entry>set noignorecase</entry>
