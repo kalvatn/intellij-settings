@@ -45,11 +45,17 @@
         <mark key="." line="70" column="6" />
         <mark key="^" line="70" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console_3.sql" timestamp="1536175712519">
-        <mark key="[" line="8" column="51" />
-        <mark key="]" line="8" column="72" />
-        <mark key="." line="8" column="72" />
-        <mark key="^" line="8" column="72" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console_3.sql" timestamp="1536179986983">
+        <mark key="[" line="122" column="11" />
+        <mark key="]" line="122" column="17" />
+        <mark key="." line="122" column="17" />
+        <mark key="^" line="122" column="17" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/translation/TranslationManager.java" timestamp="1536181343038">
+        <mark key="[" line="448" column="25" />
+        <mark key="]" line="448" column="25" />
+        <mark key="." line="448" column="25" />
+        <mark key="^" line="448" column="25" />
       </file>
       <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/src/main/java/com/sportradar/k8s/java/examples/api/Asdf.java" timestamp="1530617023957">
         <mark key="[" line="9" column="13" />
@@ -930,12 +936,12 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1536144417952">
-        <mark key="'" line="147" column="22" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="^" line="147" column="94" />
-        <mark key="." line="142" column="0" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1536181630713">
+        <mark key="'" line="182" column="36" />
+        <mark key="[" line="147" column="44" />
+        <mark key="]" line="147" column="86" />
+        <mark key="^" line="147" column="86" />
+        <mark key="." line="147" column="86" />
       </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/common/MatchOddsGeneral.java" timestamp="1534200909098">
         <mark key="[" line="38" column="20" />
@@ -2397,8 +2403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="54" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="840" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/sportstatdata/SportStatMatch.java" />
       <jump line="205" column="27" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="242" column="21" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="307" column="21" filename="/work/projects/gitlab/java/source/pom.xml" />
@@ -2497,19 +2501,21 @@
       <jump line="265" column="16" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
       <jump line="77" column="52" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" />
       <jump line="14" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_23.sql" />
+      <jump line="66" column="47" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="182" column="36" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>livescore%</text>
+        <text encoding="base64">bmV3IEhhc2hNYXA8PigpOw==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>livescore%</text>
+        <text encoding="base64">bmV3IEhhc2hNYXA8PigpOw==</text>
       </register>
       <register name="/" type="4">
-        <text>redshift</text>
+        <text>emptyMap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXBkYXRlIHhtbGV4cG9ydF9yb2xlX2pvYiByaiBzZXQgcmouYWN0aXZlID0gMCB3aGVyZSByai54bWxleHBvcnRfcm9sZV9pZCA9IDQgYW5kIHJqLnhtbGV4cG9ydF9yb2xlX2pvYl90eXBlX2lkID0gMTA7Cg==</text>
@@ -2545,13 +2551,13 @@
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>321</text>
+        <text>363</text>
       </register>
     </registers>
     <search>
-      <last-search>redshift</last-search>
+      <last-search>emptyMap</last-search>
       <last-offset />
-      <last-pattern>redshift</last-pattern>
+      <last-pattern>emptyMap</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -2559,9 +2565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ProcessMonitor</entry>
-        <entry>bobbleSort</entry>
-        <entry>followPage</entry>
         <entry>bobble</entry>
         <entry>getFullUpdate</entry>
         <entry>hasprefix</entry>
@@ -2576,13 +2579,14 @@
         <entry>300</entry>
         <entry>CoreSelect</entry>
         <entry>needsUpdate</entry>
-        <entry>invoke</entry>
         <entry>filesender</entry>
         <entry>redshift</entry>
+        <entry>filter</entry>
+        <entry>invoke</entry>
+        <entry>Collections.emptyMap</entry>
+        <entry>emptyMap</entry>
       </history-search>
       <history-cmd>
-        <entry>306</entry>
-        <entry>384</entry>
         <entry>%s/static //gc</entry>
         <entry>%s/JSONArray/JsonArray/gc</entry>
         <entry>%s/JSONObject/JsonObject/gc</entry>
@@ -2593,14 +2597,16 @@
         <entry>613</entry>
         <entry>200</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
-        <entry>363</entry>
         <entry>45</entry>
-        <entry>w</entry>
         <entry>143</entry>
         <entry>set ignorecase</entry>
         <entry>297</entry>
         <entry>207</entry>
         <entry>321</entry>
+        <entry>w</entry>
+        <entry>169</entry>
+        <entry>198</entry>
+        <entry>363</entry>
       </history-cmd>
       <history-expr />
       <history-input />
