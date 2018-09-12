@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1536581516565">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console_3.sql" timestamp="1536664430855">
         <mark key="'" line="67" column="11" />
         <mark key="[" line="17" column="24" />
@@ -19,9 +16,6 @@
       <file name="/work/projects/gitlab/java/source/conf/component_443.classpath" timestamp="1535629589779">
         <mark key="'" line="0" column="1583" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4a777c8-52ce-47cf-b671-b77fcbac8231/console_4.sql" timestamp="1535541870450">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender/FileRecipientFactory.java" timestamp="1536582917784">
         <mark key="'" line="37" column="13" />
       </file>
@@ -32,6 +26,7 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
+      <file name="/work/projects/gitlab/java-common/filesender/common/src/main/java/com/oddsarbitrage/filesender/ShutDownThread.java" timestamp="1536741526163" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/scheduleversion1/ScheduleDateLoggerAlerts.java" timestamp="1535620462642">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -44,9 +39,6 @@
         <mark key="." line="161" column="8" />
         <mark key="^" line="160" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console_7.sql" timestamp="1536581252445">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/sportstatdata/SportStatReceiver.java" timestamp="1535456824078">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -55,15 +47,12 @@
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/filesender/FileSenderInfo.java" timestamp="1536736986567">
         <mark key="'" line="183" column="69" />
       </file>
-      <file name="/work/projects/gitlab/java-common/filesender/component/src/main/java/com/oddsarbitrage/filesender2/transport/decorator/CompressFileTransport.java" timestamp="1536736715171" />
+      <file name="/work/projects/gitlab/java-common/filesender/component/src/main/java/com/oddsarbitrage/filesender2/transport/decorator/CompressFileTransport.java" timestamp="1536740113216" />
       <file name="/work/projects/gitlab/java-common/filesender/component/src/main/java/com/oddsarbitrage/filesender2/FileSenderInfoHolder.java" timestamp="1536736560569" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/EmptyNetEvent.java" timestamp="1536071717367">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1536582863701">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/db/HistorySource.java" timestamp="1536655099653">
         <mark key="[" line="27" column="10" />
@@ -147,6 +136,7 @@
         <mark key="'" line="810" column="55" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/betradar/util/FTPUtil.java" timestamp="1536668863400" />
+      <file name="/work/projects/gitlab/java-common/filesender/transport/src/main/java/com/oddsarbitrage/filesender2/transport/provider/EhfFileTransportSoap.java" timestamp="1536741886630" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/filesender/FileSenderController.java" timestamp="1535633460622">
         <mark key="'" line="21" column="30" />
       </file>
@@ -168,6 +158,11 @@
       </file>
       <file name="/work/projects/gitlab/java/sportradar-common/pom.xml" timestamp="1536654936398">
         <mark key="'" line="389" column="31" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/filesender/transport/pom.xml" timestamp="1536741563459">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/supervision/alertsender/PopupSenderController.java" timestamp="1535245923511">
         <mark key="[" line="19" column="0" />
@@ -213,7 +208,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1536588158274">
+      <file name="/fragment.java" timestamp="1536741441442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -225,10 +220,10 @@
         <mark key="^" line="87" column="26" />
         <mark key="." line="87" column="26" />
       </file>
-      <file name="/work/projects/gitlab/java-common/filesender/common/pom.xml" timestamp="1536657483817">
+      <file name="/work/projects/gitlab/java-common/filesender/common/pom.xml" timestamp="1536741540922">
         <mark key="'" line="31" column="20" />
-        <mark key="[" line="163" column="23" />
-        <mark key="]" line="163" column="22" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="237" column="20" />
         <mark key="." line="163" column="22" />
         <mark key="^" line="163" column="22" />
       </file>
@@ -272,9 +267,6 @@
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/SMTMapper.java" timestamp="1535629398672">
         <mark key="'" line="148" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_7.sql" timestamp="1535541858073">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/funfacts/KOMatchEvents.java" timestamp="1535632845941">
         <mark key="'" line="37" column="27" />
@@ -388,8 +380,8 @@
       <jump line="183" column="69" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/filesender/FileSenderInfo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>49</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -401,34 +393,34 @@
         <text>general</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuMC40OTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5heGlzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5heGlzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5qYXZheC54bWw8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmpheHJwYy1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbmQgbS5ob3N0bmFtZSBsaWtlICIleGNvbXAlIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbmQgbS5ob3N0bmFtZSBsaWtlICIleGNvbXAlIgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gPGRlcGVuZGVuY3k+IC0tPgogICAgPCEtLSAgIDxncm91cElkPjwvZ3JvdXBJZD4gLS0+CiAgICA8IS0tICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPiAtLT4KICAgIDwhLS0gICA8dmVyc2lvbj48L3ZlcnNpb24+IC0tPgogICAgPCEtLSA8L2RlcGVuZGVuY3k+IC0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGZtLgo=</text>
+        <text encoding="base64">ICBhbmQgbS5ob3N0bmFtZSBsaWtlICIleGNvbXAlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIG0uc3RhdGUsCg==</text>
+        <text encoding="base64">ICBhbmQgbS5ob3N0bmFtZSBsaWtlICIleGNvbXAlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RlJPTSBzZXJ2ZXJtb25pdG9yX21hY2hpbmUgbQo=</text>
+        <text encoding="base64">ICAgICAgIGZtLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIG0uc3RhdGUK</text>
+        <text encoding="base64">ICAgICAgIG0uc3RhdGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIG0uc3RhdHVzLAo=</text>
+        <text encoding="base64">RlJPTSBzZXJ2ZXJtb25pdG9yX21hY2hpbmUgbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIG0uYWNvbW1lbnQgYXMgY29tbWVudCwK</text>
+        <text encoding="base64">ICAgICAgIG0uc3RhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIG0uZXh0cmFJUHMgYXMgaXBfZXh0cmEsCg==</text>
+        <text encoding="base64">ICAgICAgIG0uc3RhdHVzLAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
