@@ -210,7 +210,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="dev-virtual-rw" uuid="8fa20082-3eed-4fa7-8994-b39d558745b7">
+    <data-source source="LOCAL" name="dev-virtual-RW" uuid="8fa20082-3eed-4fa7-8994-b39d558745b7">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -224,25 +224,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="staging-virtual-r" uuid="8e3897d1-7175-461b-96b8-11aecb5e71b6">
+    <data-source source="LOCAL" name="dev-staging-virtual-RW" uuid="8e3897d1-7175-461b-96b8-11aecb5e71b6">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.200.6.80:3306/main-odds</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="@localhost" uuid="b0bdf99c-aa72-4c30-bfcb-ae6b4d3945f6">
-      <driver-ref>mysql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
@@ -280,7 +266,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="dev-stats-history-db" uuid="86b7adde-60fc-49ec-be7b-5de0a17d8716">
+    <data-source source="LOCAL" name="dev-stats-history-RW" uuid="86b7adde-60fc-49ec-be7b-5de0a17d8716">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
