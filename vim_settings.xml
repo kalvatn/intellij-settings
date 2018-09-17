@@ -1419,6 +1419,12 @@
         <mark key="^" line="15" column="43" />
         <mark key="." line="15" column="43" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreRequestHandler.java" timestamp="1537185431441">
+        <mark key="[" line="215" column="59" />
+        <mark key="]" line="215" column="58" />
+        <mark key="." line="215" column="58" />
+        <mark key="^" line="215" column="58" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StageEAO.java" timestamp="1523280052620">
         <mark key="[" line="75" column="5" />
         <mark key="]" line="75" column="8" />
@@ -2391,6 +2397,12 @@
         <mark key="." line="26" column="34" />
         <mark key="^" line="26" column="34" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/AbstractScoutLivescore.java" timestamp="1537185278008">
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="^" line="215" column="76" />
+        <mark key="." line="230" column="0" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/PreStageManager.java" timestamp="1506684276194">
         <mark key="[" line="138" column="4" />
         <mark key="]" line="138" column="9" />
@@ -2527,10 +2539,11 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" timestamp="1537183729028">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" timestamp="1537185295568">
+        <mark key="[" line="635" column="0" />
+        <mark key="]" line="635" column="0" />
+        <mark key="." line="635" column="0" />
+        <mark key="^" line="630" column="75" />
       </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/common/OddsWrapperUtil.java" timestamp="1534199442211">
         <mark key="[" line="28" column="0" />
@@ -2720,13 +2733,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>common</text>
+        <text>connection</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>common</text>
+        <text>connection</text>
       </register>
       <register name="/" type="4">
         <text>ogm-core</text>
@@ -2735,31 +2748,31 @@
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb24uc3BsaXQ8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmRhdGFiYXNlPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4wLjAuMTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyB0byB1c2UgdHJhbnNhY3Rpb25zLCBvbmUgbXVzdCBvd24gdGhlIGNvbm5lY3Rpb24gZXhjbHVzaXZlbHkuLi4KY29ubmVjdGlvbnBvb2xfZ2xvYmFsX2VuYWJsZWQgPSB0cnVlCmNvbm5lY3Rpb25wb29sX1N5c3RlbURCX2VuYWJsZWQgPSB0cnVlCgpEYXRhYmFzZV91c2VTZXJ2ZXJQcmVwU3RtdHMgPSBmYWxzZQpEYXRhYmFzZV9yZXdyaXRlQmF0Y2hlZFN0YXRlbWVudHMgPSB0cnVlMTAK</text>
+        <text encoding="base64">CQkJd3JpdGVDb25uZWN0aW9uID0gU3lzdGVtREIuZ2V0Q29ubmVjdGlvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXdyaXRlQ29ubmVjdGlvbiA9IFN5c3RlbURCLmdldENvbm5lY3Rpb24oKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CS8qKgoJICogQXNzb2NpYXRlZCBkYXRhYmFzZSBjb25uZWN0aW9uIHdpdGhpbiBjb21wb25lbnQuCgkgKi8KCXByb3RlY3RlZCBDb25uZWN0aW9uIHdyaXRlQ29ubmVjdGlvbjsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cglwcm90ZWN0ZWQgdm9pZCB1cGRhdGVMaXZlc2NvcmVNYXRjaChTY291dE1hdGNoRGF0YSBzbWQpIHsKCQl1cGRhdGVMaXZlc2NvcmVNYXRjaChzbWQsIHdyaXRlQ29ubmVjdGlvbik7Cgl9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB3cml0ZUNvbm5lY3Rpb247Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcm90ZWN0ZWQgQ29ubmVjdGlvbiBnZXREYXRhYmFzZUNvbm5lY3Rpb24oKSB7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCB2b2lkIHVwZGF0ZUxpdmVzY29yZU1hdGNoKFNjb3V0TWF0Y2hEYXRhIHNtZCkgewoJCXVwZGF0ZUxpdmVzY29yZU1hdGNoKHNtZCwgd3JpdGVDb25uZWN0aW9uKTsKCX0K</text>
+        <text encoding="base64">ICAgICAgd3JpdGVDb25uZWN0aW9uID0gU3lzdGVtREIuZ2V0Q29ubmVjdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cglwcm90ZWN0ZWQgdm9pZCB1cGRhdGVMaXZlc2NvcmVNYXRjaChTY291dE1hdGNoRGF0YSBzbWQpIHsKCQl1cGRhdGVMaXZlc2NvcmVNYXRjaChzbWQpOwoJfQo=</text>
+        <text encoding="base64">ICAgICAgd3JpdGVDb25uZWN0aW9uID0gU3lzdGVtREIuZ2V0Q29ubmVjdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgkvKioKCSAqIEFzc29jaWF0ZWQgZGF0YWJhc2UgY29ubmVjdGlvbiB3aXRoaW4gY29tcG9uZW50LgoJICovCglwcm90ZWN0ZWQgQ29ubmVjdGlvbiB3cml0ZUNvbm5lY3Rpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJd3JpdGVDb25uZWN0aW9uID0gU3lzdGVtREIuZ2V0Q29ubmVjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAvKiogQXNzb2NpYXRlZCBkYXRhYmFzZSBjb25uZWN0aW9uIHdpdGhpbiBjb21wb25lbnQuICovCiAgcHJpdmF0ZSBDb25uZWN0aW9uIHdyaXRlQ29ubmVjdGlvbiA9IFN5c3RlbURCLmdldENvbm5lY3Rpb24oKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
