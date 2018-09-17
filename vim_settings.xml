@@ -127,8 +127,11 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" timestamp="1537174985885">
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" timestamp="1537175012263">
         <mark key="'" line="329" column="68" />
+        <mark key="[" line="347" column="207" />
+        <mark key="]" line="347" column="207" />
+        <mark key="." line="347" column="207" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ServiceBase.java" timestamp="1528964924839">
         <mark key="[" line="167" column="34" />
@@ -1183,11 +1186,11 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender/FileRecipient.java" timestamp="1536240719825">
         <mark key="'" line="65" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_20.sql" timestamp="1535546695580">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="^" line="16" column="14" />
-        <mark key="." line="16" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_20.sql" timestamp="1537175778970">
+        <mark key="[" line="19" column="76" />
+        <mark key="]" line="19" column="74" />
+        <mark key="^" line="19" column="74" />
+        <mark key="." line="19" column="74" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/servlet/sso/SingleLogoutService.java" timestamp="1500576207279">
         <mark key="[" line="19" column="12" />
@@ -2732,14 +2735,14 @@
       <jump line="329" column="68" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5uZXQuaWhhcmRlcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+YmFzZTY0PC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4yLjMuOTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="&quot;" type="4">
+        <text>, teams</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>database</text>
+        <text>, teams</text>
       </register>
       <register name="/" type="4">
         <text>filtering</text>
