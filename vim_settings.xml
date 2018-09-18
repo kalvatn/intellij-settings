@@ -2169,9 +2169,6 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1537275773614">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/odds/pom.xml" timestamp="1534513495916">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="28" column="49" />
@@ -2492,11 +2489,11 @@
         <mark key="." line="635" column="0" />
         <mark key="^" line="630" column="75" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_11.sql" timestamp="1537270941176">
-        <mark key="[" line="7" column="115" />
-        <mark key="]" line="7" column="114" />
-        <mark key="^" line="7" column="114" />
-        <mark key="." line="7" column="114" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_11.sql" timestamp="1537304630699">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/common/OddsWrapperUtil.java" timestamp="1534199442211">
         <mark key="[" line="28" column="0" />
@@ -2680,14 +2677,14 @@
       <jump line="99" column="20" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/LiveScoreSourceLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UpdateDelegator</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z3JvdXAgYnkgY3Muc2VydmljZUlkCg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>UpdateDelegator</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -2696,31 +2693,31 @@
         <text encoding="base64">ICAgICAgICBpbnQgbWludXRlT2ZIb3VyID0gVGltZVV0aWwuZ2V0TWludXRlT2ZIb3VyKEluc3RhbnQubm93KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpCg==</text>
+        <text encoding="base64">Z3JvdXAgYnkgY3Muc2VydmljZUlkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2XDuGVjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Igo=</text>
+        <text encoding="base64">c2XDuGVjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Igo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gbGl2ZXNjb3JlX25ld2V2ZW50X2xzY3QgKHNvdXJjZWlkLCBtYXRjaGlkLCBldmVudHR5cGUsIHRpbWUsIG1hdGNodGltZSwgcGFyYW0xLCBwYXJhbTIsIHBhcmFtMywgcGFyYW00LCBwYXJhbTUsIHBsYXllcmlkcywgdGV4dCwgZXZlbnRkYXRlLCBldmVudF90aW1lc3RhbXAsIHNvdXJjZW1hdGNoZGF0ZSwgaW5qdXJ5dGltZSwgaW5qdXJ5bWF0Y2h0aW1lLCBzY291dGV2ZW50aWQsIGZsYWd0eXBlKSBWQUxVRVMgKDk3MywgMTQ5ODU4NTksIDEwODAsIC0xLCBudWxsLCAnMTgwMCcsICcwJywgJzM1OTknLCAnMTUzNzE5ODg2MCcsICcnLCBudWxsLCAnJywgTk9XKCksIDE1MzcyMDM5NTY0MDQsICcyMDE4LTA5LTE3IDE1OjQxOjAwLjg4MicsIC0xLCBudWxsLCAtMSwgMCkKOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmQgbGUuaXAgPSAxODA4ODA0NjgK</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gbGl2ZXNjb3JlX25ld2V2ZW50X2xzY3QgKHNvdXJjZWlkLCBtYXRjaGlkLCBldmVudHR5cGUsIHRpbWUsIG1hdGNodGltZSwgcGFyYW0xLCBwYXJhbTIsIHBhcmFtMywgcGFyYW00LCBwYXJhbTUsIHBsYXllcmlkcywgdGV4dCwgZXZlbnRkYXRlLCBldmVudF90aW1lc3RhbXAsIHNvdXJjZW1hdGNoZGF0ZSwgaW5qdXJ5dGltZSwgaW5qdXJ5bWF0Y2h0aW1lLCBzY291dGV2ZW50aWQsIGZsYWd0eXBlKSBWQUxVRVMgKDk3MywgMTQ5ODU4NTksIDEwODAsIC0xLCBudWxsLCAnMTgwMCcsICcwJywgJzM1OTknLCAnMTUzNzE5ODg2MCcsICcnLCBudWxsLCAnJywgTk9XKCksIDE1MzcyMDM5NTY0MDQsICcyMDE4LTA5LTE3IDE1OjQxOjAwLjg4MicsIC0xLCBudWxsLCAtMSwgMCkKOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICBhbmQgbGUuaXAgPSAxODA4ODA0NjgK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
