@@ -982,12 +982,12 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1537368131896">
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1537369642031">
         <mark key="'" line="183" column="36" />
-        <mark key="[" line="610" column="189" />
-        <mark key="]" line="610" column="189" />
-        <mark key="^" line="610" column="189" />
-        <mark key="." line="610" column="189" />
+        <mark key="[" line="611" column="70" />
+        <mark key="]" line="611" column="94" />
+        <mark key="^" line="611" column="94" />
+        <mark key="." line="611" column="94" />
       </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/common/MatchOddsGeneral.java" timestamp="1534200909098">
         <mark key="[" line="38" column="20" />
@@ -1263,8 +1263,12 @@
         <mark key="^" line="48" column="32" />
         <mark key="." line="48" column="32" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" timestamp="1537312289896">
-        <mark key="'" line="645" column="68" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" timestamp="1537369680256">
+        <mark key="'" line="647" column="68" />
+        <mark key="[" line="602" column="61" />
+        <mark key="]" line="602" column="163" />
+        <mark key="^" line="602" column="163" />
+        <mark key="." line="602" column="163" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreBadminton.java" timestamp="1537187374932">
         <mark key="[" line="16" column="25" />
@@ -2603,14 +2607,14 @@
       <jump line="185" column="26" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfbWVyZ2VfbWF0Y2ggbSB3aGVyZSBtLm1hdGNoaWQgPSAxNDk4NTg1OSA7CnNlbGVjdCAqIGZyb20gbGl2ZXNjb3JlX21lcmdlX2V2ZW50IGUgd2hlcmUgZS5tYXRjaGlkID0gMTQ5ODU4NTkgOwo=</text>
+      <register name="&quot;" type="4">
+        <text>srd</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>srd</text>
       </register>
       <register name="/" type="4">
         <text>usapi</text>
