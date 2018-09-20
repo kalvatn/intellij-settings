@@ -548,7 +548,6 @@
         <mark key="^" line="1" column="63" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/conf/keys/jmx.password" timestamp="1537355802030" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/ParamsTest.java" timestamp="1511359944034">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="6" />
@@ -850,6 +849,9 @@
         <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1537437696046">
+        <mark key="'" line="301" column="51" />
       </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/zabbix/pom.xml" timestamp="1534449374466">
         <mark key="[" line="27" column="18" />
@@ -1991,6 +1993,9 @@
         <mark key="^" line="118" column="28" />
         <mark key="." line="118" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" timestamp="1537437196501">
+        <mark key="'" line="624" column="65" />
+      </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/dao/SportDAO.java" timestamp="1517238201761">
         <mark key="[" line="9" column="62" />
         <mark key="]" line="9" column="76" />
@@ -2507,21 +2512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="544" column="84" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="548" column="68" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="558" column="60" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="75" column="108" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="132" column="108" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="43" column="91" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="246" column="70" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="89" column="104" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
-      <jump line="120" column="73" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="19" column="17" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="19" column="59" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_12.sql" />
-      <jump line="350" column="61" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="367" column="27" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="156" column="6" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="224" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="541" column="62" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="549" column="33" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="579" column="33" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
@@ -2607,6 +2597,21 @@
       <jump line="0" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="185" column="26" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="28" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_11.sql" />
+      <jump line="355" column="65" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="344" column="55" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
+      <jump line="133" column="59" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
+      <jump line="159" column="34" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
+      <jump line="244" column="34" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
+      <jump line="258" column="34" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
+      <jump line="611" column="59" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
+      <jump line="624" column="65" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
+      <jump line="250" column="30" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="312" column="31" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="172" column="8" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="223" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="249" column="27" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="268" column="27" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="301" column="51" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2619,7 +2624,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>System.out</text>
+        <text>GeneralScoutDataConnector</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzeXN0ZW1zZXR0aW5ncyBzIHdoZXJlIHMuREVTQ1JJUFRJT04gbGlrZSAiJXhtbGV4cG9ydCUiCjsK</text>
@@ -2659,9 +2664,9 @@
       </register>
     </registers>
     <search>
-      <last-search>System.out</last-search>
+      <last-search>GeneralScoutDataConnector</last-search>
       <last-offset />
-      <last-pattern>System.out</last-pattern>
+      <last-pattern>GeneralScoutDataConnector</last-pattern>
       <last-replace />
       <last-substitute>\.java</last-substitute>
       <last-dir>1</last-dir>
@@ -2669,8 +2674,6 @@
     </search>
     <history>
       <history-search>
-        <entry>doNotImport</entry>
-        <entry>recover(</entry>
         <entry>main</entry>
         <entry>considered</entry>
         <entry>100</entry>
@@ -2689,6 +2692,8 @@
         <entry>finders</entry>
         <entry>usapi</entry>
         <entry>System.out</entry>
+        <entry>cache</entry>
+        <entry>GeneralScoutDataConnector</entry>
       </history-search>
       <history-cmd>
         <entry>426</entry>
