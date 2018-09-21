@@ -1000,6 +1000,12 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1537521926762">
+        <mark key="[" line="368" column="69" />
+        <mark key="]" line="368" column="73" />
+        <mark key="." line="368" column="73" />
+        <mark key="^" line="368" column="73" />
+      </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/common/MatchOddsGeneral.java" timestamp="1534200909098">
         <mark key="[" line="38" column="20" />
         <mark key="]" line="38" column="19" />
@@ -1277,8 +1283,8 @@
         <mark key="^" line="48" column="32" />
         <mark key="." line="48" column="32" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" timestamp="1537448116171">
-        <mark key="'" line="74" column="26" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" timestamp="1537522008195">
+        <mark key="'" line="333" column="33" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="78" column="78" />
         <mark key="^" line="84" column="16" />
@@ -2518,9 +2524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/AbstractScoutLivescore.java" />
-      <jump line="1101" column="38" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="1113" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="1141" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="1273" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="210" column="25" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
@@ -2618,56 +2621,52 @@
       <jump line="134" column="102" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="74" column="26" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
       <jump line="94" column="30" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/TennisHeadToHeadServiceBean.java" />
+      <jump line="100" column="8" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
+      <jump line="331" column="53" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
+      <jump line="333" column="33" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>48238</text>
+        <text>200</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>48238</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
-        <text>FetchMode</text>
+        <text>numberofmatches</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIC5hZGQoUGFyYW1UeXBlLlRFQU1fSE9NRSwgU3RyaW5nLnZhbHVlT2YodW5pcXVlVGVhbUEuZ2V0SWQoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcga2V5ID0gQ2FjaGVLZXkua2V5KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucGFydChLZXlzLkxBU1RNQVRDSEVTKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5wYXJ0KEtleXMuVU5JUVVFVEVBTVMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnBhcnQoS2V5cy5VTklRVUVURUFNSUQpLnBhcnQodW5pcXVlVGVhbUlkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jcmVhdGUoKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VybmFtZW50LnNldEhlYWRUb0hlYWQoZ2V0SGVhZFRvSGVhZChjbGllbnRJZCwgdG91cm5hbWVudFRhYmxlLCBob21lVGVhbVRhYmxlLCBhd2F5VGVhbVRhYmxlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CgogICAgICAgIHJldHVybiBDb2xsZWN0aW9uVXRpbC5zbGljZUxpc3QobWF0Y2hlcywgbGltaXQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgdG91cm5hbWVudElkID0gSW50ZWdlci5wYXJzZUludChwYXJhbXMuZ2V0KFBhcmFtVHlwZS5UT1VSTkFNRU5UKSk7CiAgICAgICAgZmluYWwgaW50IHRlYW1BSWQgPSBJbnRlZ2VyLnBhcnNlSW50KHBhcmFtcy5nZXQoUGFyYW1UeXBlLlRFQU1fSE9NRSkpOwogICAgICAgIGZpbmFsIGludCB0ZWFtQklkID0gSW50ZWdlci5wYXJzZUludChwYXJhbXMuZ2V0KFBhcmFtVHlwZS5URUFNX0FXQVkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hJZHMgPSBtYXRjaEVBTy5nZXRJZHNGcm9tTWF0Y2hlcyhtYXRjaGVzKTsKICAgICAgICAgICAgY2FjaGVNYW5hZ2VyLnB1dE1haW4oa2V5LCBtYXRjaElkcyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgbWF0Y2hlcyA9IG1hdGNoRUFPLmdldE1hdGNoZXNGcm9tSWRzKG1hdGNoSWRzKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>tournamentId,
-          uniqueTeamA.getId(), uniqueTeamB.getId(), numberOfMatches, numberOfMatches,
-          numberOfMatches, numberOfMatches, numberOfMatches, getServiceId()</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCiAgICAgICAgTGlzdDxJbnRlZ2VyPiBtYXRjaElkcyA9IGNhY2hlTWFuYWdlci5nZXRNYWluKGtleSk7CgogICAgICAgIGlmIChtYXRjaElkcyA9PSBudWxsKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Integer tournamentId, Integer teamAId, Integer teamBId,
-                                 Integer numberLastLeagueMeetings, Integer numberLastMeetings, Integer numberNextMeetings,
-                                 Integer numberMatchHistory, Integer numberNextMatches</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9CgogICAgICAgIHJldHVybiBDb2xsZWN0aW9uVXRpbC5zbGljZUxpc3QobWF0Y2hlcywgbGltaXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5leHBvcnQuUGFyYW1zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hJZHMgPSBtYXRjaEVBTy5nZXRJZHNGcm9tTWF0Y2hlcyhtYXRjaGVzKTsKICAgICAgICAgICAgY2FjaGVNYW5hZ2VyLnB1dE1haW4oa2V5LCBtYXRjaElkcyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgbWF0Y2hlcyA9IG1hdGNoRUFPLmdldE1hdGNoZXNGcm9tSWRzKG1hdGNoSWRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNwb3J0cmFkYXJEYXRhIGdlbmVyYXRlRmVlZChpbnQgY2xpZW50SWQsIFBhcmFtcyBwYXJhbXMpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCiAgICAgICAgTGlzdDxJbnRlZ2VyPiBtYXRjaElkcyA9IGNhY2hlTWFuYWdlci5nZXRNYWluKGtleSk7CgogICAgICAgIGlmIChtYXRjaElkcyA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTcG9ydHJhZGFyRGF0YSBnZW5lcmF0ZUZlZWQoaW50IGNsaWVudElkLCBQYXJhbXMgcGFyYW1zKSB7CgogICAgICAgIHJldHVybiBnZXRIZWFkVG9IZWFkKAogICAgICAgICAgdG91cm5hbWVudCwKICAgICAgICAgIHRlYW1BLAogICAgICAgICAgdGVhbUIsCiAgICAgICAgICBudW1iZXJMYXN0TGVhZ3VlTWVldGluZ3MsCiAgICAgICAgICBudW1iZXJMYXN0TWVldGluZ3MsCiAgICAgICAgICBudW1iZXJOZXh0TWVldGluZ3MsCiAgICAgICAgICBudW1iZXJNYXRjaEhpc3RvcnksCiAgICAgICAgICBudW1iZXJOZXh0TWF0Y2hlcywKICAgICAgICAgIGdldFNlcnZpY2VJZCgpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcga2V5ID0gQ2FjaGVLZXkua2V5KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucGFydChLZXlzLkxBU1RNQVRDSEVTKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5wYXJ0KEtleXMuVE9VUk5BTUVOVCkucGFydCh0b3VybmFtZW50SWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnBhcnQoS2V5cy5DQVRFR09SWVRFQU1JRCkucGFydChjYXRlZ29yeVRlYW1JZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY3JlYXRlKCk7Cgo=</text>
       </register>
-      <register name="9" type="8">
-        <text>limit
-limit
-limit
-limit</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9CgogICAgICAgIHJldHVybiBDb2xsZWN0aW9uVXRpbC5zbGljZUxpc3QobWF0Y2hlcywgbGltaXQpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -2677,9 +2676,9 @@ limit</text>
       </register>
     </registers>
     <search>
-      <last-search>FetchMode</last-search>
+      <last-search>numberofmatches</last-search>
       <last-offset />
-      <last-pattern>FetchMode</last-pattern>
+      <last-pattern>numberofmatches</last-pattern>
       <last-replace />
       <last-substitute>\.java</last-substitute>
       <last-dir>1</last-dir>
@@ -2687,8 +2686,6 @@ limit</text>
     </search>
     <history>
       <history-search>
-        <entry>considered</entry>
-        <entry>100</entry>
         <entry>insert into</entry>
         <entry>livescore_rue</entry>
         <entry>livescore_rule</entry>
@@ -2707,6 +2704,8 @@ limit</text>
         <entry>doquery</entry>
         <entry>invoke</entry>
         <entry>FetchMode</entry>
+        <entry>client</entry>
+        <entry>numberofmatches</entry>
       </history-search>
       <history-cmd>
         <entry>426</entry>
