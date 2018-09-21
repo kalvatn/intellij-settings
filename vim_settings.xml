@@ -2120,7 +2120,7 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1537361276649">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1537528306224">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/odds/pom.xml" timestamp="1534513495916">
@@ -2201,6 +2201,9 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/dbdata/Table.java" timestamp="1537528089021">
+        <mark key="'" line="457" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4a777c8-52ce-47cf-b671-b77fcbac8231/console_2.sql" timestamp="1534160102220">
         <mark key="[" line="4" column="36" />
@@ -2292,11 +2295,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_24.sql" timestamp="1537360936823">
-        <mark key="[" line="51" column="69" />
-        <mark key="]" line="51" column="68" />
-        <mark key="^" line="51" column="68" />
-        <mark key="." line="51" column="68" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_24.sql" timestamp="1537528328751">
+        <mark key="'" line="54" column="63" />
+        <mark key="[" line="66" column="58" />
+        <mark key="]" line="66" column="57" />
+        <mark key="^" line="66" column="57" />
+        <mark key="." line="66" column="57" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/PreStageManager.java" timestamp="1506684276194">
         <mark key="[" line="138" column="4" />
@@ -2524,8 +2528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1141" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="1273" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="210" column="25" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="724" column="61" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="929" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
@@ -2624,6 +2626,8 @@
       <jump line="100" column="8" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
       <jump line="331" column="53" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
       <jump line="333" column="33" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/headtohead/HeadToHeadServiceBean.java" />
+      <jump line="457" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/dbdata/Table.java" />
+      <jump line="51" column="63" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_24.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
