@@ -298,10 +298,10 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="13" column="117" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" timestamp="1537785904613">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" timestamp="1537787525809">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
         <mark key="^" line="42" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4a777c8-52ce-47cf-b671-b77fcbac8231/console_5.sql" timestamp="1537299918254">
@@ -2321,7 +2321,7 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_24.sql" timestamp="1537786666109">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_24.sql" timestamp="1537787519033">
         <mark key="'" line="54" column="63" />
         <mark key="[" line="88" column="122" />
         <mark key="]" line="94" column="24" />
@@ -2656,14 +2656,14 @@
       <jump line="1225" column="42" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgIGFuZCBsbS5tYXRjaGlkIGluICgxNDYxMjQyMCkK</text>
+      <register name="&quot;" type="4">
+        <text>String sql = &quot;SELECT lm.matchid, lm.teamidaway,</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>String sql = &quot;SELECT lm.matchid, lm.teamidaway,</text>
       </register>
       <register name="/" type="4">
         <text>card</text>
