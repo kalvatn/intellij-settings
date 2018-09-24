@@ -298,11 +298,11 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="13" column="117" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" timestamp="1537787525809">
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="4" />
-        <mark key="." line="43" column="4" />
-        <mark key="^" line="42" column="2" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" timestamp="1537791272438">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="126" column="3" />
+        <mark key="^" line="126" column="3" />
+        <mark key="." line="126" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4a777c8-52ce-47cf-b671-b77fcbac8231/console_5.sql" timestamp="1537299918254">
         <mark key="[" line="4" column="1" />
@@ -582,6 +582,7 @@
         <mark key="^" line="1473" column="61" />
         <mark key="." line="1473" column="61" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/1.0.49/sportradar-common-1.0.49-sources.jar!/com/betradar/util/DataLoader.java" timestamp="1537791439952" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/task/SendJob.java" timestamp="1535977195847">
         <mark key="[" line="153" column="37" />
         <mark key="]" line="153" column="35" />
@@ -1635,6 +1636,12 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1537791763401">
+        <mark key="'" line="796" column="43" />
+        <mark key="[" line="869" column="0" />
+        <mark key="]" line="869" column="0" />
+        <mark key="." line="869" column="0" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/TennisManager.java" timestamp="1514897258916">
         <mark key="[" line="51" column="64" />
         <mark key="]" line="52" column="7" />
@@ -1943,6 +1950,13 @@
         <mark key="]" line="9" column="45" />
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreSourceLoader.java" timestamp="1537791425103">
+        <mark key="'" line="138" column="46" />
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="17" />
+        <mark key="^" line="42" column="17" />
+        <mark key="." line="42" column="17" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Source.java" timestamp="1537276154104">
         <mark key="[" line="180" column="41" />
@@ -2554,9 +2568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="49" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="143" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
-      <jump line="70" column="2" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/1.0.49/sportradar-common-1.0.49-sources.jar!/com/betradar/database/SportradarPreparedStatement.java" />
       <jump line="108" column="47" filename="$MAVEN_REPOSITORY$/com/mchange/c3p0/0.9.5.2/c3p0-0.9.5.2-sources.jar!/com/mchange/v2/c3p0/impl/NewProxyPreparedStatement.java" />
       <jump line="9" column="63" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="111" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
@@ -2654,50 +2665,52 @@
       <jump line="780" column="37" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="792" column="40" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="1225" column="42" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="210" column="42" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
+      <jump line="796" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
+      <jump line="138" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreSourceLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String sql = &quot;SELECT lm.matchid, lm.teamidaway,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBydW5vbmNlPQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>String sql = &quot;SELECT lm.matchid, lm.teamidaway,</text>
+        <text>CardType.fromId(eventType)</text>
       </register>
       <register name="/" type="4">
         <text>card</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc29ydGVyLmFkZChuZXcgU29ydGluZ1J1bGUoMSwgInBvaW50c1RvdGFsIiwgZmFsc2UpKTsKICAgICAgc29ydGVyLmFkZChuZXcgU29ydGluZ1J1bGUoMiwgImdvYWxEaWZmVG90YWwiLCBmYWxzZSkpOwogICAgICBzb3J0ZXIuYWRkKG5ldyBTb3J0aW5nUnVsZSgzLCAiZ29hbHNGb3JUb3RhbCIsIGZhbHNlKSk7CiAgICAgIHNvcnRlci5hZGQobmV3IFNvcnRpbmdSdWxlKDQsICJnb2Fsc0ZvckF3YXkiLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICAgIGludCB5ZWxsb3dIb21lID0gMDsKICAgIGludCB5ZWxsb3dBd2F5ID0gMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgIGFuZCBsbS5tYXRjaGlkIGluICgxNDYxMjQyMCkK</text>
+        <text encoding="base64">ICAgICAgICBydW5vbmNlPQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAgYW5kIGxtLnNwb3J0aWQgPSAxCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gfCBVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIGUpIHsKICAgICAgbG9nLmVycm9yKGUsIGUpOwogICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>lm.sportid = 1
-  and lm.tournamentid = 3608</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGlzRGVzY2VuZGluZygpKSB7CiAgICAgICAgcmV0dXJuIHRlYW0yRGlnZXN0LmNvbXBhcmVUbyh0ZWFtMURpZ2VzdCk7CiAgICAgIH0KICAgICAgcmV0dXJuIHRlYW0xRGlnZXN0LmNvbXBhcmVUbyh0ZWFtMkRpZ2VzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3IgKEd1dGhNYXRjaFJlc3VsdCBtYXRjaCA6IG1hdGNoZXMpIHsKCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHRlYW0xRGlnZXN0ID0gU3RyaW5nVXRpbC5tZDUoCiAgICAgICAgU3RyaW5nLnZhbHVlT2YobzEuZ2V0VGVhbUlkKCkpICsgbzEuZ2V0U3RyaW5nKGdldFNvcnRpbmdFbnRyeSgpKSk7CiAgICAgIFN0cmluZyB0ZWFtMkRpZ2VzdCA9IFN0cmluZ1V0aWwubWQ1KAogICAgICAgIFN0cmluZy52YWx1ZU9mKG8yLmdldFRlYW1JZCgpKSArIG8yLmdldFN0cmluZyhnZXRTb3J0aW5nRW50cnkoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlnZXRDYXJkcyhtYXRjaGVzKTsK</text>
+        <text encoding="base64">ICAgIGludCB5ZWxsb3dIb21lID0gMDsKICAgIGludCB5ZWxsb3dBd2F5ID0gMDsKICAgIGludCByZWRIb21lID0gMDsKICAgIGludCByZWRBd2F5ID0gMDsKICAgIGludCB5ZWxsb3dSZWRIb21lID0gMDsKICAgIGludCB5ZWxsb3dSZWRBd2F5ID0gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmb3IgKEd1dGhNYXRjaFJlc3VsdCBtYXRjaCA6IG1hdGNoZXMpIHsKCQkJbWF0Y2guZ2V0CgkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIFZpbnQgdGVhbUlkQXdheSA9IHJzLmdldEludCgpCiAgICAgICAgICBzd2l0Y2ggKGV2ZW50VHlwZSkgewogICAgICAgICAgICBjYXNlIDQwOgogICAgICAgICAgICAgIGlmICgpCiAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgNDU6CiAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgNTA6CiAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlvMS5zZXRDaGFuZ2VUb3RhbCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TUQ1SGFzaFNvcnRpbmcK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGZ0LmdvYWxzQWdhaW5zdFRvdGFsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZW51bSBDYXJkVHlwZSB7CiAgICAgIFlFTExPVyg0MCkKICAgIH0K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
