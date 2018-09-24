@@ -298,11 +298,11 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="13" column="117" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" timestamp="1537534237340">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="26" column="14" />
-        <mark key="." line="26" column="14" />
-        <mark key="^" line="26" column="14" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" timestamp="1537785904613">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="42" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4a777c8-52ce-47cf-b671-b77fcbac8231/console_5.sql" timestamp="1537299918254">
         <mark key="[" line="4" column="1" />
@@ -2321,12 +2321,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_24.sql" timestamp="1537532850023">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_24.sql" timestamp="1537786666109">
         <mark key="'" line="54" column="63" />
-        <mark key="[" line="79" column="62" />
-        <mark key="]" line="79" column="61" />
-        <mark key="^" line="79" column="61" />
-        <mark key="." line="79" column="61" />
+        <mark key="[" line="88" column="122" />
+        <mark key="]" line="94" column="24" />
+        <mark key="^" line="94" column="24" />
+        <mark key="." line="94" column="24" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/PreStageManager.java" timestamp="1506684276194">
         <mark key="[" line="138" column="4" />
@@ -2657,13 +2657,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlvMS5zZXRDaGFuZ2VUb3RhbCgpOwo=</text>
+        <text encoding="base64">IyAgIGFuZCBsbS5tYXRjaGlkIGluICgxNDYxMjQyMCkK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>UAEArabianGulfLeague</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>card</text>
@@ -2672,34 +2672,32 @@
         <text encoding="base64">ICAgICAgc29ydGVyLmFkZChuZXcgU29ydGluZ1J1bGUoMSwgInBvaW50c1RvdGFsIiwgZmFsc2UpKTsKICAgICAgc29ydGVyLmFkZChuZXcgU29ydGluZ1J1bGUoMiwgImdvYWxEaWZmVG90YWwiLCBmYWxzZSkpOwogICAgICBzb3J0ZXIuYWRkKG5ldyBTb3J0aW5nUnVsZSgzLCAiZ29hbHNGb3JUb3RhbCIsIGZhbHNlKSk7CiAgICAgIHNvcnRlci5hZGQobmV3IFNvcnRpbmdSdWxlKDQsICJnb2Fsc0ZvckF3YXkiLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlvMS5zZXRDaGFuZ2VUb3RhbCgpOwo=</text>
+        <text encoding="base64">IyAgIGFuZCBsbS5tYXRjaGlkIGluICgxNDYxMjQyMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TUQ1SGFzaFNvcnRpbmcK</text>
+        <text encoding="base64">IyAgICAgYW5kIGxtLnNwb3J0aWQgPSAxCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGZ0LmdvYWxzQWdhaW5zdFRvdGFsCg==</text>
+      <register name="3" type="4">
+        <text>lm.sportid = 1
+  and lm.tournamentid = 3608</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGZ0Lgo=</text>
+        <text encoding="base64">CQlmb3IgKEd1dGhNYXRjaFJlc3VsdCBtYXRjaCA6IG1hdGNoZXMpIHsKCQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaDJoLmFkZEVudHJ5KG5ldyBTb3J0aW5nUnVsZSgxLCAicG9pbnRzVG90YWwiLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">CQlnZXRDYXJkcyhtYXRjaGVzKTsK</text>
       </register>
-      <register name="6" type="8">
-        <text>sorter.add
-sorter.add
-sorter.add
-sorter.add</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlmb3IgKEd1dGhNYXRjaFJlc3VsdCBtYXRjaCA6IG1hdGNoZXMpIHsKCQkJbWF0Y2guZ2V0CgkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaDJoLmFkZEVudHJ5KG5ldyBTb3J0aW5nUnVsZSgxLCAiZ29hbERpZmZUb3RhbCIsIGZhbHNlKSk7CiAgICAgIGgyaC5hZGRFbnRyeShuZXcgU29ydGluZ1J1bGUoMSwgImdvYWxEaWZmVG90YWwiLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">CQlvMS5zZXRDaGFuZ2VUb3RhbCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc29ydGVyLmFkZCgpCg==</text>
+        <text encoding="base64">TUQ1SGFzaFNvcnRpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcga2V5ID0gQ2FjaGVLZXkua2V5KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucGFydChLZXlzLkxBU1RNQVRDSEVTKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5wYXJ0KEtleXMuVU5JUVVFVEVBTVMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnBhcnQoS2V5cy5VTklRVUVURUFNSUQpLnBhcnQodW5pcXVlVGVhbUlkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jcmVhdGUoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgIGZ0LmdvYWxzQWdhaW5zdFRvdGFsCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
