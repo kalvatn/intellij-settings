@@ -497,6 +497,12 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="35" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_9.sql" timestamp="1537881239220">
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/livescore/events/LivescoreEventUtil.java" timestamp="1508959193043">
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="26" />
@@ -2178,10 +2184,10 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1537796830238">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1537881740740">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/odds/pom.xml" timestamp="1534513495916">
         <mark key="[" line="28" column="24" />
@@ -2366,12 +2372,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_24.sql" timestamp="1537803312841">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_24.sql" timestamp="1537881060666">
         <mark key="'" line="54" column="63" />
-        <mark key="[" line="157" column="70" />
-        <mark key="]" line="157" column="70" />
-        <mark key="." line="157" column="70" />
-        <mark key="^" line="157" column="69" />
+        <mark key="[" line="123" column="70" />
+        <mark key="]" line="123" column="70" />
+        <mark key="." line="123" column="70" />
+        <mark key="^" line="123" column="70" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/PreStageManager.java" timestamp="1506684276194">
         <mark key="[" line="138" column="4" />
@@ -2704,14 +2710,14 @@
       <jump line="52" column="39" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRvdGFs</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>C&quot;yellowRed&quot;</text>
+        <text encoding="base64">IHRvdGFs</text>
       </register>
       <register name="/" type="4">
         <text>23</text>
