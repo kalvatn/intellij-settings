@@ -1414,12 +1414,12 @@
         <mark key="^" line="38" column="31" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/ArabianGulfLeagueFairPlaySorting.java" timestamp="1537877268851">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="144" column="43" />
-        <mark key="]" line="144" column="43" />
-        <mark key="." line="144" column="43" />
-        <mark key="^" line="144" column="43" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/ArabianGulfLeagueFairPlaySorting.java" timestamp="1537879304955">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="141" column="43" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/work/projects/bac/java-common/dei-api/src/main/java/com/sportradar/common/dei/api2/PropertyResponse2.java" timestamp="1529412843464">
         <mark key="[" line="5" column="13" />
@@ -2705,7 +2705,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUgd2hlcmUgZS5tYXRjaGlkID0gMTUxMDk1MjcgOwpzZWxlY3QgKiBmcm9tIGxpdmVzY29yZV9ldmVudF90b3BfYmFja3VwIGUgd2hlcmUgZS5tYXRjaGlkID0gMTUxMDk1MjcgOwpzZWxlY3QgKiBmcm9tIGxpdmVzY29yZV9tYXRjaCBsbSB3aGVyZSBsbS5tYXRjaGlkID0gMTUxMDk1MjcgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -2723,31 +2723,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuYWRkKCJ5ZWxsb3dSZWQiLCB5ZWxsb3dSZWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiJWQgLSAlcyIsIHRlYW1JZCwgc3RhdHMuZ2V0KHRlYW1JZCkpKTsK</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKHRhYmxlLmdldFN0YXJ0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVzY29yZS5jYXJkLm1vZGVsLkNhcmRUeXBlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAuYWRkKCJ5ZWxsb3dSZWQiLCB5ZWxsb3dSZWQpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiJWQgLSAlcyIsIHRlYW1JZCwgc3RhdHMuZ2V0KHRlYW1JZCkpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVzY29yZS5jYXJkLm1vZGVsLkNhcmRUeXBlOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRhYmxlLmdldFN0YXJ0KCkK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
-      </register>
-      <register name="7" type="8">
-        <text>1
-1
-1
-1</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAog</text>
-      </register>
       <register name="9" type="8">
-        <text encoding="base64">IAog</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
