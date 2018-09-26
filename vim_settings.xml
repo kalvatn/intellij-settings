@@ -534,11 +534,11 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/data/LiveScoreDataTransformer.java" timestamp="1537966684341">
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/data/LiveScoreDataTransformer.java" timestamp="1537972568640">
         <mark key="[" line="78" column="25" />
-        <mark key="]" line="78" column="30" />
-        <mark key="." line="78" column="30" />
-        <mark key="^" line="78" column="30" />
+        <mark key="]" line="78" column="31" />
+        <mark key="." line="78" column="31" />
+        <mark key="^" line="78" column="31" />
       </file>
       <file name="/work/projects/bac/java-common/zabbix/src/main/java/com/betradar/zabbix/ZabbixReporterUtil.java" timestamp="1534360358743">
         <mark key="[" line="80" column="66" />
@@ -2548,11 +2548,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" timestamp="1537967783723">
-        <mark key="[" line="1003" column="14" />
-        <mark key="]" line="1003" column="36" />
-        <mark key="." line="1003" column="36" />
-        <mark key="^" line="1003" column="36" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" timestamp="1537972588147">
+        <mark key="[" line="1007" column="57" />
+        <mark key="]" line="1007" column="67" />
+        <mark key="." line="1007" column="67" />
+        <mark key="^" line="1007" column="67" />
       </file>
       <file name="/work/projects/bac/livescore/src/main/java/com/oddsarbitrage/common/OddsWrapperUtil.java" timestamp="1534199442211">
         <mark key="[" line="28" column="0" />
@@ -2608,11 +2608,11 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="21" column="29" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/modifier/ScoutDeviceDataLoader.java" timestamp="1537970933423">
-        <mark key="[" line="61" column="15" />
-        <mark key="]" line="61" column="15" />
-        <mark key="." line="61" column="15" />
-        <mark key="^" line="33" column="37" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/modifier/ScoutDeviceDataLoader.java" timestamp="1537972740795">
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="71" column="55" />
+        <mark key="." line="71" column="55" />
+        <mark key="^" line="71" column="55" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/bracket/StatisticsBracket.java" timestamp="1523448588689">
         <mark key="[" line="37" column="0" />
@@ -2743,13 +2743,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loadScouts</text>
+        <text>Failure retrieving number of scouts</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>loadScouts</text>
+        <text>Failure retrieving number of scouts</text>
       </register>
       <register name="/" type="4">
         <text>54</text>
@@ -2757,33 +2757,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICArICJKT0lOIHNtcF9tYXRjaF9zY291dCBzIE9OIHMubWF0Y2hfaWQgPSBzbS5ndXRobWF0Y2hpZCAiCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICArICJKT0lOIHNtcF9kZXZpY2UgZCBPTiBkLmlkID0gcy5kZXZpY2VfaWQgIgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvKiogUmV0cmlldmluZyBzY291dCBudW1iZXJzIGZvciBtYXRjaGVzLiAqLwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>_duty_description
 ;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBPUFRJT05fU0NPVVRfREVWSUNFID0gOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBib29sZWFuIGFsbG93TmVnYXRpdmUgPSBvcHRpb25zLmlzU2V0KFRlbXBsYXRlT3B0aW9ucy5PUFRJT05fQUxMT1dfTkVHQVRJVkVfU0NPVVRfTlVNQkVSKTsKICAgICAgICBpZiAoIWFsbG93TmVnYXRpdmUpIHsKICAgICAgICAgIHNjb3V0TnVtYmVyID0gSW50ZWdlci52YWx1ZU9mKE1hdGguYWJzKHNjb3V0TnVtYmVyLmludFZhbHVlKCkpKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgICBpZiAobWF0Y2hJZHMuaXNFbXB0eSgpKSB7CiAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eU1hcCgpOwogICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAvKiogUmV0cmlldmUgYXZhaWxhYmxlIHNjb3V0IG51bWJlci4gKi8K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAvKiogQWxyZWFkeSBpbml0aWF0ZWQgc3RhdGljIGNsYXNzIGluc3RhbmNlLiAqLwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAvKiogQ2FsY3VsYXRlZCBudW1iZXIgb2Ygc2NvdXRzIGFzc29jaWF0ZWQgdG8gY292ZXJhZ2UuICovCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvKiogQ29uc3RydWN0b3IuICovCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKiogQ2FsY3VsYXRlZCBudW1iZXIgb2Ygc2NvdXRzIGFzc29jaWF0ZWQgdG8gY292ZXJhZ2UuICovCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
