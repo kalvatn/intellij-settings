@@ -750,6 +750,11 @@
         <mark key="^" line="2" column="75" />
         <mark key="." line="2" column="75" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/speedcrawlersystem/pipeline/endpoints/WebSocketPipeline.java" timestamp="1537961639030">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/dao/EventDAO.java" timestamp="1516972579847">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="41" />
@@ -773,12 +778,6 @@
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
-      </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1537953553667">
-        <mark key="[" line="108" column="28" />
-        <mark key="]" line="108" column="28" />
-        <mark key="." line="108" column="28" />
-        <mark key="^" line="108" column="28" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/oddscomparison/TotalOdds2.java" timestamp="1535242779402">
         <mark key="[" line="123" column="11" />
@@ -1286,12 +1285,7 @@
         <mark key="." line="95" column="67" />
         <mark key="^" line="95" column="67" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" timestamp="1537953255219">
-        <mark key="[" line="70" column="68" />
-        <mark key="]" line="70" column="74" />
-        <mark key="^" line="70" column="74" />
-        <mark key="." line="70" column="74" />
-      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" timestamp="1537953255219" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_2.sql" timestamp="1510660813661">
         <mark key="[" line="1" column="71" />
         <mark key="]" line="1" column="60" />
@@ -1475,12 +1469,15 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1537365826446">
-        <mark key="'" line="185" column="26" />
-        <mark key="[" line="196" column="25" />
-        <mark key="]" line="196" column="24" />
-        <mark key="^" line="196" column="24" />
-        <mark key="." line="196" column="24" />
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1537961944590">
+        <mark key="'" line="670" column="20" />
+        <mark key="[" line="177" column="27" />
+        <mark key="]" line="177" column="35" />
+        <mark key="^" line="177" column="35" />
+        <mark key="." line="177" column="35" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/saver/importsavers/esl/MatchPlayerStatisticsSaver.java" timestamp="1537961892973">
+        <mark key="'" line="64" column="8" />
       </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/sms/src/main/java/com/betradar/sms/DutyGuySMSSender.java" timestamp="1534438270861">
         <mark key="[" line="123" column="0" />
@@ -1698,6 +1695,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="34" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/converters/cup/bracket/CupBracketConverter.java" timestamp="1537960736150">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="23" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/Main.java" timestamp="1517320672128">
         <mark key="[" line="53" column="60" />
@@ -2607,15 +2609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1465" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_13.sql" />
-      <jump line="28" column="60" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_25.sql" />
-      <jump line="1447" column="70" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_13.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-      <jump line="1458" column="72" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_13.sql" />
-      <jump line="443" column="55" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" />
-      <jump line="0" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="185" column="26" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="28" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_11.sql" />
       <jump line="355" column="65" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="344" column="55" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
       <jump line="133" column="59" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.4.13/ingame-betting-core-2018.4.13.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
@@ -2707,49 +2700,58 @@
       <jump line="96" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/ArabianGulfLeagueFairPlaySorting.java" />
       <jump line="52" column="39" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="128" column="76" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="24" column="57" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="51" column="23" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/saver/importsavers/esl/MatchPlayerStatisticsSaver.java" />
+      <jump line="196" column="9" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/saver/importsavers/esl/MatchPlayerStatisticsSaver.java" />
+      <jump line="198" column="21" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/saver/importsavers/esl/MatchPlayerStatisticsSaver.java" />
+      <jump line="14" column="47" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/saver/importsavers/esl/MatchPlayerStatisticsSaver.java" />
+      <jump line="15" column="35" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/saver/importsavers/esl/MatchPlayerStatisticsSaver.java" />
+      <jump line="16" column="35" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/saver/importsavers/esl/MatchPlayerStatisticsSaver.java" />
+      <jump line="64" column="8" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/saver/importsavers/esl/MatchPlayerStatisticsSaver.java" />
+      <jump line="670" column="20" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzcG9ydElkcy5mb3JFYWNoKGkgLT4gdG91cm5hbWVudE1hbmFnZXIuZ2V0VG91cm5hbWVudHNCeVNwb3J0SWQoKS5nZXQoaSkpOwoKICAgICAgICByZXR1cm4gYWxsQ292ZXJlZDsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmVjbGlwc2UuamV0dHkuYWdncmVnYXRlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qZXR0eS1hbGw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjkuMy45LnYyMDE2MDUxNzwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
-        <text>23</text>
+        <text>sportradar-common</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzRGVpUHJvcGVydHkodG91cm5hbWVudCwgRGVpUHJvcGVydHkuQUxMX0hBTEZfVElNRV9TQ09SRSkKICAgICAgICAgICAgJiYgaGFzRGVpUHJvcGVydHkodG91cm5hbWVudCwgRGVpUHJvcGVydHkuQUxMX0NPVkVSQUdFX1NFQ09ORF9IQUxGX1RBQkxFKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcG9ydElkcy5mb3JFYWNoKGkgLT4gdG91cm5hbWVudE1hbmFnZXIuZ2V0VG91cm5hbWVudHNCeVNwb3J0SWQoKS5nZXQoaSkpOwoKICAgICAgICByZXR1cm4gYWxsQ292ZXJlZDsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmVjbGlwc2UuamV0dHkuYWdncmVnYXRlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qZXR0eS1hbGw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjkuMy45LnYyMDE2MDUxNzwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gYWxsQ292ZXJlZCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICBhbGxDb3ZlcmVkLmFkZEFsbCh0b3VybmFtZW50SWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNsYXNzaWZpZXI+dWJlcjwvY2xhc3NpZmllcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gc3BvcnRJZHMgPQogICAgICAgICAgICBnZXRDb3ZlcmVkRW50aXR5SWRzKEVudGl0eVR5cGUuU1BPUlQsIERlaVByb3BlcnR5LkFMTF9MRUFHVUVfVEFCTEUsICJ0cnVlIik7CiAgICAgICAgU2V0PEludGVnZXI+IGNhdGVnb3J5SWRzID0KICAgICAgICAgICAgZ2V0Q292ZXJlZEVudGl0eUlkcyhFbnRpdHlUeXBlLlJFQUxDQVRFR09SWSwgRGVpUHJvcGVydHkuQUxMX0xFQUdVRV9UQUJMRSwgInRydWUiKTsKICAgICAgICBTZXQ8SW50ZWdlcj4gdW5pcXVlVG91cm5hbWVudElkcyA9CiAgICAgICAgICAgIGdldENvdmVyZWRFbnRpdHlJZHMoRW50aXR5VHlwZS5VTklRVUVUT1VSTkFNRU5ULCBEZWlQcm9wZXJ0eS5BTExfTEVBR1VFX1RBQkxFLCAidHJ1ZSIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zZWxlbml1bWhxLmpldHR5Ny5zZXJ2ZXIuc2Vzc2lvbi5IYXNoU2Vzc2lvbklkTWFuYWdlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRlZ29yeUlkcy5mb3JFYWNoKAogICAgICAgICAgICBpIC0+CiAgICAgICAgICAgICAgICBhbGxDb3ZlcmVkLmFkZEFsbCgKICAgICAgICAgICAgICAgICAgICB0b3VybmFtZW50TWFuYWdlcgogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0VG91cm5hbWVudHNCeUNhdGVnb3J5SWQoaSkKICAgICAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoVG91cm5hbWVudHRhYmxlOjpnZXRUb3VybmFtZW50aWQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpKSk7CiAgICAgICAgdW5pcXVlVG91cm5hbWVudElkcy5mb3JFYWNoKAogICAgICAgICAgICBpIC0+CiAgICAgICAgICAgICAgICBhbGxDb3ZlcmVkLmFkZEFsbCgKICAgICAgICAgICAgICAgICAgICB0b3VybmFtZW50TWFuYWdlcgogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0QWxsVG91cm5hbWVudHNXaXRoR2l2ZW5VbmlxdWVUb3VybmFtZW50KGkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwKFRvdXJuYW1lbnR0YWJsZTo6Z2V0VG91cm5hbWVudGlkKQogICAgICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYmxvY2tPcmRlciA9IDE7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aGFzRGVpUHJvcGVydHkodG91cm5hbWVudCwgRGVpUHJvcGVydHkuQUxMX0ZVTExfVElNRV9TQ09SRSkKICAgICAgICAgICAgJiYg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgYmxvY2tPcmRlciA9IDE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTGlzdDxJbnRlZ2VyPiBDTElFTlRfSURTX1RPX1RFU1QgPSBJbW11dGFibGVMaXN0Lm9mKDMsIDgyOCk7Ci8vICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExpc3Q8SW50ZWdlcj4gQ0xJRU5UX0lEU19UT19URVNUID0gSW1tdXRhYmxlTGlzdC5vZigzLCA4MjgsIDM4LCAxNDk0LCAxNjU1LCA5NzMsIDE1ODEpOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTGlzdDxJbnRlZ2VyPiBDTElFTlRfSURTX1RPX1RFU1QgPSBJbW11dGFibGVMaXN0Lm9mKDMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzcG9ydElkcy5mb3JFYWNoKGkgLT4gdG91cm5hbWVudE1hbmFnZXIuZ2V0VG91cm5hbWVudHNCeVNwb3J0SWQoKS5nZXQoaSkpOwoKICAgICAgICByZXR1cm4gYWxsQ292ZXJlZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiYWZ0ZXIgdGhpcyBldmVyeXRoaW5nIHNob3VsZCBiZSBjYWNoZWQgISEhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gYWxsQ292ZXJlZCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICBhbGxDb3ZlcmVkLmFkZEFsbCh0b3VybmFtZW50SWRzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRlc3RRdWVyeSgpOwovLyAgICAgICAgdGVzdFF1ZXJ5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gc3BvcnRJZHMgPQogICAgICAgICAgICBnZXRDb3ZlcmVkRW50aXR5SWRzKEVudGl0eVR5cGUuU1BPUlQsIERlaVByb3BlcnR5LkFMTF9MRUFHVUVfVEFCTEUsICJ0cnVlIik7CiAgICAgICAgU2V0PEludGVnZXI+IGNhdGVnb3J5SWRzID0KICAgICAgICAgICAgZ2V0Q292ZXJlZEVudGl0eUlkcyhFbnRpdHlUeXBlLlJFQUxDQVRFR09SWSwgRGVpUHJvcGVydHkuQUxMX0xFQUdVRV9UQUJMRSwgInRydWUiKTsKICAgICAgICBTZXQ8SW50ZWdlcj4gdW5pcXVlVG91cm5hbWVudElkcyA9CiAgICAgICAgICAgIGdldENvdmVyZWRFbnRpdHlJZHMoRW50aXR5VHlwZS5VTklRVUVUT1VSTkFNRU5ULCBEZWlQcm9wZXJ0eS5BTExfTEVBR1VFX1RBQkxFLCAidHJ1ZSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRlZ29yeUlkcy5mb3JFYWNoKAogICAgICAgICAgICBpIC0+CiAgICAgICAgICAgICAgICBhbGxDb3ZlcmVkLmFkZEFsbCgKICAgICAgICAgICAgICAgICAgICB0b3VybmFtZW50TWFuYWdlcgogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0VG91cm5hbWVudHNCeUNhdGVnb3J5SWQoaSkKICAgICAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoVG91cm5hbWVudHRhYmxlOjpnZXRUb3VybmFtZW50aWQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpKSk7CiAgICAgICAgdW5pcXVlVG91cm5hbWVudElkcy5mb3JFYWNoKAogICAgICAgICAgICBpIC0+CiAgICAgICAgICAgICAgICBhbGxDb3ZlcmVkLmFkZEFsbCgKICAgICAgICAgICAgICAgICAgICB0b3VybmFtZW50TWFuYWdlcgogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0QWxsVG91cm5hbWVudHNXaXRoR2l2ZW5VbmlxdWVUb3VybmFtZW50KGkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwKFRvdXJuYW1lbnR0YWJsZTo6Z2V0VG91cm5hbWVudGlkKQogICAgICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSkpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -2759,9 +2761,9 @@
       </register>
     </registers>
     <search>
-      <last-search>23</last-search>
+      <last-search>sportradar-common</last-search>
       <last-offset />
-      <last-pattern>23</last-pattern>
+      <last-pattern>sportradar-common</last-pattern>
       <last-replace />
       <last-substitute>\.java</last-substitute>
       <last-dir>1</last-dir>
@@ -2769,10 +2771,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GeneralScoutDataConnector</entry>
-        <entry>doquery</entry>
-        <entry>invoke</entry>
-        <entry>FetchMode</entry>
         <entry>client</entry>
         <entry>numberofmatches</entry>
         <entry>cards</entry>
@@ -2789,6 +2787,10 @@
         <entry>UA</entry>
         <entry>UAE</entry>
         <entry>23</entry>
+        <entry>jetty</entry>
+        <entry>TableCache</entry>
+        <entry>getColumnValues</entry>
+        <entry>sportradar-common</entry>
       </history-search>
       <history-cmd>
         <entry>313</entry>
