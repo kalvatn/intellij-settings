@@ -238,20 +238,6 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="prod-misc-miscinternal-RW" uuid="8ae7ce45-ffda-4b61-b790-0446ebd67c83">
-      <driver-ref>mysql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.200.11.40:3306/misc-internal</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="lodev-main-odds-RW" uuid="a8af0c63-1d21-4c0e-82d1-1d27cad43978">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
