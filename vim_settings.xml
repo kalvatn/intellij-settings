@@ -875,12 +875,12 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/request/LiveScoreFileSenderRequestHandler.java" timestamp="1538058907284">
-        <mark key="'" line="337" column="17" />
-        <mark key="[" line="658" column="12" />
-        <mark key="]" line="658" column="22" />
-        <mark key="." line="658" column="22" />
-        <mark key="^" line="658" column="22" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/request/LiveScoreFileSenderRequestHandler.java" timestamp="1538059766809">
+        <mark key="'" line="339" column="17" />
+        <mark key="[" line="1023" column="40" />
+        <mark key="]" line="1023" column="40" />
+        <mark key="." line="1023" column="40" />
+        <mark key="^" line="1023" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console_4.sql" timestamp="1523279991109">
         <mark key="[" line="2" column="28" />
@@ -1595,7 +1595,7 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="/work/projects/gitlab/java/source/conf/general.properties.lo_dev_zrh" timestamp="1538058834304" />
+      <file name="/work/projects/gitlab/java/source/conf/general.properties.lo_dev_zrh" timestamp="1538059623040" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1504530116252">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="50" />
@@ -1644,7 +1644,8 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="/work/projects/gitlab/java/source/conf/general.properties.@env@" timestamp="1538058845011">
+      <file name="/work/projects/gitlab/java/source/conf/general.properties.@env@" timestamp="1538059653515">
+        <mark key="'" line="152" column="0" />
         <mark key="[" line="29" column="36" />
         <mark key="]" line="29" column="36" />
         <mark key="." line="29" column="36" />
@@ -1758,6 +1759,13 @@
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
         <mark key="^" line="13" column="12" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/util/LiveScoreXMLGenerator.java" timestamp="1538059215604">
+        <mark key="'" line="712" column="17" />
+        <mark key="[" line="793" column="31" />
+        <mark key="]" line="793" column="57" />
+        <mark key="." line="793" column="57" />
+        <mark key="^" line="793" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1536153255316">
         <mark key="[" line="7" column="0" />
@@ -2579,6 +2587,12 @@
         <mark key="^" line="55" column="104" />
         <mark key="." line="55" column="104" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/data/LiveScoreDataFactory.java" timestamp="1538060216280">
+        <mark key="[" line="153" column="25" />
+        <mark key="]" line="153" column="26" />
+        <mark key="^" line="153" column="26" />
+        <mark key="." line="153" column="26" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/CountryCache.java" timestamp="1523276459495">
         <mark key="[" line="123" column="80" />
         <mark key="]" line="123" column="97" />
@@ -2701,9 +2715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="64" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console_4.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console_4.sql" />
-      <jump line="81" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" />
       <jump line="155" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" />
       <jump line="98" column="22" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" />
       <jump line="42" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
@@ -2801,6 +2812,9 @@
       <jump line="502" column="110" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" />
       <jump line="335" column="17" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/request/LiveScoreFileSenderRequestHandler.java" />
       <jump line="10" column="25" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/1.0.51-SNAPSHOT/sportradar-common-1.0.51-20180921.124648-2.jar!/com/betradar/database/SelectDB.class" />
+      <jump line="467" column="87" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/util/LiveScoreXMLGenerator.java" />
+      <jump line="713" column="17" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/util/LiveScoreXMLGenerator.java" />
+      <jump line="152" column="0" filename="/work/projects/gitlab/java/source/conf/general.properties.@env@" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2813,7 +2827,7 @@
         <text>SelectDB</text>
       </register>
       <register name="/" type="4">
-        <text>lo_dev</text>
+        <text>readDb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TVlTUUxfY3JpdGljYWxfZGJfaG9zdCA9IGpkYmM6bXlzcWw6Ly8xMC4xMi4yNi40NjozMzA2L29kZHMKTVlTUUxfY3JpdGljYWxfZGJfdXNlciA9IGRldmVsb3BlcgpNWVNRTF9jcml0aWNhbF9kYl9wYXNzd29yZCA9IE9sdk05Y3BWaGgK</text>
@@ -2857,9 +2871,9 @@ sportradar</text>
       </register>
     </registers>
     <search>
-      <last-search>lo_dev</last-search>
+      <last-search>readDb</last-search>
       <last-offset />
-      <last-pattern>lo_dev</last-pattern>
+      <last-pattern>readDb</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>log</last-substitute>
       <last-dir>1</last-dir>
@@ -2867,7 +2881,6 @@ sportradar</text>
     </search>
     <history>
       <history-search>
-        <entry>1000</entry>
         <entry>999</entry>
         <entry>INVALIDATE</entry>
         <entry>SCOUT</entry>
@@ -2887,6 +2900,7 @@ sportradar</text>
         <entry>lodev</entry>
         <entry>lo-dev</entry>
         <entry>lo_dev</entry>
+        <entry>readDb</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzB4LzB4MC9nYw==</entry>
