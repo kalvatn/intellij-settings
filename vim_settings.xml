@@ -265,6 +265,12 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="62" column="48" />
       </file>
+      <file name="/work/projects/gitlab/java/source/conf/general.properties" timestamp="1538054436604">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_12.sql" timestamp="1537370169430">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="0" />
@@ -869,7 +875,8 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/request/LiveScoreFileSenderRequestHandler.java" timestamp="1538032865279">
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/request/LiveScoreFileSenderRequestHandler.java" timestamp="1538054371059">
+        <mark key="'" line="335" column="17" />
         <mark key="[" line="325" column="32" />
         <mark key="]" line="326" column="51" />
         <mark key="." line="326" column="51" />
@@ -968,10 +975,10 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="15" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_14.sql" timestamp="1538037260866">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_14.sql" timestamp="1538054586623">
         <mark key="'" line="121" column="29" />
-        <mark key="[" line="155" column="38" />
-        <mark key="]" line="155" column="62" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="156" column="7" />
         <mark key="." line="155" column="62" />
         <mark key="^" line="155" column="62" />
       </file>
@@ -2677,7 +2684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="21" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="69" column="21" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="11" column="64" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console_4.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console_4.sql" />
@@ -2777,10 +2783,11 @@
       <jump line="819" column="20" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="73" column="35" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" />
       <jump line="502" column="110" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" />
+      <jump line="335" column="17" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/request/LiveScoreFileSenderRequestHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NumberOfScouts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5zZXJ0IGludG8gbGl2ZXNjb3JlX2ZpbGVzZW5kZXJfcmVxdWVzdHMgKHJlcXVlc3RlZGF0LCB1c2VyaWQsIGBmcm9tYCwgYHRvYCwgdGFyZ2V0X3R5cGUsIHJlY2lwaWVudGlkLCB0YXJnZXRfZGV0YWlscywgbWF0Y2hpZHMpCnZhbHVlcwogICAgICAgKG5vdygpLCA3NjcsICcnLCAnJywgMSwgNzAwNCwgJ3QuanVlcmdlbnNAc3BvcnRyYWRhci5jb20nLCAnMTUwMjk0MzMsMTUwMjk0MzEnKSwgIyBFSEYgbmF0aW9uYWwKICAgICAgIChub3coKSwgNzY3LCAnJywgJycsIDEsIDcwNDMsICd0Lmp1ZXJnZW5zQHNwb3J0cmFkYXIuY29tJywgJzE1MDI5NDMzLDE1MDI5NDMxJyksICMgRUhGIG1hdGNoZXMKICAgICAgIChub3coKSwgNzY3LCAnJywgJycsIDEsIDY4NDMsICd0Lmp1ZXJnZW5zQHNwb3J0cmFkYXIuY29tJywgJzE1MDI5NDMzLDE1MDI5NDMxJykgIyBFSEYgY2x1YnMKICAgICAgIDsK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -2789,10 +2796,10 @@
         <text>NumberOfScouts</text>
       </register>
       <register name="/" type="4">
-        <text>invoke</text>
+        <text>SelectDB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIDUzOiAjIE51bWJlck9mU2NvdXRzCg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gbGl2ZXNjb3JlX2ZpbGVzZW5kZXJfcmVxdWVzdHMgKHJlcXVlc3RlZGF0LCB1c2VyaWQsIGBmcm9tYCwgYHRvYCwgdGFyZ2V0X3R5cGUsIHJlY2lwaWVudGlkLCB0YXJnZXRfZGV0YWlscywgbWF0Y2hpZHMpCnZhbHVlcwogICAgICAgKG5vdygpLCA3NjcsICcnLCAnJywgMSwgNzAwNCwgJ3QuanVlcmdlbnNAc3BvcnRyYWRhci5jb20nLCAnMTUwMjk0MzMsMTUwMjk0MzEnKSwgIyBFSEYgbmF0aW9uYWwKICAgICAgIChub3coKSwgNzY3LCAnJywgJycsIDEsIDcwNDMsICd0Lmp1ZXJnZW5zQHNwb3J0cmFkYXIuY29tJywgJzE1MDI5NDMzLDE1MDI5NDMxJyksICMgRUhGIG1hdGNoZXMKICAgICAgIChub3coKSwgNzY3LCAnJywgJycsIDEsIDY4NDMsICd0Lmp1ZXJnZW5zQHNwb3J0cmFkYXIuY29tJywgJzE1MDI5NDMzLDE1MDI5NDMxJykgIyBFSEYgY2x1YnMKICAgICAgIDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MQo=</text>
@@ -2831,9 +2838,9 @@ sportradar</text>
       </register>
     </registers>
     <search>
-      <last-search>invoke</last-search>
+      <last-search>SelectDB</last-search>
       <last-offset />
-      <last-pattern>invoke</last-pattern>
+      <last-pattern>SelectDB</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>log</last-substitute>
       <last-dir>1</last-dir>
@@ -2841,7 +2848,6 @@ sportradar</text>
     </search>
     <history>
       <history-search>
-        <entry>jetty</entry>
         <entry>TableCache</entry>
         <entry>getColumnValues</entry>
         <entry>sportradar-common</entry>
@@ -2861,6 +2867,7 @@ sportradar</text>
         <entry>filter</entry>
         <entry>doquery</entry>
         <entry>invoke</entry>
+        <entry>SelectDB</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzB4LzB4MC9nYw==</entry>
