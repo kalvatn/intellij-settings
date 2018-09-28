@@ -546,7 +546,7 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/data/LiveScoreDataTransformer.java" timestamp="1537973194563">
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/data/LiveScoreDataTransformer.java" timestamp="1538112089335">
         <mark key="'" line="173" column="46" />
         <mark key="[" line="78" column="25" />
         <mark key="]" line="78" column="31" />
@@ -749,11 +749,11 @@
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1538053144723">
-        <mark key="[" line="128" column="71" />
-        <mark key="]" line="128" column="77" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1538111909649">
+        <mark key="[" line="132" column="96" />
+        <mark key="]" line="132" column="96" />
         <mark key="^" line="128" column="77" />
-        <mark key="." line="128" column="77" />
+        <mark key="." line="132" column="96" />
       </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/net/src/main/java/com/betradar/net/ComponentRouteAdder.java" timestamp="1534504385499">
         <mark key="[" line="126" column="0" />
@@ -1724,12 +1724,6 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1537791763401">
-        <mark key="'" line="796" column="43" />
-        <mark key="[" line="869" column="0" />
-        <mark key="]" line="869" column="0" />
-        <mark key="." line="869" column="0" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/TennisManager.java" timestamp="1514897258916">
         <mark key="[" line="51" column="64" />
         <mark key="]" line="52" column="7" />
@@ -1844,12 +1838,6 @@
         <mark key="]" line="26" column="86" />
         <mark key="." line="22" column="30" />
         <mark key="^" line="22" column="30" />
-      </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/SortingRule.java" timestamp="1537805553411">
-        <mark key="'" line="87" column="57" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e6af12a-6c18-4583-8b51-245eab98df09/console.sql" timestamp="1527692202589">
         <mark key="[" line="1" column="11" />
@@ -2087,12 +2075,6 @@
         <mark key="]" line="30" column="10" />
         <mark key="." line="30" column="10" />
         <mark key="^" line="30" column="10" />
-      </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1537966554166">
-        <mark key="'" line="158" column="2" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="166" />
-        <mark key="." line="58" column="90" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_6.sql" timestamp="1517243199254">
         <mark key="[" line="27" column="25" />
@@ -2683,12 +2665,6 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="21" column="29" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/modifier/ScoutDeviceDataLoader.java" timestamp="1537979694900">
-        <mark key="'" line="115" column="61" />
-        <mark key="[" line="97" column="42" />
-        <mark key="]" line="97" column="42" />
-        <mark key="." line="97" column="42" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/bracket/StatisticsBracket.java" timestamp="1523448588689">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -2818,16 +2794,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 15109764</text>
+        <text>;</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>15110187</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>readDb</text>
+        <text>status</text>
       </register>
       <register name="0" type="4">
         <text>, 15109764</text>
@@ -2871,9 +2847,9 @@ MYSQL_critical_db</text>
       </register>
     </registers>
     <search>
-      <last-search>readDb</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>readDb</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>log</last-substitute>
       <last-dir>1</last-dir>
@@ -2881,9 +2857,6 @@ MYSQL_critical_db</text>
     </search>
     <history>
       <history-search>
-        <entry>999</entry>
-        <entry>INVALIDATE</entry>
-        <entry>SCOUT</entry>
         <entry>54</entry>
         <entry>TARGET_TYPE</entry>
         <entry>processing</entry>
@@ -2901,6 +2874,9 @@ MYSQL_critical_db</text>
         <entry>lo-dev</entry>
         <entry>lo_dev</entry>
         <entry>readDb</entry>
+        <entry>STATUS</entry>
+        <entry>ENDED</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzB4LzB4MC9nYw==</entry>
