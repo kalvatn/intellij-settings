@@ -1812,12 +1812,12 @@
         <mark key="." line="57" column="35" />
         <mark key="^" line="57" column="35" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" timestamp="1538134102311">
-        <mark key="'" line="109" column="9" />
-        <mark key="[" line="228" column="70" />
-        <mark key="]" line="228" column="79" />
-        <mark key="^" line="228" column="79" />
-        <mark key="." line="228" column="79" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" timestamp="1538136377830">
+        <mark key="'" line="111" column="9" />
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="33" />
+        <mark key="." line="57" column="33" />
       </file>
       <file name="/tmp/filesender-soap/src/main/java/org/tempuri/ListTeamsResponse.java" timestamp="1515771430023">
         <mark key="[" line="38" column="41" />
@@ -2816,19 +2816,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>FlagRemovedMatches</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>FlagRemovedMatches</text>
       </register>
       <register name="/" type="4">
         <text>hidden</text>
       </register>
-      <register name="0" type="4">
-        <text>15108299, 15109764</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1vZGlmaWVyTGlzdC5hZGQoRmxhZ1JlbW92ZWRNYXRjaGVzLmNsYXNzLmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBGaWxlLmNyZWF0ZVRlbXBGaWxlKCJsaXZlc2NvcmUiLCBmaWxlU2VuZGVySWQudG9TdHJpbmcoKSwgbmV3IEZpbGUoIi90bXAiKSkuCg==</text>
