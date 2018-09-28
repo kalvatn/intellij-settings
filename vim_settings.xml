@@ -2863,7 +2863,7 @@
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>361</text>
       </register>
     </registers>
     <search>
@@ -2899,8 +2899,6 @@
         <entry>hidden</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzB4LzB4MC9nYw==</entry>
-        <entry encoding="base64">JzwsJz5zLzB4LC8weDIwLC9n</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry>208</entry>
         <entry encoding="base64">JzwsJz5zLyAvLmphdmFcXHwvZw==</entry>
@@ -2919,6 +2917,8 @@
         <entry>%s/log/logger/g</entry>
         <entry>%s/log/logger/gc</entry>
         <entry>set ignorecase</entry>
+        <entry>38</entry>
+        <entry>361</entry>
       </history-cmd>
       <history-expr />
       <history-input />
