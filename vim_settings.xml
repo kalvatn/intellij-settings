@@ -268,11 +268,11 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="62" column="48" />
       </file>
-      <file name="/work/projects/gitlab/java/source/conf/general.properties" timestamp="1538054436604">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
+      <file name="/work/projects/gitlab/java/source/conf/general.properties" timestamp="1538133363555">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_12.sql" timestamp="1537370169430">
         <mark key="[" line="9" column="0" />
@@ -984,11 +984,11 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="15" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_14.sql" timestamp="1538126314343">
-        <mark key="'" line="158" column="86" />
-        <mark key="]" line="170" column="0" />
-        <mark key="^" line="170" column="0" />
-        <mark key="." line="170" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_14.sql" timestamp="1538133255676">
+        <mark key="[" line="155" column="68" />
+        <mark key="]" line="155" column="85" />
+        <mark key="^" line="157" column="67" />
+        <mark key="." line="157" column="67" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/mapper/SportMapper.java" timestamp="1517236681529">
         <mark key="[" line="13" column="39" />
@@ -1812,7 +1812,13 @@
         <mark key="." line="57" column="35" />
         <mark key="^" line="57" column="35" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" timestamp="1538121033287" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" timestamp="1538134102311">
+        <mark key="'" line="109" column="9" />
+        <mark key="[" line="228" column="70" />
+        <mark key="]" line="228" column="79" />
+        <mark key="^" line="228" column="79" />
+        <mark key="." line="228" column="79" />
+      </file>
       <file name="/tmp/filesender-soap/src/main/java/org/tempuri/ListTeamsResponse.java" timestamp="1515771430023">
         <mark key="[" line="38" column="41" />
         <mark key="]" line="38" column="48" />
@@ -2707,9 +2713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="36" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" />
-      <jump line="116" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" />
-      <jump line="810" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" />
       <jump line="838" column="22" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" />
       <jump line="213" column="12" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" />
       <jump line="23" column="54" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" />
@@ -2807,49 +2810,52 @@
       <jump line="77" column="2" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
       <jump line="97" column="64" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
       <jump line="158" column="86" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_14.sql" />
+      <jump line="220" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
+      <jump line="77" column="36" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
+      <jump line="105" column="9" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfdGVtcGxhdGVfb3B0aW9uX2ZpbGVzZW5kZXIgZnMgd2hlcmUgZnMuZmlsZXNlbmRlcmlkIGluICg3MDA0LCA2ODQzLCA3MDQzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>hidden</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gbGl2ZXNjb3JlX2ZpbGVzZW5kZXJfcmVxdWVzdHMgKHJlcXVlc3RlZGF0LCB1c2VyaWQsIGBmcm9tYCwgYHRvYCwgdGFyZ2V0X3R5cGUsIHJlY2lwaWVudGlkLCB0YXJnZXRfZGV0YWlscywgbWF0Y2hpZHMpCnZhbHVlcwogICAgICAgKG5vdygpLCA3NjcsICcnLCAnJywgMSwgNzAwNCwgJ2pvbnRlcmplLmthbHZhdG5AZ21haWwuY29tJywgJzE1MTA4Mjk5LCAxNTEwOTc2NCcpLCAjIEVIRiBuYXRpb25hbAogICAgICAgKG5vdygpLCA3NjcsICcnLCAnJywgMSwgNzA0MywgJ2pvbnRlcmplLmthbHZhdG5AZ21haWwuY29tJywgJzE1MTA4Mjk5LCAxNTEwOTc2NCcpLCAjIEVIRiBtYXRjaGVzCiAgICAgICAobm93KCksIDc2NywgJycsICcnLCAxLCA2ODQzLCAnam9udGVyamUua2FsdmF0bkBnbWFpbC5jb20nLCAnMTUxMDgyOTksIDE1MTA5NzY0JykgIyBFSEYgY2x1YnMKOwo=</text>
+      <register name="0" type="4">
+        <text>15108299, 15109764</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfdGVtcGxhdGVfb3B0aW9uX2ZpbGVzZW5kZXIgZnMgd2hlcmUgZnMuZmlsZXNlbmRlcmlkIGluICg3MDA0LCA2ODQzLCA3MDQzKQo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlLmNyZWF0ZVRlbXBGaWxlKCJsaXZlc2NvcmUiLCBmaWxlU2VuZGVySWQudG9TdHJpbmcoKSwgbmV3IEZpbGUoIi90bXAiKSkuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEZpbGVXcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cmluc2VydCBpbnRvIGxpdmVzY29yZV9maWxlc2VuZGVyX3JlcXVlc3RzIChyZXF1ZXN0ZWRhdCwgdXNlcmlkLCBgZnJvbWAsIGB0b2AsIHRhcmdldF90eXBlLCByZWNpcGllbnRpZCwgdGFyZ2V0X2RldGFpbHMsIG1hdGNoaWRzKQp2YWx1ZXMKICAgICAgIChub3coKSwgNzY3LCAnJywgJycsIDEsIDcwMDQsICd0Lmp1ZXJnZW5zQHNwb3J0cmFkYXIuY29tJywgJzE1MDI5NDMzLDE1MDI5NDMxJyksICMgRUhGIG5hdGlvbmFsCiAgICAgICAobm93KCksIDc2NywgJycsICcnLCAxLCA3MDQzLCAndC5qdWVyZ2Vuc0BzcG9ydHJhZGFyLmNvbScsICcxNTAyOTQzMywxNTAyOTQzMScpLCAjIEVIRiBtYXRjaGVzCiAgICAgICAobm93KCksIDc2NywgJycsICcnLCAxLCA2ODQzLCAndC5qdWVyZ2Vuc0BzcG9ydHJhZGFyLmNvbScsICcxNTAyOTQzMywxNTAyOTQzMScpICMgRUhGIGNsdWJzCiAgICAgICA7CgppbnNlcnQgaW50byBsaXZlc2NvcmVfZmlsZXNlbmRlcl9yZXF1ZXN0cyAocmVxdWVzdGVkYXQsIHVzZXJpZCwgYGZyb21gLCBgdG9gLCB0YXJnZXRfdHlwZSwgcmVjaXBpZW50aWQsIHRhcmdldF9kZXRhaWxzLCBtYXRjaGlkcykKdmFsdWVzCiAgICAgICAobm93KCksIDc2NywgJycsICcnLCAxLCA3MDA0LCAnam9udGVyamUua2FsdmF0bkBnbWFpbC5jb20nLCAnMTUxMTAxODcnKSwgIyBFSEYgbmF0aW9uYWwKICAgICAgIChub3coKSwgNzY3LCAnJywgJycsIDEsIDcwNDMsICdqb250ZXJqZS5rYWx2YXRuQGdtYWlsLmNvbScsICcxNTExMDE4NycpLCAjIEVIRiBtYXRjaGVzCiAgICAgICAobm93KCksIDc2NywgJycsICcnLCAxLCA2ODQzLCAnam9udGVyamUua2FsdmF0bkBnbWFpbC5jb20nLCAnMTUxMTAxODcnKSAjIEVIRiBjbHVicwo7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfdGVtcGxhdGVfb3B0aW9uX2ZpbGVzZW5kZXIgZnMgd2hlcmUgZnMuZmlsZXNlbmRlcmlkIGluICg3MDA0LCA2ODQzLCA3MDQzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3YXJuaW5nczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNldDxXYXJuaW5nPiB3YXJuaW5ncyA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0ZQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB3YXJuaW5nczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmZpbmRBbnkoKQogICAgICAuCg==</text>
+        <text encoding="base64">ICAgIFNldDxXYXJuaW5nPiB3YXJuaW5ncyA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -2859,9 +2865,9 @@
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>hidden</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>hidden</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>log</last-substitute>
       <last-dir>1</last-dir>
@@ -2869,7 +2875,6 @@
     </search>
     <history>
       <history-search>
-        <entry>54</entry>
         <entry>TARGET_TYPE</entry>
         <entry>processing</entry>
         <entry>log</entry>
@@ -2889,6 +2894,7 @@
         <entry>STATUS</entry>
         <entry>ENDED</entry>
         <entry>status</entry>
+        <entry>hidden</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzB4LzB4MC9nYw==</entry>
