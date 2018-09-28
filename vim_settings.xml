@@ -1703,12 +1703,12 @@
         <mark key="." line="94" column="1" />
         <mark key="^" line="94" column="1" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1538116045900">
-        <mark key="'" line="44" column="12" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1538119571501">
+        <mark key="'" line="101" column="64" />
+        <mark key="[" line="130" column="82" />
+        <mark key="]" line="130" column="80" />
+        <mark key="." line="130" column="80" />
+        <mark key="^" line="130" column="80" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_8.sql" timestamp="1528987204219">
         <mark key="[" line="22" column="28" />
@@ -2701,10 +2701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="34" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/TableSorter.java" />
-      <jump line="1809" column="28" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="4" column="51" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="722" column="65" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" />
       <jump line="308" column="36" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" />
       <jump line="116" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/StatisticsBuilder.java" />
@@ -2801,53 +2797,53 @@
       <jump line="152" column="0" filename="/work/projects/gitlab/java/source/conf/general.properties.@env@" />
       <jump line="40" column="12" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
       <jump line="100" column="6" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/1.0.51-SNAPSHOT/sportradar-common-1.0.51-20180921.124648-2.jar!/com/oddsarbitrage/livescore/Warning.class" />
+      <jump line="66" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
+      <jump line="22" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
+      <jump line="77" column="2" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
+      <jump line="97" column="64" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hidden</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>hidden</text>
+        <text>collect</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKyAiICBhbmQgbG0uaGlkZGVuID0gMFxuIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJvb2xlYW4gaGFzUGxheWVyU3RhdHMgPSBycy5nZXRJbnQoImhhc19wbGF5ZXJfc3RhdHMiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU2V0PEludGVnZXI+IGdldFJlbGV2YW50VG91cm5hbWVudHMK</text>
+        <text encoding="base64">ICAgIGl0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgLmZpbmRBbnkoKQogICAgICAuCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvciAoV2FybmluZyB3YXJuaW5nIDogd2FybmluZ3MpIHsKICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>15110187
-15110187
-15110187</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">fQp9Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoSW50ZWdlciBpbnRlZ2VyIDogbWF0Y2hTdGEpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>MYSQL_critical_db
-MYSQL_critical_db
-MYSQL_critical_db</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgU2VsZWN0REIgZXh0ZW5kcyBEYXRhYmFzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChlbmRlZEJveFNjb3JlTWF0Y2hlc0J5TWF0Y2hJZC5jb250YWluc0tleShtYXRjaElkKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNldDxTdHJpbmc+IGF2YWlsYWJsZVByb3BlcnRpZXMgPSBncC5nZXRBdmFpbGFibGVQcm9wZXJ0aWVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW5kZWRCb3hTY29yZU1hdGNoIG1hdGNoID0gZW5kZWRCb3hTY29yZU1hdGNoZXNCeU1hdGNoSWQuZ2V0KG1hdGNoSWQpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
