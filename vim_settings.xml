@@ -1282,8 +1282,8 @@
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1538381536652">
-        <mark key="'" line="120" column="0" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1538391735050">
+        <mark key="'" line="161" column="57" />
         <mark key="[" line="156" column="50" />
         <mark key="]" line="156" column="49" />
         <mark key="^" line="156" column="49" />
@@ -1633,6 +1633,7 @@
         <mark key="." line="37" column="27" />
       </file>
       <file name="/work/projects/gitlab/java/source/conf/general.properties.lo_dev_zrh" timestamp="1538059623040" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1538391828672" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1504530116252">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="50" />
@@ -2753,7 +2754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="2" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="407" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/TemplateOptions.java" />
       <jump line="428" column="18" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/TemplateOptions.java" />
       <jump line="430" column="48" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/TemplateOptions.java" />
@@ -2853,6 +2853,7 @@
       <jump line="6" column="29" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="440" column="45" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="731" column="40" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
+      <jump line="161" column="57" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2865,7 +2866,7 @@
         <text encoding="base64">ZGlzYWJsaW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text>matchDao</text>
+        <text>16</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vZGlmaWVyTGlzdC5hZGQoRmxhZ1JlbW92ZWRNYXRjaGVzLmNsYXNzLmdldE5hbWUoKSk7Cg==</text>
@@ -2901,13 +2902,13 @@
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>97</text>
+        <text>89</text>
       </register>
     </registers>
     <search>
-      <last-search>matchDao</last-search>
+      <last-search>16</last-search>
       <last-offset />
-      <last-pattern>matchDao</last-pattern>
+      <last-pattern>16</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>log</last-substitute>
       <last-dir>1</last-dir>
@@ -2915,7 +2916,6 @@
     </search>
     <history>
       <history-search>
-        <entry>doquery</entry>
         <entry>invoke</entry>
         <entry>SelectDB</entry>
         <entry>lodev</entry>
@@ -2935,9 +2935,9 @@
         <entry>postEvents</entry>
         <entry>StatsHistory</entry>
         <entry>matchDao</entry>
+        <entry>16</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyAvLmphdmFcXHwvZw==</entry>
         <entry>%s/&quot;conf&quot;/&quot;src\/main\/resources\/conf&quot;/gc</entry>
         <entry encoding="base64">JzwsJz4lcy9cLmphdmEvL2c=</entry>
         <entry>417</entry>
@@ -2957,6 +2957,7 @@
         <entry>361</entry>
         <entry>790</entry>
         <entry>97</entry>
+        <entry>89</entry>
       </history-cmd>
       <history-expr />
       <history-input />
