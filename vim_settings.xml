@@ -2489,11 +2489,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1538379792506">
-        <mark key="[" line="534" column="0" />
-        <mark key="]" line="534" column="0" />
-        <mark key="." line="534" column="0" />
-        <mark key="^" line="534" column="32" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1538381323946">
+        <mark key="[" line="515" column="8" />
+        <mark key="]" line="516" column="56" />
+        <mark key="." line="516" column="56" />
+        <mark key="^" line="516" column="56" />
       </file>
       <file name="/work/projects/gitlab/betting/unified-feed/uf-config-backend/pom.xml" timestamp="1534520804335">
         <mark key="[" line="146" column="40" />
@@ -2809,14 +2809,14 @@
       <jump line="8675" column="86" filename="/tmp/select___from_config_filter.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wCg==</text>
+      <register name="&quot;" type="4">
+        <text>where e.matchid = 15110187</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>where e.matchid = 15110187</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
