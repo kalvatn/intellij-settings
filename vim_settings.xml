@@ -127,6 +127,9 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender/dom/LiveScoreDOMGenerator.java" timestamp="1538379646908">
+        <mark key="'" line="606" column="54" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/JWTConfiguration.java" timestamp="1500579313112">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="28" />
@@ -2057,6 +2060,9 @@
         <mark key="^" line="72" column="16" />
         <mark key="." line="72" column="16" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" timestamp="1538379693837">
+        <mark key="'" line="689" column="54" />
+      </file>
       <file name="/work/projects/bac/java-common/sportradar-common-database/src/main/java/com/betradar/database/util/DBUserChecker.java" timestamp="1534361206786">
         <mark key="[" line="387" column="53" />
         <mark key="]" line="414" column="23" />
@@ -2730,11 +2736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="54" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" />
-      <jump line="180" column="65" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" />
-      <jump line="35" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" />
-      <jump line="218" column="12" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/UAEAGLCardSorting.java" />
-      <jump line="87" column="57" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/sorting/SortingRule.java" />
       <jump line="19" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_25.sql" />
       <jump line="290" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_25.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_25.sql" />
@@ -2830,6 +2831,11 @@
       <jump line="105" column="9" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
       <jump line="53" column="20" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="231" column="68" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
+      <jump line="100" column="3" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender/dom/LiveScoreDOMGenerator.java" />
+      <jump line="140" column="6" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender/dom/LiveScoreDOMGenerator.java" />
+      <jump line="606" column="54" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender/dom/LiveScoreDOMGenerator.java" />
+      <jump line="107" column="80" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
+      <jump line="689" column="54" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2842,7 +2848,7 @@
         <text>@env@</text>
       </register>
       <register name="/" type="4">
-        <text>hidden</text>
+        <text>Lineups</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vZGlmaWVyTGlzdC5hZGQoRmxhZ1JlbW92ZWRNYXRjaGVzLmNsYXNzLmdldE5hbWUoKSk7Cg==</text>
@@ -2883,9 +2889,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hidden</last-search>
+      <last-search>Lineups</last-search>
       <last-offset />
-      <last-pattern>hidden</last-pattern>
+      <last-pattern>Lineups</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>log</last-substitute>
       <last-dir>1</last-dir>
@@ -2893,7 +2899,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TARGET_TYPE</entry>
         <entry>processing</entry>
         <entry>log</entry>
         <entry>hanlde</entry>
@@ -2913,6 +2918,7 @@
         <entry>ENDED</entry>
         <entry>status</entry>
         <entry>hidden</entry>
+        <entry>Lineups</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmphdmFcXHwvZw==</entry>
