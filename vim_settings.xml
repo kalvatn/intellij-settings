@@ -548,7 +548,6 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
-        <mark key="^" line="36" column="36" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/livescore/events/LivescoreEventUtil.java" timestamp="1508959193043">
         <mark key="[" line="35" column="28" />
@@ -1282,13 +1281,6 @@
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1538391735050">
-        <mark key="'" line="161" column="57" />
-        <mark key="[" line="156" column="50" />
-        <mark key="]" line="156" column="49" />
-        <mark key="^" line="156" column="49" />
-        <mark key="." line="156" column="49" />
-      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/messaging/mdb/LiveTableMDB.java" timestamp="1505808527174">
         <mark key="[" line="16" column="89" />
         <mark key="]" line="16" column="89" />
@@ -1633,7 +1625,6 @@
         <mark key="." line="37" column="27" />
       </file>
       <file name="/work/projects/gitlab/java/source/conf/general.properties.lo_dev_zrh" timestamp="1538059623040" />
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1538391828672" />
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1504530116252">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="50" />
@@ -1772,13 +1763,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1538389483776">
-        <mark key="'" line="731" column="40" />
-        <mark key="[" line="149" column="105" />
-        <mark key="]" line="149" column="113" />
-        <mark key="." line="149" column="113" />
-        <mark key="^" line="149" column="113" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/TennisManager.java" timestamp="1514897258916">
         <mark key="[" line="51" column="64" />
@@ -2754,10 +2738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/TemplateOptions.java" />
-      <jump line="428" column="18" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/TemplateOptions.java" />
-      <jump line="430" column="48" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/TemplateOptions.java" />
-      <jump line="176" column="48" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/TemplateOptions.java" />
       <jump line="360" column="58" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender/TemplateOptions.java" />
       <jump line="112" column="46" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/modifier/ScoutNumberDataLoader.java" />
       <jump line="56" column="52" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/modifier/ScoutDeviceDataLoader.java" />
@@ -2854,6 +2834,10 @@
       <jump line="440" column="45" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="731" column="40" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="161" column="57" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="674" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
+      <jump line="1208" column="34" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
+      <jump line="1225" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
+      <jump line="231" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2866,7 +2850,7 @@
         <text encoding="base64">ZGlzYWJsaW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text>16</text>
+        <text>StatsHistoryDB</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vZGlmaWVyTGlzdC5hZGQoRmxhZ1JlbW92ZWRNYXRjaGVzLmNsYXNzLmdldE5hbWUoKSk7Cg==</text>
@@ -2906,9 +2890,9 @@
       </register>
     </registers>
     <search>
-      <last-search>16</last-search>
+      <last-search>StatsHistoryDB</last-search>
       <last-offset />
-      <last-pattern>16</last-pattern>
+      <last-pattern>StatsHistoryDB</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>log</last-substitute>
       <last-dir>1</last-dir>
@@ -2916,8 +2900,6 @@
     </search>
     <history>
       <history-search>
-        <entry>invoke</entry>
-        <entry>SelectDB</entry>
         <entry>lodev</entry>
         <entry>lo-dev</entry>
         <entry>lo_dev</entry>
@@ -2936,6 +2918,8 @@
         <entry>StatsHistory</entry>
         <entry>matchDao</entry>
         <entry>16</entry>
+        <entry>YELLOW</entry>
+        <entry>StatsHistoryDB</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;conf&quot;/&quot;src\/main\/resources\/conf&quot;/gc</entry>
