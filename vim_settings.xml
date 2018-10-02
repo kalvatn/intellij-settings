@@ -1590,9 +1590,9 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1538488135964">
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1538490878298">
         <mark key="'" line="762" column="0" />
-        <mark key="[" line="806" column="0" />
+        <mark key="[" line="698" column="25" />
         <mark key="]" line="806" column="0" />
         <mark key="^" line="809" column="20" />
         <mark key="." line="806" column="0" />
@@ -1772,12 +1772,12 @@
         <mark key="." line="94" column="1" />
         <mark key="^" line="94" column="1" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1538480888900">
-        <mark key="'" line="103" column="64" />
-        <mark key="[" line="44" column="59" />
-        <mark key="]" line="44" column="58" />
-        <mark key="." line="44" column="58" />
-        <mark key="^" line="44" column="58" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1538491915857">
+        <mark key="'" line="128" column="64" />
+        <mark key="[" line="24" column="66" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+        <mark key="^" line="25" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_8.sql" timestamp="1528987204219">
         <mark key="[" line="22" column="28" />
@@ -2096,11 +2096,11 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" timestamp="1538489094822">
-        <mark key="'" line="53" column="34" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" timestamp="1538491871685">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="88" column="5" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/bracket/BracketMatchup.java" timestamp="1524752641272">
         <mark key="[" line="72" column="9" />
@@ -2783,8 +2783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="787" column="17" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
-      <jump line="802" column="66" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="803" column="54" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="805" column="17" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="819" column="20" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
@@ -2883,52 +2881,54 @@
       <jump line="220" column="0" filename="/work/projects/gitlab/java/source/conf/log4j.xml" />
       <jump line="42" column="0" filename="/work/projects/gitlab/java/source/conf/log4j.xml" />
       <jump line="21" column="39" filename="/work/projects/gitlab/java/source/conf/log4j.xml" />
+      <jump line="68" column="32" filename="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" />
+      <jump line="76" column="64" filename="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhtYXRjaFN0YXR1cyk7CiAgICAgICAgbG9nLmluZm8od2FybmluZyk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>everyItem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxsb2dnZXIgbmFtZT0iY29tLmJldHJhZGFyIiBhZGRpdGl2aXR5PSJmYWxzZSI+CgkJPGxldmVsIHZhbHVlPSJpbmZvIiAvPgoJCTxhcHBlbmRlci1yZWYgcmVmPSJDb25zb2xlQXBwZW5kZXIiIC8+Cgk8L2xvZ2dlcj4K</text>
+        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRUaGF0KGxvYWRlci5jcmVhdGVXYXJuaW5nRm9yTWF0Y2goY3JlYXRlVGVzdFN0YXR1cyhmYWxzZSwgdHJ1ZSkpLmlzUHJlc2VudCgpLAogICAgICBpcyhmYWxzZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8YXBwZW5kZXItcmVmIHJlZj0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXIiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhtYXRjaFN0YXR1cyk7CiAgICAgICAgbG9nLmluZm8od2FybmluZyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8YXBwZW5kZXItcmVmIHJlZj0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXIiIC8+Cg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFdhcm5pbmc+IHc0ID0gbG9hZGVyLmNyZWF0ZVdhcm5pbmdGb3JNYXRjaChjcmVhdGVUZXN0U3RhdHVzKGZhbHNlLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFdhcm5pbmc+IHczID0gbG9hZGVyLmNyZWF0ZVdhcm5pbmdGb3JNYXRjaChjcmVhdGVUZXN0U3RhdHVzKGZhbHNlLCB0cnVlKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJDb25zb2xlQXBwZW5kZXIiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkFzeW5jQXBwZW5kZXIiPgoJCTxwYXJhbSBuYW1lPSJCdWZmZXJTaXplIiB2YWx1ZT0iMTAwMCIvPgoJCTxwYXJhbSBuYW1lPSJCbG9ja2luZyIgdmFsdWU9ImZhbHNlIi8+CgkJPHBhcmFtIG5hbWU9IkxvY2F0aW9uSW5mbyIgdmFsdWU9InRydWUiLz4KCQk8YXBwZW5kZXItcmVmIHJlZj0iQ29uc29sZUFwcGVuZGVyU3luYyIgLz4KCTwvYXBwZW5kZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFdhcm5pbmc+IHcyID0gbG9hZGVyLmNyZWF0ZVdhcm5pbmdGb3JNYXRjaChjcmVhdGVUZXN0U3RhdHVzKHRydWUsIHRydWUpKTsK</text>
       </register>
       <register name="u" type="4">
         <text>ieu</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvZ1V0aWwuc2V0Um9vdEFwcGVuZGVyKExldmVsLkRFQlVHKTsK</text>
+        <text encoding="base64">ICAgIE1hcDxJbnRlZ2VyLCBFbmRlZEJveFNjb3JlTWF0Y2g+IG1hdGNoZXMgPSBsb2FkZXIuZ2V0RW5kZWRCb3hTY29yZU1hdGNoZXMoCiAgICAgIE1BVENIX0lEU19UT19URVNUKTsKICAgIE1hcDxJbnRlZ2VyLCBFbmRlZEJveFNjb3JlTWF0Y2hDcmF3bGVyU3RhdHVzPiBzdGF0dXMgPSBsb2FkZXIuZ2V0Q3Jhd2xlclN0YXR1c0ZvckVuZGVkQm94U2NvcmVNYXRjaGVzKAogICAgICBtYXRjaGVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIHN0YXR1cy52YWx1ZXMoKS5mb3JFYWNoKG1hdGNoU3RhdHVzIC0+IHsKICAgICAgT3B0aW9uYWw8V2FybmluZz4gd2FybmluZyA9IGxvYWRlci5jcmVhdGVXYXJuaW5nRm9yTWF0Y2gobWF0Y2hTdGF0dXMpOwogICAgICBBc3NlcnQuYXNzZXJ0VGhhdCh3YXJuaW5nLmlzUHJlc2VudCgpLCBpcyghbWF0Y2hTdGF0dXMuaGFzVGVhbVN0YXRzKCkpKTsKICAgICAgbG9nLmluZm8obWF0Y2hTdGF0dXMpOwogICAgICBsb2cuaW5mbyh3YXJuaW5nKTsKICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJEZWZhdWx0RXJyb3JMb2dBcHBlbmRlclN5bmMiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkZpbGVBcHBlbmRlciI+CgkJPHBhcmFtIG5hbWU9IkZpbGUiIHZhbHVlPSIuL2xvZy9lcnJvcnMubG9nIiAvPgoJCTxwYXJhbSBuYW1lPSJBcHBlbmQiIHZhbHVlPSJ0cnVlIiAvPgoJCTxwYXJhbSBuYW1lPSJUaHJlc2hvbGQiIHZhbHVlPSJlcnJvciIgLz4KCQk8bGF5b3V0IGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLlBhdHRlcm5MYXlvdXQiPgoJCQk8cGFyYW0gbmFtZT0iQ29udmVyc2lvblBhdHRlcm4iIHZhbHVlPSIlZHt5eXl5LU1NLWRkIEhIOm1tOnNzfSAoJXApOiAlYy4lTSglTCklbiAtICVtJW4iIC8+CgkJPC9sYXlvdXQ+Cgk8L2FwcGVuZGVyPgoJCgk8YXBwZW5kZXIgbmFtZT0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXIiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkFzeW5jQXBwZW5kZXIiPgoJCTxwYXJhbSBuYW1lPSJCdWZmZXJTaXplIiB2YWx1ZT0iMTAwMCIvPgoJCTxwYXJhbSBuYW1lPSJCbG9ja2luZyIgdmFsdWU9ImZhbHNlIi8+CgkJPHBhcmFtIG5hbWU9IkxvY2F0aW9uSW5mbyIgdmFsdWU9InRydWUiLz4KCQk8YXBwZW5kZXItcmVmIHJlZj0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXJTeW5jIiAvPgoJPC9hcHBlbmRlcj4K</text>
+        <text encoding="base64">ICAgIG5ldyBFbmRlZEJveFNjb3JlTWF0Y2hDcmF3bGVyU3RhdHVzKG1hdGNoLCB0cnVlLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8YXBwZW5kZXItcmVmIHJlZj0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXIiIC8+Cg==</text>
+        <text encoding="base64">ICAgIFRlYW0gaG9tZSA9IG5ldyBUZWFtKDEsICJUZWFtIDEiKTsKICAgIFRlYW0gYXdheSA9IG5ldyBUZWFtKDIsICJUZWFtIDIiKTsKICAgIEVuZGVkQm94U2NvcmVNYXRjaCBtYXRjaCA9IG5ldyBFbmRlZEJveFNjb3JlTWF0Y2goMSwgSW5zdGFudC5ub3coKSwgSW5zdGFudC5ub3coKSwgaG9tZSwgYXdheSk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
@@ -3051,6 +3051,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
