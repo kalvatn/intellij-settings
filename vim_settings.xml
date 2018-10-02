@@ -69,7 +69,8 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="17" column="62" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1538144199859">
+      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1538477004849">
+        <mark key="'" line="265" column="82" />
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="23" />
         <mark key="." line="11" column="23" />
@@ -466,7 +467,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties.@env@" timestamp="1538382878030" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties.@env@" timestamp="1538476997793">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="48" />
+        <mark key="^" line="25" column="48" />
+        <mark key="." line="25" column="48" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_3.sql" timestamp="1506435179047">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="1" column="17" />
@@ -1491,6 +1497,12 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/MatchDataLoader.java" timestamp="1538477363386">
+        <mark key="[" line="892" column="79" />
+        <mark key="]" line="893" column="23" />
+        <mark key="^" line="893" column="23" />
+        <mark key="." line="893" column="23" />
+      </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/AuthenticationConfiguration.java" timestamp="1500578285184">
         <mark key="[" line="29" column="3" />
         <mark key="]" line="32" column="2" />
@@ -2447,12 +2459,12 @@
         <mark key="^" line="147" column="28" />
         <mark key="." line="147" column="28" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" timestamp="1538471640860">
-        <mark key="'" line="235" column="68" />
-        <mark key="[" line="71" column="25" />
-        <mark key="]" line="71" column="32" />
-        <mark key="." line="71" column="32" />
-        <mark key="^" line="71" column="32" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" timestamp="1538477087939">
+        <mark key="'" line="152" column="22" />
+        <mark key="[" line="204" column="39" />
+        <mark key="]" line="204" column="39" />
+        <mark key="." line="204" column="39" />
+        <mark key="^" line="204" column="39" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/Team2TeamCache.java" timestamp="1509406639073">
         <mark key="[" line="26" column="72" />
@@ -2614,9 +2626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="28" filename="/work/projects/gitlab/dei/www/www/contentadmin/module/Betradar/src/Betradar/Controller/LiveScoreXmlOptionsController.php" />
-      <jump line="349" column="28" filename="/work/projects/gitlab/dei/www/www/contentadmin/module/Betradar/src/Betradar/Controller/LiveScoreXmlOptionsController.php" />
-      <jump line="409" column="22" filename="/work/projects/gitlab/dei/www/www/contentadmin/module/Betradar/src/Betradar/Controller/LiveScoreXmlOptionsController.php" />
       <jump line="430" column="20" filename="/work/projects/gitlab/dei/www/www/contentadmin/module/Betradar/src/Betradar/Controller/LiveScoreXmlOptionsController.php" />
       <jump line="162" column="18" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="814" column="18" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
@@ -2714,6 +2723,9 @@
       <jump line="122" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="177" column="61" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="184" column="30" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
+      <jump line="265" column="82" filename="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" />
+      <jump line="150" column="34" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
+      <jump line="152" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2726,7 +2738,7 @@
         <text>9873707, 9903901, 10005079, 9903903, 9914985</text>
       </register>
       <register name="/" type="4">
-        <text>process</text>
+        <text>hidden</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChnZXRQYXJhbTEoKS5pc0VtcHR5KCkgJiYgZXZlbnQuZ2V0UGFyYW0xKCkuaXNFbXB0eSgpKSB7CiAgICAgIHJldHVybiBlcXVhbHNFdmVudChldmVudCk7CiAgICB9Cg==</text>
@@ -2769,9 +2781,9 @@
       </register>
     </registers>
     <search>
-      <last-search>process</last-search>
+      <last-search>hidden</last-search>
       <last-offset />
-      <last-pattern>process</last-pattern>
+      <last-pattern>hidden</last-pattern>
       <last-replace>logger</last-replace>
       <last-substitute>log</last-substitute>
       <last-dir>1</last-dir>
@@ -2785,7 +2797,6 @@
         <entry>STATUS</entry>
         <entry>ENDED</entry>
         <entry>status</entry>
-        <entry>hidden</entry>
         <entry>Lineups</entry>
         <entry>TEAM_PLAYER</entry>
         <entry>80</entry>
@@ -2799,6 +2810,7 @@
         <entry>YELLOW</entry>
         <entry>StatsHistoryDB</entry>
         <entry>process</entry>
+        <entry>hidden</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;conf&quot;/&quot;src\/main\/resources\/conf&quot;/gc</entry>
