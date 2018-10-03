@@ -2096,11 +2096,11 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
       </file>
-      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" timestamp="1538492901905">
-        <mark key="[" line="74" column="35" />
-        <mark key="]" line="74" column="42" />
-        <mark key="." line="74" column="42" />
-        <mark key="^" line="74" column="42" />
+      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" timestamp="1538493035746">
+        <mark key="[" line="73" column="4" />
+        <mark key="]" line="73" column="32" />
+        <mark key="." line="73" column="32" />
+        <mark key="^" line="73" column="32" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/fishnet/api/entities/cup/bracket/BracketMatchup.java" timestamp="1524752641272">
         <mark key="[" line="72" column="9" />
@@ -2885,8 +2885,11 @@
       <jump line="76" column="64" filename="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>14736363</text>
+      <register name="&quot;" type="8">
+        <text>createTestStatus(true, false))
+createTestStatus(true, true));
+createTestStatus(false, true))
+createTestStatus(false, false)</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -2897,8 +2900,11 @@
       <register name="/" type="4">
         <text>everyItem</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRUaGF0KHdhcm5pbmdzLmdldCgxNTExMTAwNyksIGlzKG5vdChudWxsVmFsdWUoKSkpKTsKICAgIEFzc2VydC5hc3NlcnRUaGF0KHdhcm5pbmdzLmdldCgxNDczNjM2MyksIGlzKG5vdChudWxsVmFsdWUoKSkpKTsKICAgIEFzc2VydC5hc3NlcnRUaGF0KHdhcm5pbmdzLmdldCgxNTExMTAwMSksIGlzKG5vdChudWxsVmFsdWUoKSkpKTsK</text>
+      <register name="0" type="8">
+        <text>createTestStatus(true, false))
+createTestStatus(true, true));
+createTestStatus(false, true))
+createTestStatus(false, false)</text>
       </register>
       <register name="1" type="8">
         <text>)
