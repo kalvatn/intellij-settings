@@ -242,11 +242,11 @@
       <file name="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/server/selenium-server-standalone/2.25.0/selenium-server-standalone-2.25.0.jar!/org/hamcrest/CoreMatchers.class" timestamp="1538486344435">
         <mark key="n" line="57" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" timestamp="1538557112090">
-        <mark key="[" line="78" column="34" />
-        <mark key="]" line="78" column="34" />
-        <mark key="." line="78" column="34" />
-        <mark key="^" line="78" column="34" />
+      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" timestamp="1538569684237">
+        <mark key="[" line="84" column="26" />
+        <mark key="]" line="85" column="20" />
+        <mark key="." line="85" column="20" />
+        <mark key="^" line="85" column="20" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" timestamp="1538381644499">
         <mark key="'" line="1491" column="66" />
@@ -463,57 +463,54 @@
       <jump line="238" column="55" filename="/work/projects/gitlab/statistics/model/target/generated-sources/protobuf/java/com/sportradar/statistics/model/proto/Team.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAodHlwZSkgewogICAgICBjYXNlIFJFR1VMQVI6CiAgICAgICAgcmV0dXJuIFBlcmlvZC5QZXJpb2RUeXBlLlJFR1VMQVI7CiAgICAgIGNhc2UgT1ZFUlRJTUU6CiAgICAgICAgcmV0dXJuIFBlcmlvZC5QZXJpb2RUeXBlLk9WRVJUSU1FOwogICAgICBjYXNlIFNIT09UT1VUOgogICAgICAgIHJldHVybiBQZXJpb2QuUGVyaW9kVHlwZS5TSE9PVE9VVDsKICAgICAgZGVmYXVsdDoKICAgICAgICByZXR1cm4gUGVyaW9kLlBlcmlvZFR5cGUuUkVHVUxBUjsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>warnings1</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>regular</text>
+        <text>warnings1</text>
       </register>
       <register name="/" type="4">
         <text>newBuilder</text>
       </register>
-      <register name="0" type="8">
-        <text>createTestStatus(true, false))
-createTestStatus(true, true));
-createTestStatus(false, true))
-createTestStatus(false, false)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGR1bW15U3RhdHVzZXMucHV0KDEsIHMxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAodHlwZSkgewogICAgICBjYXNlIFJFR1VMQVI6CiAgICAgICAgcmV0dXJuIFBlcmlvZC5QZXJpb2RUeXBlLlJFR1VMQVI7CiAgICAgIGNhc2UgT1ZFUlRJTUU6CiAgICAgICAgcmV0dXJuIFBlcmlvZC5QZXJpb2RUeXBlLk9WRVJUSU1FOwogICAgICBjYXNlIFNIT09UT1VUOgogICAgICAgIHJldHVybiBQZXJpb2QuUGVyaW9kVHlwZS5TSE9PVE9VVDsKICAgICAgZGVmYXVsdDoKICAgICAgICByZXR1cm4gUGVyaW9kLlBlcmlvZFR5cGUuUkVHVUxBUjsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPHJlbGVhc2VzPgoJCQkJPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KCQkJPC9yZWxlYXNlcz4KCQkJPHNuYXBzaG90cz4KCQkJCTxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CgkJCTwvc25hcHNob3RzPgo=</text>
+        <text encoding="base64">ICAgIE1hcDxJbnRlZ2VyLCBXYXJuaW5nPiB3YXJuaW5ncyA9IGxvYWRlci5nZW5lcmF0ZVdhcm5pbmdzRm9yRW5kZWRNYXRjaGVzV2l0aG91dENyYXdsZWRSZXN1bHQoCiAgICAgIHRlc3RTdGF0dXNlcyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHJlbGVhc2VzPgoJCQkJPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KCQkJPC9yZWxlYXNlcz4KCQkJPHNuYXBzaG90cz4KCQkJCTxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CgkJCTwvc25hcHNob3RzPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN3aXRjaCAodHlwZSkgewogICAgICBjYXNlIFJFR1VMQVI6CiAgICAgICAgcmV0dXJuIFBlcmlvZC5QZXJpb2RUeXBlLlJFR1VMQVI7CiAgICAgIGNhc2UgT1ZFUlRJTUU6CiAgICAgICAgcmV0dXJuIFBlcmlvZC5QZXJpb2RUeXBlLk9WRVJUSU1FOwogICAgICBjYXNlIFNIT09UT1VUOgogICAgICAgIHJldHVybiBQZXJpb2QuUGVyaW9kVHlwZS5TSE9PVE9VVDsKICAgICAgZGVmYXVsdDoKICAgICAgICByZXR1cm4gUGVyaW9kLlBlcmlvZFR5cGUuUkVHVUxBUjsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEp1bml0VAo=</text>
+        <text encoding="base64">CQkJPHJlbGVhc2VzPgoJCQkJPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KCQkJPC9yZWxlYXNlcz4KCQkJPHNuYXBzaG90cz4KCQkJCTxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CgkJCTwvc25hcHNob3RzPgo=</text>
       </register>
-      <register name="5" type="8">
-        <text>)
-)
-)</text>
+      <register name="5" type="4">
+        <text encoding="base64">PHJlbGVhc2VzPgoJCQkJPGVuYWJsZWQ+dHJ1ZTwvZW5hYmxlZD4KCQkJPC9yZWxlYXNlcz4KCQkJPHNuYXBzaG90cz4KCQkJCTxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CgkJCTwvc25hcHNob3RzPg==</text>
       </register>
       <register name="u" type="4">
         <text>ieu</text>
       </register>
-      <register name="6" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">QEp1bml0VAo=</text>
+      </register>
+      <register name="7" type="8">
+        <text>)
+)
+)</text>
+      </register>
+      <register name="8" type="8">
         <text>not(
 not(
 not(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnZhbHVlcygpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvYWRlci5nZXRDcmF3bGVyU3RhdHVzRm9yRW5kZWRCb3hTY29yZU1hdGNoZXMoCiAgICAgIHRlc3RNYXRjaGVzKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgRFVNTVlfTUFUQ0hfSUQgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgLnZhbHVlcygpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">U0VMRUNUCiAgdC5pZCwKICB0LmRlc2NyaXB0aW9uLAogIGZ0LioKRlJPTSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnQgZnQKICBKT0lOIHN0YXRpc3RpY3NfdGFibGVzIHQgT04gdC5pZCA9IGZ0LnRhYmxlSWQKV0hFUkUgZnQuaWQgPSA3MjEwNzQ7Cg==</text>
