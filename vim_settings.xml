@@ -77,9 +77,9 @@
         <mark key="^" line="17" column="62" />
       </file>
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/card/utility/StatisticsUtilsTest.java" timestamp="1538486518957" />
-      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1538477004849">
+      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1538659701673">
         <mark key="'" line="265" column="82" />
-        <mark key="[" line="11" column="14" />
+        <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="23" />
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
@@ -2627,7 +2627,8 @@
         <mark key="^" line="147" column="28" />
         <mark key="." line="147" column="28" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" timestamp="1538646712271">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" timestamp="1538659785237">
+        <mark key="'" line="217" column="50" />
         <mark key="[" line="223" column="91" />
         <mark key="]" line="223" column="113" />
         <mark key="." line="223" column="113" />
@@ -2818,7 +2819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="35" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" />
       <jump line="502" column="110" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" />
       <jump line="335" column="17" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/request/LiveScoreFileSenderRequestHandler.java" />
       <jump line="10" column="25" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/1.0.51-SNAPSHOT/sportradar-common-1.0.51-20180921.124648-2.jar!/com/betradar/database/SelectDB.class" />
@@ -2918,6 +2918,7 @@
       <jump line="52" column="44" filename="/work/projects/gitlab/statistics/model/target/generated-sources/protobuf/java/com/sportradar/statistics/model/proto/Team.java" />
       <jump line="228" column="46" filename="/work/projects/gitlab/statistics/model/target/generated-sources/protobuf/java/com/sportradar/statistics/model/proto/Team.java" />
       <jump line="238" column="55" filename="/work/projects/gitlab/statistics/model/target/generated-sources/protobuf/java/com/sportradar/statistics/model/proto/Team.java" />
+      <jump line="217" column="50" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2930,7 +2931,7 @@
         <text>4365, 6104, 1691</text>
       </register>
       <register name="/" type="4">
-        <text>newBuilder</text>
+        <text>getMatches</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoIm1hdGNoICVkICVzIHZzICVzIHdoaWNoIHN0YXJ0ZWQgJXMgYW5kIGVuZGVkICVzIiwgZ2V0SWQoKSwgZ2V0SG9tZSgpLAogICAgICAgIGdldEF3YXkoKSwgREFURV9USU1FX0ZPUk1BVFRFUi5mb3JtYXQoZ2V0U3RhcnQoKSksIERBVEVfVElNRV9GT1JNQVRURVIuZm9ybWF0KGdldEVuZCgpKSk7Cg==</text>
@@ -2973,9 +2974,9 @@
       </register>
     </registers>
     <search>
-      <last-search>newBuilder</last-search>
+      <last-search>getMatches</last-search>
       <last-offset />
-      <last-pattern>newBuilder</last-pattern>
+      <last-pattern>getMatches</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>.*(\s).*</last-substitute>
       <last-dir>1</last-dir>
@@ -2983,7 +2984,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Officials</entry>
         <entry>TeamStatistics</entry>
         <entry>postEvents</entry>
         <entry>StatsHistory</entry>
@@ -3003,6 +3003,7 @@
         <entry>powermock</entry>
         <entry>everyItem</entry>
         <entry>newBuilder</entry>
+        <entry>getMatches</entry>
       </history-search>
       <history-cmd>
         <entry>581</entry>
