@@ -681,6 +681,9 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/CentralLogMailSender.java" timestamp="1538724905905">
+        <mark key="'" line="45" column="69" />
+      </file>
       <file name="/work/projects/gitlab/java-common/sportradar-common-extraction/io/pom.xml" timestamp="1534465658145">
         <mark key="[" line="32" column="66" />
         <mark key="]" line="32" column="69" />
@@ -2746,6 +2749,9 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/schedule2/ScheduleController.java" timestamp="1538724993528">
+        <mark key="'" line="336" column="0" />
+      </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/statistics/StatisticsLogEAOTest.java" timestamp="1520946149869">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="2" />
@@ -2812,8 +2818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="/work/projects/gitlab/java/source/conf/general.properties.@env@" />
-      <jump line="40" column="12" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
       <jump line="100" column="6" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/1.0.51-SNAPSHOT/sportradar-common-1.0.51-20180921.124648-2.jar!/com/oddsarbitrage/livescore/Warning.class" />
       <jump line="66" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
       <jump line="22" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
@@ -2912,6 +2916,8 @@
       <jump line="59" column="68" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
       <jump line="119" column="28" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
       <jump line="66" column="28" filename="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" />
+      <jump line="45" column="69" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/CentralLogMailSender.java" />
+      <jump line="336" column="0" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/schedule2/ScheduleController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2924,7 +2930,7 @@
         <text>ThatWarningsArePresentOnlyIfTeamStatsMissing</text>
       </register>
       <register name="/" type="4">
-        <text>Status</text>
+        <text>isSchedule</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE1hcDxJbnRlZ2VyLCBNYXRjaD4gdGVzdE1hdGNoZXMgPSBsb2FkZXIuZW5kZWRCb3hTY29yZU1hdGNoZXMoTUFUQ0hfSURTX1RPX1RFU1QpOwo=</text>
@@ -2967,9 +2973,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Status</last-search>
+      <last-search>isSchedule</last-search>
       <last-offset />
-      <last-pattern>Status</last-pattern>
+      <last-pattern>isSchedule</last-pattern>
       <last-replace>States</last-replace>
       <last-substitute>Status</last-substitute>
       <last-dir>1</last-dir>
@@ -2977,7 +2983,6 @@
     </search>
     <history>
       <history-search>
-        <entry>StatsHistory</entry>
         <entry>matchDao</entry>
         <entry>16</entry>
         <entry>YELLOW</entry>
@@ -2997,6 +3002,7 @@
         <entry>getMatches</entry>
         <entry>status</entry>
         <entry>Status</entry>
+        <entry>isSchedule</entry>
       </history-search>
       <history-cmd>
         <entry>259</entry>
