@@ -527,8 +527,8 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1538662955778">
-        <mark key="[" line="0" column="758" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1538738584433">
+        <mark key="[" line="0" column="299" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="38" />
       </file>
@@ -1169,11 +1169,11 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1537877948681">
         <mark key="'" line="52" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1538662938892">
-        <mark key="[" line="40" column="1" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="36" column="79" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1538738660562">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="54" column="17" />
+        <mark key="." line="54" column="17" />
+        <mark key="^" line="54" column="17" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/messaging/mdb/LiveTableMDB.java" timestamp="1505808527174">
         <mark key="[" line="16" column="89" />
@@ -2814,13 +2814,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NOW()</text>
+        <text>Livescore_loadAllMatchesifUniqueTournamentIn</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>NOW()</text>
+        <text>Livescore_loadAllMatchesifUniqueTournamentIn</text>
       </register>
       <register name="/" type="4">
         <text>);\n</text>
