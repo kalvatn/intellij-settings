@@ -1788,8 +1788,8 @@
         <mark key="." line="94" column="1" />
         <mark key="^" line="94" column="1" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1539005260440">
-        <mark key="'" line="129" column="0" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1539071366656">
+        <mark key="'" line="101" column="51" />
         <mark key="[" line="148" column="17" />
         <mark key="]" line="148" column="17" />
         <mark key="." line="148" column="17" />
@@ -2826,7 +2826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="666" column="49" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="716" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="831" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="950" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
@@ -2926,6 +2925,7 @@
       <jump line="1050" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="309" column="31" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/rule/Rule.java" />
       <jump line="119" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
+      <jump line="101" column="51" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
