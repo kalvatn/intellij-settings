@@ -969,8 +969,8 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" timestamp="1537965729222">
-        <mark key="'" line="46" column="65" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" timestamp="1539075174802">
+        <mark key="'" line="70" column="26" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1538738973026">
         <mark key="'" line="1050" column="29" />
@@ -2826,8 +2826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="716" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="831" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="950" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="989" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="78" column="40" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
@@ -2926,6 +2924,8 @@
       <jump line="309" column="31" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/rule/Rule.java" />
       <jump line="119" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
       <jump line="101" column="51" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
+      <jump line="46" column="61" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="70" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2938,7 +2938,7 @@
         <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>getCurrentTime</text>
+        <text>PERIOD2_START</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIEluc3RhbnQgZW5kUGx1c0ZpZnRlZW4gPSBjcmF3bGVyU3RhdGVzLm1hdGNoLmVuZC5wbHVzKER1cmF0aW9uLm9mTWludXRlcygxNSkpOwo=</text>
@@ -2981,9 +2981,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getCurrentTime</last-search>
+      <last-search>PERIOD2_START</last-search>
       <last-offset />
-      <last-pattern>getCurrentTime</last-pattern>
+      <last-pattern>PERIOD2_START</last-pattern>
       <last-replace>States</last-replace>
       <last-substitute>Status</last-substitute>
       <last-dir>1</last-dir>
@@ -2991,8 +2991,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\n</entry>
-        <entry>\s+\n</entry>
         <entry>\s\+\n</entry>
         <entry>\s*\n</entry>
         <entry>\s*</entry>
@@ -3011,6 +3009,8 @@
         <entry>update livescore</entry>
         <entry encoding="base64">aW5zZXJ0IA==</entry>
         <entry>getCurrentTime</entry>
+        <entry>23</entry>
+        <entry>PERIOD2_START</entry>
       </history-search>
       <history-cmd>
         <entry>259</entry>
