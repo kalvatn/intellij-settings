@@ -768,11 +768,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="110" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e1039c38-5c9c-439b-92ae-732873bc4650/console_1.sql" timestamp="1537363750306">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="65" />
-        <mark key="^" line="1" column="63" />
-        <mark key="." line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e1039c38-5c9c-439b-92ae-732873bc4650/console_1.sql" timestamp="1539609142309">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="56" />
       </file>
       <file name="/work/projects/personal/k8s/multi-service-example/api-spring-boot/src/main/java/com/sportradar/k8s/java/examples/api/Artist.java" timestamp="1530617033339">
         <mark key="[" line="8" column="15" />
@@ -1397,13 +1397,6 @@
         <mark key="]" line="13" column="66" />
         <mark key="^" line="13" column="66" />
         <mark key="." line="13" column="66" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_1.sql" timestamp="1538490463443">
-        <mark key="k" line="3" column="51" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-        <mark key="^" line="23" column="28" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/resources/SwaggerApiConfig.java" timestamp="1517924489593">
         <mark key="[" line="17" column="27" />
@@ -2342,12 +2335,12 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1539604999388">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1539609165912">
         <mark key="'" line="97" column="0" />
-        <mark key="[" line="116" column="1" />
-        <mark key="]" line="112" column="18" />
-        <mark key="." line="112" column="18" />
-        <mark key="^" line="112" column="18" />
+        <mark key="[" line="120" column="37" />
+        <mark key="]" line="120" column="35" />
+        <mark key="." line="120" column="35" />
+        <mark key="^" line="120" column="35" />
       </file>
       <file name="/work/projects/bac/java-common/zabbix/pom.xml" timestamp="1534360058301">
         <mark key="[" line="27" column="18" />
@@ -2662,13 +2655,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>internal_name</text>
+        <text>c.isCritical</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>internal_name</text>
+        <text>c.isCritical</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsbVw+</text>
