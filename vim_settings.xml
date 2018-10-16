@@ -505,7 +505,7 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1539343583694">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1539664751659">
         <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1380,11 +1380,11 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" timestamp="1539602933943">
-        <mark key="[" line="54" column="43" />
-        <mark key="]" line="54" column="61" />
-        <mark key="." line="54" column="61" />
-        <mark key="^" line="54" column="61" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" timestamp="1539664764332">
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="/work/projects/social/backend/app/src/main/java/com/sportradar/config/AuthenticationConfiguration.java" timestamp="1500578285184">
         <mark key="[" line="29" column="3" />
@@ -1784,11 +1784,11 @@
         <mark key="." line="156" column="41" />
         <mark key="^" line="156" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/06f52eb3-f667-4283-bc9c-1cff618e2e77/console.sql" timestamp="1539335958327">
-        <mark key="[" line="1" column="67" />
-        <mark key="]" line="1" column="66" />
-        <mark key="." line="1" column="66" />
-        <mark key="^" line="1" column="66" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/06f52eb3-f667-4283-bc9c-1cff618e2e77/console.sql" timestamp="1539664663449">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="/work/projects/bac/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/ServiceParamManager.java" timestamp="1509455864378">
         <mark key="[" line="34" column="65" />
@@ -2335,12 +2335,12 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1539609165912">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1539664758121">
         <mark key="'" line="97" column="0" />
-        <mark key="[" line="120" column="37" />
-        <mark key="]" line="120" column="35" />
-        <mark key="." line="120" column="35" />
-        <mark key="^" line="120" column="35" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="154" />
+        <mark key="." line="120" column="153" />
+        <mark key="^" line="120" column="0" />
       </file>
       <file name="/work/projects/bac/java-common/zabbix/pom.xml" timestamp="1534360058301">
         <mark key="[" line="27" column="18" />
@@ -2654,14 +2654,14 @@
       <jump line="97" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c.isCritical</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IGMuaG9zdE1hY2hpbmVJcCwgYy5tYWNoaW5lX2dyb3VwLCBjLkNvbXBvbmVudElkLCBjLkNvbXBvbmVudE5hbWUsIGMuKiBmcm9tIGNvbXBvbmVudHRhYmxlIGMgd2hlcmUgYy5ob3N0TWFjaGluZUlwID0gIjEwLjIwMC40LjU2IiBhbmQgYy5hY3RpdmUgPSAxIDsK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>c.isCritical</text>
+        <text>like &quot;%scoutlivescore%&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsbVw+</text>
