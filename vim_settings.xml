@@ -2332,12 +2332,12 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1539768305757">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1539768401895">
         <mark key="'" line="97" column="0" />
-        <mark key="[" line="195" column="772" />
-        <mark key="]" line="195" column="6" />
-        <mark key="." line="195" column="6" />
-        <mark key="^" line="195" column="6" />
+        <mark key="[" line="127" column="42" />
+        <mark key="]" line="127" column="43" />
+        <mark key="." line="127" column="43" />
+        <mark key="^" line="127" column="43" />
       </file>
       <file name="/work/projects/bac/java-common/zabbix/pom.xml" timestamp="1534360058301">
         <mark key="[" line="27" column="18" />
@@ -2651,14 +2651,14 @@
       <jump line="105" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2luRnVsbFRpbWVBd2F5LCBkcmF3RnVsbFRpbWVBd2F5LCBsb3NzRnVsbFRpbWVBd2F5LCBjb21tZW50cywgY29tbWVudElkcywgbGFzdE1hdGNoSWQsIGN1cnJlbnRSb3VuZE1hdGNoSWQsIHBsYXllZFRvdGFsQWRqdXN0LCBwbGF5ZWRIb21lQWRqdXN0LCBwbGF5ZWRBd2F5QWRqdXN0LCBwb2ludHNMYXN0MTAsIHBvaW50c0dpdmVuTGFzdDEwLCB3aW5MYXN0MTAsIGRyYXdMYXN0MTAsIGxvc3NMYXN0MTAsIGdvYWxzRm9yTGFzdDEwLCBnb2Fsc0FnYWluc3RMYXN0MTAsIGdhbWVQb2ludHNGb3JMYXN0MTAsIGdhbWVQb2ludHNBZ2FpbnN0TGFzdDEwLCBzdWRkZW5EZWF0aFdpbkxhc3QxMCwgd2luRnVsbFRpbWVMYXN0MTAsIGRyYXdGdWxsVGltZUxhc3QxMCwgbG9zc0Z1bGxUaW1lTGFzdDEwLCBwb2ludHNIb21lTGFzdDEwLCBwb2ludHNHaXZlbkhvbWVMYXN0MTAsIHdpbkhvbWVMYXN0MTAsIGRyYXdIb21lTGFzdDEwLCBsb3NzSG9tZUxhc3QxMCwgZ29hbHNGb3JIb21lTGFzdDEwLCBnb2Fsc0FnYWluc3RIb21lTGFzdDEwLCBnYW1lUG9pbnRzRm9ySG9tZUxhc3QxMCwgZ2FtZVBvaW50c0FnYWluc3RIb21lTGFzdDEwLCBzdWRkZW5EZWF0aFdpbkhvbWVMYXN0MTAsIHdpbkZ1bGxUaW1lSG9tZUxhc3QxMCwgZHJhd0Z1bGxUaW1lSG9tZUxhc3QxMCwgbG9zc0Z1bGxUaW1lSG9tZUxhc3QxMCwgcG9pbnRzQXdheUxhc3QxMCwgcG9pbnRzR2l2ZW5Bd2F5TGFzdDEwLCB3aW5Bd2F5TGFzdDEwLCBkcmF3QXdheUxhc3QxMCwgbG9zc0F3YXlMYXN0MTAsIGdvYWxzRm9yQXdheUxhc3QxMCwgZ29hbHNBZ2FpbnN0QXdheUxhc3QxMCwgZ2FtZVBvaW50c0ZvckF3YXlMYXN0MTAsIGdhbWVQb2ludHNBZ2FpbnN0QXdheUxhc3QxMCwgc3VkZGVuRGVhdGhXaW5Bd2F5TGFzdDEwLCB3aW5GdWxsVGltZUF3YXlMYXN0MTAsIGRyYXdGdWxsVGltZUF3YXlMYXN0MTAsIGxvc3NGdWxsVGltZUF3YXlMYXN0MTAsIHN0cmVhaykgVkFMVUVTICgyOTk2OTQzNCwgMjY0NzQsIDk4NjcsIDEsICcyMDE3LTEwLTA0IDE0OjQzOjE2JywgJzIwMTgtMDQtMDggMDM6NDM6MzInLCAzMSwgMzEsIDAsIDYyLCAxMjAsIDI1LCAwLCA1NywgMTk5LCAyODAsIDE5MywgMjY4LCA1LCAxOSwgMTgsIDQ1LCAzMSwgMzEsIDAsIDI3LCA2MCwgMTEsIDAsIDMwLCA5MSwgMTM5LCA5MSwgMTM0LCAwLCAxMSwgNSwgMjUsIDI1LCAyNSwgMCwgMzUsIDYwLCAxNCwgMCwgMjcsIDEwOCwgMTQxLCAxMDIsIDEzNCwgNSwgOCwgMTMsIDIwLCBudWxsLCBudWxsLCAxMTg3NjczOCwgMTE4NzgwNTAsIDAsIDAsIDAsIDQsIDE2LCAyLCAwLCA4LCAyNywgNDQsIDI3LCA0NCwgMCwgMiwgMCwgOCwgMCwgOCwgMCwgMCwgNCwgNiwgMTcsIDYsIDE3LCAwLCAwLCAwLCA0LCA0LCA4LCAyLCAwLCA0LCAyMSwgMjcsIDIxLCAyNywgMCwgMiwgMCwgNCwgLTQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>tableId</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t%livescore</text>
+        <text>tableId</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
