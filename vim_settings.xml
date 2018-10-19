@@ -1659,11 +1659,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="36" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console.sql" timestamp="1539876289395">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="631" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console.sql" timestamp="1539946780179">
+        <mark key="[" line="41" column="72" />
+        <mark key="]" line="41" column="87" />
+        <mark key="." line="41" column="87" />
+        <mark key="^" line="41" column="87" />
       </file>
       <file name="/work/projects/personal/java9/jdbiexperiments/src/main/java/win/tsge/data/model/Category.java" timestamp="1516977492998">
         <mark key="[" line="14" column="21" />
@@ -2648,14 +2648,14 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZAo=</text>
+      <register name="&quot;" type="4">
+        <text>startingtime_changestatus</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>official_data_locked</text>
+        <text>startingtime_changestatus</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
