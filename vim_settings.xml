@@ -148,6 +148,9 @@
         <mark key="." line="9" column="68" />
         <mark key="^" line="9" column="68" />
       </file>
+      <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/net/ftp/JSchSFTPConnection.java" timestamp="1541071812653">
+        <mark key="'" line="48" column="4" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" timestamp="1541063584576">
         <mark key="'" line="359" column="47" />
         <mark key="[" line="1141" column="84" />
@@ -277,6 +280,9 @@
         <mark key="^" line="19" column="185" />
         <mark key="." line="19" column="185" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.53/jsch-0.1.53-sources.jar!/com/jcraft/jsch/ChannelSftp.java" timestamp="1541072715454">
+        <mark key="'" line="1563" column="27" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/immutable/builder/StatisticsBuilder.java" timestamp="1540893285349">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="20" />
@@ -401,6 +407,9 @@
         <mark key="." line="322" column="62" />
         <mark key="^" line="174" column="3" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1541082222422">
+        <mark key="'" line="2314" column="57" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/league/League.java" timestamp="1539952713883">
         <mark key="[" line="80" column="26" />
         <mark key="]" line="80" column="45" />
@@ -438,6 +447,9 @@
         <mark key="^" line="401" column="16" />
         <mark key="." line="401" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.2/sportradar-common-2.0.2.jar!/com/betradar/common/Util.class" timestamp="1541153529672">
+        <mark key="'" line="864" column="23" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/util/history/Saver.java" timestamp="1539875812011">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="24" />
@@ -461,8 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1064" column="37" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="1115" column="37" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="1127" column="37" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="1134" column="14" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="337" column="55" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
@@ -561,6 +571,8 @@
       <jump line="16" column="4" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/table/StatisticsTables.kt" />
       <jump line="82" column="0" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/table/StatisticsTables.kt" />
       <jump line="14" column="40" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/entity/Sport.kt" />
+      <jump line="868" column="33" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.2/sportradar-common-2.0.2.jar!/com/betradar/common/Util.class" />
+      <jump line="864" column="23" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.2/sportradar-common-2.0.2.jar!/com/betradar/common/Util.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -570,7 +582,7 @@
         <text>logger.</text>
       </register>
       <register name="/" type="4">
-        <text>DELETE</text>
+        <text>addHoursCorrect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih0b3VybmFtZW50Py5yZWFsY2F0ZWdvcnkpCg==</text>
@@ -607,9 +619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DELETE</last-search>
+      <last-search>addHoursCorrect</last-search>
       <last-offset />
-      <last-pattern>DELETE</last-pattern>
+      <last-pattern>addHoursCorrect</last-pattern>
       <last-replace>val \1 = varchar(&quot;\1&quot;)</last-replace>
       <last-substitute>val \(\w*\): String</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>^</entry>
         <entry>$</entry>
         <entry>,$</entry>
         <entry>\(\w+): Int</entry>
@@ -637,6 +648,7 @@
         <entry>lstat</entry>
         <entry>updateParam3</entry>
         <entry>DELETE</entry>
+        <entry>addHoursCorrect</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykkLy9n</entry>
