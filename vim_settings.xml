@@ -386,6 +386,9 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" timestamp="1541435212879">
+        <mark key="'" line="123" column="27" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/util/history/Loader.java" timestamp="1539875351006">
         <mark key="[" line="276" column="80" />
         <mark key="]" line="276" column="89" />
@@ -527,11 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="47" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
-      <jump line="173" column="66" filename="/work/projects/gitlab/livescore/common/pom.xml" />
-      <jump line="6" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/model/LSFSRequest.java" />
-      <jump line="975" column="25" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/request/LiveScoreFileSenderRequestHandler.java" />
-      <jump line="37" column="0" filename="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties.@env@" />
       <jump line="35" column="1" filename="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties.@env@" />
       <jump line="36" column="0" filename="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties.@env@" />
       <jump line="1144" column="58" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
@@ -627,6 +625,11 @@
       <jump line="31" column="48" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="335" column="30" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/Saver.java" />
       <jump line="124" column="32" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/Loader.java" />
+      <jump line="261" column="41" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" />
+      <jump line="303" column="108" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" />
+      <jump line="314" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" />
+      <jump line="317" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" />
+      <jump line="123" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -636,7 +639,7 @@
         <text>12.26.46</text>
       </register>
       <register name="/" type="4">
-        <text>sportradar-common</text>
+        <text>Created</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TXlTcWxEYXRhYmFzZVVSTCA9IGpkYmM6bXlzcWw6Ly8xMC4xMi4yNi40NjozMzA2L29kZHMKTXlTcWxTeXN0ZW1Vc2VyTmFtZSA9IGRldmVsb3BlcgpNeVNxbFN5c3RlbVBhc3N3b3JkID0gT2x2TTljcFZoaAo=</text>
@@ -669,13 +672,13 @@
         <text encoding="base64">ICAgICAgICAgICAgImlkIiwK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3ZhbCBcKFx3KlwpOiBTdHJpbmcvdmFsIFwxID0gdmFyY2hhcigiXDEiKS9n</text>
+        <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>sportradar-common</last-search>
+      <last-search>Created</last-search>
       <last-offset />
-      <last-pattern>sportradar-common</last-pattern>
+      <last-pattern>Created</last-pattern>
       <last-replace>val \1 = varchar(&quot;\1&quot;)</last-replace>
       <last-substitute>val \(\w*\): String</last-substitute>
       <last-dir>1</last-dir>
@@ -683,8 +686,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(\w+): Int</entry>
-        <entry>\(\w+\): Int</entry>
         <entry>\w+:</entry>
         <entry>\\w+:</entry>
         <entry>\w:</entry>
@@ -703,9 +704,10 @@
         <entry>85</entry>
         <entry>PLAYER_POSITION</entry>
         <entry>sportradar-common</entry>
+        <entry>could not get phrase</entry>
+        <entry>Created</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLykkLy9n</entry>
         <entry>%s/(rs/= rs/g</entry>
         <entry encoding="base64">JzwsJz5zLyhycy8gPSBycy9n</entry>
         <entry encoding="base64">JzwsJz5zLykkLywvZw==</entry>
@@ -725,6 +727,7 @@
         <entry encoding="base64">JzwsJz5zL3ZhbCBcKFx3KlwpOiBUaW1lc3RhbXAvdmFsIFwxID0gZGF0ZXRpbWUoIlwxIikvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbCBcKFx3KlwpOiBCb29sZWFuL3ZhbCBcMSA9IGJvb2woIlwxIikvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbCBcKFx3KlwpOiBTdHJpbmcvdmFsIFwxID0gdmFyY2hhcigiXDEiKS9n</entry>
+        <entry>set ignorecase</entry>
       </history-cmd>
       <history-expr />
       <history-input />
