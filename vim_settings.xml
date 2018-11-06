@@ -120,12 +120,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" timestamp="1541531796028">
-        <mark key="'" line="19" column="8" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="15" column="40" />
-        <mark key="." line="24" column="0" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" timestamp="1541532476748">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="86" column="39" />
+        <mark key="]" line="86" column="39" />
+        <mark key="^" line="86" column="37" />
+        <mark key="." line="86" column="39" />
       </file>
       <file name="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/table/StatisticsStaticTablesFT.kt" timestamp="1541083743044">
         <mark key="'" line="8" column="43" />
@@ -557,12 +557,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" timestamp="1541531789020">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="78" column="51" />
-        <mark key="]" line="78" column="82" />
-        <mark key="." line="78" column="82" />
-        <mark key="^" line="78" column="82" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" timestamp="1541533237410">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="69" column="61" />
+        <mark key="]" line="69" column="68" />
+        <mark key="." line="69" column="68" />
+        <mark key="^" line="69" column="68" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/Saver.java" timestamp="1541159205940">
         <mark key="'" line="335" column="30" />
@@ -703,43 +703,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U2V0PERlaVByb3BlcnR5PiA=</text>
+        <text>intArrayOf</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2V0PERlaVByb3BlcnR5PiA=</text>
+        <text>intArrayOf</text>
       </register>
       <register name="/" type="4">
         <text>Int?</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvcGVydHlRdWVyeShlbnRpdHlUeXBlID0gRW50aXR5VHlwZS5UT1VSTkFNRU5ULCBlbnRpdHlJZHMgPSBzZXRPZih0b3VybmFtZW50SWQpLCBwcm9wZXJ0eUlkcyA9IHByb3BlcnR5SWRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBmdW4gZm9yTWF0Y2gobWF0Y2hJZDogSW50LCBwcm9wZXJ0eUlkczogU2V0PEludD4pOiBQcm9wZXJ0eVF1ZXJ5IHsKICAgICAgICAgICAgcmV0dXJuIFByb3BlcnR5UXVlcnkoCiAgICAgICAgICAgICAgICAgICAgZW50aXR5VHlwZSA9IEVudGl0eVR5cGUuTUFUQ0gsCiAgICAgICAgICAgICAgICAgICAgZW50aXR5SWRzID0gc2V0T2YobWF0Y2hJZCksCiAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlJZHMgPSBwcm9wZXJ0eUlkcwogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVzZW50QW5kRXF1YWwoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZvckFsbEVudGl0aWVzT2ZUeXBlKAogICAgICAgICAgICAgICAgICAgIGVudGl0eVR5cGUgPSB0eXBlLAogICAgICAgICAgICAgICAgICAgIHByb3BlcnR5SWRzID0gKmFycmF5T2YocHJvcGVydGllcy5tYXAgeyBpdC5pZCgpIH0pCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShwcm9wLmlzUHJlc2VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHByZXNlbnRBbmRFcXVhbChwcm9wOiBPcHRpb25hbDwqPiwgdmFsdWU6IEFueSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBmdW4gZm9yUHJvcGVydHkodHlwZTogRW50aXR5VHlwZSwgcHJvcGVydGllczogU2V0PEludD4pOiBQcm9wZXJ0eVF1ZXJ5IHsKICAgICAgICAgICAgcmV0dXJuIFByb3BlcnR5UXVlcnkoCiAgICAgICAgICAgICAgICAgICAgZW50aXR5VHlwZSA9IHR5cGUsCiAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlJZHMgPSBwcm9wZXJ0aWVzCiAgICAgICAgICAgICkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBmdW4gZm9yVG91cm5hbWVudCh0b3VybmFtZW50SWQ6IEludCwgcHJvcGVydHlJZHM6IFNldDxJbnQ+KTogUHJvcGVydHlRdWVyeSB7CiAgICAgICAgICAgIHJldHVybiBQcm9wZXJ0eVF1ZXJ5KAogICAgICAgICAgICAgICAgICAgIGVudGl0eVR5cGUgPSBFbnRpdHlUeXBlLlRPVVJOQU1FTlQsCiAgICAgICAgICAgICAgICAgICAgZW50aXR5SWRzID0gc2V0T2YodG91cm5hbWVudElkKSwKICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eUlkcyA9IHByb3BlcnR5SWRzCiAgICAgICAgICAgICkKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIFByb3BlcnR5UXVlcnkuZm9yU3BvcnQoc3BvcnRJZDogSW50LCBwcm9wZXJ0eUlkczogU2V0PEludD4pOiBQcm9wZXJ0eVF1ZXJ5IHsKICAgIHJldHVybiBQcm9wZXJ0eVF1ZXJ5KAogICAgICAgICAgICBlbnRpdHlUeXBlID0gRW50aXR5VHlwZS5TUE9SVCwKICAgICAgICAgICAgZW50aXR5SWRzID0gc2V0T2Yoc3BvcnRJZCksCiAgICAgICAgICAgIHByb3BlcnR5SWRzID0gcHJvcGVydHlJZHMKICAgICkKfQoKZnVuIFByb3BlcnR5UXVlcnkuZm9yUmVhbGNhdGVnb3J5KHJlYWxjYXRlZ29yeUlkOiBJbnQsIHByb3BlcnR5SWRzOiBTZXQ8SW50Pik6IFByb3BlcnR5UXVlcnkgewogICAgcmV0dXJuIFByb3BlcnR5UXVlcnkoCiAgICAgICAgICAgIGVudGl0eVR5cGUgPSBFbnRpdHlUeXBlLlJFQUxDQVRFR09SWSwKICAgICAgICAgICAgZW50aXR5SWRzID0gc2V0T2YocmVhbGNhdGVnb3J5SWQpLAogICAgICAgICAgICBwcm9wZXJ0eUlkcyA9IHByb3BlcnR5SWRzCiAgICApCn0KCmZ1biBQcm9wZXJ0eVF1ZXJ5LmZvclVuaXF1ZVRvdXJuYW1lbnQoCiAgICAgICAgdW5pcXVlVG91cm5hbWVudElkOiBJbnQsCiAgICAgICAgcHJvcGVydHlJZHM6IFNldDxJbnQ+Cik6IFByb3BlcnR5UXVlcnkgewogICAgcmV0dXJuIFByb3BlcnR5UXVlcnkoCiAgICAgICAgICAgIGVudGl0eVR5cGUgPSBFbnRpdHlUeXBlLlVOSVFVRVRPVVJOQU1FTlQsCiAgICAgICAgICAgIGVudGl0eUlkcyA9IHNldE9mKHVuaXF1ZVRvdXJuYW1lbnRJZCksCiAgICAgICAgICAgIHByb3BlcnR5SWRzID0gcHJvcGVydHlJZHMKICAgICkKfQoKZnVuIFByb3BlcnR5UXVlcnkuZm9yTWF0Y2gobWF0Y2hJZDogSW50LCBwcm9wZXJ0eUlkczogU2V0PEludD4pOiBQcm9wZXJ0eVF1ZXJ5IHsKICAgIHJldHVybiBQcm9wZXJ0eVF1ZXJ5KAogICAgICAgICAgICBlbnRpdHlUeXBlID0gRW50aXR5VHlwZS5NQVRDSCwKICAgICAgICAgICAgZW50aXR5SWRzID0gc2V0T2YobWF0Y2hJZCksCiAgICAgICAgICAgIHByb3BlcnR5SWRzID0gcHJvcGVydHlJZHMKICAgICkKfQoKZnVuIFByb3BlcnR5UXVlcnkuZm9yVG91cm5hbWVudCgKICAgICAgICB0b3VybmFtZW50SWQ6IEludCwKICAgICAgICBwcm9wZXJ0eUlkczogU2V0PEludD4KKTogUHJvcGVydHlRdWVyeSB7CiAgICByZXR1cm4gUHJvcGVydHlRdWVyeSgKICAgICAgICAgICAgZW50aXR5VHlwZSA9IEVudGl0eVR5cGUuVE9VUk5BTUVOVCwKICAgICAgICAgICAgZW50aXR5SWRzID0gc2V0T2YodG91cm5hbWVudElkKSwKICAgICAgICAgICAgcHJvcGVydHlJZHMgPSBwcm9wZXJ0eUlkcwogICAgKQp9CgpmdW4gUHJvcGVydHlRdWVyeS5mb3JQcm9wZXJ0eSgKICAgICAgICB0eXBlOiBFbnRpdHlUeXBlLAogICAgICAgIHByb3BlcnRpZXM6IFNldDxJbnQ+Cik6IFByb3BlcnR5UXVlcnkgewogICAgcmV0dXJuIFByb3BlcnR5UXVlcnkoCiAgICAgICAgICAgIGVudGl0eVR5cGUgPSB0eXBlLAogICAgICAgICAgICBwcm9wZXJ0eUlkcyA9IHByb3BlcnRpZXMKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmVzZW50QW5kRXF1YWwoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShwcm9wLmlzUHJlc2VudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eVF1ZXJ5KCkuZm9yCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHByZXNlbnRBbmRFcXVhbChwcm9wOiBPcHRpb25hbDwqPiwgdmFsdWU6IEFueSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0VXNlQ2FjaGUodHJ1ZSkKICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Int?/Int/g</text>
