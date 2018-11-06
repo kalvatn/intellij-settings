@@ -40,21 +40,16 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/card/generator/infographic/cricket/SportzInteractiveInfographicFeedParser.java" timestamp="1541420420015">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="20" />
-      </file>
       <file name="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/table/Teams.kt" timestamp="1541066793013">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsTables.java" timestamp="1539952130731">
-        <mark key="[" line="201" column="5" />
-        <mark key="]" line="204" column="7" />
-        <mark key="^" line="204" column="7" />
-        <mark key="." line="204" column="7" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsTables.java" timestamp="1541509191257">
+        <mark key="[" line="187" column="5" />
+        <mark key="]" line="190" column="7" />
+        <mark key="^" line="190" column="7" />
+        <mark key="." line="190" column="7" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/HistoryRecoveryTool.java" timestamp="1541158972309">
         <mark key="[" line="43" column="27" />
@@ -88,11 +83,11 @@
         <mark key="." line="174" column="49" />
         <mark key="^" line="174" column="49" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1541506993361">
-        <mark key="[" line="147" column="70" />
-        <mark key="]" line="129" column="80" />
-        <mark key="." line="129" column="80" />
-        <mark key="^" line="129" column="80" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1541509329322">
+        <mark key="[" line="147" column="58" />
+        <mark key="]" line="147" column="62" />
+        <mark key="." line="147" column="62" />
+        <mark key="^" line="147" column="62" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" timestamp="1541508027334">
         <mark key="'" line="817" column="58" />
@@ -184,11 +179,6 @@
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
-      </file>
-      <file name="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/table/LeagueTable.kt" timestamp="1541066575908">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="77" column="1" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/work/projects/gitlab/hackon/kotlin_workshop/pom.xml" timestamp="1541064144884">
         <mark key="[" line="45" column="21" />
@@ -412,6 +402,12 @@
         <mark key="]" line="276" column="89" />
         <mark key="." line="276" column="89" />
         <mark key="^" line="276" column="89" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" timestamp="1541509268969">
+        <mark key="[" line="370" column="36" />
+        <mark key="]" line="371" column="30" />
+        <mark key="^" line="371" column="30" />
+        <mark key="." line="371" column="30" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/RecoveryTask.java" timestamp="1541159091420">
         <mark key="[" line="28" column="38" />
@@ -663,14 +659,14 @@
       <jump line="817" column="58" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFJ1bldpdGgoQXJxdWlsbGlhbi5jbGFzcykK</text>
+      <register name="&quot;" type="4">
+        <text>306662</text>
       </register>
       <register name="-" type="4">
-        <text>Element</text>
+        <text>306662</text>
       </register>
       <register name="/" type="4">
-        <text>MISSING</text>
+        <text>sortAlgorithmText</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TXlTcWxEYXRhYmFzZVVSTCA9IGpkYmM6bXlzcWw6Ly8xMC4xMi4yNi40NjozMzA2L29kZHMKTXlTcWxTeXN0ZW1Vc2VyTmFtZSA9IGRldmVsb3BlcgpNeVNxbFN5c3RlbVBhc3N3b3JkID0gT2x2TTljcFZoaAo=</text>
@@ -707,9 +703,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MISSING</last-search>
+      <last-search>sortAlgorithmText</last-search>
       <last-offset />
-      <last-pattern>MISSING</last-pattern>
+      <last-pattern>sortAlgorithmText</last-pattern>
       <last-replace>val \1 = varchar(&quot;\1&quot;)</last-replace>
       <last-substitute>val \(\w*\): String</last-substitute>
       <last-dir>1</last-dir>
@@ -717,7 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>val \(\w*\): Timestamp</entry>
         <entry>val \(\w*\): Boolean</entry>
         <entry>val \(\w*\): String</entry>
         <entry>uploadFile</entry>
@@ -737,6 +732,7 @@
         <entry>COMPETITORS MISSING</entry>
         <entry>COMPETITORS</entry>
         <entry>MISSING</entry>
+        <entry>sortAlgorithmText</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyhycy8gPSBycy9n</entry>
