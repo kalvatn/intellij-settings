@@ -120,12 +120,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" timestamp="1541532476748">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="86" column="39" />
-        <mark key="]" line="86" column="39" />
-        <mark key="^" line="86" column="37" />
-        <mark key="." line="86" column="39" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" timestamp="1541535696589">
+        <mark key="'" line="110" column="91" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
       </file>
       <file name="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/table/StatisticsStaticTablesFT.kt" timestamp="1541083743044">
         <mark key="'" line="8" column="43" />
@@ -308,12 +308,11 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyResponse.kt" timestamp="1541530489134">
-        <mark key="'" line="45" column="16" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="42" column="61" />
-        <mark key="." line="4" column="0" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyResponse.kt" timestamp="1541536142330">
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="32" />
+        <mark key="^" line="52" column="32" />
+        <mark key="." line="52" column="32" />
       </file>
       <file name="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/model/Event.kt" timestamp="1540989319223">
         <mark key="[" line="24" column="0" />
@@ -557,12 +556,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" timestamp="1541533237410">
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" timestamp="1541535221019">
         <mark key="'" line="28" column="4" />
-        <mark key="[" line="69" column="61" />
-        <mark key="]" line="69" column="68" />
-        <mark key="." line="69" column="68" />
-        <mark key="^" line="69" column="68" />
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="57" />
+        <mark key="." line="25" column="57" />
+        <mark key="^" line="25" column="57" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/Saver.java" timestamp="1541159205940">
         <mark key="'" line="335" column="30" />
@@ -600,7 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="25" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/model/Match.kt" />
       <jump line="12" column="0" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/model/Match.kt" />
       <jump line="461" column="0" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/model/Match.kt" />
       <jump line="34" column="0" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/model/MatchExtra.kt" />
@@ -700,63 +698,63 @@
       <jump line="26" column="3" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" />
       <jump line="23" column="4" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" />
       <jump line="19" column="8" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" />
+      <jump line="110" column="91" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>intArrayOf</text>
+        <text>Number</text>
       </register>
       <register name="-" type="4">
-        <text>intArrayOf</text>
+        <text>Number</text>
       </register>
       <register name="/" type="4">
-        <text>Int?</text>
+        <text>.toInt()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZm9yTWF0Y2gobWF0Y2hJZDogSW50LCBwcm9wZXJ0eUlkczogU2V0PEludD4pOiBQcm9wZXJ0eVF1ZXJ5IHsKICAgICAgICAgICAgcmV0dXJuIFByb3BlcnR5UXVlcnkoCiAgICAgICAgICAgICAgICAgICAgZW50aXR5VHlwZSA9IEVudGl0eVR5cGUuTUFUQ0gsCiAgICAgICAgICAgICAgICAgICAgZW50aXR5SWRzID0gc2V0T2YobWF0Y2hJZCksCiAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlJZHMgPSBwcm9wZXJ0eUlkcwogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGZ1biBoYXNWYWx1ZSh0eXBlOiBFbnRpdHlUeXBlLCBlbnRpdHlJZDogSW50LCBwcm9wZXJ0eTogSW50LCB2YXJhcmcgYWNjZXB0YWJsZVZhbHVlOiBBbnkpOiBCb29sZWFuIHsKICAgICAgICB2YWwgdmFsdWUgPSBnZXRTdHJpbmcodHlwZSwgZW50aXR5SWQsIHByb3BlcnR5KQogICAgICAgIGZvciAoYW55IGluIGFjY2VwdGFibGVWYWx1ZSkgewogICAgICAgICAgICB2YWwgaXNFcXVhbCA9IHdoZW4gKGFueSkgewogICAgICAgICAgICAgICAgaXMgRG91YmxlIC0+IHZhbHVlPy50b0RvdWJsZSgpID09IGFueQogICAgICAgICAgICAgICAgaXMgSW50IC0+IHZhbHVlPy50b0ludCgpID09IGFueQogICAgICAgICAgICAgICAgaXMgQm9vbGVhbiAtPiB2YWx1ZT8udG9Cb29sZWFuKCkgPT0gYW55CiAgICAgICAgICAgICAgICBpcyBTdHJpbmcgLT4gdmFsdWUgPT0gYW55CiAgICAgICAgICAgICAgICBlbHNlIC0+IGZhbHNlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGlzRXF1YWwpIHsKICAgICAgICAgICAgICAgIHJldHVybiBpc0VxdWFsCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZvckFsbEVudGl0aWVzT2ZUeXBlKAogICAgICAgICAgICAgICAgICAgIGVudGl0eVR5cGUgPSB0eXBlLAogICAgICAgICAgICAgICAgICAgIHByb3BlcnR5SWRzID0gKmFycmF5T2YocHJvcGVydGllcy5tYXAgeyBpdC5pZCgpIH0pCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGFjY2VwdGFibGVWYWx1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZm9yUHJvcGVydHkodHlwZTogRW50aXR5VHlwZSwgcHJvcGVydGllczogU2V0PEludD4pOiBQcm9wZXJ0eVF1ZXJ5IHsKICAgICAgICAgICAgcmV0dXJuIFByb3BlcnR5UXVlcnkoCiAgICAgICAgICAgICAgICAgICAgZW50aXR5VHlwZSA9IHR5cGUsCiAgICAgICAgICAgICAgICAgICAgcHJvcGVydHlJZHMgPSBwcm9wZXJ0aWVzCiAgICAgICAgICAgICkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnJ1bnRpbWUucmVnZXhwLmpvbmkuQ29uZmlnLmxvZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZm9yVG91cm5hbWVudCh0b3VybmFtZW50SWQ6IEludCwgcHJvcGVydHlJZHM6IFNldDxJbnQ+KTogUHJvcGVydHlRdWVyeSB7CiAgICAgICAgICAgIHJldHVybiBQcm9wZXJ0eVF1ZXJ5KAogICAgICAgICAgICAgICAgICAgIGVudGl0eVR5cGUgPSBFbnRpdHlUeXBlLlRPVVJOQU1FTlQsCiAgICAgICAgICAgICAgICAgICAgZW50aXR5SWRzID0gc2V0T2YodG91cm5hbWVudElkKSwKICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eUlkcyA9IHByb3BlcnR5SWRzCiAgICAgICAgICAgICkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LlN5c3RlbUNvbG9yLmluZm8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVzZW50QW5kRXF1YWwoCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdmFsdWUgPSBnZXRTdHJpbmcodHlwZSwgZW50aXR5SWQsIHByb3BlcnR5SWQpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShwcm9wLmlzUHJlc2VudCkK</text>
+      <register name="7" type="8">
+        <text encoding="base64">QXJyYXlzLmFzTGlzdDxUPigKQXJyYXlzLmFzTGlzdDxUPigKQXJyYXlzLmFzTGlzdDxUPig=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHByZXNlbnRBbmRFcXVhbChwcm9wOiBPcHRpb25hbDwqPiwgdmFsdWU6IEFueSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdmFsdWUgPSBnZXRTdHJpbmcodHlwZSwgZW50aXR5SWQsIHByb3BlcnR5KQogICAgICAgIGZvciAoYW55IGluIGFjY2VwdGFibGVWYWx1ZSkgewogICAgICAgICAgICB2YWwgaXNFcXVhbCA9IHdoZW4gKGFueSkgewogICAgICAgICAgICAgICAgaXMgRG91YmxlIC0+IHZhbHVlPy50b0RvdWJsZSgpID09IGFueQogICAgICAgICAgICAgICAgaXMgSW50IC0+IHZhbHVlPy50b0ludCgpID09IGFueQogICAgICAgICAgICAgICAgaXMgQm9vbGVhbiAtPiB2YWx1ZT8udG9Cb29sZWFuKCkgPT0gYW55CiAgICAgICAgICAgICAgICBpcyBTdHJpbmcgLT4gdmFsdWUgPT0gYW55CiAgICAgICAgICAgICAgICBlbHNlIC0+IGZhbHNlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGlzRXF1YWwpIHsKICAgICAgICAgICAgICAgIHJldHVybiBpc0VxdWFsCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Int?/Int/g</text>
+        <text>%s/.toInt()//g</text>
       </register>
     </registers>
     <search>
-      <last-search>Int?</last-search>
+      <last-search>.toInt()</last-search>
       <last-offset />
-      <last-pattern>Int?</last-pattern>
-      <last-replace>Int</last-replace>
-      <last-substitute>Int?</last-substitute>
+      <last-pattern>.toInt()</last-pattern>
+      <last-replace />
+      <last-substitute>.toInt()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>updateParam3</entry>
         <entry>DELETE</entry>
         <entry>addHoursCorrect</entry>
         <entry>85</entry>
@@ -776,9 +774,9 @@
         <entry>winNFC</entry>
         <entry encoding="base64">dmFyYXJnIA==</entry>
         <entry>Int?</entry>
+        <entry>.toInt()</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLygpKS8pL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0ludC9Cb29sZWFuL2c=</entry>
         <entry encoding="base64">JzwsJz5zL14vdmFsL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyQvOkludCwvZw==</entry>
@@ -798,6 +796,7 @@
         <entry>%s/vararg //g</entry>
         <entry>%s/Int?/Int/gc</entry>
         <entry>%s/Int?/Int/g</entry>
+        <entry>%s/.toInt()//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
