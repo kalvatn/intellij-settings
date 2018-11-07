@@ -87,23 +87,18 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" timestamp="1541621229871">
-        <mark key="[" line="89" column="85" />
-        <mark key="]" line="89" column="85" />
-        <mark key="." line="89" column="85" />
-        <mark key="^" line="89" column="85" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" timestamp="1541622035355">
+        <mark key="'" line="120" column="69" />
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
       </file>
       <file name="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/table/StatisticsSeasons.kt" timestamp="1541083739972">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="68" />
-      </file>
-      <file name="/work/projects/gitlab/java-common/filesender/common/pom.xml" timestamp="1541600431478">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="19" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/HierarchyDataLoader.java" timestamp="1540909650044">
         <mark key="[" line="16" column="40" />
@@ -231,8 +226,19 @@
         <mark key="^" line="48" column="46" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/pom.xml" timestamp="1541600242092">
-        <mark key="'" line="39" column="73" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1541623048639">
+        <mark key="'" line="109" column="42" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="135" column="5" />
+        <mark key="^" line="38" column="27" />
+        <mark key="." line="38" column="27" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/APIResponseLoader.kt" timestamp="1541622880715">
+        <mark key="'" line="88" column="3" />
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="108" column="30" />
+        <mark key="^" line="108" column="30" />
+        <mark key="." line="108" column="30" />
       </file>
       <file name="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/model/Match.kt" timestamp="1540990106878">
         <mark key="[" line="4" column="0" />
@@ -288,8 +294,14 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfiguration.kt" timestamp="1541527624706">
-        <mark key="[" line="5" column="69" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/CacheConfiguration.kt" timestamp="1541623373170">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="25" column="2" />
+        <mark key="." line="25" column="2" />
+        <mark key="^" line="25" column="2" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfiguration.kt" timestamp="1541622297060">
+        <mark key="[" line="6" column="61" />
         <mark key="]" line="6" column="30" />
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
@@ -336,7 +348,6 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="/work/projects/gitlab/java-common/filesender/common/src/main/java/com/betradar/filesender/storage/FileStorageFactory.java" timestamp="1541598876531" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/util/history/Loader.java" timestamp="1539875351006">
         <mark key="[" line="276" column="80" />
         <mark key="]" line="276" column="89" />
@@ -487,12 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/model/ScoutEvent.kt" />
-      <jump line="19" column="0" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/RecoveryTask.kt" />
-      <jump line="79" column="12" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Saver.kt" />
-      <jump line="244" column="28" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
-      <jump line="230" column="28" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
-      <jump line="245" column="20" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
       <jump line="197" column="36" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
       <jump line="152" column="28" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
       <jump line="124" column="56" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
@@ -587,67 +592,68 @@
       <jump line="142" column="0" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" />
       <jump line="7" column="14" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyId.kt" />
       <jump line="89" column="50" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" />
+      <jump line="59" column="86" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" />
+      <jump line="122" column="69" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" />
+      <jump line="65" column="4" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
+      <jump line="109" column="42" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
+      <jump line="58" column="3" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/APIResponseLoader.kt" />
+      <jump line="55" column="3" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/APIResponseLoader.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>private val loader: ApiResponseLoader</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>private val loader: ApiResponseLoader</text>
       </register>
       <register name="/" type="4">
-        <text>DeiProperty</text>
+        <text>!!</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eVF1ZXJ5LmZvclNpbmdsZShFbnRpdHlUeXBlLlRPVVJOQU1FTlQsIDEsIFByb3BlcnR5SWQoMSkpCiAgICAgICAgUHJvcGVydHlRdWVyeS5mb3JTaW5nbGUoRW50aXR5VHlwZS5UT1VSTkFNRU5ULCAxLCBQcm9wZXJ0eUlkLkFMTF8xWDJfT0REUykK</text>
+        <text encoding="base64">ICAgIEBUaHJvd3MoSnNvblByb2Nlc3NpbmdFeGNlcHRpb246OmNsYXNzKQogICAgcHJpdmF0ZSBmdW4gZ2V0UXVlcnlBc0pzb25TdHJpbmcocXVlcnk6IExpc3Q8UHJvcGVydHlRdWVyeT4pOiBTdHJpbmcgewogICAgICAgIHJldHVybiBkZWJ1Z1dyaXRlci53cml0ZVZhbHVlQXNTdHJpbmcocXVlcnkpCiAgICB9CgogICAgQFRocm93cyhJT0V4Y2VwdGlvbjo6Y2xhc3MpCiAgICBwcml2YXRlIGZ1biBnZXRSZXNwb25zZVN0cmluZyhyZXNwb25zZUJvZHk6IFJlc3BvbnNlQm9keT8pOiBTdHJpbmcgewogICAgICAgIGlmIChyZXNwb25zZUJvZHkgIT0gbnVsbCkgewogICAgICAgICAgICB2YWwgbWVkaWFUeXBlID0gcmVzcG9uc2VCb2R5LmNvbnRlbnRUeXBlKCkKICAgICAgICAgICAgcmV0dXJuIGlmIChtZWRpYVR5cGUgIT0gbnVsbCAmJiBtZWRpYVR5cGUudHlwZSgpLnRvTG93ZXJDYXNlKCkuY29udGFpbnMoImpzb24iKSkgewogICAgICAgICAgICAgICAgZGVidWdXcml0ZXIud3JpdGVWYWx1ZUFzU3RyaW5nKAogICAgICAgICAgICAgICAgICAgICAgICBKU09OX01BUFBFUi5yZWFkVmFsdWUocmVzcG9uc2VCb2R5LnN0cmluZygpLCBBbnk6OmNsYXNzLmphdmEpKQogICAgICAgICAgICB9IGVsc2UgcmVzcG9uc2VCb2R5LnN0cmluZygpCiAgICAgICAgfQogICAgICAgIHJldHVybiAiIgogICAgfQoKICAgIGNvbXBhbmlvbiBvYmplY3QgewoKICAgICAgICBwcml2YXRlIHZhbCBsb2cgPSBMb2dNYW5hZ2VyLmdldExvZ2dlcigpCgogICAgICAgIHByaXZhdGUgdmFsIEpTT05fTUFQUEVSID0gT2JqZWN0TWFwcGVyKCkKICAgICAgICAgICAgICAgIC5kaXNhYmxlKERlc2VyaWFsaXphdGlvbkZlYXR1cmUuRkFJTF9PTl9JR05PUkVEX1BST1BFUlRJRVMpCiAgICAgICAgICAgICAgICAuc2V0U2VyaWFsaXphdGlvbkluY2x1c2lvbihJbmNsdWRlLk5PTl9OVUxMKQoKICAgICAgICBwcml2YXRlIHZhbCBKU09OX1VURjhfQ09OVEVOVF9UWVBFID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04IikKICAgIH0K</text>
       </register>
-      <register name="1" type="8">
-        <text>Single
-Single</text>
-      </register>
-      <register name="2" type="8">
-        <text>TOURNAMENT
-TOURNAMENT</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eVF1ZXJ5LmZvclNpbmdsZShzZXRPZigxLCAyKSwgUHJvcGVydHlJZCgxMjMpKQo=</text>
-      </register>
-      <register name="4" type="8">
-        <text>Sport
-Sport
-Sport</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eVF1ZXJ5Lgo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0UmVzcG9uc2UobGlzdE9mKHNpbmdsZVF1ZXJ5KSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gdGVzdEJ1aWxkZXIoKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9hZFJlc3BvbnNlKHByb3BlcnR5UXVlcnkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgKGVudGl0eVR5cGUsIGVudGl0eUlkcywgcHJvcGVydHlJZHMpID0gUHJvcGVydHlRdWVyeQogICAgICAgICAgICAgICAgLmJ1aWxkKEVudGl0eVR5cGUuTUFUQ0gsCiAgICAgICAgICAgICAgICAgICAgICAgIHNldE9mKDEsIDIsIDMsIDQsIDk5OSksCiAgICAgICAgICAgICAgICAgICAgICAgIFByb3BlcnR5SWQoMSksIFByb3BlcnR5SWQoMikpCgogICAgICAgIEFzc2VydC5hc3NlcnRUaGF0KGVudGl0eVR5cGUsIGVxdWFsVG8oRW50aXR5VHlwZS5NQVRDSC5lbnRpdHlUeXBlTmFtZSkpCiAgICAgICAgQXNzZXJ0LmFzc2VydFRoYXQoZW50aXR5SWRzLCBlcXVhbFRvKHNldE9mKDEsIDIsIDMsIDQsIDk5OSkpKQogICAgICAgIEFzc2VydC5hc3NlcnRUaGF0KHByb3BlcnR5SWRzLCBlcXVhbFRvKHNldE9mKDEsIDIpKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlnLnVzZUNhY2hlKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICByZXR1cm4gY2FjaGUuZ2V0KHByb3BlcnR5UXVlcnkpCiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4ZWN1dGlvbkV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKGUsIGUpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBQcm9wZXJ0eVJlc3BvbnNlLmVtcHR5KCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCksCg==</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRSc2Vwb25laWVzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/DeiProperty/PropertyId/g</text>
+        <text>%s/!!//g</text>
       </register>
     </registers>
     <search>
-      <last-search>DeiProperty</last-search>
+      <last-search>!!</last-search>
       <last-offset />
-      <last-pattern>DeiProperty</last-pattern>
-      <last-replace>PropertyId</last-replace>
-      <last-substitute>DeiProperty</last-substitute>
+      <last-pattern>!!</last-pattern>
+      <last-replace />
+      <last-substitute>!!</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>could not get phrase</entry>
         <entry>Created</entry>
         <entry>DOQUERY</entry>
         <entry>doquery</entry>
@@ -667,9 +673,9 @@ Sport</text>
         <entry>filesender-common</entry>
         <entry>prop</entry>
         <entry>DeiProperty</entry>
+        <entry>!!</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1woXHcrKTogSW50L2ludGVnZXIoXDEpL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1x3KzovaW50ZWdlcg==</entry>
         <entry encoding="base64">JzwsJz5zL1xcdys6L2ludGVnZXI=</entry>
         <entry encoding="base64">JzwsJz5zL1x3Oi9pbnRlZ2Vy</entry>
@@ -689,6 +695,7 @@ Sport</text>
         <entry>set ignorecase</entry>
         <entry>62</entry>
         <entry>%s/DeiProperty/PropertyId/g</entry>
+        <entry>%s/!!//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
