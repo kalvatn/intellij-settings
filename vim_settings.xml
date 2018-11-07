@@ -63,6 +63,12 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/Loader.kt" timestamp="1541626256706">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="11" column="34" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1541509329322">
         <mark key="[" line="70" column="58" />
         <mark key="]" line="70" column="62" />
@@ -226,12 +232,11 @@
         <mark key="^" line="48" column="46" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1541623999437">
-        <mark key="'" line="109" column="42" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="34" column="22" />
-        <mark key="^" line="38" column="27" />
-        <mark key="." line="38" column="27" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1541626139781">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/APIResponseLoader.kt" timestamp="1541622880715">
         <mark key="'" line="88" column="3" />
@@ -294,11 +299,10 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/CacheConfiguration.kt" timestamp="1541624096858">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="58" />
-        <mark key="^" line="10" column="58" />
-        <mark key="." line="10" column="58" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/CacheConfiguration.kt" timestamp="1541625614422">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfiguration.kt" timestamp="1541622297060">
         <mark key="[" line="6" column="61" />
@@ -420,6 +424,12 @@
         <mark key="." line="28" column="72" />
         <mark key="^" line="28" column="72" />
       </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/LoaderConfig.kt" timestamp="1541626463916">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="27" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-xml/src/main/java/com/betradar/export/domain/external/league/League.java" timestamp="1539952713883">
         <mark key="[" line="80" column="26" />
         <mark key="]" line="80" column="45" />
@@ -469,11 +479,11 @@
         <mark key="." line="19" column="59" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/ApiResponseLoader.kt" timestamp="1541624893639">
-        <mark key="[" line="61" column="54" />
-        <mark key="]" line="61" column="52" />
-        <mark key="." line="61" column="52" />
-        <mark key="^" line="61" column="52" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/ApiResponseLoader.kt" timestamp="1541625809490">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/util/history/Saver.java" timestamp="1539875812011">
         <mark key="[" line="16" column="14" />
@@ -499,12 +509,11 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1541615444084">
+      <file name="/fragment.java" timestamp="1541626502923">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="36" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
       <jump line="152" column="28" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
       <jump line="124" column="56" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
       <jump line="90" column="29" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Loader.kt" />
@@ -604,46 +613,47 @@
       <jump line="109" column="42" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
       <jump line="58" column="3" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/APIResponseLoader.kt" />
       <jump line="55" column="3" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/APIResponseLoader.kt" />
+      <jump line="26" column="28" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PFByb3BlcnR5UmVzcG9uc2U/Pg==</text>
+        <text>ify</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PFByb3BlcnR5UmVzcG9uc2U/Pg==</text>
+        <text>ify</text>
       </register>
       <register name="/" type="4">
         <text>!!</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcHJvcGVydHlSZXNwb25zZSA9IEpTT05fTUFQUEVSLnJlYWRWYWx1ZShyZXNwb25zZVN0cmluZywgUHJvcGVydHlSZXNwb25zZTo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKHByb3BlcnR5UmVzcG9uc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIE1FRElBX1RZUEUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBsb2FkZXI6IExvYWRlciwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBpbml0IHsKICAgICAgICBpZiAoY29uZmlnLmRlYnVnICYmIGNvbmZpZy5wcmV0dHlQcmludEpzb24pIHsKICAgICAgICAgICAgSlNPTl9XUklURVIgPSBKU09OX01BUFBFUi53cml0ZXJXaXRoRGVmYXVsdFByZXR0eVByaW50ZXIoKQogICAgICAgIH0KICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgUHJvcGVydHlBcGkocHJpdmF0ZSB2YWwgY2FjaGU6IFByb3BlcnR5QXBpQ29uZmlndXJhdGlvbikgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGRlYnVnV3JpdGVyID0gQXBpUmVzcG9uc2VMb2FkZXIuSlNPTl9NQVBQRVIud3JpdGVyKCkK</text>
+        <text encoding="base64">ICAgIEBUaHJvd3MoSU9FeGNlcHRpb246OmNsYXNzKQogICAgZnVuIGxvYWRSZXNwb25zZShzaW5nbGVRdWVyeTogUHJvcGVydHlRdWVyeSk6IFByb3BlcnR5UmVzcG9uc2UgewogICAgICAgIHJldHVybiBsb2FkUmVzcG9uc2UobGlzdE9mKHNpbmdsZVF1ZXJ5KSkKICAgIH0KCiAgICBAVGhyb3dzKElPRXhjZXB0aW9uOjpjbGFzcykKICAgIGZ1biBsb2FkUmVzcG9uc2UocHJvcGVydHlRdWVyeTogTGlzdDxQcm9wZXJ0eVF1ZXJ5Pik6IFByb3BlcnR5UmVzcG9uc2UgewogICAgICAgIHZhbCBqc29uUGF5bG9hZCA9IEpTT05fTUFQUEVSLndyaXRlcigpLndyaXRlVmFsdWVBc1N0cmluZyhwcm9wZXJ0eVF1ZXJ5KQoKICAgICAgICBpZiAoY29uZmlnLmRlYnVnKSB7CiAgICAgICAgICAgIGxvZy5kZWJ1ZyhTdHJpbmcuZm9ybWF0KCJRVUVSWSAgICA6ICclcyciLCBnZXRRdWVyeUFzSnNvblN0cmluZyhwcm9wZXJ0eVF1ZXJ5KSkpCiAgICAgICAgfQogICAgICAgIHZhbCByZXF1ZXN0Qm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShKU09OX1VURjhfQ09OVEVOVF9UWVBFLCBqc29uUGF5bG9hZCkKICAgICAgICB2YWwgcmVxdWVzdCA9IFJlcXVlc3QuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYWRkSGVhZGVyKCJERUktQVVUSC1UT0tFTiIsIGNvbmZpZy5hcGlUb2tlbikKICAgICAgICAgICAgICAgIC5hZGRIZWFkZXIoIkFjY2VwdCIsICJhcHBsaWNhdGlvbi9qc29uIikKICAgICAgICAgICAgICAgIC5hZGRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKICAgICAgICAgICAgICAgIC51cmwoY29uZmlnLmFwaVVybCkKICAgICAgICAgICAgICAgIC5wb3N0KHJlcXVlc3RCb2R5KQogICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICB2YWwgcmVzcG9uc2UgPSBodHRwQ2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpCiAgICAgICAgdmFsIHJlc3BvbnNlQm9keSA9IHJlc3BvbnNlLmJvZHkoKQoKICAgICAgICB2YWwgY29kZSA9IHJlc3BvbnNlLmNvZGUoKQogICAgICAgIHZhbCByZXNwb25zZVN0cmluZyA9IGdldFJlc3BvbnNlU3RyaW5nKHJlc3BvbnNlQm9keSkKICAgICAgICBpZiAoY29kZSAhPSAyMDAgfHwgcmVzcG9uc2VTdHJpbmcuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcihTdHJpbmcuZm9ybWF0KCJub24gMjAwIE9LIG9yIG5vbi1KU09OIHJlc3BvbnNlIHJlY2VpdmVkLCByZXNwb25zZSA6ICVzIiwgcmVzcG9uc2UpKQogICAgICAgICAgICBsb2cuZXJyb3IoU3RyaW5nLmZvcm1hdCgiUkVTUE9OU0UgOiAnJXMnIiwgcmVzcG9uc2VTdHJpbmcpKQoKICAgICAgICAgICAgcmV0dXJuIFByb3BlcnR5UmVzcG9uc2UuZW1wdHkoKQogICAgICAgIH0KCiAgICAgICAgaWYgKHJlc3BvbnNlU3RyaW5nLmVxdWFscygiW10iLCBpZ25vcmVDYXNlID0gdHJ1ZSkpIHsKICAgICAgICAgICAgaWYgKGNvbmZpZy5kZWJ1ZykgewogICAgICAgICAgICAgICAgbG9nLmRlYnVnKFN0cmluZy5mb3JtYXQoIlJFU1BPTlNFIDogJyVzJyIsIHJlc3BvbnNlU3RyaW5nKSkKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gUHJvcGVydHlSZXNwb25zZS5lbXB0eSgpCiAgICAgICAgfQoKICAgICAgICB2YWwgcHJvcGVydHlSZXNwb25zZSA9IEpTT05fTUFQUEVSLnJlYWRWYWx1ZShyZXNwb25zZVN0cmluZywgUHJvcGVydHlSZXNwb25zZTo6Y2xhc3MuamF2YSkKICAgICAgICBpZiAoY29uZmlnLmRlYnVnKSB7CiAgICAgICAgICAgIGxvZy5kZWJ1ZyhTdHJpbmcuZm9ybWF0KCJSRVNQT05TRSA6ICclcyciLCByZXNwb25zZVN0cmluZykpCiAgICAgICAgICAgIGxvZy5kZWJ1Zyhwcm9wZXJ0eVJlc3BvbnNlKQogICAgICAgIH0KICAgICAgICByZXR1cm4gcHJvcGVydHlSZXNwb25zZQogICAgfQoKICAgIEBUaHJvd3MoSnNvblByb2Nlc3NpbmdFeGNlcHRpb246OmNsYXNzKQogICAgcHJpdmF0ZSBmdW4gZ2V0UXVlcnlBc0pzb25TdHJpbmcocXVlcnk6IExpc3Q8UHJvcGVydHlRdWVyeT4pOiBTdHJpbmcgewogICAgICAgIHJldHVybiBkZWJ1Z1dyaXRlci53cml0ZVZhbHVlQXNTdHJpbmcocXVlcnkpCiAgICB9CgogICAgQFRocm93cyhJT0V4Y2VwdGlvbjo6Y2xhc3MpCiAgICBwcml2YXRlIGZ1biBnZXRSZXNwb25zZVN0cmluZyhyZXNwb25zZUJvZHk6IFJlc3BvbnNlQm9keT8pOiBTdHJpbmcgewogICAgICAgIGlmIChyZXNwb25zZUJvZHkgIT0gbnVsbCkgewogICAgICAgICAgICB2YWwgbWVkaWFUeXBlID0gcmVzcG9uc2VCb2R5LmNvbnRlbnRUeXBlKCkKICAgICAgICAgICAgcmV0dXJuIGlmIChtZWRpYVR5cGUgIT0gbnVsbCAmJiBtZWRpYVR5cGUudHlwZSgpLnRvTG93ZXJDYXNlKCkuY29udGFpbnMoImpzb24iKSkgewogICAgICAgICAgICAgICAgZGVidWdXcml0ZXIud3JpdGVWYWx1ZUFzU3RyaW5nKAogICAgICAgICAgICAgICAgICAgICAgICBKU09OX01BUFBFUi5yZWFkVmFsdWUocmVzcG9uc2VCb2R5LnN0cmluZygpLCBBbnk6OmNsYXNzLmphdmEpKQogICAgICAgICAgICB9IGVsc2UgcmVzcG9uc2VCb2R5LnN0cmluZygpCiAgICAgICAgfQogICAgICAgIHJldHVybiAiIgogICAgfQoKICAgIGNvbXBhbmlvbiBvYmplY3QgewoKICAgICAgICBwcml2YXRlIHZhbCBsb2cgPSBMb2dNYW5hZ2VyLmdldExvZ2dlcigpCgogICAgICAgIHByaXZhdGUgdmFsIEpTT05fTUFQUEVSID0gT2JqZWN0TWFwcGVyKCkKICAgICAgICAgICAgICAgIC5kaXNhYmxlKERlc2VyaWFsaXphdGlvbkZlYXR1cmUuRkFJTF9PTl9JR05PUkVEX1BST1BFUlRJRVMpCiAgICAgICAgICAgICAgICAuc2V0U2VyaWFsaXphdGlvbkluY2x1c2lvbihJbmNsdWRlLk5PTl9OVUxMKQoKICAgICAgICBwcml2YXRlIHZhbCBKU09OX1VURjhfQ09OVEVOVF9UWVBFID0gTWVkaWFUeXBlLnBhcnNlKCJhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04IikKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBKU09OX01BUFBFUiA9IE9iamVjdE1hcHBlcigpCiAgICAgICAgICAgICAgICAuZGlzYWJsZShEZXNlcmlhbGl6YXRpb25GZWF0dXJlLkZBSUxfT05fSUdOT1JFRF9QUk9QRVJUSUVTKQogICAgICAgICAgICAgICAgLnNldFNlcmlhbGl6YXRpb25JbmNsdXNpb24oSnNvbkluY2x1ZGUuSW5jbHVkZS5OT05fTlVMTCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlnLnVzZUNhY2hlKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICByZXR1cm4gY2FjaGUuZ2V0KHByb3BlcnR5UXVlcnkpCiAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4ZWN1dGlvbkV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKGUsIGUpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBQcm9wZXJ0eVJlc3BvbnNlLmVtcHR5KCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGxvYWRSZXNwb25zZShwcm9wZXJ0eVF1ZXJ5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIEpTT05fVVRGOF9DT05URU5UX1RZUEUgPSBNZWRpYVR5cGUucGFyc2UoImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGRlYnVnV3JpdGVyID0gSlNPTl9NQVBQRVIud3JpdGVyKCkKICAgIHByaXZhdGUgdmFsIGh0dHBDbGllbnQgPSBPa0h0dHBDbGllbnQoKQogICAgICAgICAgICAubmV3QnVpbGRlcigpCiAgICAgICAgICAgIC5jb25uZWN0VGltZW91dCgxMCwgVGltZVVuaXQuU0VDT05EUykKICAgICAgICAgICAgLnJlYWRUaW1lb3V0KDIwLCBUaW1lVW5pdC5TRUNPTkRTKQogICAgICAgICAgICAud3JpdGVUaW1lb3V0KDIwLCBUaW1lVW5pdC5TRUNPTkRTKQogICAgICAgICAgICAuYnVpbGQoKQoKICAgIHByaXZhdGUgdmFsIGNhY2hlID0gQ2FjaGVCdWlsZGVyLm5ld0J1aWxkZXIoKQogICAgICAgICAgICAubWF4aW11bVNpemUoNTAwMCkKICAgICAgICAgICAgLmNvbmN1cnJlbmN5TGV2ZWwoMTApCiAgICAgICAgICAgIC5leHBpcmVBZnRlcldyaXRlKDEsIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAuYnVpbGQoCiAgICAgICAgICAgICAgICAgICAgb2JqZWN0IDogQ2FjaGVMb2FkZXI8TGlzdDxQcm9wZXJ0eVF1ZXJ5PiwgUHJvcGVydHlSZXNwb25zZT4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEBUaHJvd3MoRXhjZXB0aW9uOjpjbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGxvYWQoa2V5OiBMaXN0PFByb3BlcnR5UXVlcnk+KTogUHJvcGVydHlSZXNwb25zZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbG9hZFJlc3BvbnNlKGtleSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pCgogICAgaW5pdCB7CgogICAgICAgIGlmIChjb25maWcuZGVidWcgJiYgY29uZmlnLnByZXR0eVByaW50SnNvbikgewogICAgICAgICAgICBkZWJ1Z1dyaXRlciA9IEpTT05fTUFQUEVSLndyaXRlcldpdGhEZWZhdWx0UHJldHR5UHJpbnRlcigpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm5ld0J1aWxkZXIoKQogICAgICAgICAgICAuY29ubmVjdFRpbWVvdXQoMTAsIFRpbWVVbml0LlNFQ09ORFMpCiAgICAgICAgICAgIC5yZWFkVGltZW91dCgxMCwgVGltZVVuaXQuU0VDT05EUykKICAgICAgICAgICAgLndyaXRlVGltZW91dCgxMCwgVGltZVVuaXQuU0VDT05EUykKICAgICAgICAgICAgLmJ1aWxkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm5ld0J1aWxkZXIoKQogICAgICAgICAgICAuYnVpbGQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNhY2hlID0gQ2FjaGVCdWlsZGVyLm5ld0J1aWxkZXIoKQogICAgICAgICAgICAubWF4aW11bVNpemUoNTAwMCkKICAgICAgICAgICAgLmNvbmN1cnJlbmN5TGV2ZWwoMTApCiAgICAgICAgICAgIC5leHBpcmVBZnRlcldyaXRlKDEsIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAuYnVpbGQoCiAgICAgICAgICAgICAgICAgICAgb2JqZWN0IDogQ2FjaGVMb2FkZXI8TGlzdDxQcm9wZXJ0eVF1ZXJ5PiwgUHJvcGVydHlSZXNwb25zZT4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEBUaHJvd3MoRXhjZXB0aW9uOjpjbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGxvYWQoa2V5OiBMaXN0PFByb3BlcnR5UXVlcnk+KTogUHJvcGVydHlSZXNwb25zZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbG9hZFJlc3BvbnNlKGtleSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbm5lY3RUaW1lb3V0KDEwLCBUaW1lVW5pdC5TRUNPTkRTKQogICAgICAgICAgICAucmVhZFRpbWVvdXQoMjAsIFRpbWVVbml0LlNFQ09ORFMpCiAgICAgICAgICAgIC53cml0ZVRpbWVvdXQoMjAsIFRpbWVVbml0LlNFQ09ORFMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluaXQgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZUJ1aWxkZXIubmV3QnVpbGRlcigpCiAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/!!//g</text>
