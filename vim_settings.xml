@@ -317,6 +317,12 @@
         <mark key="." line="29" column="43" />
         <mark key="^" line="29" column="43" />
       </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/Lol.java" timestamp="1541607948196">
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfiguration.kt" timestamp="1541527624706">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="6" column="30" />
@@ -478,12 +484,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" timestamp="1541535221019">
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" timestamp="1541608509537">
         <mark key="'" line="28" column="4" />
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="25" column="57" />
-        <mark key="." line="25" column="57" />
-        <mark key="^" line="25" column="57" />
+        <mark key="[" line="116" column="51" />
+        <mark key="]" line="116" column="56" />
+        <mark key="." line="116" column="56" />
+        <mark key="^" line="116" column="56" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/util/history/Saver.java" timestamp="1539875812011">
         <mark key="[" line="16" column="14" />
@@ -617,44 +623,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sortAlgorithmText</text>
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>sortAlgorithmText</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>filesender-common</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBoYXNWYWx1ZSh0eXBlOiBFbnRpdHlUeXBlLCBlbnRpdHlJZDogSW50LCBwcm9wZXJ0eTogSW50LCB2YXJhcmcgYWNjZXB0YWJsZVZhbHVlOiBBbnkpOiBCb29sZWFuIHsKICAgICAgICB2YWwgdmFsdWUgPSBnZXRTdHJpbmcodHlwZSwgZW50aXR5SWQsIHByb3BlcnR5KQogICAgICAgIGZvciAoYW55IGluIGFjY2VwdGFibGVWYWx1ZSkgewogICAgICAgICAgICB2YWwgaXNFcXVhbCA9IHdoZW4gKGFueSkgewogICAgICAgICAgICAgICAgaXMgRG91YmxlIC0+IHZhbHVlPy50b0RvdWJsZSgpID09IGFueQogICAgICAgICAgICAgICAgaXMgSW50IC0+IHZhbHVlPy50b0ludCgpID09IGFueQogICAgICAgICAgICAgICAgaXMgQm9vbGVhbiAtPiB2YWx1ZT8udG9Cb29sZWFuKCkgPT0gYW55CiAgICAgICAgICAgICAgICBpcyBTdHJpbmcgLT4gdmFsdWUgPT0gYW55CiAgICAgICAgICAgICAgICBlbHNlIC0+IGZhbHNlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGlzRXF1YWwpIHsKICAgICAgICAgICAgICAgIHJldHVybiBpc0VxdWFsCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUHJvcGVydHlRdWVyeSBmb3JNYXRjaChpbnQgbWF0Y2hJZCwgU2V0PEludGVnZXI+IHByb3BlcnR5SWRzKSB7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text>return forMatch(
+                    matchId = matchId,
+                    propertyIds = *properties.map { it.id() }.toIntArray()
+            )</text>
+      </register>
+      <register name="4" type="4">
         <text>else {
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc29ydEFsZ29yaXRobSA9IGNyZWF0ZVNvcnRBbGdvcml0aG0oc3RhdGlzdGljc1RhYmxlTWFuYWdlci5nZXRTb3J0QWxnb3JpdGhtKHRhYmxlLmdldFNvcnRhbGdvcml0aG0oKSkpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGFjY2VwdGFibGVWYWx1ZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnJ1bnRpbWUucmVnZXhwLmpvbmkuQ29uZmlnLmxvZwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LlN5c3RlbUNvbG9yLmluZm8K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGFjY2VwdGFibGVWYWx1ZSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdmFsdWUgPSBnZXRTdHJpbmcodHlwZSwgZW50aXR5SWQsIHByb3BlcnR5SWQpCg==</text>
+        <text encoding="base64">aW1wb3J0IGpkay5uYXNob3JuLmludGVybmFsLnJ1bnRpbWUucmVnZXhwLmpvbmkuQ29uZmlnLmxvZwo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">QXJyYXlzLmFzTGlzdDxUPigKQXJyYXlzLmFzTGlzdDxUPigKQXJyYXlzLmFzTGlzdDxUPig=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LlN5c3RlbUNvbG9yLmluZm8K</text>
       </register>
       <register name=":" type="4">
         <text>62</text>
