@@ -46,11 +46,11 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" timestamp="1541696410805">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="49" column="25" />
-        <mark key="." line="49" column="25" />
-        <mark key="^" line="49" column="25" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" timestamp="1541698533983">
+        <mark key="[" line="77" column="37" />
+        <mark key="]" line="77" column="44" />
+        <mark key="." line="77" column="44" />
+        <mark key="^" line="77" column="44" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsTables.java" timestamp="1541509989586">
         <mark key="[" line="187" column="5" />
@@ -159,12 +159,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1541697664349">
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1541698723031">
         <mark key="'" line="344" column="36" />
-        <mark key="[" line="384" column="16" />
-        <mark key="]" line="384" column="16" />
-        <mark key="^" line="384" column="16" />
-        <mark key="." line="384" column="16" />
+        <mark key="[" line="385" column="16" />
+        <mark key="]" line="385" column="33" />
+        <mark key="^" line="385" column="33" />
+        <mark key="." line="385" column="33" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/HierarchyDataLoader.java" timestamp="1540909650044">
         <mark key="[" line="16" column="40" />
@@ -318,11 +318,17 @@
         <mark key="^" line="48" column="46" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1541696098251">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="30" />
-        <mark key="." line="28" column="30" />
-        <mark key="^" line="28" column="30" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1541698455745">
+        <mark key="[" line="94" column="45" />
+        <mark key="]" line="94" column="49" />
+        <mark key="." line="94" column="49" />
+        <mark key="^" line="94" column="49" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyAPIWrapper.java" timestamp="1541698684841">
+        <mark key="[" line="34" column="140" />
+        <mark key="]" line="34" column="140" />
+        <mark key="^" line="34" column="140" />
+        <mark key="." line="34" column="140" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/pom.xml" timestamp="1541691953171">
         <mark key="'" line="51" column="65" />
@@ -819,44 +825,44 @@
       <jump line="32" column="6" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/dei/properties/DEIPropertiesIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclNwb3J0KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclJlYWxjYXRlZ29yeSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmb3JVbmlxdWVUb3VybmFtZW50KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclRvdXJuYW1lbnQpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9yTWF0Y2gpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U3RyZWFtLm9mKGZvclNwb3J0LCBmb3JSZWFsY2F0ZWdvcnksIGZvclVuaXF1ZVRvdXJuYW1lbnQsIGZvclRvdXJuYW1lbnQsIGZvck1hdGNoKS5ub25lTWF0Y2goYiAtPiBiKQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QXJyYXlzLmFzTGlzdChmb3JTcG9ydCwgZm9yUmVhbGNhdGVnb3J5LCBmb3JVbmlxdWVUb3VybmFtZW50LCBmb3JUb3VybmFtZW50LCBmb3JNYXRjaCkuc3RyZWFtKCkuYW55TWF0Y2goYiAtPiBiKQ==</text>
+        <text encoding="base64">U3RyZWFtLm9mKGZvclNwb3J0LCBmb3JSZWFsY2F0ZWdvcnksIGZvclVuaXF1ZVRvdXJuYW1lbnQsIGZvclRvdXJuYW1lbnQsIGZvck1hdGNoKS5ub25lTWF0Y2goYiAtPiBiKQ==</text>
       </register>
       <register name="/" type="4">
         <text>DeiProperty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclNwb3J0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmVhbS5vZihmb3JTcG9ydCwgZm9yUmVhbGNhdGVnb3J5LCBmb3JVbmlxdWVUb3VybmFtZW50LCBmb3JUb3VybmFtZW50LCBmb3JNYXRjaCkubm9uZU1hdGNoKGIgLT4gYikpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclNwb3J0KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclJlYWxjYXRlZ29yeSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmb3JVbmlxdWVUb3VybmFtZW50KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclRvdXJuYW1lbnQpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9yTWF0Y2gpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcXVlcnk6IExpc3Q8UXVlcnk+ID0gbGlzdE9mKCkKICAgICAgICB3aGVuKHR5cGUpIHsKICAgICAgICAgICAgRW50aXR5VHlwZS5TUE9SVCAtPiBUT0RPKCkKICAgICAgICAgICAgRW50aXR5VHlwZS5SRUFMQ0FURUdPUlkgLT4gVE9ETygpCiAgICAgICAgICAgIEVudGl0eVR5cGUuVU5JUVVFVE9VUk5BTUVOVCAtPiBUT0RPKCkKICAgICAgICAgICAgRW50aXR5VHlwZS5UT1VSTkFNRU5UIC0+IFRPRE8oKQogICAgICAgICAgICBFbnRpdHlUeXBlLk1BVENIIC0+IFRPRE8oKQogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmb3JTcG9ydCAmJiAhZm9yUmVhbGNhdGVnb3J5ICYmICFmb3JVbmlxdWVUb3VybmFtZW50ICYmICFmb3JUb3VybmFtZW50ICYmICFmb3JNYXRjaCkgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHJlYWxjYXRlZ29yeUlkID0gdG91cm5hbWVudHRhYmxlLmdldFJlYWxjYXRlZ29yeUlkKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eUlkIHJvdW5kSW5mb1Byb3AgPSBQcm9wZXJ0eUlkLkFMTF9ST1VORF9JTkZPUk1BVElPTl9VU0VEX0lOX0NPTVBFVElUSU9OOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclNwb3J0KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclJlYWxjYXRlZ29yeSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmb3JVbmlxdWVUb3VybmFtZW50KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclRvdXJuYW1lbnQpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9yTWF0Y2gpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmb3JTcG9ydCAmJiAhZm9yUmVhbGNhdGVnb3J5ICYmICFmb3JVbmlxdWVUb3VybmFtZW50ICYmICFmb3JUb3VybmFtZW50ICYmICFmb3JNYXRjaCkgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHJlYWxjYXRlZ29yeUlkID0gdG91cm5hbWVudHRhYmxlLmdldFJlYWxjYXRlZ29yeUlkKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhbGxUb3VybmFtZW50cy5wcm9wZXJ0aWVzQnlUeXBlKCkuZ2V0KEVudGl0eVR5cGUuVE9VUk5BTUVOVCkuZ2V0KDMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eUlkIHJvdW5kSW5mb1Byb3AgPSBQcm9wZXJ0eUlkLkFMTF9ST1VORF9JTkZPUk1BVElPTl9VU0VEX0lOX0NPTVBFVElUSU9OOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcG9ydHJhZGFyLmNvbW1vbi5kZWkuYXBpLnByb3BlcnRpZXMuUHJvcGVydHlJZDsKaW1wb3J0IGNvbS5zcG9ydHJhZGFyLmNvbW1vbi5kZWkuYXBpLnByb3BlcnRpZXMuRW50aXR5VHlwZTsKaW1wb3J0IGNvbS5zcG9ydHJhZGFyLmNvbW1vbi5kZWkuYXBpLnByb3BlcnRpZXMuUXVlcnk7CmltcG9ydCBjb20uc3BvcnRyYWRhci5jb21tb24uZGVpLmFwaS5wcm9wZXJ0aWVzLlJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhbGxUb3VybmFtZW50cy5wcm9wZXJ0aWVzQnlUeXBlKCkuZ2V0KEVudGl0eVR5cGUuVE9VUk5BTUVOVCkuZ2V0KDMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcG9ydHJhZGFyLmNvbW1vbi5kZWkuYXBpLnByb3BlcnRpZXMubW9kZWwuUHJvcGVydHlJZDsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/DeiProperty/PropertyId/g</text>
