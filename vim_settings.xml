@@ -159,12 +159,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1541698723031">
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1541763316546">
         <mark key="'" line="344" column="36" />
-        <mark key="[" line="385" column="16" />
-        <mark key="]" line="385" column="33" />
-        <mark key="^" line="385" column="33" />
-        <mark key="." line="385" column="33" />
+        <mark key="[" line="385" column="17" />
+        <mark key="]" line="385" column="42" />
+        <mark key="^" line="385" column="42" />
+        <mark key="." line="385" column="42" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/HierarchyDataLoader.java" timestamp="1540909650044">
         <mark key="[" line="16" column="40" />
@@ -612,11 +612,11 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/MatchManagerIntegrationTest.java" timestamp="1541696441825">
-        <mark key="[" line="102" column="14" />
-        <mark key="]" line="102" column="18" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/MatchManagerIntegrationTest.java" timestamp="1541763257729">
+        <mark key="[" line="105" column="19" />
+        <mark key="]" line="105" column="19" />
         <mark key="^" line="102" column="18" />
-        <mark key="." line="102" column="18" />
+        <mark key="." line="105" column="19" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/specialodds/virtual/MatchInfo.java" timestamp="1539763309327">
         <mark key="[" line="56" column="15" />
@@ -826,10 +826,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U3RyZWFtLm9mKGZvclNwb3J0LCBmb3JSZWFsY2F0ZWdvcnksIGZvclVuaXF1ZVRvdXJuYW1lbnQsIGZvclRvdXJuYW1lbnQsIGZvck1hdGNoKS5ub25lTWF0Y2goYiAtPiBiKQ==</text>
+        <text>isEnabledForMatch</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyZWFtLm9mKGZvclNwb3J0LCBmb3JSZWFsY2F0ZWdvcnksIGZvclVuaXF1ZVRvdXJuYW1lbnQsIGZvclRvdXJuYW1lbnQsIGZvck1hdGNoKS5ub25lTWF0Y2goYiAtPiBiKQ==</text>
+        <text>isEnabledForMatch</text>
       </register>
       <register name="/" type="4">
         <text>DeiProperty</text>
