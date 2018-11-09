@@ -21,6 +21,7 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/component.properties.64" timestamp="1541769746549" />
       <file name="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/history/recover/Saver.kt" timestamp="1541074621949">
         <mark key="'" line="424" column="20" />
         <mark key="[" line="80" column="34" />
@@ -252,6 +253,12 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/ComponentPropertiesLoaderTest.java" timestamp="1541769844669">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/model/MatchExtra.java" timestamp="1539946874339">
         <mark key="[" line="72" column="2" />
         <mark key="]" line="34" column="38" />
@@ -264,6 +271,7 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.5/sportradar-common-2.0.5-sources.jar!/com/betradar/central/ComponentPropertiesLoader.java" timestamp="1541768633383" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/CopyLivescoreFromHistory.java" timestamp="1539877380397">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="13" />
@@ -479,7 +487,7 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties.@env@" timestamp="1541159026412">
+      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties.@env@" timestamp="1541768549382">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="35" column="20" />
         <mark key="]" line="35" column="78" />
@@ -708,15 +716,18 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/component.properties.539" timestamp="1541769374354">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" timestamp="1541689287922">
         <mark key="'" line="252" column="0" />
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
-      </file>
-      <file name="/fragment.java" timestamp="1541685601916">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -822,44 +833,44 @@
       <jump line="32" column="6" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/dei/properties/DEIPropertiesIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApLmFueSB7IGl0IH0K</text>
+      <register name="&quot;" type="4">
+        <text>new int[]{</text>
       </register>
       <register name="-" type="4">
-        <text>isEnabledForMatch</text>
+        <text>new int[]{</text>
       </register>
       <register name="/" type="4">
         <text>DeiProperty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmVhbS5vZihmb3JTcG9ydCwgZm9yUmVhbGNhdGVnb3J5LCBmb3JVbmlxdWVUb3VybmFtZW50LCBmb3JUb3VybmFtZW50LCBmb3JNYXRjaCkubm9uZU1hdGNoKGIgLT4gYikpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBc3NlcnQuYXNzZXJ0VGhhdChwcm9wcy5nZXRCb29sZWFuKCJjb25uZWN0aW9ucG9vbF9nbG9iYWxfZW5hYmxlZCIpLCBpcyh0cnVlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApLmFueSB7IGl0IH0K</text>
+        <text encoding="base64">ICAgICAgICAgIEludGVnZXIgY29tcElkID0gaTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdE9mKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcXVlcnk6IExpc3Q8UXVlcnk+ID0gbGlzdE9mKCkKICAgICAgICB3aGVuKHR5cGUpIHsKICAgICAgICAgICAgRW50aXR5VHlwZS5TUE9SVCAtPiBUT0RPKCkKICAgICAgICAgICAgRW50aXR5VHlwZS5SRUFMQ0FURUdPUlkgLT4gVE9ETygpCiAgICAgICAgICAgIEVudGl0eVR5cGUuVU5JUVVFVE9VUk5BTUVOVCAtPiBUT0RPKCkKICAgICAgICAgICAgRW50aXR5VHlwZS5UT1VSTkFNRU5UIC0+IFRPRE8oKQogICAgICAgICAgICBFbnRpdHlUeXBlLk1BVENIIC0+IFRPRE8oKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQXNzZXJ0LmFzc2VydFRoYXQocHJvcHMuZ2V0Qm9vbGVhbigiY29ubmVjdGlvbnBvb2xfU2VsZWN0REJfZW5hYmxlZCIpLCBpcyh0cnVlKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclNwb3J0KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclJlYWxjYXRlZ29yeSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmb3JVbmlxdWVUb3VybmFtZW50KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZvclRvdXJuYW1lbnQpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9yTWF0Y2gpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmb3JTcG9ydCAmJiAhZm9yUmVhbGNhdGVnb3J5ICYmICFmb3JVbmlxdWVUb3VybmFtZW50ICYmICFmb3JUb3VybmFtZW50ICYmICFmb3JNYXRjaCkgewo=</text>
+        <text encoding="base64">ICAgICAgcHJvcHMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHJlYWxjYXRlZ29yeUlkID0gdG91cm5hbWVudHRhYmxlLmdldFJlYWxjYXRlZ29yeUlkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9hZGVyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eUlkIHJvdW5kSW5mb1Byb3AgPSBQcm9wZXJ0eUlkLkFMTF9ST1VORF9JTkZPUk1BVElPTl9VU0VEX0lOX0NPTVBFVElUSU9OOwo=</text>
+        <text encoding="base64">ICAgICAgICApLmFueSB7IGl0IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdE9mKAo=</text>
       </register>
       <register name=":" type="4">
         <text>228</text>
