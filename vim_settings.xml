@@ -214,7 +214,7 @@
         <text>sportradar</text>
       </register>
       <register name="/" type="4">
-        <text>Failed to loadMatchDetails</text>
+        <text>synchronize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLndpbnRlcndlbGw8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+anR3aXR0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4K</text>
@@ -251,9 +251,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Failed to loadMatchDetails</last-search>
+      <last-search>synchronize</last-search>
       <last-offset />
-      <last-pattern>Failed to loadMatchDetails</last-pattern>
+      <last-pattern>synchronize</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -261,7 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry>upload</entry>
         <entry>ftp</entry>
         <entry>filesender-common</entry>
         <entry>prop</entry>
@@ -281,6 +280,7 @@
         <entry>;</entry>
         <entry>createFromGeneralProperties</entry>
         <entry>Failed to loadMatchDetails</entry>
+        <entry>synchronize</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbCBcKFx3KlwpOiBCb29sZWFuL3ZhbCBcMSA9IGJvb2woIlwxIikvZw==</entry>
