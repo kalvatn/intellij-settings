@@ -130,6 +130,13 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" timestamp="1542202966816">
+        <mark key="'" line="1207" column="6" />
+        <mark key="[" line="1141" column="102" />
+        <mark key="]" line="1141" column="114" />
+        <mark key="." line="1141" column="114" />
+        <mark key="^" line="1141" column="114" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyId.kt" timestamp="1541621474187">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="164" />
@@ -247,7 +254,7 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1541773331781">
+      <file name="/fragment.java" timestamp="1542203075962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiIntegrationTest.kt" timestamp="1541690200066">
@@ -258,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="32" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/history/recover/Loader.java" />
-      <jump line="261" column="41" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" />
       <jump line="303" column="108" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" />
       <jump line="314" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" />
       <jump line="317" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/phrases/PhraseUsageTracker.java" />
@@ -358,16 +363,18 @@
       <jump line="152" column="2" filename="$MAVEN_REPOSITORY$/com/sportradar/common/database/core/1.0.1/core-1.0.1-sources.jar!/com/sportradar/common/database/core/AbstractConnectionDecorator.java" />
       <jump line="185" column="17" filename="$MAVEN_REPOSITORY$/com/sportradar/common/database/core/1.0.1/core-1.0.1-sources.jar!/com/sportradar/common/database/core/AbstractConnectionDecorator.java" />
       <jump line="128" column="80" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
+      <jump line="1148" column="56" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
+      <jump line="1207" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>57660</text>
+        <text>AGAINST_ALL</text>
       </register>
       <register name="-" type="4">
-        <text>57660</text>
+        <text>AGAINST_ALL</text>
       </register>
       <register name="/" type="4">
-        <text>isValid</text>
+        <text>UAE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLndpbnRlcndlbGw8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+anR3aXR0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4K</text>
@@ -404,9 +411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isValid</last-search>
+      <last-search>UAE</last-search>
       <last-offset />
-      <last-pattern>isValid</last-pattern>
+      <last-pattern>UAE</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -414,8 +421,6 @@
     </search>
     <history>
       <history-search>
-        <entry>filesender-common</entry>
-        <entry>prop</entry>
         <entry>!!</entry>
         <entry>val</entry>
         <entry>dei-properties</entry>
@@ -434,6 +439,8 @@
         <entry>Failed to loadMatchDetails</entry>
         <entry>synchronize</entry>
         <entry>isValid</entry>
+        <entry>AFTER</entry>
+        <entry>UAE</entry>
       </history-search>
       <history-cmd>
         <entry>%s/vararg //g</entry>
