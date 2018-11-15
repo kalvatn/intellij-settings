@@ -343,7 +343,7 @@
         <text>ScoutToLivescore</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>recovery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc29ydGVyLmFkZChuZXcgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZygyLCAicG9pbnRzVG90YWwiLCB0YWJsZSwgZmFsc2UsIElubmJ5cmRlc09wcGdqb3JTb3J0ZXJpbmcuTUFUQ0hfUEFJUklORykpOwogICAgICBzb3J0ZXIuYWRkKG5ldyBJbm5ieXJkZXNPcHBnam9yU29ydGVyaW5nKDEsICJnb2FsRGlmZlRvdGFsIiwgdGFibGUsIGZhbHNlLCBJbm5ieXJkZXNPcHBnam9yU29ydGVyaW5nLk1BVENIX1BBSVJJTkcpKTsKICAgICAgc29ydGVyLmFkZChuZXcgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZygyLCAiZ29hbHNGb3JUb3RhbCIsIHRhYmxlLCBmYWxzZSwgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZy5NQVRDSF9QQUlSSU5HKSk7CiAgICAgIHNvcnRlci5hZGQobmV3IElubmJ5cmRlc09wcGdqb3JTb3J0ZXJpbmcoMywgImdvYWxzRm9yQXdheSIsIHRhYmxlLCBmYWxzZSwgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZy5NQVRDSF9QQUlSSU5HKSk7Cg==</text>
@@ -376,13 +376,13 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmluZ2FtZS1iZXR0aW5nLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwMTguNS4xPC92ZXJzaW9uPgogICAgICAgICAgICA8ZXhjbHVzaW9ucz4KICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLndpbnRlcndlbGw8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+anR3aXR0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmluZ2FtZS1iZXR0aW5nLWRhdGFtb2RlbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MjAxOC41LjE8L3ZlcnNpb24+CiAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhcjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcG9ydHJhZGFyLWNvbW1vbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ud2ludGVyd2VsbDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qdHdpdHRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgICAgICA8L2V4Y2x1c2lvbnM+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name=":" type="4">
-        <text>154</text>
+        <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>recovery</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>recovery</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -390,7 +390,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dei-properties</entry>
         <entry>PropertyResponse</entry>
         <entry>PropertyQuery</entry>
         <entry>DeiProperty</entry>
@@ -410,6 +409,7 @@
         <entry>uniqueKey</entry>
         <entry>jtwitter</entry>
         <entry>json</entry>
+        <entry>recovery</entry>
       </history-search>
       <history-cmd>
         <entry>%s/vararg //g</entry>
@@ -418,7 +418,6 @@
         <entry>%s/.toInt()//g</entry>
         <entry>38</entry>
         <entry>52</entry>
-        <entry>set ignorecase</entry>
         <entry>62</entry>
         <entry>%s/!!//g</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbC9ASnZtRmllbGQgdmFsL2c=</entry>
@@ -432,6 +431,7 @@
         <entry>324</entry>
         <entry>280</entry>
         <entry>154</entry>
+        <entry>set ignorecase</entry>
       </history-cmd>
       <history-expr />
       <history-input />
