@@ -15,11 +15,15 @@
         <mark key="." line="25" column="98" />
         <mark key="^" line="25" column="98" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/TeamPlayerValue.java" timestamp="1542370787093" />
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/loader/Loader.kt" timestamp="1541692230913">
         <mark key="[" line="67" column="44" />
         <mark key="]" line="67" column="53" />
         <mark key="." line="67" column="53" />
         <mark key="^" line="67" column="53" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1542370714134">
+        <mark key="'" line="8" column="12" />
       </file>
       <file name="/work/projects/gitlab/livescore/scout/src/main/java/com/oddsarbitrage/scout/livescore/ScoutToLivescore.java" timestamp="1542215302864">
         <mark key="'" line="95" column="6" />
@@ -175,12 +179,6 @@
         <mark key="." line="366" column="46" />
         <mark key="^" line="366" column="46" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1542024160606">
-        <mark key="'" line="74" column="65" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1541686507313">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="25" column="16" />
@@ -235,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1008" column="39" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="495" column="56" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="688" column="21" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="815" column="33" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
@@ -335,6 +332,7 @@
       <jump line="78" column="32" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="34" column="0" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="160" column="20" filename="/work/projects/gitlab/livescore/common/pom.xml" />
+      <jump line="8" column="12" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -344,7 +342,7 @@
         <text>ScoutToLivescore</text>
       </register>
       <register name="/" type="4">
-        <text>recovery</text>
+        <text>PLAYER_POSITION</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc29ydGVyLmFkZChuZXcgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZygyLCAicG9pbnRzVG90YWwiLCB0YWJsZSwgZmFsc2UsIElubmJ5cmRlc09wcGdqb3JTb3J0ZXJpbmcuTUFUQ0hfUEFJUklORykpOwogICAgICBzb3J0ZXIuYWRkKG5ldyBJbm5ieXJkZXNPcHBnam9yU29ydGVyaW5nKDEsICJnb2FsRGlmZlRvdGFsIiwgdGFibGUsIGZhbHNlLCBJbm5ieXJkZXNPcHBnam9yU29ydGVyaW5nLk1BVENIX1BBSVJJTkcpKTsKICAgICAgc29ydGVyLmFkZChuZXcgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZygyLCAiZ29hbHNGb3JUb3RhbCIsIHRhYmxlLCBmYWxzZSwgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZy5NQVRDSF9QQUlSSU5HKSk7CiAgICAgIHNvcnRlci5hZGQobmV3IElubmJ5cmRlc09wcGdqb3JTb3J0ZXJpbmcoMywgImdvYWxzRm9yQXdheSIsIHRhYmxlLCBmYWxzZSwgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZy5NQVRDSF9QQUlSSU5HKSk7Cg==</text>
@@ -381,9 +379,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recovery</last-search>
+      <last-search>PLAYER_POSITION</last-search>
       <last-offset />
-      <last-pattern>recovery</last-pattern>
+      <last-pattern>PLAYER_POSITION</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -391,7 +389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PropertyResponse</entry>
         <entry>PropertyQuery</entry>
         <entry>DeiProperty</entry>
         <entry>getUpdateGroups</entry>
@@ -411,6 +408,7 @@
         <entry>jtwitter</entry>
         <entry>json</entry>
         <entry>recovery</entry>
+        <entry>PLAYER_POSITION</entry>
       </history-search>
       <history-cmd>
         <entry>%s/vararg //g</entry>
