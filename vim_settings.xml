@@ -131,8 +131,8 @@
         <mark key="." line="114" column="17" />
         <mark key="^" line="114" column="17" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1542287671616">
-        <mark key="'" line="160" column="20" />
+      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1542372260208">
+        <mark key="'" line="167" column="19" />
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
@@ -233,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="56" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="688" column="21" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="815" column="33" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="817" column="58" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
@@ -333,6 +332,7 @@
       <jump line="34" column="0" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="160" column="20" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="8" column="12" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
+      <jump line="167" column="19" filename="/work/projects/gitlab/livescore/common/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -342,7 +342,7 @@
         <text>ScoutToLivescore</text>
       </register>
       <register name="/" type="4">
-        <text>PLAYER_POSITION</text>
+        <text>semver</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc29ydGVyLmFkZChuZXcgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZygyLCAicG9pbnRzVG90YWwiLCB0YWJsZSwgZmFsc2UsIElubmJ5cmRlc09wcGdqb3JTb3J0ZXJpbmcuTUFUQ0hfUEFJUklORykpOwogICAgICBzb3J0ZXIuYWRkKG5ldyBJbm5ieXJkZXNPcHBnam9yU29ydGVyaW5nKDEsICJnb2FsRGlmZlRvdGFsIiwgdGFibGUsIGZhbHNlLCBJbm5ieXJkZXNPcHBnam9yU29ydGVyaW5nLk1BVENIX1BBSVJJTkcpKTsKICAgICAgc29ydGVyLmFkZChuZXcgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZygyLCAiZ29hbHNGb3JUb3RhbCIsIHRhYmxlLCBmYWxzZSwgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZy5NQVRDSF9QQUlSSU5HKSk7CiAgICAgIHNvcnRlci5hZGQobmV3IElubmJ5cmRlc09wcGdqb3JTb3J0ZXJpbmcoMywgImdvYWxzRm9yQXdheSIsIHRhYmxlLCBmYWxzZSwgSW5uYnlyZGVzT3BwZ2pvclNvcnRlcmluZy5NQVRDSF9QQUlSSU5HKSk7Cg==</text>
@@ -379,9 +379,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PLAYER_POSITION</last-search>
+      <last-search>semver</last-search>
       <last-offset />
-      <last-pattern>PLAYER_POSITION</last-pattern>
+      <last-pattern>semver</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PropertyQuery</entry>
         <entry>DeiProperty</entry>
         <entry>getUpdateGroups</entry>
         <entry>publishing</entry>
@@ -409,6 +408,7 @@
         <entry>json</entry>
         <entry>recovery</entry>
         <entry>PLAYER_POSITION</entry>
+        <entry>semver</entry>
       </history-search>
       <history-cmd>
         <entry>%s/vararg //g</entry>
