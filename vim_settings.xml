@@ -4,6 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/TeamPlayerValue.java" timestamp="1542370787093" />
+      <file name="/a.dummy" timestamp="1542378971822">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/loader/Loader.kt" timestamp="1541692230913">
         <mark key="[" line="67" column="44" />
         <mark key="]" line="67" column="53" />
@@ -106,12 +109,12 @@
         <mark key="." line="366" column="46" />
         <mark key="^" line="366" column="46" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1542374591715">
-        <mark key="'" line="466" column="42" />
-        <mark key="[" line="619" column="38" />
-        <mark key="]" line="619" column="38" />
-        <mark key="." line="619" column="38" />
-        <mark key="^" line="619" column="37" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1542379061889">
+        <mark key="'" line="1304" column="35" />
+        <mark key="[" line="316" column="75" />
+        <mark key="]" line="317" column="16" />
+        <mark key="." line="317" column="16" />
+        <mark key="^" line="317" column="16" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1542374766551">
         <mark key="[" line="11" column="73" />
@@ -237,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="48" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfiguration.java" />
       <jump line="55" column="41" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" />
       <jump line="71" column="16" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyResponse.kt" />
       <jump line="26" column="3" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyQuery.kt" />
@@ -337,55 +339,56 @@
       <jump line="6" column="22" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
       <jump line="251" column="0" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
       <jump line="26" column="106" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/Query.kt" />
+      <jump line="1313" column="35" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>BAC-6778</text>
+        <text>recoverBasket</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmdW4gZm9yTWF0Y2hlcyhpZHM6IFNldDxJbnQ+LCBsb2w6IFNldDxPYmplY3Q+KSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGUK</text>
+        <text encoding="base64">CQkJCWxtY2RjUGxheWVyMSA9IHJzLmdldEludCgicGxheWVyaWQxIik7CgkJCQlsbWNkY1BsYXllcjIgPSBycy5nZXRJbnQoInBsYXllcmlkMiIpOwoJCQkJaWYgKGxtY2RjUGxheWVyMSA8PSAwKSB7CgkJCQkJbG1jZGNQbGF5ZXIxID0gLTE7CgkJCQl9CgkJCQlpZiAobG1jZGNQbGF5ZXIyIDw9IDApIHsKCQkJCQlsbWNkY1BsYXllcjIgPSAtMTsKCQkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpbnQgbG1jZGNQbGF5ZXIxID0gLTE7CgkJaW50IGxtY2RjUGxheWVyMiA9IC0xOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzcygidW51c2VkIikKICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhbHNlCiAgICAgICAgICAgICAgICAgICAgLmNhY2hlQ29uZmlndXJhdGlvbihDYWNoZUJ1aWxkZXIubmV3QnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgLmNvbmN1cnJlbmN5TGV2ZWwoMTApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAucmVjb3JkU3RhdHMoKQogICAgICAgICAgICAgICAgICAgIC5leHBpcmVBZnRlcldyaXRlKDEsIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAgICAgICAgIC5tYXhpbXVtU2l6ZSg1MDAwKSkKICAgICAgICAgICAgICAgIC5jYWNoZSh0cnVlKQogICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KSB7CiAgICBjbGFzcyBCdWlsZGVyIHsKICAgICAgICBwcml2YXRlIGxhdGVpbml0IHZhciBhcGlVcmw6IFN0cmluZwogICAgICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGFwaVRva2VuOiBTdHJpbmcKICAgICAgICBwcml2YXRlIHZhciBjYWNoZSA9IGZhbHNlCiAgICAgICAgcHJpdmF0ZSB2YXIgZGVidWdMb2dnaW5nID0gZmFsc2UKICAgICAgICBwcml2YXRlIHZhciBjYWNoZUNvbmZpZzogQ2FjaGVCdWlsZGVyPEFueSwgQW55PiA9IENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5tYXhpbXVtU2l6ZSg1MDAwKQogICAgICAgICAgICAgICAgLmV4cGlyZUFmdGVyV3JpdGUoMSwgVGltZVVuaXQuSE9VUlMpCgogICAgICAgIGZ1biBhcGlVcmwoYXBpVXJsOiBTdHJpbmcpID0gYXBwbHkgeyB0aGlzLmFwaVVybCA9IGFwaVVybCB9CiAgICAgICAgZnVuIGFwaVRva2VuKGFwaVRva2VuOiBTdHJpbmcpID0gYXBwbHkgeyB0aGlzLmFwaVRva2VuID0gYXBpVG9rZW4gfQogICAgICAgIGZ1biBkZWJ1Z0xvZ2dpbmcodmFsdWU6Qm9vbGVhbikgPSBhcHBseSB7IHRoaXMuZGVidWdMb2dnaW5nID0gdmFsdWUgfQogICAgICAgIGZ1biBjYWNoZSh1c2VDYWNoZTogQm9vbGVhbikgPSBhcHBseSB7IHRoaXMuY2FjaGUgPSB1c2VDYWNoZSB9CiAgICAgICAgZnVuIGNhY2hlQ29uZmlndXJhdGlvbihjb25maWc6IENhY2hlQnVpbGRlcjxBbnksIEFueT4pID0gYXBwbHkgeyB0aGlzLmNhY2hlQ29uZmlnID0gY29uZmlnIH0KCiAgICAgICAgZnVuIGJ1aWxkKCkgPSBQcm9wZXJ0eUFwaUNvbmZpZygKICAgICAgICAgICAgICAgIGFwaVVybCA9IHRoaXMuYXBpVXJsLAogICAgICAgICAgICAgICAgYXBpVG9rZW4gPSB0aGlzLmFwaVRva2VuLAogICAgICAgICAgICAgICAgZGVidWdMb2dnaW5nID0gdGhpcy5kZWJ1Z0xvZ2dpbmcsCiAgICAgICAgICAgICAgICBjYWNoZSA9IHRoaXMuY2FjaGUsCiAgICAgICAgICAgICAgICBjYWNoZUNvbmZpZyA9IHRoaXMuY2FjaGVDb25maWcKICAgICAgICApCgogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpzb248L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmpzb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwMTgwODEzPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>BAC-6778</last-search>
+      <last-search>recoverBasket</last-search>
       <last-offset />
-      <last-pattern>BAC-6778</last-pattern>
+      <last-pattern>recoverBasket</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUpdateGroups</entry>
         <entry>publishing</entry>
         <entry>winterwell</entry>
         <entry>twitter</entry>
@@ -413,6 +415,7 @@
         <entry>PLAYER_POSITION</entry>
         <entry>semver</entry>
         <entry>BAC-6778</entry>
+        <entry>recoverBasket</entry>
       </history-search>
       <history-cmd>
         <entry>%s/vararg //g</entry>
