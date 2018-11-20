@@ -134,6 +134,12 @@
         <mark key="^" line="179" column="25" />
         <mark key="." line="179" column="25" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1542723241229">
+        <mark key="[" line="619" column="37" />
+        <mark key="]" line="619" column="37" />
+        <mark key="^" line="619" column="37" />
+        <mark key="." line="619" column="37" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1542374766551">
         <mark key="[" line="11" column="73" />
         <mark key="]" line="11" column="73" />
@@ -402,7 +408,7 @@
         <text encoding="base64">ICAgICAgbG9nLmluZm8oKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>600</text>
       </register>
     </registers>
     <search>
@@ -438,7 +444,6 @@
         <entry>waitForLoad</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/vararg //g</entry>
         <entry>%s/Int?/Int/gc</entry>
         <entry>%s/Int?/Int/g</entry>
         <entry>%s/.toInt()//g</entry>
@@ -458,6 +463,7 @@
         <entry>280</entry>
         <entry>154</entry>
         <entry>set ignorecase</entry>
+        <entry>600</entry>
       </history-cmd>
       <history-expr />
       <history-input />
