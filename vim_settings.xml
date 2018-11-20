@@ -122,6 +122,9 @@
         <mark key="." line="10" column="46" />
         <mark key="^" line="10" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-datamodel/2018.5.1/ingame-betting-datamodel-2018.5.1.jar!/com/sportradar/betting/liveodds/model/market/Field.class" timestamp="1542725484885">
+        <mark key="'" line="423" column="53" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" timestamp="1542112297458">
         <mark key="[" line="366" column="46" />
         <mark key="]" line="366" column="46" />
@@ -134,12 +137,7 @@
         <mark key="^" line="179" column="25" />
         <mark key="." line="179" column="25" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1542723241229">
-        <mark key="[" line="619" column="37" />
-        <mark key="]" line="619" column="37" />
-        <mark key="^" line="619" column="37" />
-        <mark key="." line="619" column="37" />
-      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1542725368933" />
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1542374766551">
         <mark key="[" line="11" column="73" />
         <mark key="]" line="11" column="73" />
@@ -266,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="86" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" />
       <jump line="122" column="69" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" />
       <jump line="65" column="4" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
       <jump line="109" column="42" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
@@ -366,6 +363,7 @@
       <jump line="319" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/StableDataProvider.java" />
       <jump line="271" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/StableDataProvider.java" />
       <jump line="188" column="24" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.5/sportradar-common-2.0.5-sources.jar!/com/betradar/util/DataLoader.java" />
+      <jump line="423" column="53" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-datamodel/2018.5.1/ingame-betting-datamodel-2018.5.1.jar!/com/sportradar/betting/liveodds/model/market/Field.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
