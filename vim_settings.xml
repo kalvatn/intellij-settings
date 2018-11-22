@@ -127,20 +127,18 @@
         <mark key="." line="10" column="46" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-datamodel/2018.5.1/ingame-betting-datamodel-2018.5.1.jar!/com/sportradar/betting/liveodds/model/market/Field.class" timestamp="1542725484885">
-        <mark key="'" line="423" column="53" />
-      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" timestamp="1542112297458">
         <mark key="[" line="366" column="46" />
         <mark key="]" line="366" column="46" />
         <mark key="." line="366" column="46" />
         <mark key="^" line="366" column="46" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1542717141637">
-        <mark key="[" line="179" column="26" />
-        <mark key="]" line="179" column="25" />
-        <mark key="^" line="179" column="25" />
-        <mark key="." line="179" column="25" />
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1542892869641">
+        <mark key="'" line="794" column="29" />
+        <mark key="[" line="699" column="0" />
+        <mark key="]" line="699" column="0" />
+        <mark key="^" line="704" column="23" />
+        <mark key="." line="699" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1542891303010">
         <mark key="[" line="113" column="92" />
@@ -182,6 +180,9 @@
         <mark key="^" line="7" column="164" />
         <mark key="." line="7" column="164" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/server/selenium-server-standalone/2.25.0/selenium-server-standalone-2.25.0.jar!/org/hamcrest/Matchers.class" timestamp="1542892434431">
+        <mark key="'" line="62" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/ResponseMapper.kt" timestamp="1541628537827">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="11" />
@@ -204,6 +205,15 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.5/sportradar-common-2.0.5-sources.jar!/com/betradar/util/DataLoader.java" timestamp="1542634508086">
+        <mark key="'" line="188" column="24" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/scout/src/main/java/com/oddsarbitrage/scout/livescore/ScoutToLivescore.java" timestamp="1542215302864">
+        <mark key="'" line="95" column="6" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar!/org/hamcrest/Matchers.java" timestamp="1542892405798">
+        <mark key="'" line="21" column="61" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/ComponentPropertiesLoaderTest.java" timestamp="1542633373176">
         <mark key="[" line="24" column="22" />
@@ -244,12 +254,6 @@
         <mark key="]" line="114" column="17" />
         <mark key="." line="114" column="17" />
         <mark key="^" line="114" column="17" />
-      </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" timestamp="1542744678107">
-        <mark key="'" line="56" column="46" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyIdTest.kt" timestamp="1541613559131">
         <mark key="[" line="19" column="50" />
@@ -316,26 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="3" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/APIResponseLoader.kt" />
-      <jump line="55" column="3" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/APIResponseLoader.kt" />
-      <jump line="26" column="28" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
-      <jump line="22" column="38" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiTest.kt" />
-      <jump line="66" column="38" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
-      <jump line="386" column="0" filename="/work/projects/gitlab/livescore/common/pom.xml" />
-      <jump line="28" column="27" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
-      <jump line="164" column="0" filename="/work/projects/gitlab/livescore/common/pom.xml" />
-      <jump line="156" column="50" filename="/work/projects/gitlab/livescore/common/pom.xml" />
-      <jump line="285" column="39" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
-      <jump line="110" column="24" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
-      <jump line="248" column="89" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
-      <jump line="187" column="24" filename="/work/projects/gitlab/livescore/common/pom.xml" />
-      <jump line="8" column="8" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
-      <jump line="252" column="0" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
-      <jump line="51" column="65" filename="/work/projects/gitlab/java/xmlexport/pom.xml" />
-      <jump line="46" column="24" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
-      <jump line="75" column="65" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
-      <jump line="373" column="27" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
-      <jump line="371" column="14" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
       <jump line="367" column="8" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
       <jump line="354" column="36" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" />
       <jump line="21" column="14" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/dei/properties/DEIPropertiesIntegrationTest.java" />
@@ -416,56 +400,76 @@
       <jump line="66" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" />
       <jump line="6" column="17" filename="/work/projects/gitlab/j.kalvatn/component/management-api/src/main/kotlin/com/sportradar/component/managementapi/dao/ComponentRepository.kt" />
       <jump line="8" column="0" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/entity/Tournament.kt" />
+      <jump line="316" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="17" column="8" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar!/org/hamcrest/Matchers.java" />
+      <jump line="726" column="50" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar!/org/hamcrest/Matchers.java" />
+      <jump line="692" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="553" column="36" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="554" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="21" column="61" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar!/org/hamcrest/Matchers.java" />
+      <jump line="62" column="0" filename="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/server/selenium-server-standalone/2.25.0/selenium-server-standalone-2.25.0.jar!/org/hamcrest/Matchers.class" />
+      <jump line="607" column="19" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="698" column="34" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="792" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="791" column="21" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="786" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="727" column="41" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="719" column="31" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="697" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="696" column="21" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="801" column="29" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="790" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="795" column="29" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="-" type="4">
         <text>components</text>
       </register>
       <register name="/" type="4">
-        <text>Check if we should</text>
+        <text>junit</text>
       </register>
       <register name="0" type="4">
         <text>{
         TODO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnQuYWxsKCkKICAgICAgICB2YWwgY29tcG9uZW50cyA9IHRyYW5zYWN0aW9uIHsKICAgICAgICAgICAgQ29tcG9uZW50LmFsbCgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcG9uZW50LmFsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjEyPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29tcHMgPSBsaXN0T2Y8Q29tcG9uZW50PigpCiAgICAgICAgdHJhbnNhY3Rpb24gewogICAgICAgICAgICBhZGRMb2dnZXIoU3RkT3V0U3FsTG9nZ2VyKQogICAgICAgICAgICBjb21wcyArIENvbXBvbmVudC5hbGwoKQogICAgICAgIH0KICAgICAgICByZXR1cm4gY29tcHMK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcG9uZW50LmFsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnQuYWxsKCkKICAgICAgICB2YWwgY29tcG9uZW50cyA9IHRyYW5zYWN0aW9uIHsKICAgICAgICAgICAgQ29tcG9uZW50LmFsbCgpCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tcHMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcG9uZW50LmFsbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29tcHMgPSBsaXN0T2Y8Q29tcG9uZW50PigpCiAgICAgICAgdHJhbnNhY3Rpb24gewogICAgICAgICAgICBhZGRMb2dnZXIoU3RkT3V0U3FsTG9nZ2VyKQogICAgICAgICAgICBjb21wcyArIENvbXBvbmVudC5hbGwoKQogICAgICAgIH0KICAgICAgICByZXR1cm4gY29tcHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbXBvbmVudCA9IENvbXBvbmVudC5hbGwoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29tcG9uZW50LmFsbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tcHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Check if we should</last-search>
+      <last-search>junit</last-search>
       <last-offset />
-      <last-pattern>Check if we should</last-pattern>
+      <last-pattern>junit</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -473,11 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
-        <entry>createFromGeneralProperties</entry>
-        <entry>Failed to loadMatchDetails</entry>
-        <entry>synchronize</entry>
-        <entry>isValid</entry>
         <entry>AFTER</entry>
         <entry>UAE</entry>
         <entry>uniqueKey</entry>
@@ -493,6 +492,11 @@
         <entry>waitForLoad</entry>
         <entry>check if we should</entry>
         <entry>Check if we should</entry>
+        <entry>selenium</entry>
+        <entry>hasSize</entry>
+        <entry>hasItems</entry>
+        <entry>hamcrest</entry>
+        <entry>junit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Int?/Int/g</entry>
