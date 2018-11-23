@@ -78,6 +78,13 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1542969804600">
+        <mark key="'" line="285" column="7" />
+        <mark key="[" line="277" column="24" />
+        <mark key="]" line="277" column="35" />
+        <mark key="." line="277" column="35" />
+        <mark key="^" line="277" column="35" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/prod-statistics-tables.sql" timestamp="1542717369126">
         <mark key="[" line="68" column="19" />
         <mark key="]" line="68" column="17" />
@@ -260,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1008" column="39" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
-      <jump line="495" column="56" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="688" column="21" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="815" column="33" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="817" column="58" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
@@ -360,63 +365,64 @@
       <jump line="275" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" />
       <jump line="239" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" />
       <jump line="207" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" />
+      <jump line="290" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
+      <jump line="285" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e.injurytime,</text>
+        <text>, 22064, 22126, 22164, 22165, 23553, 25870)</text>
       </register>
       <register name="-" type="4">
-        <text>e.injurytime,</text>
+        <text>, 22064, 22126, 22164, 22165, 23553, 25870)</text>
       </register>
       <register name="/" type="4">
-        <text>uniqueKey</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUgd2hlcmUgZS5ldmVudHR5cGUgPSA4NTsK</text>
+        <text encoding="base64">ICBhbmQgYi5CT09LTUFLRVJJRCBpbiAoMjIwNjMsIDIyMDY0LCAyMjEyNiwgMjIxNjQsIDIyMTY1LCAyMzU1MywgMjU4NzApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgZS5pZDsK</text>
+        <text encoding="base64">ICBhbmQgYi5CT09LTUFLRVJJRCBpbiAoMjIwNjMsIDIyMDY0LCAyMjEyNiwgMjIxNjQsIDIyMTY1LCAyMzU1MywgMjU4NzApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgpTRUxFQ1QgY29tcG9uZW50dGFibGUuY29tcG9uZW50aWQsCiAgICAgICBjb21wb25lbnR0YWJsZS5jb21wb25lbnRuYW1lLAogICAgICAgY29tcG9uZW50dGFibGUuaG9zdG1hY2hpbmVpcCwKICAgICAgIGNvbXBvbmVudHRhYmxlLm1hY2hpbmVfZ3JvdXAsCiAgICAgICBjb21wb25lbnR0YWJsZS5ncm91cGlkLAogICAgICAgY29tcG9uZW50dGFibGUuYXJ0aWZhY3RpZCwKICAgICAgIGNvbXBvbmVudHRhYmxlLnZlcnNpb24sCiAgICAgICBjb21wb25lbnR0YWJsZS5qYXZhcGF0aCwKICAgICAgIGNvbXBvbmVudHRhYmxlLmphdmFwYXJhbWV0ZXJlcywKICAgICAgIGNvbXBvbmVudHRhYmxlLmNsYXNzZmlsZW5hbWUsCiAgICAgICBjb21wb25lbnR0YWJsZS5wYWNrYWdlbmFtZSwKICAgICAgIGNvbXBvbmVudHRhYmxlLmZvcmNlX3JlbG9hZCwKICAgICAgIGNvbXBvbmVudHRhYmxlLmFjdGl2ZQpGUk9NIGNvbXBvbmVudHRhYmxlCldIRVJFIGNvbXBvbmVudHRhYmxlLmNvbXBvbmVudGlkID0gNjQ7Cg==</text>
+        <text encoding="base64">am9pbiBib29rbWFrZXJ0YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">am9pbiB0b3VybmFtZW50dGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXBkYXRlIGNvbXBvbmVudHRhYmxlCnNldCBncm91cElkICAgID0gImNvbS5zcG9ydHJhZGFyLmxpdmVzY29yZSIsCiAgICBhcnRpZmFjdElkID0gImNvbW1vbiIsCiAgICB2ZXJzaW9uICAgID0gIjx2ZXJzaW9uPiI7Cgp1cGRhdGUgY29tcG9uZW50dGFibGUgYwpzZXQgYy5qYXZhUGF0aCAgICAgID0gImphdmEiLAogICAgYy5tYWNoaW5lX2dyb3VwID0gImNvbXAtcHJvZC1tdm5jb21wMSIsCiAgICBjLmhvc3RNYWNoaW5lSXAgPSAiMTAuMjAwLjQuMTIzIiwKICAgIGMuZ3JvdXBJZCAgICAgICA9ICJjb20uc3BvcnRyYWRhci5saXZlc2NvcmUiLAogICAgYy5hcnRpZmFjdElkICAgID0gImNvbW1vbiIsCiAgICBjLnZlcnNpb24gICAgICAgPSAiMC4wLjE1Igp3aGVyZSBjLkNvbXBvbmVudElkID0gNDQ5Owo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUgd2hlcmUgZS5ldmVudHR5cGUgPSA4NQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDAK</text>
+        <text encoding="base64">Z3JvdXAgYnkgZS5pZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGMucHJvZHVjdGlkLAo=</text>
+        <text encoding="base64">CgpTRUxFQ1QgY29tcG9uZW50dGFibGUuY29tcG9uZW50aWQsCiAgICAgICBjb21wb25lbnR0YWJsZS5jb21wb25lbnRuYW1lLAogICAgICAgY29tcG9uZW50dGFibGUuaG9zdG1hY2hpbmVpcCwKICAgICAgIGNvbXBvbmVudHRhYmxlLm1hY2hpbmVfZ3JvdXAsCiAgICAgICBjb21wb25lbnR0YWJsZS5ncm91cGlkLAogICAgICAgY29tcG9uZW50dGFibGUuYXJ0aWZhY3RpZCwKICAgICAgIGNvbXBvbmVudHRhYmxlLnZlcnNpb24sCiAgICAgICBjb21wb25lbnR0YWJsZS5qYXZhcGF0aCwKICAgICAgIGNvbXBvbmVudHRhYmxlLmphdmFwYXJhbWV0ZXJlcywKICAgICAgIGNvbXBvbmVudHRhYmxlLmNsYXNzZmlsZW5hbWUsCiAgICAgICBjb21wb25lbnR0YWJsZS5wYWNrYWdlbmFtZSwKICAgICAgIGNvbXBvbmVudHRhYmxlLmZvcmNlX3JlbG9hZCwKICAgICAgIGNvbXBvbmVudHRhYmxlLmFjdGl2ZQpGUk9NIGNvbXBvbmVudHRhYmxlCldIRVJFIGNvbXBvbmVudHRhYmxlLmNvbXBvbmVudGlkID0gNjQ7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wb25lbgo=</text>
+        <text encoding="base64">dXBkYXRlIGNvbXBvbmVudHRhYmxlCnNldCBncm91cElkICAgID0gImNvbS5zcG9ydHJhZGFyLmxpdmVzY29yZSIsCiAgICBhcnRpZmFjdElkID0gImNvbW1vbiIsCiAgICB2ZXJzaW9uICAgID0gIjx2ZXJzaW9uPiI7Cgp1cGRhdGUgY29tcG9uZW50dGFibGUgYwpzZXQgYy5qYXZhUGF0aCAgICAgID0gImphdmEiLAogICAgYy5tYWNoaW5lX2dyb3VwID0gImNvbXAtcHJvZC1tdm5jb21wMSIsCiAgICBjLmhvc3RNYWNoaW5lSXAgPSAiMTAuMjAwLjQuMTIzIiwKICAgIGMuZ3JvdXBJZCAgICAgICA9ICJjb20uc3BvcnRyYWRhci5saXZlc2NvcmUiLAogICAgYy5hcnRpZmFjdElkICAgID0gImNvbW1vbiIsCiAgICBjLnZlcnNpb24gICAgICAgPSAiMC4wLjE1Igp3aGVyZSBjLkNvbXBvbmVudElkID0gNDQ5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VVBEQVRFIG9kZHMuY29tcG9uZW50dGFibGUK</text>
+        <text encoding="base64">ICAgIDAK</text>
       </register>
       <register name=":" type="4">
-        <text>154</text>
+        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>uniqueKey</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>uniqueKey</last-pattern>
-      <last-replace>\n\r</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>val</entry>
         <entry>dei-properties</entry>
         <entry>PropertyResponse</entry>
         <entry>PropertyQuery</entry>
@@ -436,9 +442,9 @@
         <entry>AFTER</entry>
         <entry>UAE</entry>
         <entry>uniqueKey</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/vararg //g</entry>
         <entry>%s/Int?/Int/gc</entry>
         <entry>%s/Int?/Int/g</entry>
         <entry>%s/.toInt()//g</entry>
@@ -458,6 +464,7 @@
         <entry>324</entry>
         <entry>280</entry>
         <entry>154</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
