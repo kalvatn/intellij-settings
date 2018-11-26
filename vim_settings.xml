@@ -143,11 +143,11 @@
         <mark key="^" line="704" column="23" />
         <mark key="." line="699" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543244511649">
-        <mark key="'" line="154" column="22" />
-        <mark key="[" line="792" column="18" />
-        <mark key="]" line="794" column="17" />
-        <mark key="." line="794" column="17" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543245392303">
+        <mark key="'" line="84" column="36" />
+        <mark key="[" line="1734" column="0" />
+        <mark key="]" line="1734" column="0" />
+        <mark key="." line="1734" column="0" />
         <mark key="^" line="794" column="17" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1542374766551">
@@ -336,8 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="720" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="725" column="24" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="737" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="738" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="114" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
@@ -436,55 +434,57 @@
       <jump line="314" column="54" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
       <jump line="321" column="27" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
       <jump line="322" column="36" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
+      <jump line="2107" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="84" column="36" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">fSBlbHNlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>getScoutMatchData</text>
+        <text>handleEvent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gZ2l0IHB1c2ggJEdJVExBQl9QUk9KRUNUIEhFQUQ6bWFzdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgU3RyaW5nIGVycm9yID0gIkNvbm5lY3Rpb24gdG8gb25lIG9yIG1vcmUgc2NvdXQgc291cmNlcyBkb3duIjsKICAgICAgaWYgKGVycm9yLmVxdWFscyhlLmdldE1lc3NhZ2UoKSkpIHsKICAgICAgICB0cnkgKENvbm5lY3Rpb24gY29ubmVjdGlvbiA9IFN5c3RlbURCLmluc3RhbmNlKCkuYm9ycm93Q29ubmVjdGlvbigpKSB7CiAgICAgICAgICBXYXJuaW5nIHcgPQogICAgICAgICAgICAgIG5ldyBXYXJuaW5nKFdhcm5pbmcuT1BFUkFUT1JfV0FSTklORywgTWF0aC50b0ludEV4YWN0KGd1dGhNYXRjaElkKSwgMCwgMCwgZXJyb3IpOwogICAgICAgICAgdy5zZXRVbmlxdWUoInNvdXJjZXNfZG93biIpOwogICAgICAgICAgdy5zYXZlKGNvbm5lY3Rpb24pOwogICAgICAgIH0gY2F0Y2ggKEFyaXRobWV0aWNFeGNlcHRpb24gYWUpIHsKICAgICAgICAgIGxvZy5lcnJvcigKICAgICAgICAgICAgICBTdHJpbmcuZm9ybWF0KCJDb3VsZCBub3QgY2FzdCBsb25nIGd1dGhNYXRjaElkICVkIHRvIGludGVnZXIiLCBndXRoTWF0Y2hJZCksIGFlKTsKICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gc3FsZSkgewogICAgICAgICAgbG9nLmVycm9yKCJTUUxFeGNlcHRpb24gd2hpbGUgc2F2aW5nIG9wZXJhdG9yIHdhcm5pbmciLCBzcWxlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChldmVudGlkID4gMCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFNwZWNpYWwgaGFuZGxpbmcgb2YgR2VuZXJhbFNjb3V0RGF0YUNvbm5lY3Rvci5nZXRTY291dE1hdGNoRGF0YSgpIGV4Y2VwdGlvbnMgQkFDLTI3NDkK</text>
+        <text encoding="base64">ICAgICAgaWYgKGV2ZW50aWQgPiAwKSB7CiAgICAgICAgZGVsZXRlTGl2ZU11bHRpY2FzdFRlbXAod3JpdGVDb25uZWN0aW9uLCBldmVudGlkKTsKICAgICAgICBwc1BocmFzZXMuc2V0SW50KDEsIGV2ZW50aWQpOwogICAgICAgIHBzUGhyYXNlcy5leGVjdXRlVXBkYXRlKCk7CiAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiRGVhY3RpdmF0aW5nIHBocmFzZXM6ICVzIiwgcHNQaHJhc2VzLnRvU3RyaW5nKCkpKTsKICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG5ldyBUaHJlYWQobnVsbCwgbnVsbCwgInVwZGF0ZS1ob3N0LXNjaGVkdWxlciIpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChldmVudElkID4gMCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGV2ZW50SWQgPiAwKSB7CiAgICAgICAgZGVsZXRlTGl2ZU11bHRpY2FzdFRlbXAod3JpdGVDb25uZWN0aW9uLCBldmVudElkKTsKICAgICAgICBwc1BocmFzZXMuc2V0SW50KDEsIGV2ZW50SWQpOwogICAgICAgIHBzUGhyYXNlcy5leGVjdXRlVXBkYXRlKCk7CiAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiRGVhY3RpdmF0aW5nIHBocmFzZXMgJXMiLCBwc1BocmFzZXMudG9TdHJpbmcoKSkpOwogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmluYWwgU3RyaW5nIGVycm9yID0gIkNvbm5lY3Rpb24gdG8gb25lIG9yIG1vcmUgc2NvdXQgc291cmNlcyBkb3duIjsKICAgICAgaWYgKGVycm9yLmVxdWFscyhlLmdldE1lc3NhZ2UoKSkpIHsKICAgICAgICB0cnkgKENvbm5lY3Rpb24gY29ubmVjdGlvbiA9IFN5c3RlbURCLmluc3RhbmNlKCkuYm9ycm93Q29ubmVjdGlvbigpKSB7CiAgICAgICAgICBXYXJuaW5nIHcgPQogICAgICAgICAgICAgIG5ldyBXYXJuaW5nKFdhcm5pbmcuT1BFUkFUT1JfV0FSTklORywgTWF0aC50b0ludEV4YWN0KGd1dGhNYXRjaElkKSwgMCwgMCwgZXJyb3IpOwogICAgICAgICAgdy5zZXRVbmlxdWUoInNvdXJjZXNfZG93biIpOwogICAgICAgICAgdy5zYXZlKGNvbm5lY3Rpb24pOwogICAgICAgIH0gY2F0Y2ggKEFyaXRobWV0aWNFeGNlcHRpb24gYWUpIHsKICAgICAgICAgIGxvZy5lcnJvcigKICAgICAgICAgICAgICBTdHJpbmcuZm9ybWF0KCJDb3VsZCBub3QgY2FzdCBsb25nIGd1dGhNYXRjaElkICVkIHRvIGludGVnZXIiLCBndXRoTWF0Y2hJZCksIGFlKTsKICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gc3FsZSkgewogICAgICAgICAgbG9nLmVycm9yKCJTUUxFeGNlcHRpb24gd2hpbGUgc2F2aW5nIG9wZXJhdG9yIHdhcm5pbmciLCBzcWxlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gY2F0IC5nZW5lcmF0ZWQtdmFyaWFibGVzCg==</text>
+        <text encoding="base64">ICAgIC8vIFNwZWNpYWwgaGFuZGxpbmcgb2YgR2VuZXJhbFNjb3V0RGF0YUNvbm5lY3Rvci5nZXRTY291dE1hdGNoRGF0YSgpIGV4Y2VwdGlvbnMgQkFDLTI3NDkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getScoutMatchData</last-search>
+      <last-search>handleEvent</last-search>
       <last-offset />
-      <last-pattern>getScoutMatchData</last-pattern>
+      <last-pattern>handleEvent</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jtwitter</entry>
         <entry>json</entry>
         <entry>recovery</entry>
         <entry>PLAYER_POSITION</entry>
@@ -512,6 +511,7 @@
         <entry>lmcd</entry>
         <entry>dontexport</entry>
         <entry>getScoutMatchData</entry>
+        <entry>handleEvent</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Int?/Int/g</entry>
