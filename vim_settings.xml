@@ -26,12 +26,6 @@
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="50" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/Query.kt" timestamp="1542716855250">
-        <mark key="'" line="26" column="106" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/JSONFetcher.kt" timestamp="1541628101551">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="6" />
@@ -150,11 +144,11 @@
         <mark key="^" line="704" column="23" />
         <mark key="." line="699" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543348416415">
-        <mark key="'" line="292" column="15" />
-        <mark key="[" line="1253" column="3" />
-        <mark key="]" line="1284" column="0" />
-        <mark key="." line="1284" column="0" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543356179142">
+        <mark key="[" line="1222" column="55" />
+        <mark key="]" line="1222" column="54" />
+        <mark key="." line="1222" column="54" />
+        <mark key="^" line="1222" column="54" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1542374766551">
         <mark key="[" line="11" column="73" />
@@ -355,32 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/model/db/entity/Tournament.kt" />
-      <jump line="316" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="17" column="8" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar!/org/hamcrest/Matchers.java" />
-      <jump line="726" column="50" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar!/org/hamcrest/Matchers.java" />
-      <jump line="692" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="553" column="36" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="554" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="21" column="61" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar!/org/hamcrest/Matchers.java" />
-      <jump line="62" column="0" filename="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/server/selenium-server-standalone/2.25.0/selenium-server-standalone-2.25.0.jar!/org/hamcrest/Matchers.class" />
-      <jump line="607" column="19" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="698" column="34" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="792" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="791" column="21" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="786" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="727" column="41" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="719" column="31" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="697" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="696" column="21" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="801" column="29" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="790" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="795" column="29" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="109" column="89" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="426" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="464" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="578" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="65" column="77" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="856" column="60" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="861" column="61" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="855" column="18" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
@@ -455,55 +423,81 @@
       <jump line="81" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="608" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="292" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1292" column="6" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1296" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1298" column="25" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1361" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1371" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1377" column="40" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1403" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1405" column="47" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1407" column="75" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1409" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1414" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1426" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1428" column="57" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1758" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1807" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1825" column="29" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="2118" column="47" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="93" column="56" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="470" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="532" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="710" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="757" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1836" column="28" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1262" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1302" column="28" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="1309" column="24" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNtZC5nZXQK</text>
+      <register name="&quot;" type="4">
+        <text>, oldEvent</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>, oldEvent</text>
       </register>
       <register name="/" type="4">
-        <text>lmc</text>
+        <text>&quot;lmcdcid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBwYXJhbTMgPSBnZXRMaXZlc2NvcmVGcmllbmRseVBhcmFtMyhzbWQsIG5ld0V2ZW50KTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzZWxlY3RRdWVyeSA9ICJTRUxFQ1Qgc2UubG1jZGNpZCBGUk9NIHNjb3V0X2V2ZW50IHNlIFdIRVJFIHNlLmlkID0gIiArIHNjb3V0RXZlbnRJZDsKCiAgICBpbnQgbG1jZGNJZCA9IC0xOwogICAgdHJ5IChTdGF0ZW1lbnQgc3QgPSB3cml0ZUNvbm5lY3Rpb24uY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgUmVzdWx0U2V0IHJzID0gc3QuZXhlY3V0ZVF1ZXJ5KHNlbGVjdFF1ZXJ5KSkgewogICAgICBpZiAocnMubmV4dCgpKSB7CiAgICAgICAgbG1jZGNJZCA9IHJzLmdldEludCgibG1jZGNpZCIpOwogICAgICB9CiAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gfCBSdW50aW1lRXhjZXB0aW9uIGUpIHsKICAgICAgbG9nLmVycm9yKGUsIGUpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNtZC5nZXQK</text>
+        <text encoding="base64">ICAgICAgU2NvdXRFdmVudCBvcmlnaW5hbEV2ZW50LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAicDEucGxheWVyaWQgQVMgcGxheWVyaWQxLCBwMi5wbGF5ZXJpZCBBUyBwbGF5ZXJpZDIgIgo=</text>
+        <text encoding="base64">ICAgICAgZXZlbnRUeXBlLmNsb25lKGRkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiTEVGVCBKT0lOIGxpdmVzY29yZV9ldmVudF90b3AgbGV0IE9OIGxldC5pZCA9IHNlLmxtY2RjaWQgQU5EIGxldC5kaXNhYmxlZCA9IDAgIgogICAgICAgICAgICArICJMRUZUIEpPSU4gbGl2ZXNjb3JlX2V2ZW50X3RvcF9wbGF5ZXIgcDEgT04gcDEuZXZlbnRpZCA9IGxldC5pZCBBTkQgcDEubnVtYmVyID0gMCAiCiAgICAgICAgICAgICsgIkxFRlQgSk9JTiBsaXZlc2NvcmVfZXZlbnRfdG9wX3BsYXllciBwMiBPTiBwMi5ldmVudGlkID0gbGV0LmlkIEFORCBwMi5udW1iZXIgPSAxICIK</text>
+        <text encoding="base64">ICAgICAgaW50IGZsYWdpZCA9IC0xOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAicDEucGxheWVyaWQgQVMgcGxheWVyaWQxLCBwMi5wbGF5ZXJpZCBBUyBwbGF5ZXJpZDIgIgo=</text>
+        <text encoding="base64">ICAgICAgaW5zZXJ0VXBkYXRlRmxhZyh3cml0ZUNvbm5lY3Rpb24sIGxtY2RjSWQsIGZsYWdpZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiTEVGVCBKT0lOIGxpdmVzY29yZV9ldmVudF90b3AgbGV0IE9OIGxldC5pZCA9IHNlLmxtY2RjaWQgQU5EIGxldC5kaXNhYmxlZCA9IDAgIgogICAgICAgICAgICArICJMRUZUIEpPSU4gbGl2ZXNjb3JlX2V2ZW50X3RvcF9wbGF5ZXIgcDEgT04gcDEuZXZlbnRpZCA9IGxldC5pZCBBTkQgcDEubnVtYmVyID0gMCAiCiAgICAgICAgICAgICsgIkxFRlQgSk9JTiBsaXZlc2NvcmVfZXZlbnRfdG9wX3BsYXllciBwMiBPTiBwMi5ldmVudGlkID0gbGV0LmlkIEFORCBwMi5udW1iZXIgPSAxICIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBwYXJhbTMgPSBnZXRMaXZlc2NvcmVGcmllbmRseVBhcmFtMyhzbWQsIG5ld0V2ZW50KTsK</text>
+        <text encoding="base64">ICAgIGlmICghc2hvdWxkRGlzYWJsZSkgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bmV3RXZlbnQuZ2V0UGFyYW0zKCk7CiAgICBpZiAobWF0Y2hNaW51dGUgPT0gLTUKICAgICAgICAmJiAoZXZlbnRUeXBlID09IFlFTExPV0NBUkQgfHwgZXZlbnRUeXBlID09IFlFTExPV1JFRENBUkQgfHwgZXZlbnRUeXBlID09IFJFRENBUkQpKSB7CiAgICAgIFNjb3V0RXZlbnQgc2UgPSBzbWQuZ2V0U2NvdXRFdmVudChzY291dEV2ZW50SWQpOwogICAgICBwYXJhbTMgPQogICAgICAgICAgSW50ZWdlci50b1N0cmluZygKICAgICAgICAgICAgICBhZGp1c3RNYXRjaFRpbWVGb3JMaXZlc2NvcmVFeHBvcnQoCiAgICAgICAgICAgICAgICAgIHNtZCwgc21kLmdldE1hdGNoTWludXRlKHNlLmdldEV2ZW50ZGF0ZSgpKSwgVU5LTk9XTikpOwogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgaW50IGxtY2RjSWQgPSBnZXRMaXZlc2NvcmVFdmVudElkRm9yU2NvdXRFdmVudCh3cml0ZUNvbm5lY3Rpb24sIG5ld0V2ZW50KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIENhcmQgYXNzb2NpYXRlZCB0byBwbGF5ZXIgTk9UIG9uIHBpdGNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxtY2RjSWQgPSAtMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIENhcmQgYXNzb2NpYXRlZCB0byBwbGF5ZXIgTk9UIG9uIHBpdGNoCg==</text>
+        <text encoding="base64">ICAgIGludCBsbWNkY0lkID0gZ2V0TGl2ZXNjb3JlRXZlbnRJZEZvclNjb3V0RXZlbnQod3JpdGVDb25uZWN0aW9uLCBuZXdFdmVudCk7CiAgICBpZiAobG1jZGNJZCA8IDApIHsKICAgICAgbG9nLndhcm4oCiAgICAgICAgICBTdHJpbmcuZm9ybWF0KCJsbWNkY2lkIDwgMCBmb3Igc2NvdXRFdmVudElkID0gJWQsIG1hdGNoSWQgPSAlZCIsIHNjb3V0RXZlbnRJZCwgbWF0Y2hJZCkpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lmc</last-search>
+      <last-search>&quot;lmcdcid</last-search>
       <last-offset />
-      <last-pattern>lmc</last-pattern>
+      <last-pattern>&quot;lmcdcid</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>is_primary</last-substitute>
       <last-dir>1</last-dir>
@@ -511,8 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selenium</entry>
-        <entry>hasSize</entry>
         <entry>hasItems</entry>
         <entry>hamcrest</entry>
         <entry>junit</entry>
@@ -531,6 +523,8 @@
         <entry encoding="base64">QU5EIGUudXBkYXRlZGF0ZSA+IE5PVygp</entry>
         <entry>AND m.ended = 0</entry>
         <entry>lmc</entry>
+        <entry>lmcdcid</entry>
+        <entry>&quot;lmcdcid</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Int?/Int/g</entry>
