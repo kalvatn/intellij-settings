@@ -78,12 +78,12 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1543243325533">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1543322843060">
         <mark key="'" line="285" column="7" />
-        <mark key="[" line="312" column="1" />
-        <mark key="]" line="308" column="39" />
-        <mark key="." line="308" column="39" />
-        <mark key="^" line="308" column="39" />
+        <mark key="[" line="329" column="79" />
+        <mark key="]" line="332" column="3" />
+        <mark key="." line="332" column="3" />
+        <mark key="^" line="332" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/prod-statistics-tables.sql" timestamp="1542717369126">
         <mark key="[" line="68" column="19" />
@@ -189,7 +189,7 @@
         <mark key="." line="19" column="59" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_4.sql" timestamp="1543319886315">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_4.sql" timestamp="1543322657812">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="5" column="76" />
         <mark key="^" line="5" column="76" />
@@ -375,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>and ps.bookmaker_id = ?</text>
+        <text>,110,120,130</text>
       </register>
       <register name="-" type="4">
-        <text>and ps.bookmaker_id = ?</text>
+        <text>,110,120,130</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
