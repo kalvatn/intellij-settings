@@ -26,6 +26,12 @@
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="50" />
       </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/Query.kt" timestamp="1542716855250">
+        <mark key="'" line="26" column="106" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/JSONFetcher.kt" timestamp="1541628101551">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="6" />
@@ -144,12 +150,11 @@
         <mark key="^" line="704" column="23" />
         <mark key="." line="699" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543329151649">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543348416415">
         <mark key="'" line="292" column="15" />
-        <mark key="[" line="1327" column="24" />
-        <mark key="]" line="1328" column="3" />
-        <mark key="." line="1328" column="3" />
-        <mark key="^" line="1328" column="3" />
+        <mark key="[" line="1253" column="3" />
+        <mark key="]" line="1284" column="0" />
+        <mark key="." line="1284" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1542374766551">
         <mark key="[" line="11" column="73" />
@@ -170,7 +175,7 @@
         <mark key="." line="5" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/liveodds/common/DbCheck.class" timestamp="1543323377243" />
-      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/scout/GeneralScoutDataConnector.java" timestamp="1543243980515" />
+      <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/scout/GeneralScoutDataConnector.java" timestamp="1543348467467" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" timestamp="1542973467044">
         <mark key="[" line="1147" column="48" />
         <mark key="]" line="1147" column="47" />
@@ -452,53 +457,53 @@
       <jump line="292" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNtZC5nZXQK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>AND m.ended = 0</text>
+        <text>lmc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gZ2l0IHB1c2ggJEdJVExBQl9QUk9KRUNUIEhFQUQ6bWFzdGVyCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBwYXJhbTMgPSBnZXRMaXZlc2NvcmVGcmllbmRseVBhcmFtMyhzbWQsIG5ld0V2ZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb21tb24gU1FMIGZyYWdtZW50cwo=</text>
+        <text encoding="base64">ICAgIHNtZC5nZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiQU5EIGUubG1jZGNpZCA9IC0xICIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAicDEucGxheWVyaWQgQVMgcGxheWVyaWQxLCBwMi5wbGF5ZXJpZCBBUyBwbGF5ZXJpZDIgIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiRlJPTSBsaXZlc2NvcmVfbWF0Y2hfaW5mbyBpICIKICAgICAgICAgICAgKyAiSk9JTiBzY291dF9ldmVudCBlIE9OIGUubWF0Y2hpZCA9IGkuZ3V0aG1hdGNoaWQgQU5EIGUuaXNfcHJpbWFyeSA9IDEgIgogICAgICAgICAgICArICJKT0lOIGxpdmVzY29yZV9tYXRjaCBtIE9OIG0ubWF0Y2hpZCA9IGkuZ3V0aG1hdGNoaWQgIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiTEVGVCBKT0lOIGxpdmVzY29yZV9ldmVudF90b3AgbGV0IE9OIGxldC5pZCA9IHNlLmxtY2RjaWQgQU5EIGxldC5kaXNhYmxlZCA9IDAgIgogICAgICAgICAgICArICJMRUZUIEpPSU4gbGl2ZXNjb3JlX2V2ZW50X3RvcF9wbGF5ZXIgcDEgT04gcDEuZXZlbnRpZCA9IGxldC5pZCBBTkQgcDEubnVtYmVyID0gMCAiCiAgICAgICAgICAgICsgIkxFRlQgSk9JTiBsaXZlc2NvcmVfZXZlbnRfdG9wX3BsYXllciBwMiBPTiBwMi5ldmVudGlkID0gbGV0LmlkIEFORCBwMi5udW1iZXIgPSAxICIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiQU5EIGUudXBkYXRlZGF0ZSA+IE5PVygpIC0gSU5URVJWQUwgMSBIT1VSICIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAicDEucGxheWVyaWQgQVMgcGxheWVyaWQxLCBwMi5wbGF5ZXJpZCBBUyBwbGF5ZXJpZDIgIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgQU5EX01fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiTEVGVCBKT0lOIGxpdmVzY29yZV9ldmVudF90b3AgbGV0IE9OIGxldC5pZCA9IHNlLmxtY2RjaWQgQU5EIGxldC5kaXNhYmxlZCA9IDAgIgogICAgICAgICAgICArICJMRUZUIEpPSU4gbGl2ZXNjb3JlX2V2ZW50X3RvcF9wbGF5ZXIgcDEgT04gcDEuZXZlbnRpZCA9IGxldC5pZCBBTkQgcDEubnVtYmVyID0gMCAiCiAgICAgICAgICAgICsgIkxFRlQgSk9JTiBsaXZlc2NvcmVfZXZlbnRfdG9wX3BsYXllciBwMiBPTiBwMi5ldmVudGlkID0gbGV0LmlkIEFORCBwMi5udW1iZXIgPSAxICIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiQU5EIGUuZGlzYWJsZWQgPSAwICIK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBwYXJhbTMgPSBnZXRMaXZlc2NvcmVGcmllbmRseVBhcmFtMyhzbWQsIG5ld0V2ZW50KTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiQU5EIGUuZXZlbnR0eXBlID0gMTAyNyBBTkQgZS5kaXNhYmxlZCA9IDAgQU5EIGUudXBkYXRlZGF0ZSA+IE5PVygpIC0gSU5URVJWQUwgMSBIT1VSICIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmV3RXZlbnQuZ2V0UGFyYW0zKCk7CiAgICBpZiAobWF0Y2hNaW51dGUgPT0gLTUKICAgICAgICAmJiAoZXZlbnRUeXBlID09IFlFTExPV0NBUkQgfHwgZXZlbnRUeXBlID09IFlFTExPV1JFRENBUkQgfHwgZXZlbnRUeXBlID09IFJFRENBUkQpKSB7CiAgICAgIFNjb3V0RXZlbnQgc2UgPSBzbWQuZ2V0U2NvdXRFdmVudChzY291dEV2ZW50SWQpOwogICAgICBwYXJhbTMgPQogICAgICAgICAgSW50ZWdlci50b1N0cmluZygKICAgICAgICAgICAgICBhZGp1c3RNYXRjaFRpbWVGb3JMaXZlc2NvcmVFeHBvcnQoCiAgICAgICAgICAgICAgICAgIHNtZCwgc21kLmdldE1hdGNoTWludXRlKHNlLmdldEV2ZW50ZGF0ZSgpKSwgVU5LTk9XTikpOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIkFORCBlLmV2ZW50dHlwZSA9IDEwMTMgIgogICAgICAgICAgICAgICAgKyAiQU5EIGUucGFyYW0xIElOICgzMDEsMzAyLDMwMykgIgogICAgICAgICAgICArICJBTkQgbS5sYXN0dXBkYXRlID4gTk9XKCkgLSBJTlRFUlZBTCAxMiBIT1VSICIK</text>
+        <text encoding="base64">ICAgIC8vIENhcmQgYXNzb2NpYXRlZCB0byBwbGF5ZXIgTk9UIG9uIHBpdGNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiQU5EIGUuZXZlbnR0eXBlID0gMTAxMyAiCiAgICAgICAgICAgICsgIkFORCBlLnBhcmFtMSBJTiAoMzAxLDMwMiwzMDMpICIK</text>
+        <text encoding="base64">ICAgIC8vIENhcmQgYXNzb2NpYXRlZCB0byBwbGF5ZXIgTk9UIG9uIHBpdGNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AND m.ended = 0</last-search>
+      <last-search>lmc</last-search>
       <last-offset />
-      <last-pattern>AND m.ended = 0</last-pattern>
+      <last-pattern>lmc</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>is_primary</last-substitute>
       <last-dir>1</last-dir>
@@ -506,7 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Check if we should</entry>
         <entry>selenium</entry>
         <entry>hasSize</entry>
         <entry>hasItems</entry>
@@ -526,6 +530,7 @@
         <entry>AND e.disabled = 0</entry>
         <entry encoding="base64">QU5EIGUudXBkYXRlZGF0ZSA+IE5PVygp</entry>
         <entry>AND m.ended = 0</entry>
+        <entry>lmc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Int?/Int/g</entry>
