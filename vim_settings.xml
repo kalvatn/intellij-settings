@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.5/sportradar-common-2.0.5-sources.jar!/com/betradar/database/DatabaseConnection5.java" timestamp="1543323242395" />
       <file name="/work/projects/gitlab/j.kalvatn/component/management-api/src/main/kotlin/com/sportradar/component/managementapi/dao/ComponentRepository.kt" timestamp="1542754978951">
         <mark key="'" line="48" column="17" />
         <mark key="[" line="27" column="50" />
@@ -143,12 +144,12 @@
         <mark key="^" line="704" column="23" />
         <mark key="." line="699" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543249080333">
-        <mark key="'" line="96" column="36" />
-        <mark key="[" line="68" column="37" />
-        <mark key="]" line="68" column="36" />
-        <mark key="." line="68" column="36" />
-        <mark key="^" line="68" column="36" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543323397774">
+        <mark key="'" line="104" column="24" />
+        <mark key="[" line="94" column="9" />
+        <mark key="]" line="94" column="21" />
+        <mark key="." line="94" column="21" />
+        <mark key="^" line="94" column="21" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1542374766551">
         <mark key="[" line="11" column="73" />
@@ -168,11 +169,8 @@
         <mark key="^" line="5" column="65" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/liveodds/common/DbCheck.class" timestamp="1543323377243" />
       <file name="/work/projects/gitlab/liveodds/ingame-betting/ingame-betting-core/src/main/java/com/oddsarbitrage/scout/GeneralScoutDataConnector.java" timestamp="1543243980515" />
-      <file name="/work/projects/gitlab/hackon/kotlin_workshop/src/main/kotlin/sportradar/table/sorting/TableSortComponent.kt" timestamp="1542752893279">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="33" column="9" />
-      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" timestamp="1542973467044">
         <mark key="[" line="1147" column="48" />
         <mark key="]" line="1147" column="47" />
@@ -228,6 +226,12 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="27" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponentTest.java" timestamp="1543323077011">
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="38" column="40" />
+        <mark key="." line="38" column="40" />
+        <mark key="^" line="38" column="40" />
+      </file>
       <file name="/work/projects/gitlab/j.kalvatn/component/management-api/src/main/kotlin/com/sportradar/component/managementapi/dao/HostRepository.kt" timestamp="1542750229046">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="36" />
@@ -252,6 +256,7 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" timestamp="1543243775427">
         <mark key="'" line="322" column="36" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1543320249529" />
       <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/scout/livescore/Asdf.java" timestamp="1543232943844">
         <mark key="[" line="13" column="52" />
         <mark key="]" line="14" column="29" />
@@ -269,6 +274,12 @@
         <mark key="]" line="20" column="31" />
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoaderTest.java" timestamp="1543319515197">
+        <mark key="[" line="152" column="22" />
+        <mark key="]" line="153" column="39" />
+        <mark key="." line="153" column="39" />
+        <mark key="^" line="153" column="39" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1542374946261">
         <mark key="[" line="78" column="13" />
@@ -319,7 +330,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1542973471097">
+      <file name="/fragment.java" timestamp="1543321720440">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/loader/asdf.kt" timestamp="1542375376510">
@@ -336,23 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="737" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="738" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="114" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="116" column="41" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="118" column="59" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="229" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="230" column="66" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="232" column="54" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="234" column="54" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="465" column="29" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
-      <jump line="1" column="0" filename="/work/projects/gitlab/java/source/conf/component_539.classpath" />
-      <jump line="0" column="0" filename="/work/projects/gitlab/java/source/conf/component_539.classpath" />
-      <jump line="97" column="36" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/liveodds/server/FullMatchDetails.class" />
-      <jump line="610" column="26" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/liveodds/server/FullMatchDetails.class" />
-      <jump line="152" column="2" filename="$MAVEN_REPOSITORY$/com/sportradar/common/database/core/1.0.1/core-1.0.1-sources.jar!/com/sportradar/common/database/core/AbstractConnectionDecorator.java" />
-      <jump line="185" column="17" filename="$MAVEN_REPOSITORY$/com/sportradar/common/database/core/1.0.1/core-1.0.1-sources.jar!/com/sportradar/common/database/core/AbstractConnectionDecorator.java" />
-      <jump line="128" column="80" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" />
       <jump line="1148" column="56" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="1207" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
       <jump line="1178" column="63" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueTable2.java" />
@@ -364,7 +358,6 @@
       <jump line="160" column="20" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="8" column="12" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
       <jump line="167" column="19" filename="/work/projects/gitlab/livescore/common/pom.xml" />
-      <jump line="105" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="466" column="42" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="12" column="2" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" />
       <jump line="6" column="22" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
@@ -436,43 +429,61 @@
       <jump line="322" column="36" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
       <jump line="2107" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="84" column="36" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="372" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="907" column="63" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="876" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="909" column="12" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="919" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="985" column="12" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="324" column="74" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="425" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="484" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="555" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="608" column="69" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="646" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="690" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="268" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="319" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="371" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="405" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
+      <jump line="105" column="24" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ09MVU1OX0lEID0gImlkIjsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5leGl0KDApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>equals</text>
       </register>
       <register name="/" type="4">
-        <text>handleEvent</text>
+        <text>is_primary</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gZ2l0IHB1c2ggJEdJVExBQl9QUk9KRUNUIEhFQUQ6bWFzdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ09MVU1OX0lEID0gImlkIjsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5leGl0KDApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJzLmdldEludCgpLAo=</text>
+        <text encoding="base64">ICAgIHNxbC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJzLmdldEludCgpLAo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzcWwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihmZXRjaCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSAoUHJlcGFyZWRTdGF0ZW1lbnQgcHMgPSBTZWxlY3REQi5pbnN0YW5jZSgpLmJvcnJvd0Nvbm5lY3Rpb24oKS5wcmVwYXJlU3RhdGVtZW50KHNxbCkpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERTTENvbnRleHQgY3JlYXRlID0gRFNMLnVzaW5nKHdyaXRlQ29ubmVjdGlvbiwgU1FMRGlhbGVjdC5NWVNRTCk7CiAgICBjcmVhdGUuc2VsZWN0KERTTC5maWVsZCgiZS4qIikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNxbAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -482,9 +493,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handleEvent</last-search>
+      <last-search>is_primary</last-search>
       <last-offset />
-      <last-pattern>handleEvent</last-pattern>
+      <last-pattern>is_primary</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -492,9 +503,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry>recovery</entry>
-        <entry>PLAYER_POSITION</entry>
         <entry>semver</entry>
         <entry>BAC-6778</entry>
         <entry>recoverBasket</entry>
@@ -512,6 +520,9 @@
         <entry>dontexport</entry>
         <entry>getScoutMatchData</entry>
         <entry>handleEvent</entry>
+        <entry>psRemoveFlags</entry>
+        <entry>&quot;0&quot;</entry>
+        <entry>is_primary</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Int?/Int/g</entry>
