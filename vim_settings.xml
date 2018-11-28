@@ -78,12 +78,12 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1543408173199">
-        <mark key="'" line="285" column="7" />
-        <mark key="[" line="334" column="63" />
-        <mark key="]" line="334" column="63" />
-        <mark key="." line="334" column="63" />
-        <mark key="^" line="334" column="63" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1543409576560">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="345" column="19" />
+        <mark key="." line="345" column="0" />
+        <mark key="^" line="338" column="86" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/prod-statistics-tables.sql" timestamp="1542717369126">
         <mark key="[" line="68" column="19" />
@@ -272,9 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="688" column="21" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
-      <jump line="815" column="33" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
-      <jump line="817" column="58" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="259" column="66" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
       <jump line="593" column="33" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
       <jump line="64" column="43" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/AmTablesUtil.java" />
@@ -372,49 +369,49 @@
       <jump line="207" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" />
       <jump line="290" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
       <jump line="285" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
+      <jump line="326" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
+      <jump line="345" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>has
-has</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IGxtLm1hdGNoaWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgbWF0Y2hfaWQsCiAgICAgICBsbS5kYXRlb2ZtYXRjaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIG1hdGNoX3N0YXJ0LAogICAgICAgbG0uY3VycmVudHBlcmlvZF90aW1lICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBtYXRjaF9lbmQsCiAgICAgICBob21lLlRlYW1pZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGhvbWVfaWQsCiAgICAgICBob21lLlRlYW1OYW1lICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGhvbWVfbmFtZSwKICAgICAgIGF3YXkudGVhbWlkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgYXdheV9pZCwKICAgICAgIGF3YXkuVGVhbU5hbWUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgYXdheV9uYW1lLAogICAgICAgaWYodHBfb2ZmaWNpYWwucHJvcGVydHlfaWQgaXMgbm90IG51bGwsIHRydWUsIGZhbHNlKSBhcyBpc19vZmZpY2lhbApmcm9tIGxpdmVzY29yZV9tYXRjaCBsbQogICAgICAgam9pbiBkZWZhdWx0X3Byb3BlcnR5X3RvdXJuYW1lbnQgdHBfYm94c2NvcmUKICAgICAgICAgb24gdHBfYm94c2NvcmUudG91cm5hbWVudF9pZCA9IGxtLnRvdXJuYW1lbnRpZCBhbmQgdHBfYm94c2NvcmUucHJvcGVydHlfaWQgPSA/IGFuZCB0cF9ib3hzY29yZS5kaXNhYmxlZCA9IDAKICAgICAgIGxlZnQgam9pbiBkZWZhdWx0X3Byb3BlcnR5X3RvdXJuYW1lbnQgdHBfb2ZmaWNpYWwKICAgICAgICAgb24gdHBfb2ZmaWNpYWwudG91cm5hbWVudF9pZCA9IGxtLnRvdXJuYW1lbnRpZCBhbmQgdHBfb2ZmaWNpYWwucHJvcGVydHlfaWQgPSA/IGFuZCB0cF9vZmZpY2lhbC5kaXNhYmxlZCA9IDAKICAgICAgIGpvaW4gdGVhbXRhYmxlIGhvbWUgb24gaG9tZS5UZWFtaWQgPSBsbS50ZWFtaWRob21lCiAgICAgICBqb2luIHRlYW10YWJsZSBhd2F5IG9uIGF3YXkuVGVhbWlkID0gbG0udGVhbWlkYXdheQp3aGVyZSBsbS5zdGFydGVkID0gMQogIGFuZCBsbS5lbmRlZCA9IDEKICBhbmQgbG0uaGlkZGVuID0gMAogIGFuZCBsbS5wdWJsaXNoID0gMQpncm91cCBieSBsbS5tYXRjaGlkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>is_official_data</text>
+        <text encoding="base64">bGVmdCA=</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdCBqb2luIGRlZmF1bHRfcHJvcGVydHlfdG91cm5hbWVudCB0cF9ib3hzY29yZSBvbiB0cF9ib3hzY29yZS50b3VybmFtZW50X2lkID0gbG0udG91cm5hbWVudGlkIGFuZCB0cF9ib3hzY29yZS5wcm9wZXJ0eV9pZCA9IDQ5NiBhbmQgdHBfYm94c2NvcmUuZGlzYWJsZWQgPSAwCg==</text>
+        <text encoding="base64">YW5kIHRwX2JveHNjb3JlLnByb3BlcnR5X2lkID4gMAo=</text>
       </register>
-      <register name="1" type="8">
-        <text>has
-has</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBhbmQgbG0uZGF0ZW9mbWF0Y2ggPj0gTk9XKCkgLSBpbnRlcnZhbCAxIG1vbnRoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnNlbGVjdCBzZS4qLCBsbS5zcG9ydGlkCmZyb20gbGl2ZXNjb3JlX21hdGNoIGFzIGBsbWAKICAgICAgIGpvaW4gc2NvdXRfZXZlbnQgYXMgYHNlYCBvbiAoc2UubWF0Y2hpZCA9IGxtLm1hdGNoaWQgYW5kIHNlLmlzX3ByaW1hcnkgPSA/KQp3aGVyZSAobG0uZW5kZWQgPSA/IGFuZCBsbS5zdGFydGVkID0gPyBhbmQgbG0ud2lubmVyID0gPyBhbmQgbG0ubGFzdHVwZGF0ZSA+ID8pOwoKc2VsZWN0IHNlLiosIGxtLnNwb3J0aWQKZnJvbSBsaXZlc2NvcmVfbWF0Y2ggYXMgYGxtYAogICAgICAgam9pbiBzY291dF9ldmVudCBhcyBgc2VgIG9uIChzZS5tYXRjaGlkID0gbG0ubWF0Y2hpZCBhbmQgc2UuaXNfcHJpbWFyeSA9ID8pCndoZXJlIChsbS5lbmRlZCA9ID8gYW5kIGxtLnN0YXJ0ZWQgPSA/IGFuZCBsbS53aW5uZXIgPSA/IGFuZCBzZS5ldmVudHR5cGUgPSA/IGFuZCBzZS5wYXJhbTEgaW4gKD8sID8sID8sID8pIGFuZAogICAgICAgbG0ubGFzdHVwZGF0ZSA+ID8pCg==</text>
+        <text encoding="base64">ICAgICAgIGlmKHRwX2JveHNjb3JlLnByb3BlcnR5X2lkIGlzIG5vdCBudWxsLCB0cnVlLCBmYWxzZSkgYXMgaXNfYm94c2NvcmUsCg==</text>
       </register>
-      <register name="3" type="8">
-        <text>bookmaker_
-bookmaker_</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhbmQgKHRwX2JveHNjb3JlLnByb3BlcnR5X2lkIGlzIG5vdCBudWxsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
+        <text encoding="base64">ICBhbmQgKHRwX2JveHNjb3JlLnByb3BlcnR5X2lkIGlzIG5vdCBudWxsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbmQgdHBfb2ZmaWNpYWwucHJvcGVydHlfaWQgaXMgbm90IG51bGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5kIGZ0LnJvdW5kID0K</text>
+        <text encoding="base64">YW5kIGxtLmN1cnJlbnRwZXJpb2RfdGltZSA+PSBOT1coKSAtIGludGVydmFsIDMgd2Vlawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5kIGlzX2IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aG93IGZ1bGwgcHJvY2Vzc2xpc3Q7CgpzZWxlY3QgKgpmcm9tIHN0YXRpc3RpY3Nfc3RhdGljX3RhYmxlc19paDsK</text>
+        <text encoding="base64">YW5kICh0cF9ib3hzY29yZS5wcm9wZXJ0eV9pZCA+IDAgb3IgdHBfb2ZmaWNpYWwucHJvcGVydHlfaWQgPiAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">Z3JvdXAgYnkgbG0ubWF0Y2hpZAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
