@@ -252,7 +252,9 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" timestamp="1543243775427">
         <mark key="'" line="322" column="36" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1543320249529" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1543407814042">
+        <mark key="'" line="69" column="59" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/scout/livescore/Asdf.java" timestamp="1543232943844">
         <mark key="[" line="13" column="52" />
         <mark key="]" line="14" column="29" />
@@ -326,7 +328,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1543321720440">
+      <file name="/fragment.java" timestamp="1543407595188">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/loader/asdf.kt" timestamp="1542375376510">
@@ -343,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="433" column="71" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="857" column="18" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="858" column="60" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="859" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
@@ -443,6 +444,7 @@
       <jump line="107" column="32" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="108" column="67" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="152" column="38" filename="/work/projects/gitlab/livescore/common/.gitlab-ci.yml" />
+      <jump line="69" column="59" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
