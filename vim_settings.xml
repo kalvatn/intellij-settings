@@ -16,7 +16,11 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-datamodel/2018.5.1/ingame-betting-datamodel-2018.5.1.jar!/com/sportradar/betting/liveodds/model/market/Field.class" timestamp="1542725484885">
         <mark key="'" line="423" column="53" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543486440564" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543502458593">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" timestamp="1543486467347">
         <mark key="'" line="385" column="20" />
       </file>
@@ -49,6 +53,11 @@
         <mark key="]" line="68" column="26" />
         <mark key="." line="68" column="26" />
         <mark key="^" line="68" column="26" />
+      </file>
+      <file name="/work/projects/gitlab/j.kalvatn/component/management-api/src/main/kotlin/com/sportradar/component/managementapi/dao/ComponentTableDAO.kt" timestamp="1542749621622">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/Foo.java" timestamp="1543493463850">
         <mark key="[" line="12" column="79" />
@@ -221,8 +230,8 @@
       <jump line="385" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Minutes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ub2Rkc2FyYml0cmFnZS5zY291dC5saXZlc2NvcmUuU2NvdXRMaXZlc2NvcmVVdGlscy5jb252ZXJ0UGFyYW1Gcm9tUGxheWVyaWRUb1N0cmluZzsK</text>
       </register>
       <register name="-" type="4">
         <text>Minutes</text>
@@ -231,34 +240,34 @@
         <text>scoutEvents</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9uZyBtaW51dGUgPSBEdXJhdGlvbi5vZk1pbnV0ZXMoSW50ZWdlci5wYXJzZUludChwYXJ0c1swXSkpLnRvTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICBjYXNlIFVQREFURV9DSEFOR0U6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9uZwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ub2Rkc2FyYml0cmFnZS5zY291dC5saXZlc2NvcmUuU2NvdXRMaXZlc2NvcmVVdGlscy5jb252ZXJ0UGFyYW1Gcm9tUGxheWVyaWRUb1N0cmluZzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW50IG1pbnV0ZSAK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBVUERBVEVfQ0hBTkdFOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGYoSW50ZWdlci4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsKICAgICAgY2FzZSBVUERBVEVfQ0hBTkdFOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW50IG1pbnV0ZSA9IEludGVnZXIucGFyc2VJbnQoc3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgbG9uZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgaW50IG1pbnV0ZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGYoSW50ZWdlci4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB0aW1lID0gIjM4OjM1Igo=</text>
+        <text encoding="base64">ICAgICAgaW50IG1pbnV0ZSA9IEludGVnZXIucGFyc2VJbnQoc3RyaW5nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBzLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBzLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
