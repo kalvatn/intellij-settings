@@ -50,6 +50,12 @@
         <mark key="." line="68" column="26" />
         <mark key="^" line="68" column="26" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/Foo.java" timestamp="1543493463850">
+        <mark key="[" line="12" column="79" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.5/sportradar-common-2.0.5-sources.jar!/com/betradar/util/DataLoader.java" timestamp="1542634508086">
         <mark key="'" line="188" column="24" />
       </file>
@@ -215,45 +221,44 @@
       <jump line="385" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBzLnRvU3RyaW5nKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Minutes</text>
       </register>
       <register name="-" type="4">
-        <text>Builder.toString()</text>
+        <text>Minutes</text>
       </register>
       <register name="/" type="4">
         <text>scoutEvents</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiICAgICAgIGlmKGJ0cy5tYXRjaF9pZCBpcyBub3QgbnVsbCwgdHJ1ZSwgZmFsc2UpIGFzIGhhc190ZWFtX3N0YXRzLFxuIgogICAgICAgICAgICArICIgICAgICAgaWYoYnBzLm1hdGNoX2lkIGlzIG5vdCBudWxsLCB0cnVlLCBmYWxzZSkgYXMgaGFzX3BsYXllcl9zdGF0c1xuIgo=</text>
+        <text encoding="base64">ICAgICAgbG9uZyBtaW51dGUgPSBEdXJhdGlvbi5vZk1pbnV0ZXMoSW50ZWdlci5wYXJzZUludChwYXJ0c1swXSkpLnRvTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBzLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9uZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBzLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgaW50IG1pbnV0ZSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzcWwpOwo=</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGYoSW50ZWdlci4pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKHNxbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaW50IG1pbnV0ZSA9IEludGVnZXIucGFyc2VJbnQoc3RyaW5nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKHNxbEJ1aWxkZXIudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IGFuZCB0cy5ib29rbWFrZXJfaWQgPSA/XG4KIGFuZCBwcy5ib29rbWFrZXJfaWQgPSA/XG4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>bookmaker_
-bookmaker_</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyB0aW1lID0gIjM4OjM1Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB0ZWFtU3RhdHNUYWJsZSA9Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBzLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJncm91cCBieSBsbS5tYXRjaGlkXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBzLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
