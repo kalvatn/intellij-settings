@@ -7,6 +7,12 @@
       <file name="/a.dummy" timestamp="1542378971822">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/Query.kt" timestamp="1542716855250">
+        <mark key="'" line="26" column="106" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
       <file name="/work/projects/gitlab/j.kalvatn/component/management-api/src/main/kotlin/com/sportradar/component/managementapi/model/Component.kt" timestamp="1542749524738">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="7" column="41" />
@@ -16,7 +22,8 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-datamodel/2018.5.1/ingame-betting-datamodel-2018.5.1.jar!/com/sportradar/betting/liveodds/model/market/Field.class" timestamp="1542725484885">
         <mark key="'" line="423" column="53" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543506174726">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543508712614">
+        <mark key="'" line="481" column="24" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -53,11 +60,6 @@
         <mark key="]" line="68" column="26" />
         <mark key="." line="68" column="26" />
         <mark key="^" line="68" column="26" />
-      </file>
-      <file name="/work/projects/gitlab/j.kalvatn/component/management-api/src/main/kotlin/com/sportradar/component/managementapi/dao/ComponentTableDAO.kt" timestamp="1542749621622">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/Foo.java" timestamp="1543493463850">
         <mark key="[" line="12" column="79" />
@@ -128,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2116" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="154" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="125" column="47" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
       <jump line="314" column="54" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
@@ -228,6 +229,7 @@
       <jump line="378" column="33" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
       <jump line="382" column="24" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
       <jump line="385" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
+      <jump line="481" column="24" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -237,7 +239,7 @@
         <text>Minutes</text>
       </register>
       <register name="/" type="4">
-        <text>scoutEvents</text>
+        <text>dcEvent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICBjYXNlIFVQREFURV9DSEFOR0U6Cg==</text>
@@ -274,9 +276,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scoutEvents</last-search>
+      <last-search>dcEvent</last-search>
       <last-offset />
-      <last-pattern>scoutEvents</last-pattern>
+      <last-pattern>dcEvent</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>is_primary</last-substitute>
       <last-dir>1</last-dir>
@@ -284,7 +286,6 @@
     </search>
     <history>
       <history-search>
-        <entry>junit</entry>
         <entry>lmcd</entry>
         <entry>dontexport</entry>
         <entry>getScoutMatchData</entry>
@@ -304,6 +305,7 @@
         <entry>&quot;lmcdcid</entry>
         <entry>log</entry>
         <entry>scoutEvents</entry>
+        <entry>dcEvent</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
