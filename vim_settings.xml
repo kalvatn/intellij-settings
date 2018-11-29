@@ -16,6 +16,10 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-datamodel/2018.5.1/ingame-betting-datamodel-2018.5.1.jar!/com/sportradar/betting/liveodds/model/market/Field.class" timestamp="1542725484885">
         <mark key="'" line="423" column="53" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1543486440564" />
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" timestamp="1543486467347">
+        <mark key="'" line="385" column="20" />
+      </file>
       <file name="/work/projects/gitlab/j.kalvatn/component/management-api/src/main/kotlin/com/sportradar/component/managementapi/model/entity/Component.kt" timestamp="1542752827071">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -109,15 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="857" column="18" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="858" column="60" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="859" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="863" column="61" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="2101" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="442" column="61" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="865" column="83" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="1208" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="0" column="4" filename="/work/projects/gitlab/livescore/common/.gitlab-ci.yml" />
       <jump line="2116" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="154" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="125" column="47" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" />
@@ -209,6 +204,15 @@
       <jump line="108" column="67" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="152" column="38" filename="/work/projects/gitlab/livescore/common/.gitlab-ci.yml" />
       <jump line="69" column="59" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" />
+      <jump line="48" column="33" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
+      <jump line="145" column="13" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
+      <jump line="146" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
+      <jump line="290" column="17" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
+      <jump line="366" column="42" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
+      <jump line="377" column="46" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
+      <jump line="378" column="33" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
+      <jump line="382" column="24" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
+      <jump line="385" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutMatchData.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -218,7 +222,7 @@
         <text>Builder.toString()</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>scoutEvents</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKyAiICAgICAgIGlmKGJ0cy5tYXRjaF9pZCBpcyBub3QgbnVsbCwgdHJ1ZSwgZmFsc2UpIGFzIGhhc190ZWFtX3N0YXRzLFxuIgogICAgICAgICAgICArICIgICAgICAgaWYoYnBzLm1hdGNoX2lkIGlzIG5vdCBudWxsLCB0cnVlLCBmYWxzZSkgYXMgaGFzX3BsYXllcl9zdGF0c1xuIgo=</text>
@@ -256,9 +260,9 @@ bookmaker_</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>scoutEvents</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>scoutEvents</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>is_primary</last-substitute>
       <last-dir>1</last-dir>
@@ -266,7 +270,6 @@ bookmaker_</text>
     </search>
     <history>
       <history-search>
-        <entry>hamcrest</entry>
         <entry>junit</entry>
         <entry>lmcd</entry>
         <entry>dontexport</entry>
@@ -286,6 +289,7 @@ bookmaker_</text>
         <entry>lmcdcid</entry>
         <entry>&quot;lmcdcid</entry>
         <entry>log</entry>
+        <entry>scoutEvents</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Int?/Int/g</entry>
