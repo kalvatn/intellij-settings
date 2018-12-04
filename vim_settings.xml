@@ -331,11 +331,12 @@
         <mark key="." line="16" column="97" />
         <mark key="^" line="16" column="97" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2015/Y2015D07.kt" timestamp="1543953371932">
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="28" column="16" />
-        <mark key="^" line="28" column="16" />
-        <mark key="." line="28" column="16" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2015/Y2015D07.kt" timestamp="1543955397603">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/common/Day.kt" timestamp="1543936825517">
         <mark key="[" line="29" column="0" />
@@ -415,11 +416,11 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2015/Y2015D07Test.kt" timestamp="1543952814255">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="8" />
-        <mark key="^" line="35" column="8" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2015/Y2015D07Test.kt" timestamp="1543954789532">
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="56" />
+        <mark key="^" line="24" column="56" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2015/Day01.kt" timestamp="1543928932711">
         <mark key="[" line="8" column="44" />
@@ -444,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="606" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="85" column="51" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="607" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="81" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
@@ -544,46 +544,53 @@
       <jump line="1" column="0" filename="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2015/05" />
       <jump line="3" column="55" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/extensions/String.kt" />
       <jump line="9" column="25" filename="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2015/Y2015D06Test.kt" />
+      <jump line="40" column="0" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2015/Y2015D07.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RSHIFT</text>
+        <text>is</text>
       </register>
       <register name="-" type="4">
-        <text>RSHIFT</text>
+        <text>is</text>
       </register>
       <register name="/" type="4">
         <text>05</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoIl5cXHcrIFJTSElGVCBcXHcrIC0+IFxcdysiLnRvUmVnZXgoKS5tYXRjaGVzKGl0KSkgewogICAgICAgICAgICAgICAgICAgIHByaW50bG4oIlJTSElGVCIpCiAgICAgICAgICAgICAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByc2hpZnQubWF0Y2hFbnRpcmUoaXQpPy5kZXN0cnVjdHVyZWQ/LmxldCB7IChsZWZ0LCByaWdodCwgdGFyZ2V0KSAtPgogICAgICAgICAgICAgICAgICAgICAgICByZWdbdGFyZ2V0XSA9IHJlZ1tsZWZ0XSEhLmFuZChyZWdbcmlnaHRdISEpCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE9wICh2YWwgbGVmdDpJbnQsIHZhbCByaWdodDpJbnQpCg==</text>
+        <text encoding="base64">CiAgICB2YWwgc3RvcmUgPSAiXihcXGQrKSAtPiAoXFx3KykiLnRvUmVnZXgoKQogICAgdmFsIGFuZCA9ICJeKFxcdyspIEFORCAoXFx3KykgLT4gKFxcdyspIi50b1JlZ2V4KCkKICAgIHZhbCBvciA9ICJeKFxcdyspIE9SIChcXHcrKSAtPiAoXFx3KykiLnRvUmVnZXgoKQogICAgdmFsIGxzaGlmdCA9ICJeKFxcdyspIExTSElGVCAoXFx3KykgLT4gKFxcdyspIi50b1JlZ2V4KCkKICAgIHZhbCByc2hpZnQgPSAiXihcXHcrKSBSU0hJRlQgKFxcdyspIC0+IChcXHcrKSIudG9SZWdleCgpCiAgICB2YWwgbm90ID0gIl5OT1QgKFxcdyspIC0+IChcXHcrKSIudG9SZWdleCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dC5saW5lcy5tYXAgeyAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbihpdCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">dG9yZS5tYXRjaGVzKGl0KSAtPiB7CiAgICAgICAgICAgICAgICAgICAgc3RvcmUubWF0Y2hFbnRpcmUoaXQpPy5kZXN0cnVjdHVyZWQ/LmxldCB7ICh2YWx1ZSwgdGFyZ2V0KSAtPgogICAgICAgICAgICAgICAgICAgICAgICByZWdbdGFyZ2V0XSA9IHZhbHVlLnRvSW50KCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBhbmQubWF0Y2hlcyhpdCkgLT4gewogICAgICAgICAgICAgICAgICAgIGFuZC5tYXRjaEVudGlyZShpdCk/LmRlc3RydWN0dXJlZD8ubGV0IHsgKGxlZnQsIHJpZ2h0LCB0YXJnZXQpIC0+CiAgICAgICAgICAgICAgICAgICAgICAgIHJlZ1t0YXJnZXRdID0gcmVnW2xlZnRdISEuYW5kKHJlZ1tyaWdodF0hISkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBvci5tYXRjaGVzKGl0KSAtPiB7CiAgICAgICAgICAgICAgICAgICAgb3IubWF0Y2hFbnRpcmUoaXQpPy5kZXN0cnVjdHVyZWQ/LmxldCB7IChsZWZ0LCByaWdodCwgdGFyZ2V0KSAtPgogICAgICAgICAgICAgICAgICAgICAgICByZWdbdGFyZ2V0XSA9IHJlZ1tsZWZ0XSEhLm9yKHJlZ1tyaWdodF0hISkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBsc2hpZnQubWF0Y2hlcyhpdCkgLT4gewogICAgICAgICAgICAgICAgICAgIGxzaGlmdC5tYXRjaEVudGlyZShpdCk/LmRlc3RydWN0dXJlZD8ubGV0IHsgKGxlZnQsIHJpZ2h0LCB0YXJnZXQpIC0+CiAgICAgICAgICAgICAgICAgICAgICAgIHJlZ1t0YXJnZXRdID0gcmVnW2xlZnRdISEuc2hsKHJpZ2h0LnRvSW50KCkpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcnNoaWZ0Lm1hdGNoZXMoaXQpIC0+IHsKICAgICAgICAgICAgICAgICAgICByc2hpZnQubWF0Y2hFbnRpcmUoaXQpPy5kZXN0cnVjdHVyZWQ/LmxldCB7IChsZWZ0LCByaWdodCwgdGFyZ2V0KSAtPgogICAgICAgICAgICAgICAgICAgICAgICByZWdbdGFyZ2V0XSA9IHJlZ1tsZWZ0XSEhLnNocihyaWdodC50b0ludCgpKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIG5vdC5tYXRjaGVzKGl0KSAtPiB7CiAgICAgICAgICAgICAgICAgICAgbm90Lm1hdGNoRW50aXJlKGl0KT8uZGVzdHJ1Y3R1cmVkPy5sZXQgeyAobGVmdCwgdGFyZ2V0KSAtPgogICAgICAgICAgICAgICAgICAgICAgICByZWdbdGFyZ2V0XSA9IHJlZ1tsZWZ0XSEhLmludigpLmFuZCgweGZmZmYpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVudW0gY2xhc3MgQWN0aW9uIHsKICAgICAgICBPTiwgT0ZGLCBUT0dHTEU7CgogICAgICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgICAgICBmdW4gZnJvbVN0cmluZyhzdHJpbmc6IFN0cmluZyk6IEFjdGlvbiB7CiAgICAgICAgICAgICAgICByZXR1cm4gd2hlbiAoc3RyaW5nKSB7CiAgICAgICAgICAgICAgICAgICAgInR1cm4gb24iIC0+IE9OCiAgICAgICAgICAgICAgICAgICAgInR1cm4gb2ZmIiAtPiBPRkYKICAgICAgICAgICAgICAgICAgICAidG9nZ2xlIiAtPiBUT0dHTEUKICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgSW1wb3NzaWJ1cnUoKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBkYXRhIGNsYXNzIENvbW1hbmQodmFsIGFjdGlvbjogQWN0aW9uLCB2YWwgc3RhcnQ6IFBhaXI8SW50LCBJbnQ+LCB2YWwgZW5kOiBQYWlyPEludCwgSW50PikgewogICAgICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgICAgICBmdW4gZnJvbVN0cmluZyhzdHJpbmc6IFN0cmluZyk6IENvbW1hbmQgewogICAgICAgICAgICAgICAgIl4odHVybiBvbnx0b2dnbGV8dHVybiBvZmYpIChcXGQrKSwoXFxkKykgdGhyb3VnaCAoXFxkKyksKFxcZCspIgogICAgICAgICAgICAgICAgICAgICAgICAudG9SZWdleCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5tYXRjaEVudGlyZShzdHJpbmcpCiAgICAgICAgICAgICAgICAgICAgICAgID8uZGVzdHJ1Y3R1cmVkCiAgICAgICAgICAgICAgICAgICAgICAgID8ubGV0IHsgKGFjdGlvbiwgc3gsIHN5LCBleCwgZXkpIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ29tbWFuZChBY3Rpb24uZnJvbVN0cmluZyhhY3Rpb24pLCBQYWlyKHN4LnRvSW50KCksIHN5LnRvSW50KCkpLCBQYWlyKGV4LnRvSW50KCksIGV5LnRvSW50KCkpKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnZGRrbwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGFwcGx5Q29tbWFuZHModmFsdWVGbjogKEFjdGlvbiwgSW50KSAtPiBJbnQpOiBBcnJheTxBcnJheTxJbnQ+PiB7CiAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>forEach {
+            println(it)
+            when {
+
+            }
+
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVnID0gbXV0YWJsZU1hcE9mPFN0cmluZywgSW50PigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/05/06/g</text>
