@@ -5,6 +5,7 @@
       <mapping pattern="01" type="PLAIN_TEXT" />
       <mapping ext="@env@" type="PLAIN_TEXT" />
       <mapping ext="449" type="PLAIN_TEXT" />
+      <mapping ext="cookie" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
