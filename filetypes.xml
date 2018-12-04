@@ -2,7 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".attach_pid1950" type="PLAIN_TEXT" />
       <mapping pattern="01" type="PLAIN_TEXT" />
+      <mapping pattern="06_test" type="PLAIN_TEXT" />
+      <mapping pattern="06_test1" type="PLAIN_TEXT" />
       <mapping ext="@env@" type="PLAIN_TEXT" />
       <mapping ext="449" type="PLAIN_TEXT" />
       <mapping ext="cookie" type="PLAIN_TEXT" />
