@@ -13,12 +13,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" timestamp="1543914893820" />
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D05.kt" timestamp="1544006464925">
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D05.kt" timestamp="1544014890272">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreDota.java" timestamp="1543525941844">
         <mark key="[" line="55" column="9" />
@@ -305,7 +305,7 @@
         <mark key="^" line="13" column="61" />
         <mark key="." line="13" column="61" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D05Test.kt" timestamp="1544001742472">
+      <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D05Test.kt" timestamp="1544013212348">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="48" />
         <mark key="." line="18" column="48" />
@@ -475,7 +475,7 @@
         <mark key="." line="19" column="62" />
         <mark key="^" line="19" column="62" />
       </file>
-      <file name="/fragment.java" timestamp="1543999616181">
+      <file name="/fragment.java" timestamp="1544012375131">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -582,44 +582,44 @@
       <jump line="45" column="0" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D05.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGltZWl0IHsKICAgICAgICAgICAgICAgIHBvbHltZXIucmVwbGFjZShpdC50b1N0cmluZygpLCAiIiwgaWdub3JlQ2FzZSA9IHRydWUpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text encoding="base64">dmFsIGltcHJvdmVkUG9seW1lciA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LT4gYg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyA9IG5ldy5yZXBsYWNlKCIkYSRiIiwgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBpbXByb3ZlZFBvbHltZXIgPSBwb2x5bWVyLnJlcGxhY2UoaXQudG9TdHJpbmcoKSwgIiIsIGlnbm9yZUNhc2UgPSB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3ID0gbmV3LnJlcGxhY2UoaXQsICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZWl0IHsKICAgICAgICAgICAgICAgIHBvbHltZXIucmVwbGFjZShpdC50b1N0cmluZygpLCAiIiwgaWdub3JlQ2FzZSA9IHRydWUpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjYyArIGMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3ID0gbmV3LnJlcGxhY2UoaXQsICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjYy5zdWJzdHJpbmcoMCwgYWNjLmxhc3RJbmRleCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjYy5zdWJzdHJpbmcoMCwgYWNjLmxhc3RJbmRleCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmZvckVhY2ggewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biByZW1vdmVBbmRSZWFjdChzdHJpbmc6IFN0cmluZywgcG9seW1lcjogQ2hhcik6IEludCB7CiAgICAgICAgcmV0dXJuIHJlYWN0KHN0cmluZy5yZXBsYWNlKHBvbHltZXIudG9TdHJpbmcoKSwgIiIsIGlnbm9yZUNhc2UgPSB0cnVlKSkKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNoYW5nZSA9IGFmdGVyIC0gYmVmb3JlCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RyaW5nID0gdGhpcy5pbnB1dC5zaW5nbGVMaW5lKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RyaW5nID0gdGhpcy5pbnB1dC5zaW5nbGVMaW5lKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVhY3QobmV3KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/05/06/g</text>
