@@ -13,12 +13,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" timestamp="1543914893820" />
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D05.kt" timestamp="1544014890272">
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D05.kt" timestamp="1544016191803">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="24" column="18" />
+        <mark key="[" line="36" column="56" />
+        <mark key="]" line="36" column="56" />
+        <mark key="." line="36" column="56" />
+        <mark key="^" line="36" column="56" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreDota.java" timestamp="1543525941844">
         <mark key="[" line="55" column="9" />
@@ -93,12 +93,12 @@
         <mark key="^" line="5" column="73" />
         <mark key="." line="5" column="73" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/utils/Timer.kt" timestamp="1543843499173">
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/utils/Timer.kt" timestamp="1544015980724">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="18" column="85" />
-        <mark key="]" line="18" column="84" />
-        <mark key="^" line="18" column="84" />
-        <mark key="." line="18" column="84" />
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2015/06_test" timestamp="1543951983358">
         <mark key="[" line="0" column="0" />
@@ -430,6 +430,12 @@
       <file name="/Dummy.txt" timestamp="1543999616168">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/common/APuzzle.kt" timestamp="1544016215240">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="30" column="25" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/watchdog/loaders/BoxScoreCrawlingDelayedLoader.java" timestamp="1543407814042">
         <mark key="'" line="69" column="59" />
       </file>
@@ -582,11 +588,11 @@
       <jump line="45" column="0" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D05.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZWl0IHsKICAgICAgICAgICAgICAgIHBvbHltZXIucmVwbGFjZShpdC50b1N0cmluZygpLCAiIiwgaWdub3JlQ2FzZSA9IHRydWUpCiAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIGltcHJvdmVkUG9seW1lciA9IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LT4gYg==</text>
@@ -622,7 +628,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/05/06/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -672,12 +678,12 @@
         <entry>280</entry>
         <entry>154</entry>
         <entry>600</entry>
-        <entry>w</entry>
         <entry>421</entry>
         <entry>481</entry>
         <entry>set ignorecase</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>%s/05/06/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
