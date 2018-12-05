@@ -13,12 +13,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" timestamp="1543914893820" />
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D05.kt" timestamp="1544003713583">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="47" column="12" />
-        <mark key="^" line="47" column="12" />
-        <mark key="." line="47" column="12" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D05.kt" timestamp="1544006464925">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreDota.java" timestamp="1543525941844">
         <mark key="[" line="55" column="9" />
@@ -583,43 +583,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LT4gYg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobGlzdC5maWx0ZXIgeyBuZXcuY29udGFpbnMoaXQpIH0uYW55KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyA9IG5ldy5yZXBsYWNlKCIkYSRiIiwgIiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbmV3ID0gc3RyaW5nCiAgICAgICAgZm9yIChzIGluIGxpc3QpIHsKICAgICAgICAgICAgbmV3ID0gbmV3LnJlcGxhY2UocywgIiIpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3ID0gbmV3LnJlcGxhY2UoaXQsICIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3ID0gbmV3LnJlcGxhY2UoaXQsICIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobGlzdC5maWx0ZXIgeyBuZXcuY29udGFpbnMoaXQpIH0uYW55KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmZvckVhY2ggewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5ldy5jb250YWlucyhzKSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXBsYWNlKHBvbHltZXIsICcnLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNoYW5nZSA9IGFmdGVyIC0gYmVmb3JlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biByZXBsYWNlKHN0cmluZzogU3RyaW5nKSB7CiAgICAgICAgc3RyaW5nLmZvbGRSaWdodChzdHJpbmcpIHsgYywgYWNjLAogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVhY3QobmV3KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/05/06/g</text>
