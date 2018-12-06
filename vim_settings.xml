@@ -297,12 +297,13 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" timestamp="1543243775427">
         <mark key="'" line="322" column="36" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544073689531">
-        <mark key="'" line="9" column="115" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="35" />
-        <mark key="^" line="23" column="35" />
-        <mark key="." line="23" column="35" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544076938831">
+        <mark key="a" line="30" column="7" />
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="36" column="48" />
+        <mark key="]" line="36" column="78" />
+        <mark key="." line="36" column="78" />
+        <mark key="^" line="36" column="78" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2015/Runner.kt" timestamp="1544041126588">
         <mark key="[" line="18" column="5" />
@@ -669,12 +670,11 @@
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" timestamp="1544050734990">
         <mark key="'" line="360" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1544073690660">
+      <file name="/fragment.java" timestamp="1544075104607">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="710" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="757" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="1836" column="28" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
@@ -774,66 +774,66 @@
       <jump line="11" column="29" filename="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D06Test.kt" />
       <jump line="7" column="63" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
       <jump line="10" column="115" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
+      <jump line="9" column="0" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChwMiBpbiBsb2wpIHsKICAgICAgICAgICAgICAgIGlmIChwMSA9PSBwMikgY29udGludWUKICAgICAgICAgICAgICAgIHZhbCBkaXN0ID0gZGlzdChwMSwgcDIpCiAgICAgICAgICAgICAgICBwcmludGxuKCIkcDEgLT4gJHAyICRkaXN0fSIpCgogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Ite</text>
       </register>
       <register name="c" type="4">
         <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>Ite</text>
       </register>
       <register name="/" type="4">
-        <text>Point</text>
+        <text encoding="base64">UGFpcjxJbnQsSW50Pg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFwaSA9IFByb3BlcnR5QXBpKFByb3BlcnR5QXBpQ29uZmlnKAogICAgICAgICAgICBhcGlVcmwgPSAiaHR0cHM6Ly9hZG1pbi5zcG9ydHJhZGFyLmFnL3Byb3BlcnRpZXMvZmluZCIsCiAgICAgICAgICAgIGFwaVRva2VuID0gImE4NzZlMmIwMWJlMTMxYWYxMmFlMzJlOTMyZTI0ZmQxIiwKICAgICAgICAgICAgY2FjaGUgPSB0cnVlLAogICAgICAgICAgICBjYWNoZUNvbmZpZyA9IENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAucmVjb3JkU3RhdHMoKQogICAgICAgICAgICAgICAgICAgIC5leHBpcmVBZnRlcldyaXRlKDEsIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAgICAgICAgIC5tYXhpbXVtU2l6ZSgxMDApCiAgICApKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWF4WCA9IGxvbC5tYXhCeSB7IGl0LmZpcnN0IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChwMiBpbiBsb2wpIHsKICAgICAgICAgICAgICAgIGlmIChwMSA9PSBwMikgY29udGludWUKICAgICAgICAgICAgICAgIHZhbCBkaXN0ID0gZGlzdChwMSwgcDIpCiAgICAgICAgICAgICAgICBwcmludGxuKCIkcDEgLT4gJHAyICRkaXN0fSIpCgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1hcE9mOiBNYXA8UGFpcjxJbnQsIEludD4sIE1hcDxJbnQsIEl0ZXJhYmxlPFBhaXI8SW50LCBJbnQ+Pj4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LlBhaXIK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQuZGlzdGFuY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pcXVlRGlzdGFuY2VzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiJHAxIC0+ICRtYXBEaXN0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBDaGFyLnJlYWN0cyhiOiBDaGFyKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIHRoaXMgIT0gYiAmJiB0aGlzLmVxdWFscyhiLCBpZ25vcmVDYXNlID0gdHJ1ZSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biByZWFjdChzdHJpbmc6IEl0ZXJhYmxlPENoYXI+KTogSXRlcmFibGU8Q2hhcj4gewogICAgICAgIHJldHVybiBzdHJpbmcuZm9sZChTdGFjaygpKSB7IGFjYywgYyAtPgogICAgICAgICAgICBpZiAoIWFjYy5pc0VtcHR5KCkgJiYgYWNjLmxhc3QoKS5yZWFjdHMoYykpIHsKICAgICAgICAgICAgICAgIGFjYy5wb3AoKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYWNjLnB1c2goYykKICAgICAgICAgICAgfQogICAgICAgICAgICBhY2MKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHBhcnQxOiBJdGVyYWJsZTxDaGFyPiA9IHJlYWN0KHBvbHltZXIuYXNJdGVyYWJsZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChwMiBpbiBwdHMpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVhY3QocG9seW1lci5hc0l0ZXJhYmxlKCkpLmNvdW50KCkudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Point/Pair/g</text>
+        <text encoding="base64">JXMvUGFpcjxJbnQsSW50Pi9Qb2ludC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>Point</last-search>
+      <last-search encoding="base64">UGFpcjxJbnQsSW50Pg==</last-search>
       <last-offset />
-      <last-pattern>Point</last-pattern>
-      <last-replace>Pair</last-replace>
-      <last-substitute>Point</last-substitute>
+      <last-pattern encoding="base64">UGFpcjxJbnQsSW50Pg==</last-pattern>
+      <last-replace>Point</last-replace>
+      <last-substitute encoding="base64">UGFpcjxJbnQsSW50Pg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getLead</entry>
         <entry>atp</entry>
         <entry>wta</entry>
         <entry>fullupdate</entry>
@@ -853,9 +853,9 @@
         <entry>496</entry>
         <entry>05</entry>
         <entry>Point</entry>
+        <entry encoding="base64">UGFpcjxJbnQsSW50Pg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3ZhbC9ASnZtRmllbGQgdmFsL2c=</entry>
         <entry>%s/PropertyResponse/Response/g</entry>
         <entry>%s/PropertyQuery/Query/g</entry>
         <entry>%s/DeiProperty/PropertyId/g</entry>
@@ -875,6 +875,7 @@
         <entry>%s/10/SIZE/g</entry>
         <entry>%s/05/06/g</entry>
         <entry>%s/Point/Pair/g</entry>
+        <entry encoding="base64">JXMvUGFpcjxJbnQsSW50Pi9Qb2ludC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
