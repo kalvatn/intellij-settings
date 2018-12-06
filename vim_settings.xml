@@ -297,12 +297,12 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" timestamp="1543243775427">
         <mark key="'" line="322" column="36" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544073276568">
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544073689531">
         <mark key="'" line="9" column="115" />
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="37" />
-        <mark key="^" line="19" column="37" />
-        <mark key="." line="19" column="37" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="35" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2015/Runner.kt" timestamp="1544041126588">
         <mark key="[" line="18" column="5" />
@@ -669,7 +669,7 @@
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" timestamp="1544050734990">
         <mark key="'" line="360" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1544051329791">
+      <file name="/fragment.java" timestamp="1544073690660">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -777,13 +777,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LlBhaXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChwMiBpbiBsb2wpIHsKICAgICAgICAgICAgICAgIGlmIChwMSA9PSBwMikgY29udGludWUKICAgICAgICAgICAgICAgIHZhbCBkaXN0ID0gZGlzdChwMSwgcDIpCiAgICAgICAgICAgICAgICBwcmludGxuKCIkcDEgLT4gJHAyICRkaXN0fSIpCgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="c" type="4">
         <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>${p1.distance(p2)</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>Point</text>
@@ -792,31 +792,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFwaSA9IFByb3BlcnR5QXBpKFByb3BlcnR5QXBpQ29uZmlnKAogICAgICAgICAgICBhcGlVcmwgPSAiaHR0cHM6Ly9hZG1pbi5zcG9ydHJhZGFyLmFnL3Byb3BlcnRpZXMvZmluZCIsCiAgICAgICAgICAgIGFwaVRva2VuID0gImE4NzZlMmIwMWJlMTMxYWYxMmFlMzJlOTMyZTI0ZmQxIiwKICAgICAgICAgICAgY2FjaGUgPSB0cnVlLAogICAgICAgICAgICBjYWNoZUNvbmZpZyA9IENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAucmVjb3JkU3RhdHMoKQogICAgICAgICAgICAgICAgICAgIC5leHBpcmVBZnRlcldyaXRlKDEsIFRpbWVVbml0LkhPVVJTKQogICAgICAgICAgICAgICAgICAgIC5tYXhpbXVtU2l6ZSgxMDApCiAgICApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LlBhaXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChwMiBpbiBsb2wpIHsKICAgICAgICAgICAgICAgIGlmIChwMSA9PSBwMikgY29udGludWUKICAgICAgICAgICAgICAgIHZhbCBkaXN0ID0gZGlzdChwMSwgcDIpCiAgICAgICAgICAgICAgICBwcmludGxuKCIkcDEgLT4gJHAyICRkaXN0fSIpCgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQuZGlzdGFuY2UoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LlBhaXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQuZGlzdGFuY2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBDaGFyLnJlYWN0cyhiOiBDaGFyKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIHRoaXMgIT0gYiAmJiB0aGlzLmVxdWFscyhiLCBpZ25vcmVDYXNlID0gdHJ1ZSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biByZWFjdChzdHJpbmc6IEl0ZXJhYmxlPENoYXI+KTogSXRlcmFibGU8Q2hhcj4gewogICAgICAgIHJldHVybiBzdHJpbmcuZm9sZChTdGFjaygpKSB7IGFjYywgYyAtPgogICAgICAgICAgICBpZiAoIWFjYy5pc0VtcHR5KCkgJiYgYWNjLmxhc3QoKS5yZWFjdHMoYykpIHsKICAgICAgICAgICAgICAgIGFjYy5wb3AoKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYWNjLnB1c2goYykKICAgICAgICAgICAgfQogICAgICAgICAgICBhY2MKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHBhcnQxOiBJdGVyYWJsZTxDaGFyPiA9IHJlYWN0KHBvbHltZXIuYXNJdGVyYWJsZSgpKQo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBDaGFyLnJlYWN0cyhiOiBDaGFyKTogQm9vbGVhbiB7CiAgICAgICAgcmV0dXJuIHRoaXMgIT0gYiAmJiB0aGlzLmVxdWFscyhiLCBpZ25vcmVDYXNlID0gdHJ1ZSkKICAgIH0KCiAgICBwcml2YXRlIGZ1biByZWFjdChzdHJpbmc6IEl0ZXJhYmxlPENoYXI+KTogSXRlcmFibGU8Q2hhcj4gewogICAgICAgIHJldHVybiBzdHJpbmcuZm9sZChTdGFjaygpKSB7IGFjYywgYyAtPgogICAgICAgICAgICBpZiAoIWFjYy5pc0VtcHR5KCkgJiYgYWNjLmxhc3QoKS5yZWFjdHMoYykpIHsKICAgICAgICAgICAgICAgIGFjYy5wb3AoKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYWNjLnB1c2goYykKICAgICAgICAgICAgfQogICAgICAgICAgICBhY2MKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVhY3QocG9seW1lci5hc0l0ZXJhYmxlKCkpLmNvdW50KCkudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHBhcnQxOiBJdGVyYWJsZTxDaGFyPiA9IHJlYWN0KHBvbHltZXIuYXNJdGVyYWJsZSgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVhY3QocG9seW1lci5hc0l0ZXJhYmxlKCkpLmNvdW50KCkudG9TdHJpbmcoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Point/Pair/g</text>
