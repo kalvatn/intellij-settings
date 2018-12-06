@@ -297,13 +297,13 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/GeneralScoutDataConnector.class" timestamp="1543243775427">
         <mark key="'" line="322" column="36" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544076938831">
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544078197280">
         <mark key="a" line="30" column="7" />
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="36" column="78" />
-        <mark key="." line="36" column="78" />
-        <mark key="^" line="36" column="78" />
+        <mark key="[" line="60" column="9" />
+        <mark key="]" line="61" column="25" />
+        <mark key="." line="61" column="25" />
+        <mark key="^" line="61" column="25" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2015/Runner.kt" timestamp="1544041126588">
         <mark key="[" line="18" column="5" />
@@ -777,14 +777,14 @@
       <jump line="9" column="0" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Ite</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>Ite</text>
+        <text encoding="base64">PD4oKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">UGFpcjxJbnQsSW50Pg==</text>
@@ -793,31 +793,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgbWF4WCA9IGxvbC5tYXhCeSB7IGl0LmZpcnN0IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1hcE9mOiBNYXA8UGFpcjxJbnQsIEludD4sIE1hcDxJbnQsIEl0ZXJhYmxlPFBhaXI8SW50LCBJbnQ+Pj4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh2YWx1ZS4pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5pcXVlRGlzdGFuY2VzCg==</text>
+        <text encoding="base64">ICAgICAgICB1bmlxdWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiJHAxIC0+ICRtYXBEaXN0IikK</text>
+        <text encoding="base64">ICAgICAgICBtYXBPZi5mb3JFYWNoIHsKICAgICAgICAgICAgaXQgLT4KICAgICAgICAgICAgaXQudmFsdWUuZm9yRWFjaCB7CiAgICAgICAgICAgICAgICBkaXN0IC0+CiAgICAgICAgICAgICAgICB1bmlxdWVEaXN0YW5jZXMucHV0SWZBYnNlbnQoaXQua2V5LCApCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pcXVlRGlzdGFuY2VzLnB1dElmQWJzZW50KGl0LmtleSwgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChwMiBpbiBwdHMpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQua2V5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdW5pcXVlRGlzdGFuY2VzID0gbGlzdE9mPFBhaXI8SW50LEludD4+KCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvUGFpcjxJbnQsSW50Pi9Qb2ludC9n</text>
