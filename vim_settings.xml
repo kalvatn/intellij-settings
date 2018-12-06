@@ -3,12 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544104836672">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" timestamp="1544106417422">
+        <mark key="'" line="284" column="52" />
+      </file>
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544109422620">
+        <mark key="'" line="106" column="23" />
+        <mark key="[" line="147" column="69" />
+        <mark key="]" line="147" column="67" />
+        <mark key="." line="147" column="67" />
+        <mark key="^" line="147" column="67" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/BasketMatch.java" timestamp="1544099589972" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/06_test2" timestamp="1544108185510">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1544108323095">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1544099888108" />
     </filemarks>
     <jumps>
@@ -16,46 +29,51 @@
       <jump line="24" column="7" filename="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/06" />
       <jump line="0" column="0" filename="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/06" />
       <jump line="104" column="37" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
+      <jump line="267" column="63" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" />
+      <jump line="274" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" />
+      <jump line="279" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" />
+      <jump line="284" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" />
+      <jump line="106" column="23" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2wuZm9yRWFjaCB7CiAgICAgICAgICAgIHByaW50bG4oaXQpCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>10000</text>
       </register>
       <register name="-" type="4">
-        <text>maxDown</text>
+        <text>10000</text>
       </register>
       <register name="/" type="4">
         <text>possession</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG1heFJpZ2h0KQo=</text>
+        <text encoding="base64">ICAgIGRheS5ydW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2wuZm9yRWFjaCB7CiAgICAgICAgICAgIHByaW50bG4oaXQpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiJHAxICRtYXBEaXN0ICRzdW0iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHB0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN1bSA9IG1hcERpc3Qua2V5cy5zdW0oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBwdHMgPSAoMC4ubWF4KS50b1BvaW50cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ocDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIEludFJhbmdlLnRvUG9pbnRzKCk6IEl0ZXJhYmxlPFBvaW50PiB7CiAgICAgICAgdmFsIHBvaW50cyA9IG11dGFibGVMaXN0T2Y8UG9pbnQ+KCkKICAgICAgICB0aGlzLmZvckVhY2ggeyBpIC0+CiAgICAgICAgICAgIHRoaXMuZm9yRWFjaCB7IGogLT4KICAgICAgICAgICAgICAgIHBvaW50cy5hZGQoUG9pbnQoaSwgaikpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHBvaW50cwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihwMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG1heFJpZ2h0KQogICAgICAgIHByaW50bG4obWF4RG93bikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ocDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">NCwgMwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWF4ID0gbWF4KG1heFghISwgbWF4WSEhKQogICAgICAgIHByaW50bG4obWF4KQo=</text>
+        <text encoding="base64">ICAgICAgICBwdHMuZm9yRWFjaCB7IHByaW50bG4oaXQpIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG1heEJ5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWF4QnkgPSBtYXBPZi5tYXAgeyBpdC52YWx1ZS5rZXlzIH0uZmxhdHRlbigpLm1heCgpIHByaW50bG4obWF4QnkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcDEgPSBQb2ludCg0LCAzKQogICAgICAgIHZhbCBtYXBEaXN0ID0gbWFwRGlzdChwMSwgbG9sKQogICAgICAgIHZhbCBzdW1EaXN0ID0gbWFwRGlzdC5rZXlzLnN1bSgpCiAgICAgICAgcHJpbnRsbihzdW1EaXN0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
@@ -72,6 +90,7 @@
       <history-search>
         <entry>update livescore_match</entry>
         <entry>overtime</entry>
+        <entry>possesssion</entry>
         <entry>possession</entry>
       </history-search>
       <history-cmd>
