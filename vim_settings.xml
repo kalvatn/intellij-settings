@@ -3,50 +3,56 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544093448724">
-        <mark key="[" line="103" column="15" />
-        <mark key="]" line="102" column="37" />
-        <mark key="." line="102" column="37" />
-        <mark key="^" line="102" column="37" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544098230784">
+        <mark key="'" line="104" column="37" />
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="24" />
+        <mark key="." line="39" column="24" />
+        <mark key="^" line="39" column="24" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="109" column="8" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
+      <jump line="24" column="7" filename="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/06" />
+      <jump line="0" column="0" filename="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/06" />
+      <jump line="104" column="37" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
+    </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgaW5maW5pdGVSaWdodCA9IHJpZ2h0LmZpbHRlciB7CiAgICAgICAgICAgIHZhbHVlc1tpdF0hIS50YWtlbkJ5Tm9kZSA9PSBpdAogICAgICAgIH0uYW55KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJNQVggIiArIG1heEJ5KQo=</text>
+        <text encoding="base64">MzQyLCAyMDMKNzksIDY0CjI2OCwgMzIzCjIzOSwgMTMxCjI0NiwgODcKMTYxLCA5MwozMDYsIDE0Ngo0MywgMTQ2CjU3LCAxMTIKMjQxLCAyNzcKMzA0LCAzMDMKMTQzLCAyMzUKMjUzLCAzMTgKOTcsIDEwMwoyMDAsIDI1MAo2NywgMjA3CjM0NSwgMTQ5CjEzMywgMjIyCjIzMiwgMTIzCjE1NiwgMzU5CjgwLCAyMjQKNTEsIDE0NQoxMzgsIDMxMgozMzksIDI5NAoyOTcsIDI1NgoxNjMsIDMxMQoyNDEsIDMyMQoxMjYsIDY2CjE0NSwgMTcxCjM1OSwgMTg0CjI0MSwgNTgKMTA4LCAzMTIKMTE3LCAxMTgKMTAxLCAxODAKNTgsIDI5MAozMjQsIDQyCjE0MSwgMTkwCjI3MCwgMTQ5CjIwOSwgMjk0CjI5NiwgMzQ1CjY4LCAyNjYKMjMzLCAyODEKMzA1LCAxODMKMjQ1LCAyMzAKMTYxLCAyOTUKMzM1LCAzNTIKOTMsIDY2CjIyNywgNTkKMjY0LCAyNDkKMTE2LCAxNzMK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>any</text>
+        <text>10000</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4oIm1heCB4ICRtYXhYICBtYXggeSAkbWF4WSAkbWF4IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJNQVggIiArIG1heEJ5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4oIm1heCB4ICRtYXhYICBtYXggeSAkbWF4WSAkbWF4IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG5vZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGxlZnQpCiAgICAgICAgcHJpbnRsbihyaWdodCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG5vZGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByaWdodC5mb3JFYWNoIHsKICAgICAgICAgICAgdmFsIHZhbHVlID0gdmFsdWVzW2l0XSEhCiAgICAgICAgICAgIGlmICh2YWx1ZS50YWtlbkJ5Tm9kZSAhPSBub2RlKSB7CiAgICAgICAgICAgICAgICBpbmZpbml0ZSA9IGZhbHNlCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgdXAuZm9yRWFjaCB7CiAgICAgICAgICAgIHZhbCB2YWx1ZSA9IHZhbHVlc1tpdF0hIQogICAgICAgICAgICBpZiAodmFsdWUudGFrZW5CeU5vZGUgIT0gbm9kZSkgewogICAgICAgICAgICAgICAgaW5maW5pdGUgPSBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGRvd24uZm9yRWFjaCB7CiAgICAgICAgICAgIHZhbCB2YWx1ZSA9IHZhbHVlc1tpdF0hIQogICAgICAgICAgICBpZiAodmFsdWUudGFrZW5CeU5vZGUgIT0gbm9kZSkgewogICAgICAgICAgICAgICAgaW5maW5pdGUgPSBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGxlZnQpCiAgICAgICAgcHJpbnRsbihyaWdodCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbHVlLnRha2VuQnlOb2RlICE9IG5vZGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICByaWdodC5mb3JFYWNoIHsKICAgICAgICAgICAgdmFsIHZhbHVlID0gdmFsdWVzW2l0XSEhCiAgICAgICAgICAgIGlmICh2YWx1ZS50YWtlbkJ5Tm9kZSAhPSBub2RlKSB7CiAgICAgICAgICAgICAgICBpbmZpbml0ZSA9IGZhbHNlCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgdXAuZm9yRWFjaCB7CiAgICAgICAgICAgIHZhbCB2YWx1ZSA9IHZhbHVlc1tpdF0hIQogICAgICAgICAgICBpZiAodmFsdWUudGFrZW5CeU5vZGUgIT0gbm9kZSkgewogICAgICAgICAgICAgICAgaW5maW5pdGUgPSBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGRvd24uZm9yRWFjaCB7CiAgICAgICAgICAgIHZhbCB2YWx1ZSA9IHZhbHVlc1tpdF0hIQogICAgICAgICAgICBpZiAodmFsdWUudGFrZW5CeU5vZGUgIT0gbm9kZSkgewogICAgICAgICAgICAgICAgaW5maW5pdGUgPSBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaW5maW5pdGUgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbHVlLnRha2VuQnlOb2RlICE9IG5vZGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZmluaXRlID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaW5maW5pdGUgPSB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>10000</text>
       </register>
     </registers>
     <search>
@@ -60,6 +66,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
