@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544184586268">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="22" />
-        <mark key="^" line="15" column="22" />
-        <mark key="." line="15" column="22" />
+      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544194782007">
+        <mark key="[" line="50" column="98" />
+        <mark key="]" line="50" column="102" />
+        <mark key="." line="50" column="102" />
+        <mark key="^" line="50" column="102" />
       </file>
       <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
         <mark key="[" line="0" column="0" />
@@ -18,12 +18,12 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1544190839926">
         <mark key="'" line="199" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatch.java" timestamp="1544192302467">
-        <mark key="'" line="321" column="4" />
-        <mark key="[" line="810" column="5" />
-        <mark key="]" line="811" column="43" />
-        <mark key="." line="811" column="43" />
-        <mark key="^" line="811" column="43" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatch.java" timestamp="1544196084852">
+        <mark key="'" line="313" column="4" />
+        <mark key="[" line="823" column="23" />
+        <mark key="]" line="823" column="45" />
+        <mark key="." line="823" column="45" />
+        <mark key="^" line="823" column="45" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/TeamPlayerEvent.java" timestamp="1544191215644" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" timestamp="1544106417422">
@@ -106,44 +106,47 @@
       <jump line="321" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatch.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFBhaXI8PigiR2lydHMgTGlsaWVuZmVsZHMiLCAiTGlsaWVuZmVsZHMsIEdpcnRzIiksCg==</text>
+      <register name="&quot;" type="4">
+        <text>Original</text>
       </register>
       <register name="-" type="4">
-        <text>comparedName</text>
+        <text>Original</text>
       </register>
       <register name="/" type="4">
         <text>equalNames</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFBhaXI8PigiR2lydHMgTGlsaWVuZmVsZHMiLCAiTGlsaWVuZmVsZHMsIEdpcnRzIiksCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaW1wbGVWYXJpYW50c09yaWdpbmFsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZ1V0aWxzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1lcmdlTWF0Y2guZXF1YWxOYW1lcygiTGlsaWVuZmVsZHMsIEdpcnRzIiwgIkdpcnRzIExpbGllbmZlbGRzIik7Cg==</text>
+        <text encoding="base64">ICAgIHZhcmlhbnRzQ29tcGFyZWQuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1lcmdlTGluZXVwTG9nIGxpbmV1cExvZ2dlciA9IG91dGNvbWUuZ2V0TGluZXVwTG9nZ2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YXJpYW50c09yaWdpbmFsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihsaW5ldXBMb2dnZXIpOwogICAgU3lzdGVtLm91dC5wcmludGxuKG1lcmdlTWF0Y2gpOwo=</text>
+        <text encoding="base64">ICAgIC8vIENvbnN0cnVjdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1lcmdlCg==</text>
+        <text encoding="base64">ICAgIFNldDxTdHJpbmc+IHZhcmlhbnRzT3JpZ2luYWwgPSBuZXcgSGFzaFNldDw+KDMpOwogICAgTGlzdDxTdHJpbmc+IHBhcnRzT3JpZ2luYWwgPSBTdHJpbmdVdGlsLmV4cGxvZGVGYXN0KHBsYXllck5hbWUsICIsIik7CiAgICBpZiAocGFydHNDb21wYXJlZC5zaXplKCkgPj0gMikgewogICAgICB2YXJpYW50c09yaWdpbmFsLmFkZChwYXJ0c09yaWdpbmFsLmdldCgwKS50cmltKCkgKyAiICIgKyBwYXJ0c09yaWdpbmFsLmdldCgxKS50cmltKCkpOwogICAgICB2YXJpYW50c09yaWdpbmFsLmFkZChwYXJ0c09yaWdpbmFsLmdldCgxKS50cmltKCkgKyAiICIgKyBwYXJ0c09yaWdpbmFsLmdldCgwKS50cmltKCkpOwogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmV1cExvZ2dlci4K</text>
+      <register name="6" type="8">
+        <text>Compared
+Compared</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGxpbmV1cEV2ZW50LmdldFBsKQo=</text>
+        <text encoding="base64">ICAgIFNldDxTdHJpbmc+IG5hbWVWYXJpYW50cyA9IG5ldyBIYXNoU2V0PD4oMyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmV1cExvZ2dlci4K</text>
+      <register name="8" type="8">
+        <text>Compared
+Compared</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hdGNoV2l0aEV2ZW50cy5nZXRPdXRjb21lKCkK</text>
+      <register name="9" type="8">
+        <text>Compared
+Compared</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
@@ -204,6 +207,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
