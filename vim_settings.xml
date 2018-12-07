@@ -3,26 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatch.java" timestamp="1544183653812" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" timestamp="1544106417422">
         <mark key="'" line="284" column="52" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" timestamp="1544115299372">
-        <mark key="'" line="142" column="23" />
-        <mark key="[" line="91" column="22" />
-        <mark key="]" line="91" column="26" />
-        <mark key="." line="91" column="26" />
-        <mark key="^" line="91" column="26" />
+      <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/BasketMatch.java" timestamp="1544099589972" />
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/06_test2" timestamp="1544108185510">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544108323095">
+      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHblTest.java" timestamp="1544184512255">
+        <mark key="[" line="4" column="36" />
+      </file>
+      <file name="/fragment.java" timestamp="1544184530288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1544099888108" />
     </filemarks>
     <jumps>
       <jump line="109" column="8" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
@@ -43,7 +41,7 @@
         <text>32</text>
       </register>
       <register name="/" type="4">
-        <text>possession</text>
+        <text>player</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAoMC4uYXJyYXkuc2l6ZSkuZm9yRWFjaCB7IHkgLT4KICAgICAgICAgICAgKDAuLmFycmF5LnNpemUpLmZvckVhY2ggeyB4IC0+CiAgICAgICAgICAgICAgICBwcmludCgiLiIucGFkU3RhcnQoMywgJyAnKSkKICAgICAgICAgICAgfQogICAgICAgICAgICBwcmludGxuKCkKICAgICAgICB9Cg==</text>
@@ -80,9 +78,9 @@
       </register>
     </registers>
     <search>
-      <last-search>possession</last-search>
+      <last-search>player</last-search>
       <last-offset />
-      <last-pattern>possession</last-pattern>
+      <last-pattern>player</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -92,10 +90,13 @@
         <entry>overtime</entry>
         <entry>possesssion</entry>
         <entry>possession</entry>
+        <entry>player</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
