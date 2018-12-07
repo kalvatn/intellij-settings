@@ -3,20 +3,58 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatch.java" timestamp="1544183653812" />
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" timestamp="1544106417422">
-        <mark key="'" line="284" column="52" />
+      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544184586268">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="22" />
       </file>
       <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" timestamp="1544187656755" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatch.java" timestamp="1544188690012">
+        <mark key="[" line="295" column="8" />
+        <mark key="]" line="295" column="37" />
+        <mark key="." line="295" column="37" />
+        <mark key="^" line="295" column="37" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" timestamp="1544106417422">
+        <mark key="'" line="284" column="52" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHbl.java" timestamp="1544186525014">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="87" />
+        <mark key="." line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/AbstractMergeTask.java" timestamp="1544186159648">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="61" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/MatchLoadingTask.java" timestamp="1544186232390">
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/06_test2" timestamp="1544108185510">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHblTest.java" timestamp="1544184512255">
-        <mark key="[" line="4" column="36" />
+      <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHblTest.java" timestamp="1544188429216">
+        <mark key="'" line="12" column="20" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/EventLoadingTask.java" timestamp="1544187993619">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="56" column="45" />
+        <mark key="^" line="56" column="45" />
+        <mark key="." line="56" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1544184530288">
         <mark key="[" line="0" column="0" />
@@ -32,46 +70,48 @@
       <jump line="279" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" />
       <jump line="284" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" />
       <jump line="106" column="23" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D06.kt" />
+      <jump line="11" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/MatchLoadingTask.java" />
+      <jump line="12" column="20" filename="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHblTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>32</text>
+        <text>InsertEvents</text>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>InsertEvents</text>
       </register>
       <register name="/" type="4">
         <text>player</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoMC4uYXJyYXkuc2l6ZSkuZm9yRWFjaCB7IHkgLT4KICAgICAgICAgICAgKDAuLmFycmF5LnNpemUpLmZvckVhY2ggeyB4IC0+CiAgICAgICAgICAgICAgICBwcmludCgiLiIucGFkU3RhcnQoMywgJyAnKSkKICAgICAgICAgICAgfQogICAgICAgICAgICBwcmludGxuKCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG91dGNvbWUuZ2V0SW5zZXJ0RXZlbnRzKCkuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmV1cExvZ2dlci4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQgLT4K</text>
+        <text encoding="base64">ICAgICAgaWYgKGxpbmV1cEV2ZW50LmdldFBsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCIuIikK</text>
+        <text encoding="base64">ICAgIGxpbmV1cExvZ2dlci4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5W3hdW3ldID0gCg==</text>
+        <text encoding="base64">ICAgIG1hdGNoV2l0aEV2ZW50cy5nZXRPdXRjb21lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoMC4ubWF4Qm90aCkuZm9yRWFjaCB7IGRpc3QgLT4KICAgICAgICAgICAgdmFsIHBvaW50VmFsdWUgPSBwb2ludFZhbHVlc1tQb2ludFZhbHVlLk5PX05PREVdCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXF1ZXN0ZWRNYXRjaCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxpdmVTY29yZU1lcmdlSGJsLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBvaW50VmFsdWUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcG9pbnRWYWx1ZXNbXSA9IFBvaW50VmFsdWUocG9pbnQsIGRpc3QsIGl0LmtleSkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmIChwb2ludFZhbHVlLmRpc3RhbmNlID09IGRpc3QgJiYgcG9pbnRWYWx1ZS50YWtlbkJ5Tm9kZSAhPSBQb2ludFZhbHVlLk5PX05PREUpIHsKICAgICAgICAgICAgICAgICAgICBwb2ludFZhbHVlc1twb2ludF0gPSBQb2ludFZhbHVlKHBvaW50LCBkaXN0LCBQb2ludFZhbHVlLk5PX05PREUpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWF0Y2ggcmVxdWVzdGVkTWF0Y2ggPSBnZXRNYXRjaChyZXF1ZXN0Lm1hdGNoSWQsIHRydWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGxpdmVTY29yZU1lcmdlSGJsLm1lcmdlTWF0Y2goMzQ1OTQ2LCApOwogICAgbGl2ZVNjb3JlTWVyZ2VIYmwuY3JlYXRlTWF0Y2hXaXRoRXZlbnRzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGxpdmVTY29yZU1lcmdlSGJsLmdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
@@ -119,6 +159,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
