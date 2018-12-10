@@ -12,20 +12,20 @@
       <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" timestamp="1544451609639">
-        <mark key="[" line="63" column="36" />
-        <mark key="]" line="63" column="35" />
-        <mark key="^" line="63" column="35" />
-        <mark key="." line="63" column="35" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" timestamp="1544455560780">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="16" />
+        <mark key="^" line="38" column="16" />
+        <mark key="." line="38" column="16" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" timestamp="1544444679378">
         <mark key="'" line="575" column="26" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D10Test.kt" timestamp="1544446092146">
-        <mark key="[" line="38" column="52" />
-        <mark key="]" line="38" column="52" />
-        <mark key="." line="38" column="52" />
-        <mark key="^" line="38" column="52" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D10Test.kt" timestamp="1544452409525">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="50" column="46" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1544190839926">
         <mark key="'" line="199" column="0" />
@@ -76,7 +76,7 @@
         <mark key="^" line="56" column="45" />
         <mark key="." line="56" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1544449374412">
+      <file name="/fragment.java" timestamp="1544455196032">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -127,44 +127,44 @@
       <jump line="69" column="30" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+      <register name="&quot;" type="4">
+        <text>30000</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2l6ZSA6ICRzaXplIA==</text>
+        <text>30000</text>
       </register>
       <register name="/" type="4">
         <text>_sid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgwLi5tYXhZKS5mb3JFYWNoIHsgeSAtPgogICAgICAgICAgICAgICAgICAgICgwLi5tYXhYKS5mb3JFYWNoIHsgeCAtPgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoc3RhckNvb3Jkcy5jb250YWluc0tleShQb2ludCh4LCB5KSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCIjIikKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCIuIikKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBwcmludGxuKCkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNvb3Jkcy5nZXRPckVsc2UoUG9pbnQoeCwgeSkpIHsgJyAnfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHNCeVNpemVbMTAwMDBdID0gc2V0T2YoKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNpemUgPSBtYXgobWF4WCwgbWF4WSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNpemUgPSBtYXgobWF4WCwgbWF4WSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNpemUgPiBjb29yZHNCeVNpemUua2V5cy5taW4oKSEhKSB7CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4WCArPSB0cmFuc2xhdGVYCiAgICAgICAgICAgIG1heFkgKz0gdHJhbnNsYXRlWQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYW5zbGF0ZVggPSBtaW5YICogLTEKICAgICAgICAgICAgdmFsIHRyYW5zbGF0ZVkgPSBtaW5ZICogLTEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pblNpemUgPSBzaXplCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWluU2l6ZSA9IDEwMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1pblkgPSBzdGFycy5taW5CeSB7IGl0LnBvc2l0aW9uLnkgfSEhLnBvc2l0aW9uLnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNpemUgPiBjb29yZHNCeVNpemUua2V5cy5taW4oKSEhKSB7CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGxuKCIkc2Vjb25kIDogKCRtaW5YICRtYXhYKSAsICgkbWluWSAkbWF4WSkgJHNpemUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplID4gY29vcmRzQnlTaXplLmtleXMubWluKCkhISkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYXJyYXlbc3RhckNvb3Jkcy55XVtzdGFyQ29vcmRzLnhdID0gIiMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJzZWNvbmQgOiAkc2Vjb25kIikK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
