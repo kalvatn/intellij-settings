@@ -12,8 +12,20 @@
       <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" timestamp="1544190724956">
-        <mark key="'" line="646" column="19" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" timestamp="1544449574757">
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="23" />
+        <mark key="^" line="72" column="23" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" timestamp="1544444679378">
+        <mark key="'" line="575" column="26" />
+      </file>
+      <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D10Test.kt" timestamp="1544446092146">
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+        <mark key="^" line="38" column="52" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1544190839926">
         <mark key="'" line="199" column="0" />
@@ -45,6 +57,9 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/10_test" timestamp="1544445173596">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/06_test2" timestamp="1544108185510">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -62,7 +77,7 @@
         <mark key="^" line="56" column="45" />
         <mark key="." line="56" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1544184530288">
+      <file name="/fragment.java" timestamp="1544449374412">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -104,58 +119,62 @@
       <jump line="201" column="33" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="199" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="321" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatch.java" />
+      <jump line="269" column="69" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" />
+      <jump line="454" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" />
+      <jump line="473" column="60" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" />
+      <jump line="574" column="18" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" />
+      <jump line="575" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" />
+      <jump line="7" column="13" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" />
+      <jump line="69" column="30" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Original</text>
+        <text>10243</text>
       </register>
       <register name="-" type="4">
-        <text>Original</text>
+        <text>10243</text>
       </register>
       <register name="/" type="4">
-        <text>equalNames</text>
+        <text>_sid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaW1wbGVWYXJpYW50c09yaWdpbmFsKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMTAyNDMudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ1V0aWxzLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhcmlhbnRzQ29tcGFyZWQuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oc2l6ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YXJpYW50c09yaWdpbmFsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbihzZWNvbmQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIENvbnN0cnVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIHByaW50KGFycmF5W3ldW3hdLnBhZFN0YXJ0KDIsICcgJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNldDxTdHJpbmc+IHZhcmlhbnRzT3JpZ2luYWwgPSBuZXcgSGFzaFNldDw+KDMpOwogICAgTGlzdDxTdHJpbmc+IHBhcnRzT3JpZ2luYWwgPSBTdHJpbmdVdGlsLmV4cGxvZGVGYXN0KHBsYXllck5hbWUsICIsIik7CiAgICBpZiAocGFydHNDb21wYXJlZC5zaXplKCkgPj0gMikgewogICAgICB2YXJpYW50c09yaWdpbmFsLmFkZChwYXJ0c09yaWdpbmFsLmdldCgwKS50cmltKCkgKyAiICIgKyBwYXJ0c09yaWdpbmFsLmdldCgxKS50cmltKCkpOwogICAgICB2YXJpYW50c09yaWdpbmFsLmFkZChwYXJ0c09yaWdpbmFsLmdldCgxKS50cmltKCkgKyAiICIgKyBwYXJ0c09yaWdpbmFsLmdldCgwKS50cmltKCkpOwogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgYXJyYXkgPSBzdHJpbmdBcnJheTJEKHNpemUrMSwgIi4iKQo=</text>
       </register>
-      <register name="6" type="8">
-        <text>Compared
-Compared</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNldDxTdHJpbmc+IG5hbWVWYXJpYW50cyA9IG5ldyBIYXNoU2V0PD4oMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYW5zbGF0ZVggPSBtaW5YICogLTEKICAgICAgICAgICAgdmFsIHRyYW5zbGF0ZVkgPSBtaW5ZICogLTEKICAgICAgICAgICAgbWF4WCArPSB0cmFuc2xhdGVYCiAgICAgICAgICAgIG1heFkgKz0gdHJhbnNsYXRlWQo=</text>
       </register>
-      <register name="8" type="8">
-        <text>Compared
-Compared</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWF4WCArPSB0cmFuc2xhdGVYCiAgICAgICAgICAgIG1heFkgKz0gdHJhbnNsYXRlWQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>Compared
-Compared</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYW5zbGF0ZVggPSBtaW5YICogLTEKICAgICAgICAgICAgdmFsIHRyYW5zbGF0ZVkgPSBtaW5ZICogLTEK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>equalNames</last-search>
+      <last-search>_sid</last-search>
       <last-offset />
-      <last-pattern>equalNames</last-pattern>
+      <last-pattern>_sid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -173,6 +192,7 @@ Compared</text>
         <entry>LINEUP</entry>
         <entry>TEAMPLAYER</entry>
         <entry>equalNames</entry>
+        <entry>_sid</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
@@ -210,6 +230,9 @@ Compared</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
