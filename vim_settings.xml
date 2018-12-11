@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/fill/LivescoreMatchFill.java" timestamp="1544528920840">
+        <mark key="'" line="70" column="69" />
+        <mark key="[" line="161" column="5" />
+        <mark key="]" line="163" column="32" />
+        <mark key="^" line="163" column="32" />
+        <mark key="." line="163" column="32" />
+      </file>
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544194782007">
         <mark key="[" line="50" column="98" />
         <mark key="]" line="50" column="102" />
@@ -18,6 +25,11 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="38" column="16" />
       </file>
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D11.kt" timestamp="1544529468470">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" timestamp="1544444679378">
         <mark key="'" line="575" column="26" />
       </file>
@@ -26,6 +38,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="50" column="46" />
+      </file>
+      <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D11Test.kt" timestamp="1544529486530">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="55" />
+        <mark key="^" line="9" column="55" />
+        <mark key="." line="9" column="55" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1544190839926">
         <mark key="'" line="199" column="0" />
@@ -125,55 +143,58 @@
       <jump line="575" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" />
       <jump line="7" column="13" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" />
       <jump line="69" column="30" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" />
+      <jump line="429" column="78" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/fill/LivescoreMatchFill.java" />
+      <jump line="124" column="42" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/fill/LivescoreMatchFill.java" />
+      <jump line="70" column="69" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/fill/LivescoreMatchFill.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>30000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHNlcmlhbE51bWJlcikK</text>
       </register>
       <register name="-" type="4">
         <text>30000</text>
       </register>
       <register name="/" type="4">
-        <text>_sid</text>
+        <text>execute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNvb3Jkcy5nZXRPckVsc2UoUG9pbnQoeCwgeSkpIHsgJyAnfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb29yZHNCeVNpemVbMTAwMDBdID0gc2V0T2YoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHNlcmlhbE51bWJlcikK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHNlcmlhbE51bWJlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNpemUgPiBjb29yZHNCeVNpemUua2V5cy5taW4oKSEhKSB7CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHNCeVNpemVbMTAwMDBdID0gc2V0T2YoKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pblNpemUgPSBzaXplCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbWluU2l6ZSA9IDEwMDAwCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHNpemUgPiBjb29yZHNCeVNpemUua2V5cy5taW4oKSEhKSB7CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICB9Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pblNpemUgPSBzaXplCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplID4gY29vcmRzQnlTaXplLmtleXMubWluKCkhISkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWluU2l6ZSA9IDEwMDAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJzZWNvbmQgOiAkc2Vjb25kIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNpemUgPiBjb29yZHNCeVNpemUua2V5cy5taW4oKSEhKSB7CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>_sid</last-search>
+      <last-search>execute</last-search>
       <last-offset />
-      <last-pattern>_sid</last-pattern>
+      <last-pattern>execute</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -192,6 +213,9 @@
         <entry>TEAMPLAYER</entry>
         <entry>equalNames</entry>
         <entry>_sid</entry>
+        <entry>insert into</entry>
+        <entry>publish</entry>
+        <entry>execute</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
