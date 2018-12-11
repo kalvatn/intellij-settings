@@ -3,27 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/fill/LivescoreMatchFill.java" timestamp="1544528920840">
-        <mark key="'" line="70" column="69" />
-        <mark key="[" line="161" column="5" />
-        <mark key="]" line="163" column="32" />
-        <mark key="^" line="163" column="32" />
-        <mark key="." line="163" column="32" />
-      </file>
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544194782007">
         <mark key="[" line="50" column="98" />
         <mark key="]" line="50" column="102" />
         <mark key="." line="50" column="102" />
         <mark key="^" line="50" column="102" />
-      </file>
-      <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" timestamp="1544456747318">
-        <mark key="[" line="40" column="1" />
-        <mark key="]" line="38" column="16" />
-        <mark key="^" line="38" column="16" />
-        <mark key="." line="38" column="16" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D11.kt" timestamp="1544531560890">
         <mark key="[" line="35" column="9" />
@@ -52,8 +36,48 @@
         <mark key="." line="16" column="71" />
         <mark key="^" line="16" column="71" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutToLivescore.java" timestamp="1544535795390">
+        <mark key="[" line="100" column="38" />
+        <mark key="]" line="100" column="35" />
+        <mark key="^" line="100" column="35" />
+        <mark key="." line="100" column="35" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1544190839926">
         <mark key="'" line="199" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" timestamp="1544106417422">
+        <mark key="'" line="284" column="52" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHbl.java" timestamp="1544186525014">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="87" />
+        <mark key="." line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/MatchLoadingTask.java" timestamp="1544186232390">
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544535289810">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/fill/LivescoreMatchFill.java" timestamp="1544528920840">
+        <mark key="'" line="70" column="69" />
+        <mark key="[" line="161" column="5" />
+        <mark key="]" line="163" column="32" />
+        <mark key="^" line="163" column="32" />
+        <mark key="." line="163" column="32" />
+      </file>
+      <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D10.kt" timestamp="1544456747318">
+        <mark key="[" line="40" column="1" />
+        <mark key="]" line="38" column="16" />
+        <mark key="^" line="38" column="16" />
+        <mark key="." line="38" column="16" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1544534210564">
         <mark key="[" line="81" column="141" />
@@ -79,21 +103,6 @@
         <mark key="]" line="40" column="77" />
         <mark key="." line="40" column="77" />
         <mark key="^" line="40" column="77" />
-      </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" timestamp="1544106417422">
-        <mark key="'" line="284" column="52" />
-      </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHbl.java" timestamp="1544186525014">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="87" />
-        <mark key="." line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-      </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/MatchLoadingTask.java" timestamp="1544186232390">
-        <mark key="[" line="46" column="2" />
-        <mark key="]" line="46" column="7" />
-        <mark key="." line="46" column="7" />
-        <mark key="^" line="46" column="7" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/10_test" timestamp="1544445173596">
         <mark key="[" line="0" column="0" />
@@ -165,10 +174,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>496</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>496</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>execute</text>
@@ -204,7 +213,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgc2VyaWFsOkludCA9IDgK</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>101</text>
       </register>
     </registers>
     <search>
@@ -235,6 +244,7 @@
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
+        <entry>101</entry>
       </history-cmd>
       <history-expr />
       <history-input />
