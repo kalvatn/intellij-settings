@@ -104,11 +104,11 @@
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/10_test" timestamp="1544445173596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D12.kt" timestamp="1544607154171">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D12.kt" timestamp="1544609552820">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="17" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutConnectionSet.class" timestamp="1544546510426" />
       <file name="/fragment.java" timestamp="1544545181802">
@@ -184,11 +184,11 @@
       <jump line="34" column="0" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGluaXRpYWxTdGF0ZSkKICAgICAgICBwcmludGxuKHJ1bGVzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>drop</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
