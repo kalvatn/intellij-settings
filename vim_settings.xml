@@ -51,6 +51,12 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/card/utility/CardUtils.java" timestamp="1544548530761">
         <mark key="e" line="427" column="23" />
       </file>
+      <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D12Test.kt" timestamp="1544628402484">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHbl.java" timestamp="1544186525014">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="87" />
@@ -148,12 +154,11 @@
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/10_test" timestamp="1544445173596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D12.kt" timestamp="1544624468684">
-        <mark key="'" line="31" column="157" />
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="16" />
-        <mark key="^" line="44" column="15" />
-        <mark key="." line="44" column="16" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D12.kt" timestamp="1544629601296">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutConnectionSet.class" timestamp="1544546510426" />
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHblTest.java" timestamp="1544191682748">
@@ -174,7 +179,7 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1544624426085">
+      <file name="/fragment.java" timestamp="1544628240662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/componentcontroller/NetworkConnectionChecker.java" timestamp="1544612822986">
@@ -260,44 +265,44 @@
       <jump line="31" column="157" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D12.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.keys.sum().toString()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGluZGV4ZXMgPSBwbGFudEluZGV4ZXMua2V5cy5tYXAgeyBrZXkgLT4ga2V5IH0KICAgICAgICAgICAgdmFsIG5leHRQbGFudEluZGV4ZXMgPSBtdXRhYmxlTWFwT2Y8SW50LCBCb29sZWFuPigpCiAgICAgICAgICAgIGluZGV4ZXMuZm9yRWFjaCB7IGluZGV4IC0+CiAgICAgICAgICAgICAgICB2YXIgc2VnbWVudCA9ICIiCiAgICAgICAgICAgICAgICAoaW5kZXggLSAyLi5pbmRleCArIDIpLmZvckVhY2ggeyBpdCAtPgogICAgICAgICAgICAgICAgICAgIHBsYW50SW5kZXhlcy5wdXRJZkFic2VudChpdCwgZmFsc2UpCiAgICAgICAgICAgICAgICAgICAgc2VnbWVudCArPSBpZiAocGxhbnRJbmRleGVzLmdldE9yRGVmYXVsdChpdCwgZmFsc2UpKSAnIycgZWxzZSAnLicKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIG5leHRQbGFudEluZGV4ZXNbaW5kZXhdID0gcnVsZXMuZ2V0T3JEZWZhdWx0KHNlZ21lbnQsIGZhbHNlKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoZW50cmllcyBpbiBwbGFudEluZGV4ZXMpIHsKICAgICAgICAgICAgICAgIG5leHRQbGFudEluZGV4ZXMucHV0SWZBYnNlbnQoZW50cmllcy5rZXksIGVudHJpZXMudmFsdWUpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcGxhbnRJbmRleGVzID0gbmV4dFBsYW50SW5kZXhlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.keys.sum().toString()</text>
+        <text>current</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGxhbnRJbmRleGVzLmZpbHRlciB7IGl0LnZhbHVlIH0ua2V5cy5zdW0oKS50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG5leHRQbGFudEluZGV4ZXMgPSBuZXh0R2VuZXJhdGlvbihwbGFudEluZGV4ZXMpCiAgICAgICAgICAgIHBsYW50SW5kZXhlcyA9IG5leHRQbGFudEluZGV4ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LiMjLi4gPT4gIwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGluZGV4ZXMgPSBwbGFudEluZGV4ZXMua2V5cy5tYXAgeyBrZXkgLT4ga2V5IH0KICAgICAgICAgICAgdmFsIG5leHRQbGFudEluZGV4ZXMgPSBtdXRhYmxlTWFwT2Y8SW50LCBCb29sZWFuPigpCiAgICAgICAgICAgIGluZGV4ZXMuZm9yRWFjaCB7IGluZGV4IC0+CiAgICAgICAgICAgICAgICB2YXIgc2VnbWVudCA9ICIiCiAgICAgICAgICAgICAgICAoaW5kZXggLSAyLi5pbmRleCArIDIpLmZvckVhY2ggeyBpdCAtPgogICAgICAgICAgICAgICAgICAgIHBsYW50SW5kZXhlcy5wdXRJZkFic2VudChpdCwgZmFsc2UpCiAgICAgICAgICAgICAgICAgICAgc2VnbWVudCArPSBpZiAocGxhbnRJbmRleGVzLmdldE9yRGVmYXVsdChpdCwgZmFsc2UpKSAnIycgZWxzZSAnLicKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIG5leHRQbGFudEluZGV4ZXNbaW5kZXhdID0gcnVsZXMuZ2V0T3JEZWZhdWx0KHNlZ21lbnQsIGZhbHNlKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoZW50cmllcyBpbiBwbGFudEluZGV4ZXMpIHsKICAgICAgICAgICAgICAgIG5leHRQbGFudEluZGV4ZXMucHV0SWZBYnNlbnQoZW50cmllcy5rZXksIGVudHJpZXMudmFsdWUpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcGxhbnRJbmRleGVzID0gbmV4dFBsYW50SW5kZXhlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iy4uIyMgPT4gLgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgaW5kZXhlcyA9IHBsYW50SW5kZXhlcy5rZXlzLm1hcCB7IGtleSAtPiBrZXkgfQovLyAgICAgICAgICAgIHZhbCBuZXh0UGxhbnRJbmRleGVzID0gbXV0YWJsZU1hcE9mPEludCwgQm9vbGVhbj4oKQovLyAgICAgICAgICAgIGluZGV4ZXMuZm9yRWFjaCB7IGluZGV4IC0+Ci8vICAgICAgICAgICAgICAgIHZhciBzZWdtZW50ID0gIiIKLy8gICAgICAgICAgICAgICAgKGluZGV4IC0gMi4uaW5kZXggKyAyKS5mb3JFYWNoIHsgaXQgLT4KLy8gICAgICAgICAgICAgICAgICAgIHBsYW50SW5kZXhlcy5wdXRJZkFic2VudChpdCwgZmFsc2UpCi8vICAgICAgICAgICAgICAgICAgICBzZWdtZW50ICs9IGlmIChwbGFudEluZGV4ZXNbaXRdISEpICcjJyBlbHNlICcuJwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIG5leHRQbGFudEluZGV4ZXNbaW5kZXhdID0gcnVsZXMuZ2V0T3JEZWZhdWx0KHNlZ21lbnQsIGZhbHNlKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBwbGFudEluZGV4ZXMuZm9yRWFjaCB7IGVudHJpZXMgLT4KLy8gICAgICAgICAgICAgICAgbmV4dFBsYW50SW5kZXhlcy5wdXRJZkFic2VudChlbnRyaWVzLmtleSwgZW50cmllcy52YWx1ZSkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgcGxhbnRJbmRleGVzID0gbmV4dFBsYW50SW5kZXhlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMuLiMgPT4gLgouLi4uLiA9PiAuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBjdXJyZW50LmZvckVhY2ggeyBlbnRyaWVzIC0+Ci8vICAgICAgICAgICAgICAgIG5leHRQbGFudEluZGV4ZXMucHV0SWZBYnNlbnQoZW50cmllcy5rZXksIGVudHJpZXMudmFsdWUpCi8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIyMgPT4gLgojLiMjLiA9PiAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dFBsYW50SW5kZXhlc1tpbmRleF0gPSBydWxlcy5nZXRPckRlZmF1bHQoc2VnbWVudCwgZmFsc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjLi4gPT4gLgouLiMuIyA9PiAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Li4uIy4gPT4gLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LiMjIyMgPT4gLgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ID0gbXV0YWJsZU1hcE9mPEludCwgQm9vbGVhbj4oKQogICAgICAgICAgICBpbmRleGVzLmZvckVhY2ggeyBpbmRleCAtPgogICAgICAgICAgICAgICAgdmFyIHNlZ21lbnQgPSAiIgogICAgICAgICAgICAgICAgKGluZGV4IC0gMi4uaW5kZXggKyAyKS5mb3JFYWNoIHsgaXQgLT4KICAgICAgICAgICAgICAgICAgICBwbGFudEluZGV4ZXMucHV0SWZBYnNlbnQoaXQsIGZhbHNlKQogICAgICAgICAgICAgICAgICAgIHNlZ21lbnQgKz0gaWYgKHBsYW50SW5kZXhlc1tpdF0hISkgJyMnIGVsc2UgJy4nCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBuZXh0UGxhbnRJbmRleGVzW2luZGV4XSA9IHJ1bGVzLmdldE9yRGVmYXVsdChzZWdtZW50LCBmYWxzZSkKICAgICAgICAgICAgfQogICAgICAgICAgICBwbGFudEluZGV4ZXMuZm9yRWFjaCB7IGVudHJpZXMgLT4KICAgICAgICAgICAgICAgIG5leHRQbGFudEluZGV4ZXMucHV0SWZBYnNlbnQoZW50cmllcy5rZXksIGVudHJpZXMudmFsdWUpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcGxhbnRJbmRleGVzID0gbmV4dFBs</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Iy4jIyMgPT4gLgo=</text>
+        <text encoding="base64">ICAgICAgICBwbGFudEluZGV4ZXMgPSBuZXh0UGxhbnRJbmRleGVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjLiMgPT4gLgo=</text>
+        <text encoding="base64">ICAgICAgICBwbGFudEluZGV4ZXMuZm9yRWFjaCB7IGVudHJpZXMgLT4KICAgICAgICAgICAgbmV4dFBsYW50SW5kZXhlcy5wdXRJZkFic2VudChlbnRyaWVzLmtleSwgZW50cmllcy52YWx1ZSkKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -354,7 +359,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -363,13 +368,13 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -378,14 +383,23 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
