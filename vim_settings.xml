@@ -112,11 +112,11 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="115" column="5" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Day12.kt" timestamp="1544621708186">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="53" column="13" />
-        <mark key="." line="6" column="0" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Day12.kt" timestamp="1544623645498">
+        <mark key="[" line="41" column="68" />
+        <mark key="]" line="41" column="59" />
+        <mark key="." line="41" column="59" />
+        <mark key="^" line="41" column="59" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1544537393098">
         <mark key="[" line="55" column="26" />
@@ -148,11 +148,12 @@
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/10_test" timestamp="1544445173596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D12.kt" timestamp="1544621491419">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="55" column="42" />
-        <mark key="." line="51" column="0" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D12.kt" timestamp="1544624468684">
+        <mark key="'" line="31" column="157" />
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="16" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-core/2018.5.1/ingame-betting-core-2018.5.1.jar!/com/oddsarbitrage/scout/ScoutConnectionSet.class" timestamp="1544546510426" />
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/LiveScoreMergeHblTest.java" timestamp="1544191682748">
@@ -167,13 +168,13 @@
         <mark key="^" line="56" column="45" />
         <mark key="." line="56" column="45" />
       </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/12" timestamp="1544617584106">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="9" />
-        <mark key="^" line="33" column="9" />
-        <mark key="." line="33" column="9" />
+      <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/12" timestamp="1544624056258">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1544620974743">
+      <file name="/fragment.java" timestamp="1544624426085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/componentcontroller/NetworkConnectionChecker.java" timestamp="1544612822986">
@@ -254,61 +255,65 @@
       <jump line="3" column="20" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="4" column="63" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="23" column="13" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="11" column="9" filename="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/12" />
+      <jump line="0" column="0" filename="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/12" />
+      <jump line="31" column="157" filename="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D12.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uaWJhZG8ucHJvamVjdHMuYWR2ZW50LkRheQppbXBvcnQgY29tLm5pYmFkby5wcm9qZWN0cy5hZHZlbnQucmVzb3VyY2VMaW5lcwo=</text>
+      <register name="&quot;" type="4">
+        <text>.keys.sum().toString()</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>.keys.sum().toString()</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRJbmRleGVzKGdlbmVyYXRpb24rMSwgcGxhbnRJbmRleGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGxhbnRJbmRleGVzLmZpbHRlciB7IGl0LnZhbHVlIH0ua2V5cy5zdW0oKS50b1N0cmluZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uaWJhZG8ucHJvamVjdHMuYWR2ZW50LkRheQppbXBvcnQgY29tLm5pYmFkby5wcm9qZWN0cy5hZHZlbnQucmVzb3VyY2VMaW5lcwo=</text>
+        <text encoding="base64">LiMjLi4gPT4gIwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGlucHV0ID0gcmVzb3VyY2VMaW5lcygyMDE4LCAxMikK</text>
+        <text encoding="base64">Iy4uIyMgPT4gLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIHZhbCBzaG91bGRIYXZlID0gc2hvdWxkSGF2ZVBvdChzZWdtZW50KQovLyAgICAgICAgICAgICAgICB2YWwgc2hvdWxkTm90SGF2ZSA9IHNob3VsZE5vdEhhdmVQb3Qoc2VnbWVudCkKLy8gICAgICAgICAgICAgICAgaWYgKHNob3VsZEhhdmUpIHsKLy8gICAgICAgICAgICAgICAgICAgIG5leHRQbGFudEluZGV4ZXNbaW5kZXhdID0gdHJ1ZQovLyAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHNob3VsZE5vdEhhdmUpIHsKLy8gICAgICAgICAgICAgICAgICAgIG5leHRQbGFudEluZGV4ZXNbaW5kZXhdID0gZmFsc2UKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBwcmludGxuKCIkaW5kZXggJHNlZ21lbnQgJG1hdGNoZXMiKQo=</text>
+        <text encoding="base64">IyMuLiMgPT4gLgouLi4uLiA9PiAuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludEluZGV4ZXMoZ2VuZXJhdGlvbisxLCBwbGFudEluZGV4ZXMpCg==</text>
+        <text encoding="base64">IyMjIyMgPT4gLgojLiMjLiA9PiAuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFudEluZGV4ZXNbLTFdID0gZmFsc2UKICAgICAgICBwbGFudEluZGV4ZXNbLTJdID0gZmFsc2UKICAgICAgICBwbGFudEluZGV4ZXNbLTNdID0gZmFsc2UK</text>
+        <text encoding="base64">IyMjLi4gPT4gLgouLiMuIyA9PiAuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigoZ2VuZXJhdGlvbisxKS50b1N0cmluZygpLnBhZFN0YXJ0KDIsICcgJykgKyAiOiAiICsgcGxhbnRJbmRleGVzLmZpbHRlciB7IGl0LmtleSA+IC00IH0udmFsdWVzLm1hcCB7IHZhbHVlIC0+IGlmICh2YWx1ZSkgJyMnIGVsc2UgJy4nIH0uam9pblRvU3RyaW5nKCIiKSkK</text>
+        <text encoding="base64">Li4uIy4gPT4gLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKDAudG9TdHJpbmcoKS5wYWRTdGFydCgyLCAnICcpICsgIjogIiArIHBsYW50SW5kZXhlcy5maWx0ZXIgeyBpdC5rZXkgPiAtNCB9LnZhbHVlcy5tYXAgeyB2YWx1ZSAtPiBpZiAodmFsdWUpICcjJyBlbHNlICcuJyB9LmpvaW5Ub1N0cmluZygiIikpCg==</text>
+        <text encoding="base64">LiMjIyMgPT4gLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Iy4jIyMgPT4gLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIgMDogLi4kaW5pdGlhbFN0YXRlIikK</text>
+        <text encoding="base64">IyMjLiMgPT4gLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>101</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>possesssion</entry>
         <entry>possession</entry>
         <entry>player</entry>
         <entry>checkLineups</entry>
@@ -328,10 +333,13 @@
         <entry>commons</entry>
         <entry>math</entry>
         <entry>http</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
         <entry>101</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -375,6 +383,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
