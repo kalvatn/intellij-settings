@@ -63,10 +63,19 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="/work/projects/gitlab/statistics/model/pom.xml" timestamp="1544716906624" />
+      <file name="/work/projects/gitlab/j.kalvatn/livescore-streams/proto/src/main/proto/model.proto" timestamp="1544792090145">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="54" />
+      </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/06_test2" timestamp="1544108185510">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar!/com/google/protobuf/GeneratedMessageV3.java" timestamp="1544792606420">
+        <mark key="'" line="1066" column="61" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/common/model/Point.kt" timestamp="1544543449019">
         <mark key="[" line="24" column="21" />
@@ -99,6 +108,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/work/projects/gitlab/j.kalvatn/livescore-streams/producers/src/main/kotlin/com/sportradar/livescore/streams/Lol.java" timestamp="1544792631058">
+        <mark key="[" line="6" column="98" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
       <file name="/work/projects/github/kalvatn/aokotlin/pom.xml" timestamp="1544716807858">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="66" />
@@ -109,8 +124,12 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
+      <file name="/model.proto" timestamp="1544792352981" />
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/10_test" timestamp="1544445173596">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/livescore/streams/livescore-streams-proto/0.0.1/livescore-streams-proto-0.0.1.jar!/com/sportradar/livescore/streams/proto/User.class" timestamp="1544792311441">
+        <mark key="'" line="227" column="33" />
       </file>
       <file name="/work/projects/github/kalvatn/kafkatest/src/main/proto/model.proto" timestamp="1544719335562">
         <mark key="[" line="4" column="0" />
@@ -157,6 +176,12 @@
       <file name="/Dummy.txt" timestamp="1544719171739">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/work/projects/gitlab/j.kalvatn/livescore-streams/producers/src/main/kotlin/com/sportradar/livescore/streams/Main.kt" timestamp="1544792829349">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+      </file>
       <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
         <mark key="[" line="0" column="0" />
       </file>
@@ -176,10 +201,22 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="/work/projects/gitlab/j.kalvatn/livescore-streams/producers/pom.xml" timestamp="1544792772543">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="59" column="20" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/loader/ILoader.kt" timestamp="1544702683553">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/j.kalvatn/livescore-streams/proto/src/main/java/Lol.java" timestamp="1544792527474">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Y2018D12.kt" timestamp="1544629601296">
         <mark key="[" line="61" column="0" />
@@ -308,55 +345,63 @@
       <jump line="52" column="16" filename="/work/projects/gitlab/statistics/model/pom.xml" />
       <jump line="72" column="49" filename="/work/projects/gitlab/statistics/model/pom.xml" />
       <jump line="4" column="11" filename="/work/projects/gitlab/statistics/model/src/main/kotlin/com/sportradar/statistics/model/representation/Period.kt" />
+      <jump line="259" column="44" filename="$MAVEN_REPOSITORY$/com/sportradar/livescore/streams/livescore-streams-proto/0.0.1/livescore-streams-proto-0.0.1.jar!/com/sportradar/livescore/streams/proto/User.class" />
+      <jump line="326" column="8" filename="$MAVEN_REPOSITORY$/com/sportradar/livescore/streams/livescore-streams-proto/0.0.1/livescore-streams-proto-0.0.1.jar!/com/sportradar/livescore/streams/proto/User.class" />
+      <jump line="32" column="12" filename="$MAVEN_REPOSITORY$/com/sportradar/livescore/streams/livescore-streams-proto/0.0.1/livescore-streams-proto-0.0.1.jar!/com/sportradar/livescore/streams/proto/User.class" />
+      <jump line="133" column="8" filename="$MAVEN_REPOSITORY$/com/sportradar/livescore/streams/livescore-streams-proto/0.0.1/livescore-streams-proto-0.0.1.jar!/com/sportradar/livescore/streams/proto/User.class" />
+      <jump line="223" column="33" filename="$MAVEN_REPOSITORY$/com/sportradar/livescore/streams/livescore-streams-proto/0.0.1/livescore-streams-proto-0.0.1.jar!/com/sportradar/livescore/streams/proto/User.class" />
+      <jump line="227" column="33" filename="$MAVEN_REPOSITORY$/com/sportradar/livescore/streams/livescore-streams-proto/0.0.1/livescore-streams-proto-0.0.1.jar!/com/sportradar/livescore/streams/proto/User.class" />
+      <jump line="106" column="3" filename="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar!/com/google/protobuf/GeneratedMessageV3.java" />
+      <jump line="1066" column="61" filename="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar!/com/google/protobuf/GeneratedMessageV3.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">b3B0aW9uIG9wdGltaXplX2ZvciA9IExJVEVfUlVOVElNRTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwhLS0gcHV0IHlvdXIgY29uZmlndXJhdGlvbnMgaGVyZSAtLT4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text>OrBuilder</text>
+        <text>UserOrBuilder</text>
       </register>
       <register name="/" type="4">
-        <text>proto</text>
+        <text>toByte</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKHVzZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3B0aW9uIG9wdGltaXplX2ZvciA9IExJVEVfUlVOVElNRTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwhLS0gcHV0IHlvdXIgY29uZmlndXJhdGlvbnMgaGVyZSAtLT4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyLgo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcG9ydHJhZGFyLmthbHZhdG4ua2Fma2EudGVzdC5tb2RlbC5wcm90by5Vc2VyT3JCdWlsZGVyCg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLndyaXRlVG8oKQo=</text>
+        <text encoding="base64">ICAgIHVzZXIudG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHVzZXIuaXNJbml0aWFsaXplZCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zcG9ydHJhZGFyLmxpdmVzY29yZS5zdHJlYW1zLnByb3RvLlVzZXJPckJ1aWxkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyCg==</text>
+        <text encoding="base64">ICAgIHVzZXIuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcjpVc2VyCg==</text>
+        <text encoding="base64">ICAgIE1lc3NhZ2VPcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcG9ydHJhZGFyLnN0YXRpc3RpY3MubW9kZWwucHJvdG8uTWVzc2FnZQppbXBvcnQgY29tLnNwb3J0cmFkYXIuc3RhdGlzdGljcy5tb2RlbC5wcm90by5NZXNzYWdlT3JCdWlsZGVyCg==</text>
+        <text encoding="base64">ICAgIHVzZXIud3JpdGVUbyhieXRlQXJyYXlPZigpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>proto</last-search>
+      <last-search>toByte</last-search>
       <last-offset />
-      <last-pattern>proto</last-pattern>
+      <last-pattern>toByte</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -364,8 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>checkLineups</entry>
-        <entry>livescore_event_source</entry>
         <entry>setParam1</entry>
         <entry>80</entry>
         <entry>LINEUP</entry>
@@ -384,6 +427,8 @@
         <entry>'</entry>
         <entry>status</entry>
         <entry>proto</entry>
+        <entry>byte</entry>
+        <entry>toByte</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
