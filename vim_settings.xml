@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" timestamp="1546610348441">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" timestamp="1546610604409">
         <mark key="'" line="300" column="55" />
-        <mark key="[" line="117" column="12" />
-        <mark key="]" line="117" column="21" />
-        <mark key="." line="117" column="21" />
-        <mark key="^" line="117" column="21" />
+        <mark key="[" line="144" column="6" />
+        <mark key="]" line="144" column="6" />
+        <mark key="." line="144" column="6" />
+        <mark key="^" line="144" column="59" />
       </file>
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544194782007">
         <mark key="[" line="50" column="98" />
@@ -51,6 +51,9 @@
         <mark key="]" line="85" column="27" />
         <mark key="." line="85" column="27" />
         <mark key="^" line="85" column="27" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" timestamp="1546860730477">
+        <mark key="'" line="252" column="36" />
       </file>
       <file name="/work/projects/gitlab/j.kalvatn/livescore-streams/proto/src/main/proto/model.proto" timestamp="1544792090145">
         <mark key="[" line="3" column="38" />
@@ -261,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="33" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="199" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="321" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatch.java" />
       <jump line="269" column="69" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/hbl/HblFmpEventImporter.java" />
@@ -361,55 +363,56 @@
       <jump line="485" column="33" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="448" column="63" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="449" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="252" column="36" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>function</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>1022</text>
+        <text>getDelta</text>
       </register>
       <register name="0" type="4">
         <text>WHO_DECIDE_SERVICE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoLmdldEhvbWUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVzY29yZS5NYXRjaDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgY2FzZSBFdmVudC5TQ09SRV9DSEFOR0VfVEVOTklTOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoLmdldEhvbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgY2FzZSBFdmVudC5TQ09SRV9DSEFOR0VfVEVOTklTOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciAoRXZlbnQgZSA6IGV2ZW50cykgewogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoZXZlbnQgOiBldmVudHMpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoRXZlbnQgZSA6IGV2ZW50cykgewogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIEdlbmVyaWNFdmVudCBldmVudCAqLwo=</text>
+        <text encoding="base64">ICAgIGZvciAoZXZlbnQgOiBldmVudHMpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIEdlbmVyaWNFdmVudCBldmVudCAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwaS5xdWVyeShxdWVyeVNwb3J0KTsKICAgIGFwaS5xdWVyeShxdWVyeVJlYWxjYXRlZ29yeSk7CiAgICBhcGkucXVlcnkocXVlcnlVbmlxdWVUb3VybmFtZW50KTsKICAgIGFwaS5xdWVyeShxdWVyeVRvdXJuYW1lbnQpOwogICAgYXBpLnF1ZXJ5KHF1ZXJ5TWF0Y2gpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaS5xdWVyeShxdWVyeVNwb3J0KTsKICAgIGFwaS5xdWVyeShxdWVyeVJlYWxjYXRlZ29yeSk7CiAgICBhcGkucXVlcnkocXVlcnlVbmlxdWVUb3VybmFtZW50KTsKICAgIGFwaS5xdWVyeShxdWVyeVRvdXJuYW1lbnQpOwogICAgYXBpLnF1ZXJ5KHF1ZXJ5TWF0Y2gpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/GenericEvent::/Event./g</text>
       </register>
     </registers>
     <search>
-      <last-search>1022</last-search>
+      <last-search>getDelta</last-search>
       <last-offset />
-      <last-pattern>1022</last-pattern>
+      <last-pattern>getDelta</last-pattern>
       <last-replace>Event.</last-replace>
       <last-substitute>GenericEvent::</last-substitute>
       <last-dir>1</last-dir>
@@ -417,7 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toByte</entry>
         <entry>finders</entry>
         <entry>updateEvent</entry>
         <entry>$</entry>
@@ -437,6 +439,7 @@
         <entry>1300</entry>
         <entry>1121</entry>
         <entry>1022</entry>
+        <entry>getDelta</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
