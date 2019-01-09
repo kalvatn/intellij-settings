@@ -100,12 +100,12 @@
       <file name="/work/projects/gitlab/statistics/model/src/main/kotlin/com/sportradar/statistics/model/representation/Period.kt" timestamp="1544791081346">
         <mark key="'" line="4" column="11" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/event/FishnetEventSorterTest.java" timestamp="1547041305763">
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/event/FishnetEventSorterTest.java" timestamp="1547043839759">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
-        <mark key="^" line="26" column="6" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="85" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Day12.kt" timestamp="1544623645498">
         <mark key="[" line="41" column="68" />
@@ -221,11 +221,11 @@
       <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" timestamp="1547039042660">
-        <mark key="[" line="47" column="2" />
-        <mark key="]" line="47" column="8" />
-        <mark key="^" line="47" column="8" />
-        <mark key="." line="47" column="8" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" timestamp="1547043904587">
+        <mark key="[" line="87" column="19" />
+        <mark key="]" line="87" column="25" />
+        <mark key="^" line="87" column="25" />
+        <mark key="." line="87" column="25" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/Asdf.kt" timestamp="1544537431797">
         <mark key="[" line="26" column="5" />
@@ -386,11 +386,11 @@
       <jump line="0" column="0" filename="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/event/FishnetEventSorterTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>match.getMatchId()</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>match.getMatchId()</text>
       </register>
       <register name="/" type="4">
         <text>match</text>
@@ -399,31 +399,31 @@
         <text encoding="base64">ICAgIENvbm5lY3Rpb24gY29ubmVjdGlvbjEgPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oImpkYmM6bXlzcWw6Ly8xMC4xMi4yNi40NjozMzA2L29kZHMiLCBpbmZvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hdGNoIG1hdGNoID0gTWF0Y2hEYW8ubG9hZE1hdGNoKGNvbm5lY3Rpb24sIG1hdGNoSWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgQ29ubmVjdGlvbiBnZXRDb25uZWN0aW9uKCkgewoKICAgIHJldHVybiBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oImpkYmM6bXlzcWw6Ly8xMC4xMi4yNi40NjozMzA2L29kZHMiLCBpbmZvKTsKCiAgICAKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oImpkYmM6bXlzcWw6Ly8xMC4xMi4yNi40NjozMzA2L29kZHMiLCBpbmZvKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbGFzcyBMb2wgewogICAgaW50IGNvbDE7CgoKICAgIGludCBjb2wyOwoKICAgIHB1YmxpYyBMb2woaW50IGNvbDEsIGludCBjb2wyKSB7CiAgICAgIHRoaXMuY29sMSA9IGNvbDE7CiAgICAgIHRoaXMuY29sMiA9IGNvbDI7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBQcm9wZXJ0aWVzIGluZm8gPSBuZXcgUHJvcGVydGllcygpOwogICAgaW5mby5zZXRQcm9wZXJ0eSgidXNlciIsICJkZXZlbG9wZXIiKTsKICAgIGluZm8uc2V0UHJvcGVydHkoInBhc3N3b3JkIiwgIk9sdk05Y3BWaGgiKTsKICAgIENvbm5lY3Rpb24gY29ubmVjdGlvbjEgPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oImpkYmM6bXlzcWw6Ly8xMC4xMi4yNi40NjozMzA2L29kZHMiLCBpbmZvKTsKICAgIFJlc3VsdFNldCBycyA9IGNvbm5lY3Rpb24xLmNyZWF0ZVN0YXRlbWVudCgpLmV4ZWN1dGVRdWVyeSgic2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wX2JhY2t1cCBlIHdoZXJlIGUubWF0Y2hpZCA9IDEyMjMzMzY2Iik7CiAgICBrCiAgICB3aGlsZSAocnMubmV4dCgpKSB7CiAgICAgIGludCBldmVudGlkID0gcnMuZ2V0SW50KCJlLmlkIik7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCIlZCIsIGV2ZW50aWQpKTsKICAgIH0KCgogICAgdHJ5KENvbm5lY3Rpb24gY29ubiA9IGdldENvbm5lY3Rpb24oKSkgewogICAgICB0cnkgKFByZXBhcmVkU3RhdGVtZW50IHBzID0gY29ubi5wcmVwYXJlU3RhdGVtZW50KCJpbnNlcnQgaW50byBsb2wgKGNvbDEsIGNvbDIpIHZhbHVlcyg/LCA/KSIpKSB7CiAgICAgICAgcHMuc2V0SW50KDEsIDEpOwogICAgICAgIHBzLnNldFRpbWVzdGFtcCgyLCBUaW1lc3RhbXAuZnJvbShJbnN0YW50Lm5vdygpKSk7CiAgICAgICAgcHMuZXhlY3V0ZVVwZGF0ZSgpOwogICAgICB9CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzZWxlY3QgIiArIHdoZXJlICsgKCBzID8iMiIpCg==</text>
+        <text encoding="base64">ICBjbGFzcyBMb2wgewogICAgaW50IGNvbDE7CgoKICAgIGludCBjb2wyOwoKICAgIHB1YmxpYyBMb2woaW50IGNvbDEsIGludCBjb2wyKSB7CiAgICAgIHRoaXMuY29sMSA9IGNvbDE7CiAgICAgIHRoaXMuY29sMiA9IGNvbDI7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgaW50IG1hdGNoSWQgPSAxMjIzMzM2NjsKLy8gICAgTGl2ZVNjb3JlRGF0YSBzaW5nbGVNYXRjaCA9IE1hdGNoRGF0YUxvYWRlci5nZXRJbnN0YW5jZSgpLmdldFNpbmdsZU1hdGNoKG1hdGNoSWQpOwovLyAgICBNYXRjaCBtYXRjaCA9IE1hdGNoRGFvLmxvYWRNYXRjaChjb25uZWN0aW9uLCBtYXRjaElkKTsKLy8KLy8gICAgTWFwPEludGVnZXIsIEV2ZW50PiBpbnRlZ2VyRXZlbnRNYXAgPSBFdmVudERhby5sb2FkVG9wRXZlbnRzKG1hdGNoLCBjb25uZWN0aW9uKTsKLy8gICAgRmlzaG5ldEV2ZW50U29ydGVyLmNhbGN1bGF0ZVNvcnRPcmRlcihtYXRjaCwgaW50ZWdlckV2ZW50TWFwLnZhbHVlcygpKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBzLmV4ZWN1dGVCYXRjaCgpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBQcm9wZXJ0aWVzIGluZm8gPSBuZXcgUHJvcGVydGllcygpOwogICAgaW5mby5zZXRQcm9wZXJ0eSgidXNlciIsICJkZXZlbG9wZXIiKTsKICAgIGluZm8uc2V0UHJvcGVydHkoInBhc3N3b3JkIiwgIk9sdk05Y3BWaGgiKTsKICAgIENvbm5lY3Rpb24gY29ubmVjdGlvbjEgPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oImpkYmM6bXlzcWw6Ly8xMC4xMi4yNi40NjozMzA2L29kZHMiLCBpbmZvKTsKICAgIFJlc3VsdFNldCBycyA9IGNvbm5lY3Rpb24xLmNyZWF0ZVN0YXRlbWVudCgpLmV4ZWN1dGVRdWVyeSgic2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wX2JhY2t1cCBlIHdoZXJlIGUubWF0Y2hpZCA9IDEyMjMzMzY2Iik7CiAgICBrCiAgICB3aGlsZSAocnMubmV4dCgpKSB7CiAgICAgIGludCBldmVudGlkID0gcnMuZ2V0SW50KCJlLmlkIik7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCIlZCIsIGV2ZW50aWQpKTsKICAgIH0KCgogICAgdHJ5KENvbm5lY3Rpb24gY29ubiA9IGdldENvbm5lY3Rpb24oKSkgewogICAgICB0cnkgKFByZXBhcmVkU3RhdGVtZW50IHBzID0gY29ubi5wcmVwYXJlU3RhdGVtZW50KCJpbnNlcnQgaW50byBsb2wgKGNvbDEsIGNvbDIpIHZhbHVlcyg/LCA/KSIpKSB7CiAgICAgICAgcHMuc2V0SW50KDEsIDEpOwogICAgICAgIHBzLnNldFRpbWVzdGFtcCgyLCBUaW1lc3RhbXAuZnJvbShJbnN0YW50Lm5vdygpKSk7CiAgICAgICAgcHMuZXhlY3V0ZVVwZGF0ZSgpOwogICAgICB9CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvOy9nYw==</text>
