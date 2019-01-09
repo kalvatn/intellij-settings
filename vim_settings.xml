@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" timestamp="1546963540380">
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="22" column="27" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" timestamp="1547035925971">
+        <mark key="'" line="21" column="46" />
+        <mark key="[" line="207" column="21" />
+        <mark key="]" line="207" column="38" />
+        <mark key="^" line="207" column="38" />
+        <mark key="." line="207" column="38" />
       </file>
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544194782007">
         <mark key="[" line="50" column="98" />
@@ -41,6 +42,11 @@
         <mark key="]" line="102" column="48" />
         <mark key="^" line="102" column="47" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1547036324030">
+        <mark key="'" line="211" column="26" />
+        <mark key="[" line="784" column="0" />
+        <mark key="]" line="784" column="54" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreRugby.java" timestamp="1544106417422">
         <mark key="'" line="284" column="52" />
@@ -93,6 +99,12 @@
       <file name="/work/projects/gitlab/statistics/model/src/main/kotlin/com/sportradar/statistics/model/representation/Period.kt" timestamp="1544791081346">
         <mark key="'" line="4" column="11" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/event/FishnetEventSorterTest.java" timestamp="1547036331147">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+      </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Day12.kt" timestamp="1544623645498">
         <mark key="[" line="41" column="68" />
         <mark key="]" line="41" column="59" />
@@ -105,10 +117,6 @@
         <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
-      </file>
-      <file name="/work/projects/github/kalvatn/aokotlin/pom.xml" timestamp="1544716807858">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="66" />
       </file>
       <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1546517702174">
         <mark key="'" line="388" column="19" />
@@ -137,10 +145,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/livescore/streams/livescore-streams-proto/0.0.1/livescore-streams-proto-0.0.1.jar!/com/sportradar/livescore/streams/proto/User.class" timestamp="1544792311441">
         <mark key="'" line="227" column="33" />
-      </file>
-      <file name="/work/projects/gitlab/internal/crawler/identification-service/src/main/java/com/sportradar/internal/crawler/identification/IdentificationService.java" timestamp="1544798885724">
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="98" />
       </file>
       <file name="/work/projects/gitlab/j.kalvatn/livescore-streams/proto/src/main/java/com/sportradar/livescore/streams/serialization/EventSerializer.java" timestamp="1544796372230">
         <mark key="[" line="9" column="13" />
@@ -275,23 +279,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544797163173">
+      <file name="/fragment.java" timestamp="1547035930344">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="15" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="209" column="19" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="247" column="26" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="248" column="18" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="252" column="26" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="253" column="18" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="147" column="26" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="148" column="18" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="152" column="26" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="153" column="18" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="197" column="15" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
-      <jump line="34" column="0" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
       <jump line="0" column="0" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="2" column="16" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="3" column="20" filename="/work/projects/gitlab/java/source/pom.xml" />
@@ -380,55 +372,67 @@
       <jump line="94" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
       <jump line="92" column="62" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
       <jump line="263" column="51" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
+      <jump line="256" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
+      <jump line="259" column="17" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
+      <jump line="425" column="25" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
+      <jump line="503" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
+      <jump line="507" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
+      <jump line="21" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
+      <jump line="132" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
+      <jump line="171" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
+      <jump line="188" column="25" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
+      <jump line="195" column="24" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
+      <jump line="196" column="55" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
+      <jump line="211" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Integer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE1hdGNoRGFvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>setSortKey</text>
       </register>
       <register name="/" type="4">
-        <text>117</text>
+        <text>match</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcmlvcml0eSA9IG1hdGNoLmdldEN1cnJlbnRIb21lU2NvcmUoKSArIG1hdGNoLmdldEN1cnJlbnRBd2F5U2NvcmUoKTsK</text>
+        <text encoding="base64">ICAgICAgbWF0Y2ggPSBNYXRjaERhby5sb2FkTWF0Y2goY29ubmVjdGlvbiwgbWF0Y2hJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgaW50IGdldFBlcmlvZElkKE1hdGNoIG1hdGNoLCBpbnQgZXZlbnR0eXBlKSB7CgogICAgaWYgKG1hdGNoLmdldFNwb3J0KCkuZ2V0SWQoKSA9PSBTcG9ydC5CQVNFQkFMTAogICAgICAgICYmIGJhc2ViYWxsRXZlbnRUeXBlVG9QZXJpb2QuY29udGFpbnNLZXkoZXZlbnR0eXBlKSkgewogICAgICByZXR1cm4gYmFzZWJhbGxFdmVudFR5cGVUb1BlcmlvZC5nZXQoZXZlbnR0eXBlKTsKICAgIH0KCiAgICByZXR1cm4gZ2V0UGVyaW9kTnVtYmVyKGV2ZW50dHlwZSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIE1hdGNoRGFvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gRklYTUUgWFhYIERlaVByb3BlcnR5IDExNwo=</text>
+        <text encoding="base64">ICAgICAgTWF0Y2ggbWF0Y2ggPSBuZXcgTWF0Y2hEYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hdGNoIG1hdGNoID0gTWF0Y2hEYXRhTG9hZGVyLmdldEluc3RhbmNlKCkuZ2V0U2luZ2xlTWF0Y2goMTIyMzMzNjYpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIAogICAgRmlzaG5ldEV2ZW50U29ydGVyIHNvcnRlciA9IG5ldyBGaXNobmV0RXZlbnRTb3J0ZXIoKTsKICAgIHNvcnRlci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCiAgICAvLyBTZXQgaW5pdGlhbCB2YWx1ZXMuCg==</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgaW50IGdldFBlcmlvZElkKE1hdGNoIG1hdGNoLCBpbnQgZXZlbnR0eXBlKSB7CgogICAgaWYgKG1hdGNoLmdldFNwb3J0KCkuZ2V0SWQoKSA9PSBTcG9ydC5CQVNFQkFMTAogICAgICAgICYmIGJhc2ViYWxsRXZlbnRUeXBlVG9QZXJpb2QuY29udGFpbnNLZXkoZXZlbnR0eXBlKSkgewogICAgICByZXR1cm4gYmFzZWJhbGxFdmVudFR5cGVUb1BlcmlvZC5nZXQoZXZlbnR0eXBlKTsKICAgIH0KCiAgICByZXR1cm4gZ2V0UGVyaW9kTnVtYmVyKGV2ZW50dHlwZSk7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgICRldmVudHMsCiAgICAvLyAgICAgICAgICAgICRtYXRjaC0+Z2V0UGVyaW9kTGVuZ3RoKCksCiAgICAvLyAgICAgICAgICAgICRtYXRjaC0+Z2V0TnVtYmVyT2ZQZXJpb2RzKCksCiAgICAvLyAgICAgICAgICAgICRtYXRjaC0+Z2V0T3ZlcnRpbWVMZW5ndGgoKQoK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gRklYTUUgWFhYIERlaVByb3BlcnR5IDExNwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRtYXAgYXMgJGtleSA9PiAkbSkgewogICAgICBpZiAoJG0gPT0gJHBlcmlvZElkKSB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5nZXRQZXJpb2ROdW1iZXIoJGtleSk7CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgIC8vCiAgICAvLyBTZXQgaW5pdGlhbCB2YWx1ZXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvOy9nYw==</text>
       </register>
     </registers>
     <search>
-      <last-search>117</last-search>
+      <last-search>match</last-search>
       <last-offset />
-      <last-pattern>117</last-pattern>
+      <last-pattern>match</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -436,8 +440,6 @@
     </search>
     <history>
       <history-search>
-        <entry>29</entry>
-        <entry>166</entry>
         <entry>1120</entry>
         <entry>1300</entry>
         <entry>1121</entry>
@@ -456,6 +458,8 @@
         <entry encoding="base64">PT4=</entry>
         <entry>$</entry>
         <entry>117</entry>
+        <entry>24</entry>
+        <entry>match</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvLT4vLi9n</entry>
@@ -510,7 +514,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
