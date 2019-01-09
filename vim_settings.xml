@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" timestamp="1547046156253">
-        <mark key="'" line="223" column="7" />
-        <mark key="[" line="223" column="6" />
-        <mark key="]" line="223" column="12" />
-        <mark key="." line="223" column="12" />
-        <mark key="^" line="223" column="12" />
-      </file>
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544194782007">
         <mark key="[" line="50" column="98" />
         <mark key="]" line="50" column="102" />
@@ -292,7 +285,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1547035930344">
+      <file name="/fragment.java" timestamp="1547050748181">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -399,44 +392,44 @@
       <jump line="1208" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Old</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgRXZlbnQuU1RBRElVTToK</text>
       </register>
       <register name="-" type="4">
-        <text>Old</text>
+        <text>MANAGER_HOME</text>
       </register>
       <register name="/" type="4">
         <text>compareTo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgSW50ZWdlciBldmVudElkTmV3ID0gbmV3U29ydGVkLmdldChvcmRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgRXZlbnQuTUFOQUdFUl9IT01FOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPiBvcmlnaW5hbFNvcnRlZCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgRXZlbnQuU1RBRElVTToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb3JpZ2luYWxTb3J0ZWQucHV0SWZBYnNlbnQoaSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgRXZlbnQuVEVBTVBMQVlFUjoKICAgICAgICAgIGNhc2UgRXZlbnQuU1RBRElVTToKICAgICAgICAgIGNhc2UgRXZlbnQuTUFOQUdFUl9IT01FOgogICAgICAgICAgY2FzZSBFdmVudC5NQU5BR0VSX0FXQVk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1hcDxJbnRlZ2VyLCBMb25nPiBvcmlnaW5hbFNvcnRlZCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgIE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPiBvcmlnaW5hbFNvcnRlZCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnNvcnQobmV3IEFycmEpOwo=</text>
+        <text encoding="base64">ICAgICAgb3JpZ2luYWxTb3J0ZWQucHV0SWZBYnNlbnQoaSwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV2ZW50cy4K</text>
+        <text encoding="base64">ICAgIE1hcDxJbnRlZ2VyLCBMb25nPiBvcmlnaW5hbFNvcnRlZCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnNvcnQoZXZlbnRzKTsK</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnNvcnQobmV3IEFycmEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpdmVTY29yZURhdGEgc2luZ2xlTWF0Y2ggPSBNYXRjaERhdGFMb2FkZXIuZ2V0SW5zdGFuY2UoKS5nZXRTaW5nbGVNYXRjaChtYXRjaElkKTsK</text>
+        <text encoding="base64">ICAgIGV2ZW50cy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoRXZlbnQgZXZlbnQgOiBldmVudHMpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnNvcnQoZXZlbnRzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRmKCIiKTsK</text>
+        <text encoding="base64">ICAgIExpdmVTY29yZURhdGEgc2luZ2xlTWF0Y2ggPSBNYXRjaERhdGFMb2FkZXIuZ2V0SW5zdGFuY2UoKS5nZXRTaW5nbGVNYXRjaChtYXRjaElkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
