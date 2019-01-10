@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" timestamp="1547131163756">
-        <mark key="[" line="209" column="144" />
-        <mark key="]" line="209" column="148" />
-        <mark key="." line="209" column="148" />
-        <mark key="^" line="209" column="148" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" timestamp="1547134351867">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="932" column="34" />
+        <mark key="]" line="932" column="33" />
+        <mark key="^" line="932" column="33" />
+        <mark key="." line="932" column="33" />
       </file>
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544194782007">
         <mark key="[" line="50" column="98" />
@@ -103,11 +104,12 @@
       <file name="/work/projects/gitlab/statistics/model/src/main/kotlin/com/sportradar/statistics/model/representation/Period.kt" timestamp="1544791081346">
         <mark key="'" line="4" column="11" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/event/FishnetEventSorterTest.java" timestamp="1547129948940">
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/event/FishnetEventSorterTest.java" timestamp="1547133423780">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="52" column="5" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="63" column="85" />
+        <mark key="]" line="63" column="91" />
+        <mark key="^" line="63" column="91" />
+        <mark key="." line="63" column="91" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/MatchDataLoader.java" timestamp="1547129045904">
         <mark key="'" line="16" column="33" />
@@ -185,12 +187,12 @@
         <mark key="^" line="34" column="54" />
         <mark key="." line="34" column="54" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1547046614361">
-        <mark key="'" line="1208" column="2" />
-        <mark key="[" line="1210" column="8" />
-        <mark key="]" line="1210" column="8" />
-        <mark key="^" line="1210" column="15" />
-        <mark key="." line="1210" column="8" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1547132781059">
+        <mark key="'" line="1209" column="2" />
+        <mark key="[" line="1219" column="9" />
+        <mark key="]" line="1219" column="11" />
+        <mark key="^" line="1219" column="11" />
+        <mark key="." line="1219" column="11" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D12Test.kt" timestamp="1544628402484">
         <mark key="[" line="19" column="36" />
@@ -298,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="39" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="172" column="55" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
       <jump line="47" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="29" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
@@ -398,46 +399,47 @@
       <jump line="223" column="7" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
       <jump line="1208" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="16" column="33" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/MatchDataLoader.java" />
+      <jump line="28" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text encoding="base64">ICogMTAwMDAgLSBmYWtlVGltZSAqIDEwMDAgKyBwcmlvcml0eSAqIDEwMCArIGV2ZW50LmdldElkKCk=</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">ICogMTAwMDAgLSBmYWtlVGltZSAqIDEwMDAgKyBwcmlvcml0eSAqIDEwMCArIGV2ZW50LmdldElkKCk=</text>
       </register>
       <register name="/" type="4">
         <text>comparing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAoTWFwLkVudHJ5PEludGVnZXIsIEV2ZW50PiBuZXdTb3J0ZWRFbnRyeSA6IG5ld1NvcnRlZC5lbnRyeVNldCgpKSB7CiAgICAgIEV2ZW50IHZhbHVlID0gbmV3U29ydGVkRW50cnkuZ2V0VmFsdWUoKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIiUzZCA6ICU1ZCAlNWQgJTRkICVkIC0gJXMiLCBuZXdTb3J0ZWRFbnRyeS5nZXRLZXkoKSwgdmFsdWUuZ2V0VGltZSgpLCB2YWx1ZS5nZXRNYXRjaFRpbWUoKSwgdmFsdWUuZ2V0VHlwZSgpLCB2YWx1ZS5nZXRJZCgpLCB2YWx1ZSkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGludCBpID0gMDsKICAgIGZvciAoRXZlbnQgZXZlbnQgOiBzb3J0ZWRPbGQpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIiUzZCA6ICU1ZCAlNWQgJTRkICVkIC0gJXMiLCBpKyssIGV2ZW50LmdldFRpbWUoKSwgZXZlbnQuZ2V0TWF0Y2hUaW1lKCksIGV2ZW50LmdldFR5cGUoKSwgZXZlbnQuZ2V0SWQoKSwgZXZlbnQpKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRXZlbnQgdmFsdWUgPSBuZXdTb3J0ZWRFbnRyeS5nZXRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">CiAgICBpbnQgbCA9IDA7CiAgICBmb3IgKEV2ZW50IGV2ZW50IDogZXZlbnRzKSB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigKICAgICAgICAgIFN0cmluZy5mb3JtYXQoCiAgICAgICAgICAgICAgIiUzZCA6ICU1ZCAlNWQgJTRkICVkIC0gJXMiLAogICAgICAgICAgICAgIGwrKywgZXZlbnQuZ2V0VGltZSgpLCBldmVudC5nZXRNYXRjaFRpbWUoKSwgZXZlbnQuZ2V0VHlwZSgpLCBldmVudC5nZXRJZCgpLCBldmVudCkpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBmb3IgKEludGVnZXIgb3JkZXIgOiBuZXdTb3J0ZWQua2V5U2V0KCkpIHsKICAgICAgRXZlbnQgZXZlbnRPbGQgPSBvcmlnaW5hbFNvcnRlZC5nZXQob3JkZXIpOwogICAgICBFdmVudCBldmVudE5ldyA9IG5ld1NvcnRlZC5nZXQob3JkZXIpOwogICAgICBpZiAoZXZlbnRPbGQuZXF1YWxzKGV2ZW50TmV3KSkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCIlMmQgOiAlZCAlZCwgJWQgJWQgRVFVQUwiLCBvcmRlciwgZXZlbnRPbGQuZ2V0SWQoKSwgZXZlbnROZXcuZ2V0SWQoKSwgZXZlbnRPbGQuZ2V0VHlwZSgpLCBldmVudE5ldy5nZXRUeXBlKCkpKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiJTJkIDogJWQgJWQsICVkICVkIE5PVCBFUVVBTCIsIG9yZGVyLCBldmVudE9sZC5nZXRJZCgpLCBldmVudE5ldy5nZXRJZCgpLCBldmVudE9sZC5nZXRUeXBlKCksIGV2ZW50TmV3LmdldFR5cGUoKSkpOwogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGludCBsID0gMDsKICAgIGZvciAoRXZlbnQgZXZlbnQgOiBldmVudHMpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKAogICAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgICAiJTNkIDogJTVkICU1ZCAlNGQgJWQgLSAlcyIsCiAgICAgICAgICAgICAgICAgICAgICBsKyssIGV2ZW50LmdldFRpbWUoKSwgZXZlbnQuZ2V0TWF0Y2hUaW1lKCksIGV2ZW50LmdldFR5cGUoKSwgZXZlbnQuZ2V0SWQoKSwgZXZlbnQpKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnNvcnQoZXZlbnRzLCApOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnNvcnQoZXZlbnRzLCBDb21wYXJhdG9yLmNvbXBhcmluZyhFdmVudDo6Z2V0VGltZSkudGhlbkNvbXBhcmluZyhFdmVudDo6Z2V0TWF0Y2hUaW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFydHMgPT0gMSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiTk9UIEVRVUFMICVkICVkICVkIiwgb3JkZXIsIGV2ZW50T2xkLmdldElkKCksIGV2ZW50TmV3KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcGFydHMgPSBmYWtlVGltZS5zcGxpdCgiXyIpLmxlbmd0aDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiRVFVQUwgICAgICVkICVkIiwgb3JkZXIsIGV2ZW50T2xkLmdldElkKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGluZGV4KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGV2ZW50czsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIExpc3Q8RXZlbnQ+IHNvcnRFdmVudHNOZXcoTWF0Y2ggbWF0Y2gsIExpc3Q8RXZlbnQ+IGV2ZW50cykgewogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
