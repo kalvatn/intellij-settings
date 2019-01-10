@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" timestamp="1547130132191">
+        <mark key="[" line="209" column="144" />
+        <mark key="]" line="209" column="148" />
+        <mark key="." line="209" column="148" />
+        <mark key="^" line="209" column="148" />
+      </file>
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/schedule2/tasks/livescore/merge/MergeMatchTest.java" timestamp="1544194782007">
         <mark key="[" line="50" column="98" />
         <mark key="]" line="50" column="102" />
@@ -97,12 +103,14 @@
       <file name="/work/projects/gitlab/statistics/model/src/main/kotlin/com/sportradar/statistics/model/representation/Period.kt" timestamp="1544791081346">
         <mark key="'" line="4" column="11" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/event/FishnetEventSorterTest.java" timestamp="1547126319233">
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/event/FishnetEventSorterTest.java" timestamp="1547129948940">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="115" />
-        <mark key="]" line="59" column="121" />
-        <mark key="." line="59" column="121" />
-        <mark key="^" line="59" column="121" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="52" column="5" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/MatchDataLoader.java" timestamp="1547129045904">
+        <mark key="'" line="16" column="33" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/kotlin/com/kalvatn/aoc/year2018/Day12.kt" timestamp="1544623645498">
         <mark key="[" line="41" column="68" />
@@ -290,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="52" column="39" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="172" column="55" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
       <jump line="47" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
@@ -390,55 +397,56 @@
       <jump line="250" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/immutable/Match.java" />
       <jump line="223" column="7" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
       <jump line="1208" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="16" column="33" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/data/MatchDataLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
-        <text>compareTo</text>
+        <text>comparing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiJTJkIDogJWQgJWQsICVkICVkIiwgb3JkZXIsIGV2ZW50T2xkLmdldElkKCksIGV2ZW50TmV3LmdldElkKCksIGV2ZW50T2xkLmdldFR5cGUoKSwgZXZlbnROZXcuZ2V0VHlwZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoTWFwLkVudHJ5PEludGVnZXIsIEV2ZW50PiBuZXdTb3J0ZWRFbnRyeSA6IG5ld1NvcnRlZC5lbnRyeVNldCgpKSB7CiAgICAgIEV2ZW50IHZhbHVlID0gbmV3U29ydGVkRW50cnkuZ2V0VmFsdWUoKTsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIiUzZCA6ICU1ZCAlNWQgJTRkICVkIC0gJXMiLCBuZXdTb3J0ZWRFbnRyeS5nZXRLZXkoKSwgdmFsdWUuZ2V0VGltZSgpLCB2YWx1ZS5nZXRNYXRjaFRpbWUoKSwgdmFsdWUuZ2V0VHlwZSgpLCB2YWx1ZS5nZXRJZCgpLCB2YWx1ZSkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiTk9UIEVRVUFMICVkICVkICVkIiwgb3JkZXIsIGV2ZW50T2xkLmdldElkKCksIGV2ZW50TmV3KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgRXZlbnQgdmFsdWUgPSBuZXdTb3J0ZWRFbnRyeS5nZXRWYWx1ZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiRVFVQUwgICAgICVkICVkIiwgb3JkZXIsIGV2ZW50T2xkLmdldElkKCkpKTsK</text>
+        <text encoding="base64">CiAgICBmb3IgKEludGVnZXIgb3JkZXIgOiBuZXdTb3J0ZWQua2V5U2V0KCkpIHsKICAgICAgRXZlbnQgZXZlbnRPbGQgPSBvcmlnaW5hbFNvcnRlZC5nZXQob3JkZXIpOwogICAgICBFdmVudCBldmVudE5ldyA9IG5ld1NvcnRlZC5nZXQob3JkZXIpOwogICAgICBpZiAoZXZlbnRPbGQuZXF1YWxzKGV2ZW50TmV3KSkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCIlMmQgOiAlZCAlZCwgJWQgJWQgRVFVQUwiLCBvcmRlciwgZXZlbnRPbGQuZ2V0SWQoKSwgZXZlbnROZXcuZ2V0SWQoKSwgZXZlbnRPbGQuZ2V0VHlwZSgpLCBldmVudE5ldy5nZXRUeXBlKCkpKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiJTJkIDogJWQgJWQsICVkICVkIE5PVCBFUVVBTCIsIG9yZGVyLCBldmVudE9sZC5nZXRJZCgpLCBldmVudE5ldy5nZXRJZCgpLCBldmVudE9sZC5nZXRUeXBlKCksIGV2ZW50TmV3LmdldFR5cGUoKSkpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudAo=</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnNvcnQoZXZlbnRzLCApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb25zLnNvcnQoZXZlbnRzLCBDb21wYXJhdG9yLmNvbXBhcmluZyhFdmVudDo6Z2V0VGltZSkudGhlbkNvbXBhcmluZyhFdmVudDo6Z2V0TWF0Y2hUaW1lKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiTk9UIEVRVUFMICVkICVkICVkIiwgb3JkZXIsIGV2ZW50T2xkLmdldElkKCksIGV2ZW50TmV3KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXZlU2NvcmVFdmVudFR5cGUuCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiRVFVQUwgICAgICVkICVkIiwgb3JkZXIsIGV2ZW50T2xkLmdldElkKCkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgRXZlbnQuU1RBRElVTToK</text>
+        <text encoding="base64">ICAgICAgICBldmVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgRXZlbnQuVEVBTVBMQVlFUjoKICAgICAgICAgIGNhc2UgRXZlbnQuU1RBRElVTToKICAgICAgICAgIGNhc2UgRXZlbnQuTUFOQUdFUl9IT01FOgogICAgICAgICAgY2FzZSBFdmVudC5NQU5BR0VSX0FXQVk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPiBvcmlnaW5hbFNvcnRlZCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>compareTo</last-search>
+      <last-search>comparing</last-search>
       <last-offset />
-      <last-pattern>compareTo</last-pattern>
+      <last-pattern>comparing</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -446,7 +454,6 @@
     </search>
     <history>
       <history-search>
-        <entry>^</entry>
         <entry>525</entry>
         <entry>PENALTIES_STARTED</entry>
         <entry>AFTERPENALTIES</entry>
@@ -466,6 +473,7 @@
         <entry>extraInfo</entry>
         <entry>compareBy</entry>
         <entry>compareTo</entry>
+        <entry>comparing</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/;</entry>
