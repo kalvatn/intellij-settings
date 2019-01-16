@@ -15,12 +15,6 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="140" column="37" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/TeamsintournamentEAO.java" timestamp="1547567101300">
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="58" column="47" />
-        <mark key="^" line="58" column="47" />
-        <mark key="." line="58" column="47" />
-      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" timestamp="1547212655692">
         <mark key="[" line="600" column="79" />
         <mark key="]" line="600" column="79" />
@@ -47,10 +41,6 @@
       </file>
       <file name="/a.dummy" timestamp="1544544110011">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/TeamManager.java" timestamp="1547566064767">
-        <mark key="[" line="41" column="33" />
-        <mark key="." line="47" column="60" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/12_test" timestamp="1544616273154">
         <mark key="[" line="15" column="0" />
@@ -164,12 +154,6 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/card/utility/PeriodUtils.java" timestamp="1546942426492">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/TeamslinkuniquecategoryteamEAO.java" timestamp="1547563419905">
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="47" column="3" />
-        <mark key="^" line="47" column="3" />
-        <mark key="." line="47" column="3" />
-      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/TeamsuniqueEAO.java" timestamp="1547562769523">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="22" column="14" />
@@ -250,12 +234,6 @@
         <mark key="^" line="65" column="37" />
         <mark key="." line="65" column="37" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/TeamCache.java" timestamp="1547565779514">
-        <mark key="[" line="243" column="19" />
-        <mark key="]" line="243" column="61" />
-        <mark key="^" line="243" column="61" />
-        <mark key="." line="243" column="61" />
-      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2Team2teamEAO.java" timestamp="1547561638051">
         <mark key="[" line="44" column="11" />
         <mark key="]" line="44" column="14" />
@@ -268,6 +246,7 @@
         <mark key="^" line="10" column="43" />
         <mark key="." line="10" column="43" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/ScheduleLivescoreBackupCopy.java" timestamp="1547638647649" />
       <file name="/Dummy.txt" timestamp="1544794680970">
         <mark key="[" line="0" column="0" />
       </file>
@@ -287,16 +266,21 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/triggers/TriggerUpdateIntegrationTest.java" timestamp="1547567063474">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="75" column="55" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" timestamp="1547043904587">
         <mark key="[" line="87" column="19" />
         <mark key="]" line="87" column="25" />
         <mark key="^" line="87" column="25" />
         <mark key="." line="87" column="25" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/TriggerUpdateDeltaGenerator.java" timestamp="1547639461075">
+        <mark key="[" line="117" column="190" />
+        <mark key="]" line="117" column="173" />
+        <mark key="." line="117" column="173" />
+        <mark key="^" line="117" column="173" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/Asdf.kt" timestamp="1544537431797">
         <mark key="[" line="26" column="5" />
@@ -454,10 +438,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>actual</text>
+        <text encoding="base64">ICh0cmlnZ2VydXBkYXRlcyA6ICVzKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>actual</text>
+        <text encoding="base64">ICh0cmlnZ2VydXBkYXRlcyA6ICVzKQ==</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
@@ -493,7 +477,7 @@
         <text encoding="base64">ICAgIC8vICAgICAgICBsb2cuZGVidWcoU3RyaW5nLmZvcm1hdCgiY3JlYXRpbmcgdGVhbWluZm8gZWxlbWVudCBmb3IgdW5pcXVldGVhbSAlZCBhbmQgdHlwZXMgOiAlcyIsCiAgICAvLyB1bmlxdWVUZWFtSWQsIGluZm9UeXBlcykpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -547,8 +531,8 @@
         <entry encoding="base64">JzwsJz5zLzovLCAwKTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLzovLCAwKS9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLzAvLTEvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
