@@ -3,114 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1547658111770">
-        <mark key="'" line="379" column="7" />
-        <mark key="[" line="380" column="36" />
-        <mark key="]" line="383" column="59" />
-        <mark key="." line="383" column="59" />
-        <mark key="^" line="383" column="59" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1546431263759">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/comp_system.sql" timestamp="1547467402499">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1547041494411">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="82" column="15" />
-        <mark key="^" line="82" column="15" />
-        <mark key="." line="82" column="15" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1547552367283">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1547717659141">
-        <mark key="[" line="291" column="41" />
-        <mark key="]" line="291" column="41" />
-        <mark key="." line="291" column="41" />
-        <mark key="^" line="291" column="42" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console_1.sql" timestamp="1547552316828">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console.sql" timestamp="1547643438066">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1547718329593">
+        <mark key="[" line="283" column="12" />
+        <mark key="]" line="283" column="16" />
+        <mark key="^" line="283" column="16" />
+        <mark key="." line="283" column="16" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="379" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>5.6.42</text>
-      </register>
-      <register name="-" type="4">
-        <text>5.6.42</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxncm91cF9jb25jYXRcPg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIG9yIGxtZS5jdXJyZW50X2dhbWVfcG9pbnRzIGxpa2UgIiU1LjYuNDIlIgo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">YW5kIGxtLmRhdGVvZm1hdGNoID49IE5PVygpIC0gaW50ZXJ2YWwgMSBtb250aDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUgCm9yZGVyIGJ5IGUuZXZlbnRkYXRlIGFzYwo7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">am9pbiB0ZWFtdGFibGUgdGVhbSBvbiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">am9pbiB0ZWFtdGFibGUgcGFyZW50IG9uIHBhcmVudC5UZWFtaWQgPSB0MnQucGFyZW50CmpvaW4gdGVhbXRhYmxlIGNoaWxkIG9uIGNoaWxkLlRlYW1pZCA9IHQydC5jaGlsZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">am9pbiB0ZWFtc2xpbmt1bmlxdWVjYXRlZ29yeXRlYW0gdGwgb24gdGwuQ2F0ZWdvcnlUZWFtSWQgPSB0MnQucGFyZW50Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">am9pbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2hvdyB0YWJsZXMgbGlrZSBgJW9yZGVyYAo7Cg==</text>
-      </register>
-    </registers>
+    <jumps />
+    <registers />
     <search>
-      <last-search encoding="base64">XDxncm91cF9jb25jYXRcPg==</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxncm91cF9jb25jYXRcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">XDxncm91cF9jb25jYXRcPg==</entry>
-      </history-search>
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
