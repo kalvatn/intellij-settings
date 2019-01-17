@@ -48,12 +48,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/TennisMatch.java" timestamp="1547726814277">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/TennisMatch.java" timestamp="1547728084552">
         <mark key="'" line="179" column="4" />
-        <mark key="[" line="40" column="58" />
-        <mark key="]" line="42" column="67" />
-        <mark key="." line="42" column="67" />
-        <mark key="^" line="42" column="67" />
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutToLivescore.java" timestamp="1544547771419">
         <mark key="[" line="101" column="0" />
@@ -134,11 +134,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/TieBreakInfoEvent.java" timestamp="1547722661302">
-        <mark key="[" line="72" column="17" />
-        <mark key="]" line="72" column="61" />
-        <mark key="^" line="72" column="61" />
-        <mark key="." line="72" column="61" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/TieBreakInfoEvent.java" timestamp="1547727708526">
+        <mark key="[" line="72" column="62" />
+        <mark key="]" line="72" column="62" />
+        <mark key="^" line="72" column="62" />
+        <mark key="." line="72" column="62" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/main/resources/inputs/2018/10_test" timestamp="1544445173596">
         <mark key="[" line="0" column="0" />
@@ -219,6 +219,12 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/TennisFullScoreEvent.java" timestamp="1547727892126">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="5" />
+        <mark key="." line="47" column="5" />
+        <mark key="^" line="47" column="5" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/Team2TeamCache.java" timestamp="1547562016788">
         <mark key="[" line="65" column="32" />
         <mark key="]" line="65" column="37" />
@@ -237,8 +243,12 @@
         <mark key="^" line="10" column="43" />
         <mark key="." line="10" column="43" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" timestamp="1547722075075">
-        <mark key="'" line="26" column="33" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" timestamp="1547728089318">
+        <mark key="'" line="28" column="33" />
+        <mark key="[" line="696" column="24" />
+        <mark key="]" line="696" column="70" />
+        <mark key="^" line="696" column="70" />
+        <mark key="." line="696" column="70" />
       </file>
       <file name="/Dummy.txt" timestamp="1544794680970">
         <mark key="[" line="0" column="0" />
@@ -419,52 +429,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cG9pbnRJbmNyZWFzZUhvbWUgPj0gUE9JTlRTX0JFSElORCAmJiA=</text>
+        <text>rivate</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9pbnRJbmNyZWFzZUhvbWUgPj0gUE9JTlRTX0JFSElORCAmJiA=</text>
+        <text>rivate</text>
       </register>
       <register name="/" type="4">
-        <text>loadTennisRule</text>
+        <text>extrainfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChwb2ludEluY3JlYXNlSG9tZSA9PSBQT0lOVFNfQkVISU5EKSB7CiAgICAgICAgICAgIGRpc3BsYXlTY29yZS5hZGRCZWhpbmQoc2NvcmluZ1RlYW0pOwogICAgICAgICAgfSBlbHNlIGlmIChwb2ludEluY3JlYXNlSG9tZSA9PSBQT0lOVFNfR09BTCkgewogICAgICAgICAgICBkaXNwbGF5U2NvcmUuYWRkR29hbChzY29yaW5nVGVhbSk7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgQURWQU5UQUdFX1RJRUJSRUFLXzEwX0FGVEVSX1NJWF9TSVggPSA1MzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmbGFnIGlzIG1pc3NpbmcvaW52YWxpZCwgY2FsY3VsYXRlIGdvYWxzL2JlaGluZHMgYmFzZWQgb24gcHJldmlvdXMgc2NvcmUK</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gaXNUaWVicmVha1RvMTAgPSB0cnVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcG9pbnRJbmNyZWFzZUF3YXkgPSAoYXdheVNjb3JlIC0gcHJldmlvdXNBd2F5U2NvcmUpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0ZW5uaXNSdWxlID09IG51bGwpIHsKICAgICAgcmV0dXJuIDY7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc2NvcmluZ1RlYW0gPSBzY29yZVBhaXIudGVhbTsK</text>
+        <text encoding="base64">ICAgIGlmKCgoVGVubmlzTWF0Y2gpIG1hdGNoKS5pc1RpZWJyZWFrVG8xMEFmdGVyU2l4U2l4KCkpIHsKICAgICAgcmV0dXJuIDEwOwogICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiA2Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0KLy8gICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChzY29yZVBhaXIuaXNHb2FsKCkpIHsKLy8gICAgICAgICAgZGlzcGxheVNjb3JlLmFkZEdvYWwoc2NvcmluZ1RlYW0pOwovLyAgICAgICAgfSBlbHNlIGlmIChzY29yZVBhaXIuaXNCZWhpbmQoKSkgewovLyAgICAgICAgICBkaXNwbGF5U2NvcmUuYWRkQmVoaW5kKHNjb3JpbmdUZWFtKTsKLy8gICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgIGlmKCgoVGVubmlzTWF0Y2gpIG1hdGNoKS5pc1RpZWJyZWFrVG8xMEFmdGVyU2l4U2l4KCkpIHsKICAgICAgcmV0dXJuIDEwOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOiAoYXdheVNjb3JlIC0gcHJldmlvdXNBd2F5U2NvcmUpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZW5uaXNSdWxlICE9IG51bGwgJiYgdGVubmlzUnVsZSA9PSBBRFZBTlRBR0VfVElFQlJFQUtfMTBfQUZURVJfU0lYX1NJWDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzY29yaW5nVGVhbSA9PSBURUFNX0hPTUUK</text>
+        <text encoding="base64">ICAgIGlmICh0ZW5uaXNSdWxlID09IG51bGwpIHsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgMTM0NzkwOTUK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZW5uaXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loadTennisRule</last-search>
+      <last-search>extrainfo</last-search>
       <last-offset />
-      <last-pattern>loadTennisRule</last-pattern>
+      <last-pattern>extrainfo</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>calculate</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>extra</entry>
         <entry>sortKey</entry>
         <entry>setSort</entry>
         <entry>sortOrder</entry>
@@ -492,6 +501,7 @@
         <entry>isGamePoint</entry>
         <entry>isGamepoint</entry>
         <entry>loadTennisRule</entry>
+        <entry>extrainfo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/g</entry>
