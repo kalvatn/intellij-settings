@@ -98,7 +98,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="prod-main-odds-RW" uuid="85420ea6-4920-4a82-908e-0ab1bb91c217">
+    <data-source source="LOCAL" name="prod-main-odds-MAIN-DEVELOPER" uuid="85420ea6-4920-4a82-908e-0ab1bb91c217">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
