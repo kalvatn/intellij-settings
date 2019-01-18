@@ -9,15 +9,16 @@
         <mark key="^" line="423" column="19" />
         <mark key="." line="423" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1547806391222">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1547811571798">
         <mark key="[" line="94" column="12" />
         <mark key="]" line="103" column="26" />
         <mark key="^" line="103" column="26" />
         <mark key="." line="103" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1547732557429">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1547811602510">
         <mark key="[" line="0" column="6" />
-        <mark key="." line="0" column="18" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1547728111332">
         <mark key="[" line="309" column="80" />
@@ -32,7 +33,10 @@
         <text>16772273, 16804417, 16969987, 16772407, 16772363, 16795149</text>
       </register>
       <register name="&quot;" type="4">
-        <text>16772273, 16804417, 16969987, 16772407, 16772363, 16795149</text>
+        <text>-SNAPSHOT</text>
+      </register>
+      <register name="-" type="4">
+        <text>-SNAPSHOT</text>
       </register>
     </registers>
     <search>
