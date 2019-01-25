@@ -40,11 +40,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1548339830380">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1548407452484">
-        <mark key="[" line="313" column="1" />
-        <mark key="]" line="305" column="43" />
-        <mark key="^" line="305" column="43" />
-        <mark key="." line="305" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1548408963659">
+        <mark key="[" line="355" column="27" />
+        <mark key="]" line="356" column="26" />
+        <mark key="^" line="356" column="26" />
+        <mark key="." line="356" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1548407448550">
         <mark key="[" line="84" column="0" />
@@ -73,14 +73,7 @@
                      15859546, 15859768, 15870092, 15870148, 15870308, 15870320, 15870900, 15871082, 15871378, 15880960, 15894354</text>
       </register>
       <register name="&quot;" type="4">
-        <text>15939492, 15937090, 15937996, 15939256, 15857918, 15858718, 15859336, 15859506, 15871418, 15857180, 15857506,
-                     15857840, 15859648, 15859650, 15859698, 15859716, 15859818, 15859876, 15859924, 15860204, 15860234, 15869188,
-                     15869196, 15870244, 15870310, 15870312, 15870646, 15870886, 15870970, 15871272, 15871394, 15871588, 15871592,
-                     15871856, 15871884, 15880018, 15880764, 15936346, 15937884, 15938090, 15938806, 15939376, 15939624, 15939652,
-                     15940244, 15940348, 15940500, 15940762, 15949198, 15949424, 15950136, 15950276, 16025016, 16025024, 16025048,
-                     16034890, 16057236, 16163124, 16198766, 15940684, 15857552, 15859700, 15870874, 15871010, 15871240, 15936342,
-                     15949858, 15951536, 15951960, 15951966, 16025038, 15870102, 15857214, 15857708, 15857748, 15859152, 15859190,
-                     15859546, 15859768, 15870092, 15870148, 15870308, 15870320, 15870900, 15871082, 15871378, 15880960, 15894354</text>
+        <text>scout_event</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgIGxlZnQgam9pbiB0b3VybmFtZW50dGFibGUgbWlzc2luZyBvbiBtaXNzaW5nLlRPVVJOQU1FTlRJRCA9IHQuVE9VUk5BTUVOVElECg==</text>
@@ -98,7 +91,7 @@
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
       </register>
       <register name="-" type="4">
-        <text>= 15939492</text>
+        <text>scout_event</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
