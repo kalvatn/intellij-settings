@@ -479,7 +479,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>1754</text>
       </register>
     </registers>
     <search>
@@ -515,7 +515,6 @@
         <entry>isgamepoint</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/'/&quot;/g</entry>
         <entry>%s/ . / + /g</entry>
         <entry>%s/GenericEvent::/Event./g</entry>
         <entry>%s/Sport::/Sport./g</entry>
@@ -535,6 +534,7 @@
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry>w</entry>
         <entry>set ignorecase</entry>
+        <entry>1754</entry>
       </history-cmd>
       <history-expr />
       <history-input />
