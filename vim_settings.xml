@@ -66,11 +66,18 @@
         <mark key="." line="452" column="34" />
         <mark key="^" line="452" column="34" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1548678952334">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1548683312823">
+        <mark key="'" line="1482" column="23" />
         <mark key="[" line="1824" column="63" />
         <mark key="]" line="1824" column="72" />
         <mark key="^" line="1824" column="72" />
         <mark key="." line="1824" column="72" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/NewEventRecordTest.java" timestamp="1548684175658">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+        <mark key="^" line="8" column="43" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/common/model/PointTest.kt" timestamp="1544544068764">
         <mark key="[" line="85" column="28" />
@@ -120,11 +127,12 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/NewEventRecord.java" timestamp="1548682261709">
-        <mark key="[" line="179" column="28" />
-        <mark key="]" line="179" column="28" />
-        <mark key="." line="179" column="28" />
-        <mark key="^" line="179" column="28" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/NewEventRecord.java" timestamp="1548684851596">
+        <mark key="'" line="45" column="15" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="39" column="93" />
       </file>
       <file name="/work/projects/gitlab/j.kalvatn/livescore-streams/producers/src/main/kotlin/com/sportradar/livescore/streams/Lol.java" timestamp="1544792631058">
         <mark key="[" line="6" column="98" />
@@ -339,25 +347,11 @@
         <mark key="^" line="57" column="80" />
         <mark key="." line="57" column="80" />
       </file>
-      <file name="/fragment.java" timestamp="1548678755598">
+      <file name="/fragment.java" timestamp="1548684098284">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="37" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
-      <jump line="89" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
-      <jump line="2971" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="1091" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="1206" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="1207" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="102" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
-      <jump line="94" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
-      <jump line="92" column="62" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
-      <jump line="263" column="51" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
-      <jump line="256" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
-      <jump line="259" column="17" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
-      <jump line="425" column="25" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
-      <jump line="503" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
       <jump line="507" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
       <jump line="21" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
       <jump line="132" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
@@ -444,55 +438,69 @@
       <jump line="31" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" />
       <jump line="56" column="56" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/AussieRulesMatch.java" />
       <jump line="6" column="6" filename="/work/projects/gitlab/livescore/common/src/main/resources/log4j.xml" />
+      <jump line="1817" column="88" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="2323" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="2329" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="217" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="319" column="25" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="323" column="29" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="525" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="545" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="552" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="554" column="18" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="567" column="11" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="889" column="19" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="1482" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="40" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/NewEventRecord.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>injuryMatchTime</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>isgamepoint</text>
+        <text>unknown</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHVyYXRpb24gdGltZUR1cmF0aW9uID0gRHVyYXRpb24ub2ZNaWxsaXMobWF0Y2hUaW1lKTsKICAgICAgICAgICAgbG9uZyBtYXRjaE1pbnV0ZSA9IHRpbWVEdXJhdGlvbi50b01pbnV0ZXMoKTsKICAgICAgICAgICAgaWYgKG1hdGNoTWludXRlICE9IHRpbWUgfHwgdGltZUR1cmF0aW9uLmdldFNlY29uZHMoKSAlIDYwICE9IDApIHsKICAgICAgICAgICAgICBpbmp1cnlNYXRjaFRpbWUgPSBudWxsOwogICAgICAgICAgICAgIG1hdGNoVGltZSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>int matchMinute, int matchMillis, int injuryMinute, int injuryMillis</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbmp1cnlUaW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTxyb290PgoJCTxwcmlvcml0eSB2YWx1ZT0id2FybiIvPgoJCTxhcHBlbmRlci1yZWYgcmVmPSJDb25zb2xlQXBwZW5kZXIiLz4KCTwvcm9vdD4K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxsb2dnZXIgbmFtZT0iY29tLmJldHJhZGFyIj4KCQk8bGV2ZWwgdmFsdWU9ImluZm8iLz4KCQk8YXBwZW5kZXItcmVmIHJlZj0iQ29uc29sZUFwcGVuZGVyIi8+Cgk8L2xvZ2dlcj4KCTxsb2dnZXIgbmFtZT0iY29tLm9kZHNhcmJpdHJhZ2UiPgoJCTxsZXZlbCB2YWx1ZT0iaW5mbyIvPgoJCTxhcHBlbmRlci1yZWYgcmVmPSJDb25zb2xlQXBwZW5kZXIiLz4KCTwvbG9nZ2VyPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJDb25zb2xlQXBwZW5kZXIiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkNvbnNvbGVBcHBlbmRlciI+CgkJPHBhcmFtIG5hbWU9IlRocmVzaG9sZCIgdmFsdWU9ImRlYnVnIi8+CgoJCTxsYXlvdXQgY2xhc3M9Im9yZy5hcGFjaGUubG9nNGouUGF0dGVybkxheW91dCI+CgkJCTxwYXJhbSBuYW1lPSJDb252ZXJzaW9uUGF0dGVybiIgdmFsdWU9IiVke3l5eXktTU0tZGQgSEg6bW06c3N9ICglcCk6ICVjezF9LiVNKCVMKSAlbSVuIi8+CgkJPC9sYXlvdXQ+Cgk8L2FwcGVuZGVyPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IG1hdGNoVGltZU1pbnV0ZXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8cGFyYW0gbmFtZT0iIiB2YWx1ZT0iIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dVdGlsLnNldFJvb3RBcHBlbmRlcihMZXZlbC5JTkZPKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTwhLS0KCQkJMS4gRkFUQUwKCQkJMi4gRVJST1IKCQkJMy4gV0FSTgoJCQk0LiBJTkZPCgkJCTUuIERFQlVHCgkJLS0+CgkK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1754</text>
+        <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>isgamepoint</last-search>
+      <last-search>unknown</last-search>
       <last-offset />
-      <last-pattern>isgamepoint</last-pattern>
+      <last-pattern>unknown</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>calculate</last-substitute>
       <last-dir>1</last-dir>
@@ -500,7 +508,6 @@
     </search>
     <history>
       <history-search>
-        <entry>comparing</entry>
         <entry>:</entry>
         <entry>0</entry>
         <entry>UMPIRE</entry>
@@ -520,6 +527,7 @@
         <entry encoding="base64">Pj0gNg==</entry>
         <entry>isGamePoint</entry>
         <entry>isgamepoint</entry>
+        <entry>unknown</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ . / + /g</entry>
@@ -540,8 +548,8 @@
         <entry encoding="base64">JzwsJz5zLzAvLTEvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry>w</entry>
-        <entry>set ignorecase</entry>
         <entry>1754</entry>
+        <entry>set ignorecase</entry>
       </history-cmd>
       <history-expr />
       <history-input />
