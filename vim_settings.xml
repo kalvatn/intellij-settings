@@ -60,10 +60,17 @@
         <mark key="^" line="102" column="47" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1548677098557">
-        <mark key="[" line="864" column="0" />
-        <mark key="]" line="864" column="0" />
-        <mark key="." line="864" column="0" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1548678777154">
+        <mark key="[" line="451" column="0" />
+        <mark key="]" line="452" column="34" />
+        <mark key="." line="452" column="34" />
+        <mark key="^" line="452" column="34" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1548678952334">
+        <mark key="[" line="1824" column="63" />
+        <mark key="]" line="1824" column="72" />
+        <mark key="^" line="1824" column="72" />
+        <mark key="." line="1824" column="72" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/TeamsintournamentEAOTest.java" timestamp="1547567275145">
         <mark key="'" line="31" column="0" />
@@ -284,11 +291,6 @@
       <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/triggers/TriggerUpdateIntegrationTest.java" timestamp="1547567063474">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/TriggerUpdateDeltaGenerator.java" timestamp="1547639461075">
         <mark key="[" line="117" column="190" />
         <mark key="]" line="117" column="173" />
@@ -343,7 +345,7 @@
         <mark key="^" line="57" column="80" />
         <mark key="." line="57" column="80" />
       </file>
-      <file name="/fragment.java" timestamp="1548676878573">
+      <file name="/fragment.java" timestamp="1548678755598">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -451,10 +453,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>&quot;BLOCKED BY RULE&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>&quot;BLOCKED BY RULE&quot;</text>
       </register>
       <register name="/" type="4">
         <text>isgamepoint</text>
