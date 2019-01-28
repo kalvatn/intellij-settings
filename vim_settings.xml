@@ -73,11 +73,11 @@
         <mark key="^" line="1824" column="72" />
         <mark key="." line="1824" column="72" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/NewEventRecordTest.java" timestamp="1548684175658">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="43" />
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/NewEventRecordTest.java" timestamp="1548688200826">
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="48" column="55" />
+        <mark key="." line="48" column="55" />
+        <mark key="^" line="48" column="55" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/common/model/PointTest.kt" timestamp="1544544068764">
         <mark key="[" line="85" column="28" />
@@ -127,12 +127,12 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="28" column="67" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/NewEventRecord.java" timestamp="1548684851596">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/NewEventRecord.java" timestamp="1548688261769">
         <mark key="'" line="45" column="15" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="39" column="93" />
+        <mark key="[" line="94" column="14" />
+        <mark key="]" line="94" column="45" />
+        <mark key="." line="94" column="45" />
+        <mark key="^" line="94" column="45" />
       </file>
       <file name="/work/projects/gitlab/j.kalvatn/livescore-streams/producers/src/main/kotlin/com/sportradar/livescore/streams/Lol.java" timestamp="1544792631058">
         <mark key="[" line="6" column="98" />
@@ -455,43 +455,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGluanVyeU1pbnV0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>TIME_UNKNOWN</text>
       </register>
       <register name="/" type="4">
         <text>unknown</text>
       </register>
-      <register name="0" type="4">
-        <text>int matchMinute, int matchMillis, int injuryMinute, int injuryMillis</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIFJFU0VUIFZBTFVFCiAgICAgICAgICBtYXRjaE1pbnV0ZSA9IFRJTUVfUkVTRVRfVkFMVUU7CiAgICAgICAgICBtYXRjaE1pbGxpcyA9IFRJTUVfUkVTRVRfVkFMVUU7CiAgICAgICAgICBpbmp1cnlNaW51dGUgPSBUSU1FX1JFU0VUX1ZBTFVFOwogICAgICAgICAgaW5qdXJ5TWlsbGlzID0gVElNRV9SRVNFVF9WQUxVRTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGluanVyeU1pbnV0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbmp1cnlNaWxsaXMgPSBUSU1FX1VOS05PV047Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5qdXJ5TWlsbGlzID0gVElNRQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5qdXJ5TWlsbGlzID0gVElNRV9SRVNFVF9WQUxVRTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIG1hdGNoTWlsbGlzID0gVElNRV9SRVNFVF9WQUxVRTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IG1hdGNoVGltZU1pbnV0ZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1hdGNoTWludXRlID0gVElNRV9SRVNFVF9WQUxVRTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>else {
+          matchMillis = TIME_UNKNOWN;
+          matchMinute = TIME_UNKNOWN;
+          injuryMinute = TIME_UNKNOWN;
+        }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIFJFU0VUIFZBTFVFCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFJFU0VUIFZBTFVFCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
