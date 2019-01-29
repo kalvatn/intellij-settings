@@ -84,7 +84,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="prod-filesendqueue-RO" read-only="true" uuid="f1e8f85d-a26e-4fb3-b734-aa9101f39a7d">
+    <data-source source="LOCAL" name="prod-filesendqueue-RO" uuid="f1e8f85d-a26e-4fb3-b734-aa9101f39a7d">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
