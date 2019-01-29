@@ -230,11 +230,11 @@
         <mark key="^" line="34" column="54" />
         <mark key="." line="34" column="54" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1548771714626">
-        <mark key="[" line="1859" column="52" />
-        <mark key="]" line="1860" column="44" />
-        <mark key="^" line="1860" column="44" />
-        <mark key="." line="1860" column="44" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1548772539224">
+        <mark key="[" line="1876" column="8" />
+        <mark key="]" line="1876" column="8" />
+        <mark key="." line="1876" column="8" />
+        <mark key="^" line="1875" column="112" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D12Test.kt" timestamp="1544628402484">
         <mark key="[" line="19" column="36" />
@@ -468,46 +468,58 @@
       <jump line="2008" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>private
-private</text>
+      <register name="&quot;" type="4">
+        <text>else if (!injuryTimeMillis.equals(prevInjuryTimeMillis)) {
+        logChange(
+            connection,
+            newEvent.getSourceId(),
+            &quot;injurymatchtime&quot;,
+            prevInjuryTimeMillis,
+            injuryTimeMillis);
+      }</text>
       </register>
       <register name="-" type="4">
-        <text>TIME_RESET_VALUE</text>
+        <text>prevInjuryTimeMillis</text>
       </register>
       <register name="/" type="4">
         <text>injurytime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWF0Y2hNaW51dGUoMCkK</text>
+        <text encoding="base64">ICAgICAgcHMuc2V0SW50KCsraW5kZXgsIHRpbWVJbmZvLmdldEluanVyeU1pbnV0ZSgpKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>private
-private</text>
+      <register name="1" type="4">
+        <text>else if (!injuryTimeMillis.equals(prevInjuryTimeMillis)) {
+        logChange(
+            connection,
+            newEvent.getSourceId(),
+            &quot;injurymatchtime&quot;,
+            prevInjuryTimeMillis,
+            injuryTimeMillis);
+      }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgVElNRV9VTktOT1dOID0gLTE7CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IFRJTUVfUkVTRVRfVkFMVUUgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklOSlVSWU1BVENIVElNRSBJUyBOVUxMIE9SIExFU1MgVEhBTiAwIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJldkluanVyeVRpbWVNaWxsaXMgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAubWF0Y2hNaW51dGUodGltZSkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIlNBTklUSVpFIFRJTUUgQkVGT1JFMSA6IGluanVyeVRpbWUgOiAlZCwgaW5qdXJ5TWF0Y2hUaW1lIDogJWQsIG1hdGNoVGltZSA6ICVkIiwgaW5qdXJ5VGltZSwgaW5qdXJ5TWF0Y2hUaW1lLCBtYXRjaFRpbWUpKTsKCiAgICAgIGlmIChtYXRjaFRpbWUgPT0gMCkgewogICAgICAgIC8vIFJFU0VUIFZBTFVFCiAgICAgICAgdGltZSA9IFRJTUVfVU5LTk9XTjsKICAgICAgICBtYXRjaFRpbWUgPSBUSU1FX1VOS05PV047CiAgICAgICAgaW5qdXJ5VGltZSA9IFRJTUVfVU5LTk9XTjsKICAgICAgICBpbmp1cnlNYXRjaFRpbWUgPSBUSU1FX1VOS05PV047CiAgICAgICAgcmV0dXJuOwogICAgICB9CgogICAgICBpZiAobWF0Y2hUaW1lID4gMCkgewogICAgICAgIHRpbWUgPSBnZXRNaW51dGVGcm9tTWlsbGlzKG1hdGNoVGltZSk7CiAgICAgIH0KCiAgICAgIGlmICh0aW1lID4gMCkgewoKICAgICAgICBpZiAoaW5qdXJ5TWF0Y2hUaW1lID09IDApIHsKICAgICAgICAgICAgLy8gUkVTRVQgVkFMVUUKICAgICAgICAgICAgaW5qdXJ5TWF0Y2hUaW1lID0gVElNRV9VTktOT1dOOwogICAgICAgICAgICBpbmp1cnlUaW1lID0gVElNRV9VTktOT1dOOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBpZiAoaW5qdXJ5TWF0Y2hUaW1lID4gMCkgewogICAgICAgICAgaW5qdXJ5VGltZSA9IGdldE1pbnV0ZUZyb21NaWxsaXMoaW5qdXJ5TWF0Y2hUaW1lKTsKICAgICAgICB9CiAgICAgIH0KCiAgICAgIGlmIChpbmp1cnlNYXRjaFRpbWUgPj0gMCAmJiB0aW1lID4gMCkgewogICAgICAgIER1cmF0aW9uIHRpbWVEdXJhdGlvbiA9IER1cmF0aW9uLm9mTWlsbGlzKG1hdGNoVGltZSk7CiAgICAgICAgbG9uZyBtYXRjaE1pbnV0ZSA9IHRpbWVEdXJhdGlvbi50b01pbnV0ZXMoKTsKICAgICAgICBpZiAobWF0Y2hNaW51dGUgIT0gdGltZSB8fCB0aW1lRHVyYXRpb24uZ2V0U2Vjb25kcygpICUgNjAgIT0gMCkgewogICAgICAgICAgaW5qdXJ5TWF0Y2hUaW1lID0gbnVsbDsKICAgICAgICAgIG1hdGNoVGltZSA9IG51bGw7CiAgICAgICAgfQogICAgICB9CgogICAgICBpZiAoaW5qdXJ5VGltZSA8PSAwKSB7CiAgICAgICAgaW5qdXJ5TWF0Y2hUaW1lID0gaW5qdXJ5VGltZTsKICAgICAgfSBlbHNlIGlmIChpbmp1cnlNYXRjaFRpbWUgIT0gbnVsbCkgewogICAgICAgIGludCBpbmp1cnlNaW51dGUgPSBnZXRNaW51dGVGcm9tTWlsbGlzKGluanVyeU1hdGNoVGltZSk7CiAgICAgICAgaWYgKGluanVyeU1pbnV0ZSAhPSBpbmp1cnlUaW1lKSB7CiAgICAgICAgICBpbmp1cnlNYXRjaFRpbWUgPSBudWxsOwogICAgICAgICAgbWF0Y2hUaW1lID0gbnVsbDsKICAgICAgICB9CiAgICAgIH0KICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIlNBTklUSVpFIFRJTUUgQkVGT1JFMiA6IGluanVyeVRpbWUgOiAlZCwgaW5qdXJ5TWF0Y2hUaW1lIDogJWQsIG1hdGNoVGltZSA6ICVkIiwgaW5qdXJ5VGltZSwgaW5qdXJ5TWF0Y2hUaW1lLCBtYXRjaFRpbWUpKTsKCiAgICAgIGlmICh0aW1lID4gMCkgewogICAgICAgIGlmIChtYXRjaFRpbWUgIT0gbnVsbCkgewogICAgICAgICAgaWYgKGluanVyeU1hdGNoVGltZSAhPSBudWxsKSB7CiAgICAgICAgICAgIER1cmF0aW9uIHRpbWVEdXJhdGlvbiA9IER1cmF0aW9uLm9mTWlsbGlzKG1hdGNoVGltZSk7CiAgICAgICAgICAgIGxvbmcgbWF0Y2hNaW51dGUgPSB0aW1lRHVyYXRpb24udG9NaW51dGVzKCk7CiAgICAgICAgICAgIGlmIChtYXRjaE1pbnV0ZSAhPSB0aW1lIHx8IHRpbWVEdXJhdGlvbi5nZXRTZWNvbmRzKCkgJSA2MCAhPSAwKSB7CiAgICAgICAgICAgICAgaW5qdXJ5TWF0Y2hUaW1lID0gbnVsbDsKICAgICAgICAgICAgICBtYXRjaFRpbWUgPSBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpbnQgbWF0Y2hNaW51dGUgPSBnZXRNaW51dGVGcm9tTWlsbGlzKG1hdGNoVGltZSk7CiAgICAgICAgICAgIGlmIChtYXRjaE1pbnV0ZSAhPSB0aW1lKSB7CiAgICAgICAgICAgICAgbWF0Y2hUaW1lID0gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfSBlbHNlIHsgLy8gQWxsb3cgYW55dGhpbmcgaW4gbWF0Y2ggdGltZSBtaWxsaXNlY29uZHMgaWYgcHJlc2VudAogICAgICB9CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJTQU5JVElaRSBUSU1FIEFGVEVSIDogaW5qdXJ5VGltZSA6ICVkLCBpbmp1cnlNYXRjaFRpbWUgOiAlZCwgbWF0Y2hUaW1lIDogJWQiLCBpbmp1cnlUaW1lLCBpbmp1cnlNYXRjaFRpbWUsIG1hdGNoVGltZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGluanVyeVRpbWVNaWxsaXMgPT0gbnVsbCkgewogICAgICAgIHBzLnNldE51bGwoKytpbmRleCwgVHlwZXMuSU5URUdFUik7CiAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW5qdXJ5TWludXRlKDE4MzUwMCkK</text>
+        <text encoding="base64">ICAgICAgcHMuc2V0SW50KCsraW5kZXgsIHRpbWVJbmZvLmdldE1hdGNoTWludXRlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW5qdXJ5TWludXRlKDMpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWF0Y2hNaW51dGUoOTApCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlc2V0TWF0Y2hNaWxsaXMpIHsKICAgICAgICBpZiAobWF0Y2hNaWxsaXMgPT0gbnVsbCkgewogICAgICAgICAgcHMuc2V0TnVsbCgrK2luZGV4LCBUeXBlcy5JTlRFR0VSKTsKICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
