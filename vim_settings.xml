@@ -230,11 +230,11 @@
         <mark key="^" line="34" column="54" />
         <mark key="." line="34" column="54" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1548772539224">
-        <mark key="[" line="1876" column="8" />
-        <mark key="]" line="1876" column="8" />
-        <mark key="." line="1876" column="8" />
-        <mark key="^" line="1875" column="112" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1548775632809">
+        <mark key="[" line="1877" column="10" />
+        <mark key="]" line="1877" column="7" />
+        <mark key="." line="1877" column="7" />
+        <mark key="^" line="1877" column="7" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D12Test.kt" timestamp="1544628402484">
         <mark key="[" line="19" column="36" />
@@ -469,23 +469,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else if (!injuryTimeMillis.equals(prevInjuryTimeMillis)) {
-        logChange(
-            connection,
-            newEvent.getSourceId(),
-            &quot;injurymatchtime&quot;,
-            prevInjuryTimeMillis,
-            injuryTimeMillis);
-      }</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>prevInjuryTimeMillis</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>injurytime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHMuc2V0SW50KCsraW5kZXgsIHRpbWVJbmZvLmdldEluanVyeU1pbnV0ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKG1hdGNoTWlsbGlzICE9IHRpbWVJbmZvLmdldE1hdGNoTWlsbGlzKCkpIHsKICAgICAgICBsb2dDaGFuZ2UoY29ubmVjdGlvbiwgbmV3RXZlbnQuZ2V0U291cmNlSWQoKSwgIm1hdGNodGltZSIsIG1hdGNoTWlsbGlzLCB0aW1lSW5mby5nZXRNYXRjaE1pbGxpcygpKTsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="4">
         <text>else if (!injuryTimeMillis.equals(prevInjuryTimeMillis)) {
