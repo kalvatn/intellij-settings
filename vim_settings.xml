@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1548424521438">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1548849890634">
         <mark key="'" line="39" column="41" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="46" column="90" />
+        <mark key="]" line="46" column="90" />
+        <mark key="." line="46" column="90" />
+        <mark key="^" line="46" column="90" />
       </file>
       <file name="/Dummy.txt" timestamp="1548765021769">
         <mark key="[" line="0" column="0" />
@@ -36,8 +37,8 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1548418211356">
-        <mark key="[" line="0" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1548849913065">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console.sql" timestamp="1548765421106">
         <mark key="[" line="28" column="48" />
@@ -51,12 +52,12 @@
         <mark key="^" line="74" column="22" />
         <mark key="." line="74" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1548764911687">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1548849881610">
         <mark key="'" line="70" column="43" />
-        <mark key="[" line="144" column="14" />
-        <mark key="]" line="144" column="13" />
-        <mark key="^" line="144" column="13" />
-        <mark key="." line="144" column="13" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="153" column="104" />
+        <mark key="^" line="153" column="68" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console.sql" timestamp="1548337167922">
         <mark key="[" line="3" column="0" />
@@ -73,44 +74,44 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBqb2luIHF1ZXVlX2ZpbGVfbWV0YSBmbSBvbiBmbS5maWxlX2lkID0gZi5pZAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFuZCBzLlZBTFVFIGxpa2UgIiU0NjQ0OCUi</text>
       </register>
       <register name="-" type="4">
-        <text>180704913</text>
+        <text encoding="base64">IGFuZCBzLlZBTFVFIGxpa2UgIiU0NjQ0OCUi</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">am9pbiBxdWV1ZV9maWxlX21ldGEgZm0gb24gZm0uZmlsZV9pZCA9IGYuaWQgYW5kIGZtLmZpZWxkX2lkIGluICgxMywgMTQpIGFuZCBmbS52YWx1ZSBpbiAoMTUwNjAxMTMsIDE1MDYwMDkzKQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzeXN0ZW1zZXR0aW5ncyBzIHdoZXJlIHMuREVTQ1JJUFRJT04gbGlrZSAiJVN0YXRpc3RpY3NfZGVmaW5lZF90b3VybmFtZW50cyUiIGFuZCBzLlZBTFVFIGxpa2UgIiU0NjQ0OCUiCnNlbGVjdCAqIGZyb20gc3lzdGVtc2V0dGluZ3MgcyB3aGVyZSBzLkRFU0NSSVBUSU9OID0gIlN0YXRpc3RpY3NfcmVjYWxjdWxhdGVzdGF0c19kZWZpbmVkX3RvdXJuYW1lbnRzIiA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBqb2luIHF1ZXVlX2ZpbGVfbWV0YSBmbSBvbiBmbS5maWxlX2lkID0gZi5pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbmQgZm0uZmllbGRfaWQgaW4gKDEzLCAxNCkgYW5kIGZtLnZhbHVlID0gMTUwNjAxMTMK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5kIGYuY3JlYXRlZF9hdCA+PSBOT1coKSAtIGludGVydmFsIDEgZGF5Cg==</text>
+        <text encoding="base64">IyBqb2luIHF1ZXVlX2ZpbGVfbWV0YSBmbSBvbiBmbS5maWxlX2lkID0gZi5pZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsYXllcmlkcz0nMDoyJywK</text>
+        <text encoding="base64">ICBhbmQgZm0uZmllbGRfaWQgaW4gKDEzLCAxNCkgYW5kIGZtLnZhbHVlID0gMTUwNjAxMTMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsYXllcmlkcz0nMDoyJywK</text>
+        <text encoding="base64">YW5kIGYuY3JlYXRlZF9hdCA+PSBOT1coKSAtIGludGVydmFsIDEgZGF5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcmFtND0yLAo=</text>
+        <text encoding="base64">ICAgIHBsYXllcmlkcz0nMDoyJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlLioK</text>
+        <text encoding="base64">ICAgIHBsYXllcmlkcz0nMDoyJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlLnRpbWUgICAgICAgICAgICBhcyBlX3RpbWUsCiAgZS5pbmp1cnl0aW1lICAgICAgYXMgZV9pbmp1cnl0aW1lLAogIGUuaW5qdXJ5bWF0Y2h0aW1lIGFzIGVfaW5qdXJ5bWF0Y2h0aW1lLAo=</text>
+        <text encoding="base64">ICAgIHBhcmFtND0yLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBldC5uYW1lICAgICAgICAgICBhcyBlX3R5cGVuYW1lLAo=</text>
+        <text encoding="base64">ICBlLioK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
