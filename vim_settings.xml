@@ -240,12 +240,12 @@
         <mark key="^" line="34" column="54" />
         <mark key="." line="34" column="54" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1548943631617">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1548945821049">
         <mark key="'" line="1670" column="21" />
-        <mark key="[" line="1800" column="34" />
-        <mark key="]" line="1800" column="33" />
-        <mark key="." line="1800" column="33" />
-        <mark key="^" line="1800" column="33" />
+        <mark key="[" line="1762" column="27" />
+        <mark key="]" line="1762" column="33" />
+        <mark key="." line="1762" column="33" />
+        <mark key="^" line="1762" column="33" />
       </file>
       <file name="/work/projects/github/kalvatn/aokotlin/src/test/kotlin/com/kalvatn/aoc/year2018/Y2018D12Test.kt" timestamp="1544628402484">
         <mark key="[" line="19" column="36" />
@@ -485,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW5qdXJ5IA==</text>
+        <text>Types.INTEGER</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5qdXJ5IA==</text>
+        <text>Types.INTEGER</text>
       </register>
       <register name="/" type="4">
         <text>updateTime</text>
@@ -503,25 +503,25 @@
         <text encoding="base64">ICAgICAgaWYgKHRpbWVJbmZvLmlzTWF0Y2hNaWxsaXNSZXNldCgpIHx8IHRpbWVJbmZvLmlzTWF0Y2hNaW51dGVSZXNldCgpKSB7CiAgICAgICAgcHMuc2V0TnVsbCgrK2luZGV4LCBUeXBlcy5JTlRFR0VSKTsKICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcy5zZXRJbnQoKytpbmRleCwgdGltZUluZm8uZ2V0TWF0Y2hNaW51dGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaWYgKHRpbWVJbmZvLmlzTWF0Y2hNaWxsaXNSZXNldCgpIHx8IHRpbWVJbmZvLmlzTWF0Y2hNaW51dGVSZXNldCgpKSB7CiAgICAgICAgcHMuc2V0TnVsbCgrK2luZGV4LCBUeXBlcy5JTlRFR0VSKTsKICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcy5zZXRJbnQoKytpbmRleCwgdGltZUluZm8uZ2V0TWF0Y2hNaW51dGUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW5qdXJ5TWlsbGlzKDEwMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW5qdXJ5TWlsbGlzKDE4MzUwMCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWF0Y2hNaW51dGUoMykgLy8gd3JvbmcgYnV0IG1hdGNobWlsbGlzIHNob3VsZCBvdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaW5qdXJ5TWlsbGlzKDEwMDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
