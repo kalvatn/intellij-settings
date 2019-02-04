@@ -27,7 +27,8 @@
         <mark key="." line="85" column="56" />
         <mark key="^" line="85" column="56" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/liveodds/livescore/LiveoddsToLivescore.java" timestamp="1549282130774">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/liveodds/livescore/LiveoddsToLivescore.java" timestamp="1549283994375">
+        <mark key="'" line="149" column="47" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -90,6 +91,12 @@
       <file name="/Dummy.txt" timestamp="1544794680970">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1549283948754">
+        <mark key="[" line="69" column="39" />
+        <mark key="]" line="69" column="42" />
+        <mark key="^" line="69" column="42" />
+        <mark key="." line="69" column="42" />
+      </file>
       <file name="/odds.livescore_merge_match [dev-misc-odds-RW]" timestamp="1544183198503">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,7 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="867" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="868" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="887" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="888" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
@@ -215,13 +221,14 @@
       <jump line="257" column="15" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
       <jump line="191" column="19" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
       <jump line="59" column="57" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="149" column="47" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/liveodds/livescore/LiveoddsToLivescore.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVvZGRzLnNlcnZlci5jbGllbnRoYW5kbGVyLmhhemVsY2FzdC4K</text>
+      <register name="&quot;" type="4">
+        <text>livedata</text>
       </register>
       <register name="-" type="4">
-        <text>Types.INTEGER</text>
+        <text>livedata</text>
       </register>
       <register name="/" type="4">
         <text>getDelta</text>
