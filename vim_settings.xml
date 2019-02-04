@@ -260,6 +260,9 @@
         <mark key="^" line="44" column="14" />
         <mark key="." line="44" column="14" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" timestamp="1549276430233">
+        <mark key="'" line="59" column="57" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ScoreEventCorrection.java" timestamp="1548853324937">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
@@ -365,13 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="758" column="19" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="759" column="32" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="765" column="19" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="766" column="32" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="815" column="62" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="865" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="866" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="867" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="868" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="887" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
@@ -465,6 +461,13 @@
       <jump line="238" column="50" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/NewEventRecord.java" />
       <jump line="1512" column="29" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="1670" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="111" column="63" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="79" column="36" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="68" column="8" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="256" column="37" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="257" column="15" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="191" column="19" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="59" column="57" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -474,7 +477,7 @@
         <text>Types.INTEGER</text>
       </register>
       <register name="/" type="4">
-        <text>updateTime</text>
+        <text>getDelta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcy5zZXROdWxsKCsraW5kZXgsIFR5cGVzLklOVEVHRVIpOwo=</text>
@@ -511,9 +514,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updateTime</last-search>
+      <last-search>getDelta</last-search>
       <last-offset />
-      <last-pattern>updateTime</last-pattern>
+      <last-pattern>getDelta</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>calculate</last-substitute>
       <last-dir>1</last-dir>
@@ -521,10 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>98644</entry>
-        <entry>$</entry>
-        <entry>BEHIND</entry>
-        <entry>calculate</entry>
         <entry>isGamepoint</entry>
         <entry>loadTennisRule</entry>
         <entry>extrainfo</entry>
@@ -541,6 +540,10 @@
         <entry>timeNeedsUpdate</entry>
         <entry>timeneedsupdate</entry>
         <entry>updateTime</entry>
+        <entry>found no rankings</entry>
+        <entry>getPeriodic</entry>
+        <entry>invoke</entry>
+        <entry>getDelta</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ . / + /g</entry>
