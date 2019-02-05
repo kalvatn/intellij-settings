@@ -134,8 +134,12 @@
         <mark key="^" line="88" column="95" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1549363068496">
-        <mark key="'" line="192" column="27" />
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1549367853672">
+        <mark key="'" line="563" column="41" />
+        <mark key="[" line="242" column="21" />
+        <mark key="]" line="242" column="20" />
+        <mark key="^" line="242" column="20" />
+        <mark key="." line="242" column="20" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" timestamp="1549292417503">
         <mark key="'" line="719" column="39" />
@@ -162,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="595" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/FishnetEventSorter.java" />
       <jump line="38" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="245" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="246" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
@@ -262,19 +265,20 @@
       <jump line="124" column="77" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Optional.java" />
       <jump line="213" column="14" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/26.0-jre/guava-26.0-jre-sources.jar!/com/google/common/base/Optional.java" />
       <jump line="192" column="27" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="563" column="41" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNjb25uZWN0ZWQgPSBmYWxzZTsK</text>
+      <register name="&quot;" type="4">
+        <text>2018.4.</text>
       </register>
       <register name="-" type="4">
-        <text>isconnected</text>
+        <text>2018.4.</text>
       </register>
       <register name="/" type="4">
-        <text>guava</text>
+        <text>livedata</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEdlbmVyYWxTY291dERhdGFDb25uZWN0b3Iuc2V0UHJvZHVjdChQcm9kdWN0LkxJVkVTQ09SRSk7CiAgICBnc2RjSW5zdGFuY2UgPSBHZW5lcmFsU2NvdXREYXRhQ29ubmVjdG9yCiAgICAgICAgICAgIC5idWlsZGVyKCkKICAgICAgICAgICAgLm9ubHlMaXZlRGF0YShmYWxzZSkKICAgICAgICAgICAgLmhhbmRsZXIodGhpcykKICAgICAgICAgICAgLnN1YnNjcmliZVRvQWxsTWF0Y2hlcyh0cnVlKQogICAgICAgICAgICAuYnVpbGQoKTsK</text>
+      <register name="0" type="4">
+        <text>2019.1.a-SNAPSHOT</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNjb25uZWN0ZWQgPSBmYWxzZTsK</text>
@@ -308,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>guava</last-search>
+      <last-search>livedata</last-search>
       <last-offset />
-      <last-pattern>guava</last-pattern>
+      <last-pattern>livedata</last-pattern>
       <last-replace>gsdcInstance.getScoutMatchDataFor</last-replace>
       <last-substitute>GeneralScoutDataConnector.getScoutMatchData</last-substitute>
       <last-dir>1</last-dir>
@@ -318,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isGamePoint</entry>
         <entry>isgamepoint</entry>
         <entry>unknown</entry>
         <entry>filesender</entry>
@@ -338,6 +341,7 @@
         <entry>generalscout</entry>
         <entry>orElse</entry>
         <entry>guava</entry>
+        <entry>livedata</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sport::/Sport./g</entry>
