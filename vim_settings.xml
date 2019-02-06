@@ -52,7 +52,7 @@
         <mark key="." line="20" column="13" />
         <mark key="^" line="45" column="20" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutToLivescore.java" timestamp="1549296197847">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutToLivescore.java" timestamp="1549459073038">
         <mark key="'" line="68" column="10" />
         <mark key="[" line="69" column="10" />
         <mark key="]" line="69" column="15" />
@@ -96,10 +96,11 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livedash/domain/LiveDashOddsType.java" timestamp="1549372775676">
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="9" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livedash/domain/LiveDashOddsType.java" timestamp="1549460053615">
+        <mark key="[" line="26" column="110" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/liveodds/livescore/LiveoddsToLivescore.java" timestamp="1549284521419">
         <mark key="'" line="149" column="47" />
@@ -267,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>375</text>
+        <text>.OddsType</text>
       </register>
       <register name="-" type="4">
-        <text>375</text>
+        <text>.OddsType</text>
       </register>
       <register name="/" type="4">
         <text>2018.5.1</text>
@@ -279,31 +280,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aW5nYW1lLWJldHRpbmctY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aW5nYW1lLWJldHRpbmctY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
+        <text encoding="base64">CQlTdWJUeXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNjb25uZWN0ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aW5nYW1lLWJldHRpbmctY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlzY29ubmVjdGVkID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNjb25uZWN0ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlzY29ubmVjdGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGlzY29ubmVjdGVkID0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEdlbmVyYWxTY291dERhdGFDb25uZWN0b3Iuc2V0UHJvZHVjdChQcm9kdWN0LkxJVkVTQ09SRSk7Cg==</text>
+        <text encoding="base64">ICAgIGlzY29ubmVjdGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wcm8K</text>
+        <text encoding="base64">ICAgIEdlbmVyYWxTY291dERhdGFDb25uZWN0b3Iuc2V0UHJvZHVjdChQcm9kdWN0LkxJVkVTQ09SRSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wcmRkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wcm8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wcmRkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/2018.5.1/2018.6.12/gc</text>
