@@ -24,7 +24,9 @@
         <mark key="^" line="78" column="71" />
         <mark key="." line="78" column="71" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/integration/omaki/importer/OmakiMatchAlertHolder.java" timestamp="1549544195854" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/integration/omaki/importer/OmakiMatchAlertHolder.java" timestamp="1549546233358">
+        <mark key="'" line="375" column="56" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1549544090502">
         <mark key="'" line="69" column="31" />
       </file>
@@ -86,7 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="70" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" />
       <jump line="608" column="36" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/TennisMatch.java" />
       <jump line="458" column="49" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" />
       <jump line="806" column="49" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreTennis.java" />
@@ -186,6 +187,7 @@
       <jump line="200" column="16" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
       <jump line="88" column="31" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="69" column="31" filename="/work/projects/gitlab/livescore/common/pom.xml" />
+      <jump line="375" column="56" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/integration/omaki/importer/OmakiMatchAlertHolder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -195,7 +197,7 @@
         <text>type</text>
       </register>
       <register name="/" type="4">
-        <text>betting</text>
+        <text>getValue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl0aGlzLmxlYWd1ZUJyZWFrUHJvYiA9IHNtZHYuZ2V0TGVhZ3VlQnJlYWtQcm9iYWJpbGl0eSgpOwo=</text>
@@ -247,9 +249,9 @@ OddsSubType.</text>
       </register>
     </registers>
     <search>
-      <last-search>betting</last-search>
+      <last-search>getValue</last-search>
       <last-offset />
-      <last-pattern>betting</last-pattern>
+      <last-pattern>getValue</last-pattern>
       <last-replace>MatchOddsType.type</last-replace>
       <last-substitute>MatchOdds.type</last-substitute>
       <last-dir>1</last-dir>
@@ -257,7 +259,6 @@ OddsSubType.</text>
     </search>
     <history>
       <history-search>
-        <entry>invoke</entry>
         <entry>getDelta</entry>
         <entry>ingame-betting-core</entry>
         <entry>Side</entry>
@@ -277,6 +278,7 @@ OddsSubType.</text>
         <entry>darkness</entry>
         <entry>livedata</entry>
         <entry>betting</entry>
+        <entry>getValue</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy89Pi8sL2c=</entry>
