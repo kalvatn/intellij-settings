@@ -13,11 +13,16 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-common/2019.1.1-SNAPSHOT/ingame-betting-common-2019.1.1-20190206.064553-212.jar!/com/oddsarbitrage/liveodds/server/SubType.class" timestamp="1549543200142">
         <mark key="'" line="922" column="13" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XlsBorderStyle.java" timestamp="1549549745703">
-        <mark key="[" line="77" column="31" />
-        <mark key="]" line="77" column="27" />
-        <mark key="^" line="77" column="27" />
-        <mark key="." line="77" column="27" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.9/poi-3.9-sources.jar!/org/apache/poi/ss/usermodel/Font.java" timestamp="1549550756285">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="54" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XlsBorderStyle.java" timestamp="1549550139741">
+        <mark key="'" line="164" column="10" />
+        <mark key="[" line="180" column="11" />
+        <mark key="]" line="180" column="49" />
+        <mark key="^" line="180" column="49" />
+        <mark key="." line="180" column="49" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VDRCreateDefaultOddskeys.java" timestamp="1549541598057">
         <mark key="[" line="35" column="27" />
@@ -31,18 +36,18 @@
         <mark key="." line="147" column="35" />
         <mark key="^" line="147" column="35" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1549549495766">
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1549550735252">
         <mark key="'" line="577" column="25" />
-        <mark key="[" line="594" column="24" />
-        <mark key="]" line="594" column="24" />
-        <mark key="^" line="594" column="24" />
-        <mark key="." line="594" column="24" />
+        <mark key="[" line="594" column="25" />
+        <mark key="]" line="594" column="23" />
+        <mark key="^" line="594" column="23" />
+        <mark key="." line="594" column="23" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XSSFFontInfoWrapper.java" timestamp="1549549578439">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="31" />
-        <mark key="^" line="34" column="31" />
-        <mark key="." line="34" column="31" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XSSFFontInfoWrapper.java" timestamp="1549551239524">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="74" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VDROddsSaver.java" timestamp="1549543290726">
         <mark key="[" line="78" column="60" />
@@ -63,7 +68,12 @@
       <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1549544090502">
         <mark key="'" line="69" column="31" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/easy_xls/EasyCell.java" timestamp="1549544117366" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/easy_xls/EasyCell.java" timestamp="1549551074527">
+        <mark key="[" line="317" column="38" />
+        <mark key="]" line="317" column="38" />
+        <mark key="." line="317" column="38" />
+        <mark key="^" line="317" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190204.115517-268.jar!/com/oddsarbitrage/scout/AstMatch.class" timestamp="1549284599888">
         <mark key="'" line="126" column="36" />
       </file>
@@ -122,8 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="554" column="18" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="567" column="11" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="889" column="19" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="1482" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
@@ -222,81 +230,79 @@
       <jump line="214" column="19" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
       <jump line="215" column="24" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
       <jump line="244" column="52" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="80" column="44" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XlsBorderStyle.java" />
+      <jump line="164" column="10" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XlsBorderStyle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BORDER_NONE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlmaW5hbCBpbnQgcHJpbWUgPSAzMTsKCQlpbnQgcmVzdWx0ID0gMTsKCQlyZXN1bHQgPSBwcmltZSAqIHJlc3VsdCArIGZvbnRDb2xvcjsKCQlyZXN1bHQgPSBwcmltZSAqIHJlc3VsdCArIGZvbnRIZWlnaHQ7CgkJcmVzdWx0ID0gcHJpbWUgKiByZXN1bHQgKyAoKGZvbnROYW1lID09IG51bGwpID8gMCA6IGZvbnROYW1lLmhhc2hDb2RlKCkpOwoJCXJlc3VsdCA9IHByaW1lICogcmVzdWx0ICsgKGlzSXRhbGljID8gMTIzMSA6IDEyMzcpOwoJCXJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BORDER_NONE</text>
+        <text>, xssfFront, workbook</text>
       </register>
       <register name="/" type="4">
-        <text>border</text>
+        <text>weight</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0aGlzLmxlYWd1ZUJyZWFrUHJvYiA9IHNtZHYuZ2V0TGVhZ3VlQnJlYWtQcm9iYWJpbGl0eSgpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gT2JqZWN0cy5oYXNoKGZvbnROYW1lLCBmb250SGVpZ2h0LCBib2xkLCBmb250Q29sb3IsIGlzSXRhbGljLCB4c3NmRnJvbnQsIHdvcmtib29rKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlmaW5hbCBpbnQgcHJpbWUgPSAzMTsKCQlpbnQgcmVzdWx0ID0gMTsKCQlyZXN1bHQgPSBwcmltZSAqIHJlc3VsdCArIGZvbnRDb2xvcjsKCQlyZXN1bHQgPSBwcmltZSAqIHJlc3VsdCArIGZvbnRIZWlnaHQ7CgkJcmVzdWx0ID0gcHJpbWUgKiByZXN1bHQgKyAoKGZvbnROYW1lID09IG51bGwpID8gMCA6IGZvbnROYW1lLmhhc2hDb2RlKCkpOwoJCXJlc3VsdCA9IHByaW1lICogcmVzdWx0ICsgKGlzSXRhbGljID8gMTIzMSA6IDEyMzcpOwoJCXJldHVybiByZXN1bHQ7Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.
-OddsSubType.</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlmaW5hbCBpbnQgcHJpbWUgPSAzMTsKCQlpbnQgcmVzdWx0ID0gMTsKCQlyZXN1bHQgPSBwcmltZSAqIHJlc3VsdCArIGZvbnRDb2xvcjsKCQlyZXN1bHQgPSBwcmltZSAqIHJlc3VsdCArIGZvbnRIZWlnaHQ7CgkJcmVzdWx0ID0gcHJpbWUgKiByZXN1bHQgKyAoKGZvbnROYW1lID09IG51bGwpID8gMCA6IGZvbnROYW1lLmhhc2hDb2RlKCkpOwoJCXJlc3VsdCA9IHByaW1lICogcmVzdWx0ICsgKGlzSXRhbGljID8gMTIzMSA6IDEyMzcpOwoJCXJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXN1bHQgPSBwcmltZSAqIHJlc3VsdCArIGJvbGQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkJCXRlbXBGb250LnNldEJvbGRXZWlnaHQoWFNTRkZvbnQuQk9MRFdFSUdIVF9CT0xEKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbmV3Rm9udC5zZXRCb2xkd2VpZ2h0KGJvbGRXZWlnaHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgaW50IGdldExlYWd1ZUJyZWFrUHJvYmFiaWxpdHkoU2NvdXRNYXRjaERhdGFWb2xsZXliYWxsIHNtZHYpIHsKCQlpZiAoc21kdi5nZXRTZXgoKSA9PSAwKSB7CgoJCX0KCX0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucG9pLnNzLnVzZXJtb2RlbC5Cb3JkZXJTdHlsZTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLmxlYWd1ZUJyZWFrUHJvYiA9IHNtZHYuZ2V0U2V4KCkgPT0gMAo=</text>
+      <register name="7" type="8">
+        <text>OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LlNjb3V0TWF0Y2hEYXRhOwo=</text>
+      <register name="8" type="8">
+        <text>OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.
+OddsSubType.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHNjb3V0TWF0Y2hEYXRhVm9sbGV5YmFsbC5nZXQgPT0gMSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>21</text>
+        <text>%s/XSSFCellStyle.BORDER_/org.apache.poi.ss.usermodel.BorderStyle./gc</text>
       </register>
     </registers>
     <search>
-      <last-search>border</last-search>
+      <last-search>weight</last-search>
       <last-offset />
-      <last-pattern>border</last-pattern>
-      <last-replace>MatchOddsType.type</last-replace>
-      <last-substitute>MatchOdds.type</last-substitute>
+      <last-pattern>weight</last-pattern>
+      <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
+      <last-substitute>XSSFCellStyle.BORDER_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GeneralScoutConnector</entry>
-        <entry>generalscoutdata</entry>
-        <entry>GeneralScoutDataConnector.getScoutMatchData</entry>
-        <entry>generalscout</entry>
         <entry>orElse</entry>
         <entry>guava</entry>
         <entry>2018.5.1</entry>
@@ -313,9 +319,12 @@ OddsSubType.</text>
         <entry>apache</entry>
         <entry>LiveMessageReceiver</entry>
         <entry>border</entry>
+        <entry>XSSFCellStyle.BORDER_</entry>
+        <entry>weighty</entry>
+        <entry>setBoldWeight</entry>
+        <entry>weight</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywkLzsvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzskLywvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
         <entry encoding="base64">JzwsJz5zLywvKS9n</entry>
@@ -335,6 +344,7 @@ OddsSubType.</text>
         <entry>47</entry>
         <entry>56</entry>
         <entry>21</entry>
+        <entry>%s/XSSFCellStyle.BORDER_/org.apache.poi.ss.usermodel.BorderStyle./gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
