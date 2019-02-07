@@ -13,6 +13,12 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-common/2019.1.1-SNAPSHOT/ingame-betting-common-2019.1.1-20190206.064553-212.jar!/com/oddsarbitrage/liveodds/server/SubType.class" timestamp="1549543200142">
         <mark key="'" line="922" column="13" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XlsBorderStyle.java" timestamp="1549549745703">
+        <mark key="[" line="77" column="31" />
+        <mark key="]" line="77" column="27" />
+        <mark key="^" line="77" column="27" />
+        <mark key="." line="77" column="27" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VDRCreateDefaultOddskeys.java" timestamp="1549541598057">
         <mark key="[" line="35" column="27" />
         <mark key="]" line="35" column="27" />
@@ -25,18 +31,27 @@
         <mark key="." line="147" column="35" />
         <mark key="^" line="147" column="35" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1549548265174">
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1549549495766">
         <mark key="'" line="577" column="25" />
         <mark key="[" line="594" column="24" />
         <mark key="]" line="594" column="24" />
         <mark key="^" line="594" column="24" />
         <mark key="." line="594" column="24" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XSSFFontInfoWrapper.java" timestamp="1549549578439">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="31" />
+        <mark key="^" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VDROddsSaver.java" timestamp="1549543290726">
         <mark key="[" line="78" column="60" />
         <mark key="]" line="78" column="71" />
         <mark key="^" line="78" column="71" />
         <mark key="." line="78" column="71" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" timestamp="1549549666670">
+        <mark key="'" line="244" column="52" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/integration/omaki/importer/OmakiMatchAlertHolder.java" timestamp="1549547390754">
         <mark key="'" line="375" column="56" />
@@ -70,6 +85,7 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/AstMatch.class" timestamp="1549465984727">
         <mark key="'" line="600" column="130" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.9/poi-3.9-sources.jar!/org/apache/poi/ss/usermodel/CellStyle.java" timestamp="1549549880405" />
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" timestamp="1549276430233">
         <mark key="'" line="59" column="57" />
       </file>
@@ -106,16 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="56" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/AussieRulesMatch.java" />
-      <jump line="6" column="6" filename="/work/projects/gitlab/livescore/common/src/main/resources/log4j.xml" />
-      <jump line="1817" column="88" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="2323" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="2329" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="217" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="319" column="25" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="323" column="29" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="525" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="545" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="552" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="554" column="18" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="567" column="11" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
@@ -206,16 +212,26 @@
       <jump line="466" column="25" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="536" column="25" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="577" column="25" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="66" column="6" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="165" column="36" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="166" column="38" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="167" column="35" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="169" column="28" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="211" column="36" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="212" column="61" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="214" column="19" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="215" column="24" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
+      <jump line="244" column="52" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Map.Entry::getKey</text>
+        <text>BORDER_NONE</text>
       </register>
       <register name="-" type="4">
-        <text>Map.Entry::getKey</text>
+        <text>BORDER_NONE</text>
       </register>
       <register name="/" type="4">
-        <text>LiveMessageReceiver</text>
+        <text>border</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl0aGlzLmxlYWd1ZUJyZWFrUHJvYiA9IHNtZHYuZ2V0TGVhZ3VlQnJlYWtQcm9iYWJpbGl0eSgpOwo=</text>
@@ -267,9 +283,9 @@ OddsSubType.</text>
       </register>
     </registers>
     <search>
-      <last-search>LiveMessageReceiver</last-search>
+      <last-search>border</last-search>
       <last-offset />
-      <last-pattern>LiveMessageReceiver</last-pattern>
+      <last-pattern>border</last-pattern>
       <last-replace>MatchOddsType.type</last-replace>
       <last-substitute>MatchOdds.type</last-substitute>
       <last-dir>1</last-dir>
@@ -277,7 +293,6 @@ OddsSubType.</text>
     </search>
     <history>
       <history-search>
-        <entry>Side</entry>
         <entry>GeneralScoutConnector</entry>
         <entry>generalscoutdata</entry>
         <entry>GeneralScoutDataConnector.getScoutMatchData</entry>
@@ -297,6 +312,7 @@ OddsSubType.</text>
         <entry>getValue</entry>
         <entry>apache</entry>
         <entry>LiveMessageReceiver</entry>
+        <entry>border</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkLzsvZw==</entry>
