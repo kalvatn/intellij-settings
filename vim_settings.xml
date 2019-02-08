@@ -10,10 +10,10 @@
         <mark key="." line="78" column="71" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/aggregate/StatisticFormula.java" timestamp="1549557342182" />
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/common/Util4.java" timestamp="1549629811529">
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/common/Util4.java" timestamp="1549633746575">
         <mark key="'" line="1174" column="33" />
-        <mark key="[" line="1236" column="0" />
-        <mark key="]" line="1278" column="3" />
+        <mark key="[" line="468" column="0" />
+        <mark key="]" line="476" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" timestamp="1549549666670">
         <mark key="'" line="244" column="52" />
@@ -59,11 +59,11 @@
         <mark key="." line="581" column="58" />
         <mark key="^" line="581" column="58" />
       </file>
-      <file name="/work/projects/gitlab/java/league-standings-builder/src/main/java/com/oddsarbitrage/common/Util4.java" timestamp="1549629815216">
-        <mark key="'" line="183" column="56" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="61" column="3" />
-        <mark key="." line="19" column="0" />
+      <file name="/work/projects/gitlab/java/league-standings-builder/src/main/java/com/oddsarbitrage/common/Util4.java" timestamp="1549633752253">
+        <mark key="'" line="121" column="4" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/odds/ExSpreadOdds.java" timestamp="1549542341877">
         <mark key="[" line="34" column="19" />
@@ -89,7 +89,7 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="/work/projects/gitlab/java/league-standings-builder/pom.xml" timestamp="1549629978055">
+      <file name="/work/projects/gitlab/java/league-standings-builder/pom.xml" timestamp="1549633428502">
         <mark key="[" line="37" column="27" />
         <mark key="]" line="37" column="26" />
         <mark key="." line="37" column="26" />
@@ -165,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="50" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/NewEventRecord.java" />
       <jump line="1512" column="29" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="1670" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="111" column="63" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
@@ -265,19 +264,20 @@
       <jump line="463" column="49" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/common/Util4.java" />
       <jump line="1174" column="33" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/common/Util4.java" />
       <jump line="140" column="56" filename="/work/projects/gitlab/java/league-standings-builder/src/main/java/com/oddsarbitrage/common/Util4.java" />
+      <jump line="112" column="4" filename="/work/projects/gitlab/java/league-standings-builder/src/main/java/com/oddsarbitrage/common/Util4.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sportradar-common</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyByZXBsYWNlQVNDSUlDaGFyQ29ycmVjdCgKICAgICAgU3RyaW5nIHNvdXJjZSwgaW50IHJlbW92ZUFTQ0lJQ29kZSwgaW50IHJlcGxhY2VBU0NJSUNvZGUpIHsKICAgIFN0cmluZ0J1ZmZlciByZXRWYWwgPSBuZXcgU3RyaW5nQnVmZmVyKCk7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IHNvdXJjZS5sZW5ndGgoKTsgaSsrKSB7CiAgICAgIGlmICgoaW50KSBzb3VyY2UuY2hhckF0KGkpICE9IHJlbW92ZUFTQ0lJQ29kZSkgcmV0VmFsLmFwcGVuZChzb3VyY2UuY2hhckF0KGkpKTsKICAgICAgZWxzZSByZXRWYWwuYXBwZW5kKChjaGFyKSByZXBsYWNlQVNDSUlDb2RlKTsKICAgIH0KICAgIHJldHVybiByZXRWYWwudG9TdHJpbmcoKTsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sportradar-common</text>
+        <text>livescore</text>
       </register>
       <register name="/" type="4">
         <text>isHandicap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjAuMjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyByZXBsYWNlQVNDSUlDaGFyQ29ycmVjdCgKICAgICAgU3RyaW5nIHNvdXJjZSwgaW50IHJlbW92ZUFTQ0lJQ29kZSwgaW50IHJlcGxhY2VBU0NJSUNvZGUpIHsKICAgIFN0cmluZ0J1ZmZlciByZXRWYWwgPSBuZXcgU3RyaW5nQnVmZmVyKCk7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IHNvdXJjZS5sZW5ndGgoKTsgaSsrKSB7CiAgICAgIGlmICgoaW50KSBzb3VyY2UuY2hhckF0KGkpICE9IHJlbW92ZUFTQ0lJQ29kZSkgcmV0VmFsLmFwcGVuZChzb3VyY2UuY2hhckF0KGkpKTsKICAgICAgZWxzZSByZXRWYWwuYXBwZW5kKChjaGFyKSByZXBsYWNlQVNDSUlDb2RlKTsKICAgIH0KICAgIHJldHVybiByZXRWYWwudG9TdHJpbmcoKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgKiBAcGFyYW0gd2l0aE5hbWVzCg==</text>
