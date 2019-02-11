@@ -18,8 +18,11 @@
         <mark key="^" line="17" column="53" />
         <mark key="." line="17" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1549896630436">
-        <mark key="[" line="93" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1549898201165">
+        <mark key="[" line="102" column="1" />
+        <mark key="]" line="103" column="71" />
+        <mark key="^" line="103" column="71" />
+        <mark key="." line="103" column="71" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1549890905133">
         <mark key="[" line="169" column="88" />
@@ -29,7 +32,14 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">c2hvdyBmdWxsIGNvbHVtbnMgZnJvbSByYW5raW5nMgo7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2hvdyBmdWxsIGNvbHVtbnMgZnJvbSByYW5raW5nMgo7Cg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
