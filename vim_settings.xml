@@ -288,7 +288,7 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIERhdGUgYWRkTW9udGhzKERhdGUgc291cmNlLCBpbnQgbW9udGhzKSB7CiAgICBEYXRlIHJldFZhbCA9IG5ldyBEYXRlKCk7CiAgICByZXRWYWwuc2V0TW9udGgoc291cmNlLmdldE1vbnRoKCkgKyBtb250aHMpOwogICAgcmV0dXJuIHJldFZhbDsKICB9CgogIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGV4dHJhY3RVbnRpbE51bWJlcihTdHJpbmcgc291cmNlKSB7CiAgICBTdHJpbmcgcmV0VmFsID0gIiI7CiAgICB0cnkgewogICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNvdXJjZS5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgaWYgKENoYXJhY3Rlci5pc0RpZ2l0KHNvdXJjZS5jaGFyQXQoaSkpKSByZXR1cm4gcmV0VmFsOwogICAgICAgIHJldFZhbCA9IHJldFZhbCArIHNvdXJjZS5jaGFyQXQoaSk7CiAgICAgIH0KICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIGNvbS5iZXRyYWRhci5jb21tb24uVXRpbC5kZWJ1ZygiZXh0cmFjdFVudGlsTnVtYmVyIiwgIkZhaWxlZDoiICsgZSk7CiAgICB9CiAgICByZXR1cm4gcmV0VmFsOwogIH0KCiAgcHVibGljIHN0YXRpYyBpbnQgZ2V0UG9zaXRpb24oU3RyaW5nIHNvdXJjZSwgU3RyaW5nW10gdG9TZWFyY2hGb3IsIGJvb2xlYW4gdG9VcHBlckNhc2UpIHsKICAgIGludCByZXRWYWwgPSAtMTsKICAgIGlmICh0b1VwcGVyQ2FzZSA9PSB0cnVlKSBzb3VyY2UgPSBzb3VyY2UudG9VcHBlckNhc2UoKTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgdG9TZWFyY2hGb3IubGVuZ3RoOyBpKyspIHsKICAgICAgaWYgKHRvVXBwZXJDYXNlID09IHRydWUpIHRvU2VhcmNoRm9yW2ldID0gdG9TZWFyY2hGb3JbaV0udG9VcHBlckNhc2UoKTsKICAgICAgaW50IHRlbXAgPSBzb3VyY2UuaW5kZXhPZih0b1NlYXJjaEZvcltpXSk7CiAgICAgIGlmICh0ZW1wICE9IC0xKSB7CiAgICAgICAgcmV0VmFsID0gdGVtcDsKICAgICAgICBicmVhazsKICAgICAgfQogICAgfQogICAgcmV0dXJuIHJldFZhbDsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>308</text>
       </register>
     </registers>
     <search>
@@ -324,7 +324,6 @@
         <entry>isHandicap</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzskLywvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
         <entry encoding="base64">JzwsJz5zLywvKS9n</entry>
         <entry encoding="base64">JzwsJz5zLz0+LywvZ2M=</entry>
@@ -344,6 +343,7 @@
         <entry>21</entry>
         <entry>%s/XSSFCellStyle.BORDER_/org.apache.poi.ss.usermodel.BorderStyle./gc</entry>
         <entry>set ignorecase</entry>
+        <entry>308</entry>
       </history-cmd>
       <history-expr />
       <history-input />
