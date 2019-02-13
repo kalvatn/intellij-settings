@@ -107,8 +107,10 @@
         <mark key="." line="192" column="135" />
         <mark key="^" line="192" column="135" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" timestamp="1549971070807">
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" timestamp="1550062957652">
+        <mark key="a" line="0" column="0" />
         <mark key="'" line="225" column="12" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VHCCreateDefaultOddskeys.java" timestamp="1549541641070">
         <mark key="[" line="41" column="27" />
@@ -145,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="36" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
       <jump line="68" column="8" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
       <jump line="256" column="37" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
       <jump line="257" column="15" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
@@ -245,6 +246,7 @@
       <jump line="262" column="69" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
       <jump line="224" column="26" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
       <jump line="225" column="12" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
+      <jump line="223" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/PitchLocationEvent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
