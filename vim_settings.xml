@@ -15,8 +15,10 @@
         <mark key="." line="180" column="62" />
         <mark key="^" line="180" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1550145978715">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1550150823188">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console.sql" timestamp="1549975766467">
         <mark key="[" line="27" column="22" />
@@ -51,10 +53,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>15119693</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>15119693</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
