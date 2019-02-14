@@ -22,12 +22,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1550068490014">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1550144623066">
         <mark key="'" line="1700" column="0" />
-        <mark key="[" line="1726" column="80" />
-        <mark key="]" line="1726" column="92" />
-        <mark key="." line="1726" column="92" />
-        <mark key="^" line="1726" column="92" />
+        <mark key="[" line="1799" column="53" />
+        <mark key="]" line="1800" column="45" />
+        <mark key="." line="1800" column="45" />
+        <mark key="^" line="1800" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-common/2019.1.1-SNAPSHOT/ingame-betting-common-2019.1.1-20190206.064553-212.jar!/com/oddsarbitrage/liveodds/server/SubType.class" timestamp="1549543200142">
         <mark key="'" line="922" column="13" />
@@ -131,11 +131,11 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="27" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/PitchLocationEvent.java" timestamp="1550068172804">
-        <mark key="[" line="162" column="39" />
-        <mark key="]" line="163" column="29" />
-        <mark key="^" line="163" column="29" />
-        <mark key="." line="163" column="29" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/PitchLocationEvent.java" timestamp="1550144231763">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="^" line="196" column="12" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/feeds/MatchOdds.java" timestamp="1549543638799">
         <mark key="[" line="380" column="24" />
@@ -155,7 +155,7 @@
         <mark key="." line="304" column="20" />
         <mark key="^" line="304" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1550065743072">
+      <file name="/fragment.java" timestamp="1550144186154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/easy_xls/EasyCell.java" timestamp="1549551074527">
@@ -268,11 +268,11 @@
       <jump line="1700" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIlVQREFURSBUSU1FIElGIE5FRURFRCwgZ2V0VGltZSAlZCwgbWF0Y2hzZWNvbmQgJWQiLCBnZXRUaW1lKCksIG1hdGNoU2Vjb25kKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Time</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Time</text>
       </register>
       <register name="/" type="4">
         <text>setTime</text>
@@ -281,31 +281,31 @@
         <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIlVQREFURSBUSU1FIElGIE5FRURFRCwgZ2V0VGltZSAlZCwgbWF0Y2hzZWNvbmQgJWQiLCBnZXRUaW1lKCksIG1hdGNoU2Vjb25kKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRpbWUgPSAK</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCJUSU1FIDogJSIpOwo=</text>
+        <text encoding="base64">ICAgIHRpbWUgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nLmZvcm1hdCgiVElNRSBJUyBOTyBUSU1FIiwgKQo=</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJUSU1FIDogJSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nLmZvcm1hdCgiVElNRSBJUyBOTyBUSU1FIiwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJEZWZhdWx0RXJyb3JMb2dBcHBlbmRlclN5bmMiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkZpbGVBcHBlbmRlciI+CgkJPHBhcmFtIG5hbWU9IkZpbGUiIHZhbHVlPSIuL2xvZy9lcnJvcnMubG9nIiAvPgoJCTxwYXJhbSBuYW1lPSJBcHBlbmQiIHZhbHVlPSJ0cnVlIiAvPgoJCTxwYXJhbSBuYW1lPSJUaHJlc2hvbGQiIHZhbHVlPSJlcnJvciIgLz4KCQk8bGF5b3V0IGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLlBhdHRlcm5MYXlvdXQiPgoJCQk8cGFyYW0gbmFtZT0iQ29udmVyc2lvblBhdHRlcm4iIHZhbHVlPSIlZHt5eXl5LU1NLWRkIEhIOm1tOnNzfSAoJXApOiAlYy4lTSglTCklbiAtICVtJW4iIC8+CgkJPC9sYXlvdXQ+Cgk8L2FwcGVuZGVyPgoJCgk8YXBwZW5kZXIgbmFtZT0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXIiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkFzeW5jQXBwZW5kZXIiPgoJCTxwYXJhbSBuYW1lPSJCdWZmZXJTaXplIiB2YWx1ZT0iMTAwMCIvPgoJCTxwYXJhbSBuYW1lPSJCbG9ja2luZyIgdmFsdWU9ImZhbHNlIi8+CgkJPHBhcmFtIG5hbWU9IkxvY2F0aW9uSW5mbyIgdmFsdWU9InRydWUiLz4KCQk8YXBwZW5kZXItcmVmIHJlZj0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXJTeW5jIiAvPgoJPC9hcHBlbmRlcj4KCQoJPGFwcGVuZGVyIG5hbWU9IkNvbnNvbGVBcHBlbmRlclN5bmMiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkNvbnNvbGVBcHBlbmRlciI+CgkJPHBhcmFtIG5hbWU9IlRocmVzaG9sZCIgdmFsdWU9ImRlYnVnIiAvPgoJCTxsYXlvdXQgY2xhc3M9Im9yZy5hcGFjaGUubG9nNGouUGF0dGVybkxheW91dCI+CgkJCTxwYXJhbSBuYW1lPSJDb252ZXJzaW9uUGF0dGVybiIgdmFsdWU9IiVke3l5eXktTU0tZGQgSEg6bW06c3N9ICglcCk6ICVjezF9LiVNKCVMKSAlbSVuIiAvPgoJCTwvbGF5b3V0PgoJPC9hcHBlbmRlcj4KCQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hbnRsci5ydW50aW1lLm1pc2MuU3RhdHM7Cg==</text>
+        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJEZWZhdWx0RXJyb3JMb2dBcHBlbmRlclN5bmMiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkZpbGVBcHBlbmRlciI+CgkJPHBhcmFtIG5hbWU9IkZpbGUiIHZhbHVlPSIuL2xvZy9lcnJvcnMubG9nIiAvPgoJCTxwYXJhbSBuYW1lPSJBcHBlbmQiIHZhbHVlPSJ0cnVlIiAvPgoJCTxwYXJhbSBuYW1lPSJUaHJlc2hvbGQiIHZhbHVlPSJlcnJvciIgLz4KCQk8bGF5b3V0IGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLlBhdHRlcm5MYXlvdXQiPgoJCQk8cGFyYW0gbmFtZT0iQ29udmVyc2lvblBhdHRlcm4iIHZhbHVlPSIlZHt5eXl5LU1NLWRkIEhIOm1tOnNzfSAoJXApOiAlYy4lTSglTCklbiAtICVtJW4iIC8+CgkJPC9sYXlvdXQ+Cgk8L2FwcGVuZGVyPgoJCgk8YXBwZW5kZXIgbmFtZT0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXIiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkFzeW5jQXBwZW5kZXIiPgoJCTxwYXJhbSBuYW1lPSJCdWZmZXJTaXplIiB2YWx1ZT0iMTAwMCIvPgoJCTxwYXJhbSBuYW1lPSJCbG9ja2luZyIgdmFsdWU9ImZhbHNlIi8+CgkJPHBhcmFtIG5hbWU9IkxvY2F0aW9uSW5mbyIgdmFsdWU9InRydWUiLz4KCQk8YXBwZW5kZXItcmVmIHJlZj0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXJTeW5jIiAvPgoJPC9hcHBlbmRlcj4KCQoJPGFwcGVuZGVyIG5hbWU9IkNvbnNvbGVBcHBlbmRlclN5bmMiIGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLkNvbnNvbGVBcHBlbmRlciI+CgkJPHBhcmFtIG5hbWU9IlRocmVzaG9sZCIgdmFsdWU9ImRlYnVnIiAvPgoJCTxsYXlvdXQgY2xhc3M9Im9yZy5hcGFjaGUubG9nNGouUGF0dGVybkxheW91dCI+CgkJCTxwYXJhbSBuYW1lPSJDb252ZXJzaW9uUGF0dGVybiIgdmFsdWU9IiVke3l5eXktTU0tZGQgSEg6bW06c3N9ICglcCk6ICVjezF9LiVNKCVMKSAlbSVuIiAvPgoJCTwvbGF5b3V0PgoJPC9hcHBlbmRlcj4KCQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi5jb2xsZWN0LkltbXV0YWJsZVNldDsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hbnRsci5ydW50aW1lLm1pc2MuU3RhdHM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gd2l0aE5hbWVzCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi5jb2xsZWN0LkltbXV0YWJsZVNldDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gd2l0aE5hbWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>308</text>
