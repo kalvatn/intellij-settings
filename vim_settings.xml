@@ -31,12 +31,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1550515099986">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1550516885673">
         <mark key="'" line="22" column="49" />
-        <mark key="[" line="1458" column="0" />
-        <mark key="]" line="1458" column="0" />
-        <mark key="." line="1458" column="0" />
-        <mark key="^" line="1460" column="41" />
+        <mark key="[" line="1788" column="62" />
+        <mark key="]" line="1788" column="65" />
+        <mark key="." line="1788" column="65" />
+        <mark key="^" line="1788" column="65" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-common/2019.1.1-SNAPSHOT/ingame-betting-common-2019.1.1-20190206.064553-212.jar!/com/oddsarbitrage/liveodds/server/SubType.class" timestamp="1549543200142">
         <mark key="'" line="922" column="13" />
@@ -165,10 +165,10 @@
         <mark key="^" line="41" column="27" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/PitchLocationEvent.java" timestamp="1550145935528">
-        <mark key="[" line="237" column="19" />
-        <mark key="]" line="237" column="21" />
-        <mark key="^" line="237" column="21" />
-        <mark key="." line="237" column="21" />
+        <mark key="[" line="234" column="19" />
+        <mark key="]" line="234" column="21" />
+        <mark key="^" line="234" column="21" />
+        <mark key="." line="234" column="21" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/feeds/MatchOdds.java" timestamp="1549543638799">
         <mark key="[" line="380" column="24" />
@@ -301,11 +301,11 @@
       <jump line="22" column="49" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5zZXRUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldEluanVyeVRpbWUoRXZlbnQuTk9fVElNRSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>matchMillis</text>
       </register>
       <register name="-" type="4">
-        <text>MatchTime</text>
+        <text>matchMillis</text>
       </register>
       <register name="/" type="4">
         <text>updateTime</text>
