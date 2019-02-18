@@ -25,16 +25,17 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1550146060123">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="273" column="16" />
-        <mark key="]" line="280" column="9" />
-        <mark key="^" line="280" column="9" />
-        <mark key="." line="280" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1550501297543">
+        <mark key="'" line="303" column="0" />
+        <mark key="[" line="310" column="0" />
+        <mark key="]" line="310" column="0" />
+        <mark key="^" line="288" column="0" />
+        <mark key="." line="310" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1550500215205">
-        <mark key="[" line="227" column="22" />
-        <mark key="]" line="228" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1550501285299">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="237" column="1" />
         <mark key="." line="228" column="34" />
         <mark key="^" line="228" column="34" />
       </file>
@@ -48,10 +49,12 @@
     <jumps>
       <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console.sql" />
       <jump line="73" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" />
+      <jump line="200" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
+      <jump line="303" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGVmdCBqb2luIGxpdmVzY29yZV8K</text>
+        <text encoding="base64">NTIxMTA3ODc5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -60,34 +63,34 @@
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUgd2hlcmUgZS5tYXRjaGlkID0gMTUxMTk2MzMK</text>
+        <text encoding="base64">c2VsZWN0IGUudGltZSwgZS5tYXRjaHRpbWUsIGUuaW5qdXJ5dGltZSwgZS5pbmp1cnltYXRjaHRpbWUsIGUuKgpmcm9tIGxpdmVzY29yZV9ldmVudF90b3AgZQp3aGVyZSBlLmlkID0gNTIxMTA3ODc5CjsKCnNlbGVjdCBzLm5hbWUsIGUudGltZSwgZS5tYXRjaHRpbWUsIGUuaW5qdXJ5dGltZSwgZS5pbmp1cnltYXRjaHRpbWUsIGUuKgpmcm9tIGxpdmVzY29yZV9ldmVudCBlCmxlZnQgam9pbiBsaXZlc2NvcmVfc291cmNlIHMgb24gcy5pZCA9IGUuc291cmNlaWQKd2hlcmUgZS5tYXRjaGlkID0gMTQ4OTQ0NDUKICBhbmQgZS5ldmVudHR5cGUgPSAzMAogIGFuZCBlLnBhcmFtMSA9IDIgYW5kIGUucGFyYW0yID0gMgo7CgpzZWxlY3QgKgpmcm9tIGxpdmVzY29yZV9ldmVudF90b3BfY2hhbmdlIGUKd2hlcmUgZS5pZCA9IDUyMTEwNzg3OTsKCgpzZWxlY3QgKiBmcm9tIGZpbGVzZW5kZXJkZWZpbml0b24gZnNkIHdoZXJlIGZzZC5JZCBpbiAoNjc2NCwgNjY0OSkKOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGVmdCBqb2luIGxpdmVzY29yZV8K</text>
+        <text encoding="base64">NTIxMTA3ODc5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wX2NoYW5nZSBlIHdoZXJlIGUuaWQgPSA1MjExMDc4NzkK</text>
+        <text encoding="base64">bGVmdCBqb2luIGxpdmVzY29yZV8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5kIGZzZC5DYXRhbG9nTmFtZSBsaWtlICIlZGVlcGVyJSIK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wX2NoYW5nZSBlIHdoZXJlIGUuaWQgPSA1MjExMDc4NzkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YW5kIGYuY3JlYXRlZF9hdCA+PSBOT1coKSAtIGludGVydmFsIDMgaG91cgo=</text>
+        <text encoding="base64">YW5kIGZzZC5DYXRhbG9nTmFtZSBsaWtlICIlZGVlcGVyJSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">YW5kIGYuY3JlYXRlZF9hdCA+PSBOT1coKSAtIGludGVydmFsIDMgaG91cgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Owo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgam9pbiByZWFsY2F0ZWdvcnkgcmMgb24gcmMuUkVBTENBVEVHT1JZSUQgPSB0LlJFQUxDQVRFR09SWUlECiAgICAgICAgICAgIGpvaW4gc3BvcnR0YWJsZSBzcG9ydCBvbiBzcG9ydC5TUE9SVElEID0gcmMuU1BPUlRJRAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Z3V0aF9tYXRjaHRhYmxlIGdtCiAgICAgICAgICAgIGxlZnQgam9pbiA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBwYXJhbTM9MiwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">MTEwMwo=</text>
+        <text encoding="base64">ICBwYXJhbTM9MiwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
@@ -108,6 +111,8 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
