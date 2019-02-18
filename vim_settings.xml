@@ -106,6 +106,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="74" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" timestamp="1550493079708">
+        <mark key="[" line="451" column="24" />
+        <mark key="]" line="459" column="44" />
+        <mark key="." line="459" column="44" />
+        <mark key="^" line="459" column="44" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" timestamp="1549466042121">
         <mark key="'" line="200" column="16" />
       </file>
@@ -264,10 +270,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>time</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>time</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>setTime</text>
