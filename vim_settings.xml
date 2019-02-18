@@ -33,6 +33,9 @@
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" timestamp="1549970534362">
         <mark key="'" line="224" column="26" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" timestamp="1550494797985">
+        <mark key="'" line="2816" column="69" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VirtualGamesProblemDetector.java" timestamp="1549466606024">
         <mark key="[" line="581" column="57" />
         <mark key="]" line="581" column="58" />
@@ -167,13 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="57" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
-      <jump line="149" column="47" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/liveodds/livescore/LiveoddsToLivescore.java" />
-      <jump line="62" column="73" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190204.115517-268.jar!/com/oddsarbitrage/scout/AstMatch.class" />
-      <jump line="87" column="14" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190204.115517-268.jar!/com/oddsarbitrage/scout/AstMatch.class" />
-      <jump line="126" column="36" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190204.115517-268.jar!/com/oddsarbitrage/scout/AstMatch.class" />
-      <jump line="449" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
-      <jump line="122" column="28" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="140" column="12" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="492" column="29" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
       <jump line="723" column="39" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreComponent.java" />
@@ -267,6 +263,13 @@
       <jump line="1723" column="17" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="60" column="0" filename="/work/projects/gitlab/livescore/common/src/main/resources/log4j.xml" />
       <jump line="1700" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="120" column="77" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
+      <jump line="2716" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
+      <jump line="2720" column="22" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
+      <jump line="2733" column="23" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
+      <jump line="2734" column="35" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
+      <jump line="2711" column="16" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
+      <jump line="2816" column="69" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -276,7 +279,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>setTime</text>
+        <text>timeline</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBFdmVudFRpbWVJbmZvIHRpbWVJbmZvID0gRXZlbnRUaW1lSW5mby5idWlsZGVyKCkKICAgICAgICAgICAgICAgIC5tYXRjaE1pbGxpcyhuZXdFdmVudC5nZXRNYXRjaFRpbWUoKSkKICAgICAgICAgICAgICAgIC5tYXRjaE1pbnV0ZShuZXdFdmVudC5nZXRUaW1lKCkpCiAgICAgICAgICAgICAgICAuaW5qdXJ5TWlsbGlzKG5ld0V2ZW50LmdldEluanVyeU1hdGNoVGltZSgpKQogICAgICAgICAgICAgICAgLmluanVyeU1pbnV0ZShuZXdFdmVudC5nZXRJbmp1cnlUaW1lKCkpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsK</text>
@@ -313,9 +316,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setTime</last-search>
+      <last-search>timeline</last-search>
       <last-offset />
-      <last-pattern>setTime</last-pattern>
+      <last-pattern>timeline</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>XSSFCellStyle.BORDER_</last-substitute>
       <last-dir>1</last-dir>
@@ -323,8 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getValue</entry>
-        <entry>apache</entry>
         <entry>LiveMessageReceiver</entry>
         <entry>border</entry>
         <entry>XSSFCellStyle.BORDER_</entry>
@@ -343,6 +344,8 @@
         <entry>invoke</entry>
         <entry>updateTime</entry>
         <entry>setTime</entry>
+        <entry>scoreChange</entry>
+        <entry>timeline</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
