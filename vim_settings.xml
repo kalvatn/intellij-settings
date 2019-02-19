@@ -15,11 +15,7 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventTimeInfo.java" timestamp="1550516191421">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventTimeInfo.java" timestamp="1550516191421" />
       <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/EventTimeInfoTest.java" timestamp="1550499398826">
         <mark key="'" line="84" column="2" />
       </file>
@@ -31,12 +27,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1550523525803">
-        <mark key="'" line="22" column="49" />
-        <mark key="[" line="1747" column="11" />
-        <mark key="]" line="1747" column="21" />
-        <mark key="." line="1747" column="21" />
-        <mark key="^" line="1747" column="21" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1550569718941">
+        <mark key="'" line="1131" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-common/2019.1.1-SNAPSHOT/ingame-betting-common-2019.1.1-20190206.064553-212.jar!/com/oddsarbitrage/liveodds/server/SubType.class" timestamp="1549543200142">
         <mark key="'" line="922" column="13" />
@@ -67,7 +59,7 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/rule/DfcRule.java" timestamp="1550515474111">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
-        <mark key="^" line="118" column="32" />
+        <mark key="^" line="105" column="32" />
         <mark key="." line="104" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VDRCreateDefaultOddskeys.java" timestamp="1549541598057">
@@ -165,10 +157,10 @@
         <mark key="^" line="41" column="27" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/PitchLocationEvent.java" timestamp="1550145935528">
-        <mark key="[" line="234" column="19" />
-        <mark key="]" line="234" column="21" />
-        <mark key="^" line="234" column="21" />
-        <mark key="." line="234" column="21" />
+        <mark key="[" line="237" column="19" />
+        <mark key="]" line="237" column="21" />
+        <mark key="^" line="237" column="21" />
+        <mark key="." line="237" column="21" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/feeds/MatchOdds.java" timestamp="1549543638799">
         <mark key="[" line="380" column="24" />
@@ -199,11 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="33" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
-      <jump line="90" column="49" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
-      <jump line="94" column="49" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
-      <jump line="100" column="16" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
-      <jump line="113" column="16" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
       <jump line="116" column="16" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
       <jump line="123" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
       <jump line="126" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
@@ -299,6 +286,11 @@
       <jump line="197" column="19" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="78" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
       <jump line="22" column="49" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="21" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1128" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1129" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1130" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1131" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -308,7 +300,7 @@
         <text>queryBuilder</text>
       </register>
       <register name="/" type="4">
-        <text>updateTime</text>
+        <text>clone</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudC5zZXRUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldE1hdGNoVGltZShFdmVudC5OT19USU1FKTsKICAgICAgICBldmVudC5zZXRJbmp1cnlUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldEluanVyeU1hdGNoVGltZShFdmVudC5OT19USU1FKTsK</text>
@@ -345,9 +337,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updateTime</last-search>
+      <last-search>clone</last-search>
       <last-offset />
-      <last-pattern>updateTime</last-pattern>
+      <last-pattern>clone</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>XSSFCellStyle.BORDER_</last-substitute>
       <last-dir>1</last-dir>
@@ -355,7 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>weighty</entry>
         <entry>setBoldWeight</entry>
         <entry>weight</entry>
         <entry>GAMES_PITCHING</entry>
@@ -375,6 +366,7 @@
         <entry>main</entry>
         <entry>main(</entry>
         <entry>updateTime</entry>
+        <entry>clone</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
