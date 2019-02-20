@@ -12,10 +12,11 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-common/2019.1.1-SNAPSHOT/ingame-betting-common-2019.1.1-20190206.064553-212.jar!/com/oddsarbitrage/liveodds/server/SubType.class" timestamp="1549543200142">
         <mark key="'" line="922" column="13" />
       </file>
+      <file name="/work/projects/gitlab/java/source/conf/component_1025.classpath" timestamp="1550671921095" />
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190204.115517-268.jar!/com/oddsarbitrage/scout/AstMatch.class" timestamp="1549284599888">
         <mark key="'" line="126" column="36" />
       </file>
-      <file name="/work/projects/gitlab/java/source/conf/component_996.classpath" timestamp="1550669145270">
+      <file name="/work/projects/gitlab/java/source/conf/component_996.classpath" timestamp="1550671672469">
         <mark key="'" line="0" column="979" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VirtualGamesProblemDetector.java" timestamp="1549466606024">
@@ -288,7 +289,7 @@
         <text>queryBuilder</text>
       </register>
       <register name="/" type="4">
-        <text>poi</text>
+        <text>odds-models</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudC5zZXRUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldE1hdGNoVGltZShFdmVudC5OT19USU1FKTsKICAgICAgICBldmVudC5zZXRJbmp1cnlUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldEluanVyeU1hdGNoVGltZShFdmVudC5OT19USU1FKTsK</text>
@@ -325,17 +326,16 @@
       </register>
     </registers>
     <search>
-      <last-search>poi</last-search>
+      <last-search>odds-models</last-search>
       <last-offset />
-      <last-pattern>poi</last-pattern>
+      <last-pattern>odds-models</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
-      <last-substitute>XSSFCellStyle.BORDER_</last-substitute>
+      <last-substitute>odds-models</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PITCHING_STARTERS</entry>
         <entry>PITCHING_STARTERS_SACRIFICE</entry>
         <entry>replaceBetweenCorrect</entry>
         <entry>correct</entry>
@@ -355,6 +355,7 @@
         <entry>FreeText</entry>
         <entry>Builder</entry>
         <entry>poi</entry>
+        <entry>odds-models</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
