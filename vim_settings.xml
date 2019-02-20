@@ -22,11 +22,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" timestamp="1549549666670">
         <mark key="'" line="244" column="52" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/TestMatch2.java" timestamp="1549952411870">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1550569718941">
         <mark key="'" line="1131" column="21" />
       </file>
@@ -89,16 +84,6 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/data/LivescoreFreemarkerTest.java" timestamp="1549952359953">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/work/projects/gitlab/java/league-standings-builder/src/main/java/com/oddsarbitrage/statistics/dbdata/ext/Match.java" timestamp="1549629845629">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/NewEventRecord.java" timestamp="1550514714907">
         <mark key="[" line="173" column="41" />
         <mark key="]" line="193" column="169" />
@@ -116,6 +101,9 @@
         <mark key="]" line="226" column="102" />
         <mark key="." line="226" column="100" />
         <mark key="^" line="226" column="87" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/betfaircomparison2/BF_3Way_Comparer.java" timestamp="1550663343881">
+        <mark key="'" line="22" column="47" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XSSFFontInfoWrapper.java" timestamp="1549551239524">
         <mark key="[" line="50" column="0" />
@@ -184,8 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="16" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
-      <jump line="123" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
       <jump line="126" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
       <jump line="129" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
       <jump line="132" column="20" filename="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/sports/volleyball/ScoutMatchDataVolleyball.class" />
@@ -284,6 +270,8 @@
       <jump line="1129" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="1130" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="1131" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="21" column="12" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/betfaircomparison2/BF_3Way_Comparer.java" />
+      <jump line="22" column="47" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/betfaircomparison2/BF_3Way_Comparer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -293,7 +281,7 @@
         <text>queryBuilder</text>
       </register>
       <register name="/" type="4">
-        <text>clone</text>
+        <text>MatchOdds</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudC5zZXRUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldE1hdGNoVGltZShFdmVudC5OT19USU1FKTsKICAgICAgICBldmVudC5zZXRJbmp1cnlUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldEluanVyeU1hdGNoVGltZShFdmVudC5OT19USU1FKTsK</text>
@@ -330,9 +318,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clone</last-search>
+      <last-search>MatchOdds</last-search>
       <last-offset />
-      <last-pattern>clone</last-pattern>
+      <last-pattern>MatchOdds</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>XSSFCellStyle.BORDER_</last-substitute>
       <last-dir>1</last-dir>
@@ -340,7 +328,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setBoldWeight</entry>
         <entry>weight</entry>
         <entry>GAMES_PITCHING</entry>
         <entry>PTICHING</entry>
@@ -360,6 +347,7 @@
         <entry>main(</entry>
         <entry>updateTime</entry>
         <entry>clone</entry>
+        <entry>MatchOdds</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
