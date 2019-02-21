@@ -157,7 +157,8 @@
       <file name="$MAVEN_REPOSITORY$/com/sportradar/ingame-betting-livedata/2019.1.1-SNAPSHOT/ingame-betting-livedata-2019.1.1-20190206.064621-280.jar!/com/oddsarbitrage/scout/AstMatch.class" timestamp="1549465984727">
         <mark key="'" line="600" column="130" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" timestamp="1550743540098">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" timestamp="1550761280188">
+        <mark key="'" line="307" column="14" />
         <mark key="[" line="259" column="15" />
         <mark key="]" line="259" column="17" />
         <mark key="." line="259" column="17" />
@@ -286,10 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="56" filename="/work/projects/gitlab/java/league-standings-builder/src/main/java/com/oddsarbitrage/common/Util4.java" />
-      <jump line="112" column="4" filename="/work/projects/gitlab/java/league-standings-builder/src/main/java/com/oddsarbitrage/common/Util4.java" />
-      <jump line="262" column="69" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
-      <jump line="224" column="26" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
       <jump line="225" column="12" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="223" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/PitchLocationEvent.java" />
       <jump line="1147" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
@@ -386,6 +383,10 @@
       <jump line="1575" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1624" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1625" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
+      <jump line="281" column="56" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
+      <jump line="217" column="67" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
+      <jump line="306" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
+      <jump line="307" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -395,7 +396,7 @@
         <text>== null</text>
       </register>
       <register name="/" type="4">
-        <text>odds-models</text>
+        <text>edited</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudC5zZXRUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldE1hdGNoVGltZShFdmVudC5OT19USU1FKTsKICAgICAgICBldmVudC5zZXRJbmp1cnlUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldEluanVyeU1hdGNoVGltZShFdmVudC5OT19USU1FKTsK</text>
@@ -432,9 +433,9 @@
       </register>
     </registers>
     <search>
-      <last-search>odds-models</last-search>
+      <last-search>edited</last-search>
       <last-offset />
-      <last-pattern>odds-models</last-pattern>
+      <last-pattern>edited</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>odds-models</last-substitute>
       <last-dir>1</last-dir>
@@ -442,9 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>invoke</entry>
-        <entry>setTime</entry>
-        <entry>scoreChange</entry>
         <entry>getMatchTime</entry>
         <entry>timeline</entry>
         <entry>main</entry>
@@ -462,6 +460,9 @@
         <entry>injuryTime</entry>
         <entry>MINUTES</entry>
         <entry>odds-models</entry>
+        <entry>handleScore</entry>
+        <entry>shots</entry>
+        <entry>edited</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
