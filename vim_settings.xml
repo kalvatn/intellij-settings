@@ -69,6 +69,9 @@
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/betfaircomparison2/BF_3Way_Comparer.java" timestamp="1550663343881">
         <mark key="'" line="22" column="47" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/SoccerStatistics.java" timestamp="1550742301988">
+        <mark key="'" line="194" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XSSFFontInfoWrapper.java" timestamp="1549551239524">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -182,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="6" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
       <jump line="165" column="36" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
       <jump line="166" column="38" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
       <jump line="167" column="35" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
@@ -282,6 +284,7 @@
       <jump line="1" column="0" filename="/work/projects/gitlab/java/source/conf/component_170.classpath" />
       <jump line="0" column="3568" filename="/work/projects/gitlab/java/source/conf/component_284.classpath" />
       <jump line="1" column="0" filename="/work/projects/gitlab/java/source/conf/component_1025.classpath" />
+      <jump line="194" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/SoccerStatistics.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -291,7 +294,7 @@
         <text>queryBuilder</text>
       </register>
       <register name="/" type="4">
-        <text>livedata</text>
+        <text>minutes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudC5zZXRUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldE1hdGNoVGltZShFdmVudC5OT19USU1FKTsKICAgICAgICBldmVudC5zZXRJbmp1cnlUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldEluanVyeU1hdGNoVGltZShFdmVudC5OT19USU1FKTsK</text>
@@ -328,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>livedata</last-search>
+      <last-search>minutes</last-search>
       <last-offset />
-      <last-pattern>livedata</last-pattern>
+      <last-pattern>minutes</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>odds-models</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>replaceBetweenCorrect</entry>
         <entry>correct</entry>
         <entry>removeBetweenCorrect</entry>
         <entry>isHandicap</entry>
@@ -358,6 +360,7 @@
         <entry>poi</entry>
         <entry>odds-models</entry>
         <entry>livedata</entry>
+        <entry>minutes</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
