@@ -142,8 +142,8 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1550745188324">
-        <mark key="'" line="1131" column="21" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1550751256604">
+        <mark key="'" line="1052" column="14" />
         <mark key="[" line="1220" column="49" />
         <mark key="]" line="1218" column="0" />
         <mark key="^" line="1218" column="0" />
@@ -203,6 +203,9 @@
         <mark key="." line="451" column="44" />
         <mark key="^" line="451" column="44" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/CHANGELOG.md" timestamp="1550750814061">
+        <mark key="'" line="1996" column="36" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/specialodds/generator/beachvolleyball/BeachVolleyballIngame.java" timestamp="1549541570221">
         <mark key="[" line="192" column="131" />
         <mark key="]" line="192" column="135" />
@@ -229,14 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="36" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
-      <jump line="166" column="38" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
-      <jump line="167" column="35" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
-      <jump line="169" column="28" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
-      <jump line="211" column="36" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
-      <jump line="212" column="61" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
-      <jump line="214" column="19" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
-      <jump line="215" column="24" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
       <jump line="244" column="52" filename="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" />
       <jump line="80" column="44" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XlsBorderStyle.java" />
       <jump line="164" column="10" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/bpr/render/xls/XlsBorderStyle.java" />
@@ -329,6 +324,14 @@
       <jump line="0" column="3568" filename="/work/projects/gitlab/java/source/conf/component_284.classpath" />
       <jump line="1" column="0" filename="/work/projects/gitlab/java/source/conf/component_1025.classpath" />
       <jump line="194" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/SoccerStatistics.java" />
+      <jump line="1995" column="45" filename="/work/projects/gitlab/livescore/common/CHANGELOG.md" />
+      <jump line="1996" column="36" filename="/work/projects/gitlab/livescore/common/CHANGELOG.md" />
+      <jump line="2858" column="3" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="3299" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="3315" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="3340" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="3356" column="12" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1052" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -338,7 +341,7 @@
         <text>== null</text>
       </register>
       <register name="/" type="4">
-        <text>minutes</text>
+        <text>injuryTime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBldmVudC5zZXRUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldE1hdGNoVGltZShFdmVudC5OT19USU1FKTsKICAgICAgICBldmVudC5zZXRJbmp1cnlUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldEluanVyeU1hdGNoVGltZShFdmVudC5OT19USU1FKTsK</text>
@@ -375,9 +378,9 @@
       </register>
     </registers>
     <search>
-      <last-search>minutes</last-search>
+      <last-search>injuryTime</last-search>
       <last-offset />
-      <last-pattern>minutes</last-pattern>
+      <last-pattern>injuryTime</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>odds-models</last-substitute>
       <last-dir>1</last-dir>
@@ -385,8 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>correct</entry>
-        <entry>removeBetweenCorrect</entry>
         <entry>isHandicap</entry>
         <entry>invoke</entry>
         <entry>setTime</entry>
@@ -405,6 +406,8 @@
         <entry>odds-models</entry>
         <entry>livedata</entry>
         <entry>minutes</entry>
+        <entry>QCI</entry>
+        <entry>injuryTime</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
