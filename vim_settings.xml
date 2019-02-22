@@ -29,6 +29,9 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1550837485428">
+        <mark key="'" line="710" column="40" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/specialodds/util/PrematchTemplate.java" timestamp="1550663978328">
         <mark key="'" line="697" column="22" />
       </file>
@@ -73,6 +76,12 @@
       </file>
       <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/statistics/Statistics.java" timestamp="1549557139128">
         <mark key="'" line="795" column="2" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1550837375330">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/RugbyStatistics.java" timestamp="1550743692474">
         <mark key="[" line="110" column="18" />
@@ -287,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="12" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/schedule/ScheduleAndResultServiceBean.java" />
       <jump line="223" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/PitchLocationEvent.java" />
       <jump line="1147" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="1723" column="17" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
@@ -387,19 +395,20 @@
       <jump line="217" column="67" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
       <jump line="306" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
       <jump line="307" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
+      <jump line="710" column="40" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>== null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RW52aXJvbm1lbnQgPSBAZW52QAo=</text>
       </register>
       <register name="-" type="4">
         <text>== null</text>
       </register>
       <register name="/" type="4">
-        <text>edited</text>
+        <text>postEvent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5zZXRUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldE1hdGNoVGltZShFdmVudC5OT19USU1FKTsKICAgICAgICBldmVudC5zZXRJbmp1cnlUaW1lKEV2ZW50Lk5PX1RJTUUpOwogICAgICAgIGV2ZW50LnNldEluanVyeU1hdGNoVGltZShFdmVudC5OT19USU1FKTsK</text>
+        <text encoding="base64">RW52aXJvbm1lbnQgPSBAZW52QAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihpIC0+IGkgPiAwKQo=</text>
@@ -433,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>edited</last-search>
+      <last-search>postEvent</last-search>
       <last-offset />
-      <last-pattern>edited</last-pattern>
+      <last-pattern>postEvent</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>odds-models</last-substitute>
       <last-dir>1</last-dir>
@@ -443,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getMatchTime</entry>
         <entry>timeline</entry>
         <entry>main</entry>
         <entry>main(</entry>
@@ -463,6 +471,7 @@
         <entry>handleScore</entry>
         <entry>shots</entry>
         <entry>edited</entry>
+        <entry>postEvent</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzskLy9n</entry>
