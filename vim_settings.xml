@@ -459,7 +459,7 @@
         <text encoding="base64">Pj4+Pj4+PiBXSVA6IHVwZ3JhZGluZyBiZXR0aW5nL29kZHMgbGlicyB0byAyMDE5LjEuMQo=</text>
       </register>
       <register name=":" type="4">
-        <text>308</text>
+        <text>21</text>
       </register>
     </registers>
     <search>
@@ -511,10 +511,10 @@
         <entry>%s/MatchOdds.type/MatchOddsType.type/g</entry>
         <entry>47</entry>
         <entry>56</entry>
-        <entry>21</entry>
         <entry>%s/XSSFCellStyle.BORDER_/org.apache.poi.ss.usermodel.BorderStyle./gc</entry>
         <entry>set ignorecase</entry>
         <entry>308</entry>
+        <entry>21</entry>
       </history-cmd>
       <history-expr />
       <history-input />
