@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1551180796112">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="349" column="1" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1551106414798">
         <mark key="[" line="0" column="6" />
       </file>
@@ -15,9 +19,26 @@
         <mark key="^" line="339" column="34" />
         <mark key="." line="339" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" timestamp="1551180792730">
+        <mark key="'" line="71" column="28" />
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="319" column="33" />
+        <mark key="^" line="316" column="27" />
+        <mark key="." line="316" column="27" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="71" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/livescore.sql" />
+      <jump line="24" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnR0eXBlCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnR0eXBlCg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
