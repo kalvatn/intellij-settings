@@ -196,12 +196,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" timestamp="1549549666670">
         <mark key="'" line="244" column="52" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1551176372579">
-        <mark key="'" line="1052" column="14" />
-        <mark key="[" line="1442" column="0" />
-        <mark key="]" line="1442" column="0" />
-        <mark key="^" line="1446" column="49" />
-        <mark key="." line="1442" column="0" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1551180748688">
+        <mark key="'" line="59" column="26" />
+        <mark key="[" line="92" column="32" />
+        <mark key="]" line="92" column="31" />
+        <mark key="^" line="92" column="31" />
+        <mark key="." line="92" column="31" />
       </file>
       <file name="/work/projects/gitlab/java/source/conf/component_1161.classpath" timestamp="1550755875585">
         <mark key="[" line="0" column="443" />
@@ -301,9 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2733" column="23" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="2734" column="35" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="2711" column="16" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="2816" column="69" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="162" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="835" column="64" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
@@ -401,19 +398,22 @@
       <jump line="270" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="263" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="252" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="1444" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="58" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="59" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdFdmVudCk7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBFWFRSQTFfU0NPUkUgPSA0MTsKICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBFWFRSQTJfU0NPUkUgPSA0MjsK</text>
       </register>
       <register name="-" type="4">
         <text>injuryTime</text>
       </register>
       <register name="/" type="4">
-        <text>ingame-betting</text>
+        <text>EXTRA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmluZ2FtZS1iZXR0aW5nLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwMTkuMS4yPC92ZXJzaW9uPgogICAgICAgICAgICA8ZXhjbHVzaW9ucz4KICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3BvcnRyYWRhci1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBFWFRSQTFfU0NPUkUgPSA0MTsKICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBFWFRSQTJfU0NPUkUgPSA0MjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdFdmVudCk7Cg==</text>
@@ -447,9 +447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ingame-betting</last-search>
+      <last-search>EXTRA</last-search>
       <last-offset />
-      <last-pattern>ingame-betting</last-pattern>
+      <last-pattern>EXTRA</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>odds-models</last-substitute>
       <last-dir>1</last-dir>
@@ -457,7 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateTime</entry>
         <entry>clone</entry>
         <entry>MatchOdds</entry>
         <entry>MarketType</entry>
@@ -477,6 +476,7 @@
         <entry>injurytime</entry>
         <entry>datamodel</entry>
         <entry>ingame-betting</entry>
+        <entry>EXTRA</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvKS9n</entry>
