@@ -45,7 +45,8 @@
       <file name="/work/projects/gitlab/java/source/conf/component_1025.classpath" timestamp="1550740288301">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1551183436823">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1551184710388">
+        <mark key="'" line="826" column="2" />
         <mark key="[" line="888" column="19" />
         <mark key="]" line="889" column="18" />
         <mark key="." line="889" column="18" />
@@ -317,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="835" column="64" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="1040" column="50" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="3755" column="27" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
@@ -417,6 +417,7 @@
       <jump line="58" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="59" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="14" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ScoreChangeEvent.java" />
+      <jump line="826" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -426,7 +427,7 @@
         <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>clone</text>
+        <text>saveStatus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4dHJhMkhvbWUgPSAwOwogICAgZXh0cmEyQXdheSA9IDA7Cg==</text>
@@ -463,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clone</last-search>
+      <last-search>saveStatus</last-search>
       <last-offset />
-      <last-pattern>clone</last-pattern>
+      <last-pattern>saveStatus</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>odds-models</last-substitute>
       <last-dir>1</last-dir>
@@ -473,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MatchOdds</entry>
         <entry>MarketType</entry>
         <entry>FreeText</entry>
         <entry>Builder</entry>
@@ -493,6 +493,7 @@
         <entry>ingame-betting</entry>
         <entry>EXTRA</entry>
         <entry>clone</entry>
+        <entry>saveStatus</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvKS9n</entry>
