@@ -227,8 +227,12 @@
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" timestamp="1549970534362">
         <mark key="'" line="224" column="26" />
       </file>
-      <file name="/work/projects/gitlab/java/source/conf/component_453.classpath" timestamp="1551254776458">
-        <mark key="'" line="0" column="2142" />
+      <file name="/work/projects/gitlab/java/source/conf/component_453.classpath" timestamp="1551255775185">
+        <mark key="'" line="0" column="1924" />
+        <mark key="[" line="0" column="3163" />
+        <mark key="]" line="0" column="3162" />
+        <mark key="." line="0" column="3162" />
+        <mark key="^" line="0" column="3162" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/DeepCoverageBasketMatch.java" timestamp="1550742855482">
         <mark key="[" line="155" column="10" />
@@ -294,7 +298,7 @@
       <file name="/work/projects/gitlab/livescore/common/CHANGELOG.md" timestamp="1550750814061">
         <mark key="'" line="1996" column="36" />
       </file>
-      <file name="/work/projects/gitlab/java/source/conf/component_403.classpath" timestamp="1551097509080">
+      <file name="/work/projects/gitlab/java/source/conf/component_403.classpath" timestamp="1551255716684">
         <mark key="'" line="0" column="3089" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/specialodds/generator/beachvolleyball/BeachVolleyballIngame.java" timestamp="1549541570221">
@@ -330,23 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="20" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="1136" column="52" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="1153" column="25" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="1194" column="13" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="3471" column="33" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="84" column="2" filename="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/EventTimeInfoTest.java" />
-      <jump line="3474" column="38" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="3984" column="9" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="197" column="19" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="78" column="0" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" />
-      <jump line="22" column="49" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="21" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="1128" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="1129" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="1130" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="1131" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="21" column="12" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/betfaircomparison2/BF_3Way_Comparer.java" />
       <jump line="22" column="47" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/betfaircomparison2/BF_3Way_Comparer.java" />
       <jump line="25" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/specialodds/util/PrematchTemplate.java" />
       <jump line="341" column="34" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/specialodds/util/PrematchTemplate.java" />
@@ -428,15 +415,32 @@
       <jump line="365" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="622" column="60" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="142" column="41" filename="$MAVEN_REPOSITORY$/com/sportradar/common/filesender/common/1.0.3/common-1.0.3-sources.jar!/com/betradar/filesender/cleaner/FileSendQueueCleanerComponent.java" />
+      <jump line="91" column="22" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="24" column="18" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="30" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="32" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="55" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="56" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="62" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="70" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="71" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="77" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="84" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="86" column="14" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="87" column="19" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="88" column="19" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="90" column="21" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="92" column="22" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="58" column="0" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
       <jump line="1" column="0" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
-      <jump line="0" column="2142" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="0" column="1924" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICghSUdOT1JFX1NDT1JFX1NPVVJDRVMuY29udGFpbnMoZ2V0U291cmNlSWQoKSkpIHsKICAgICAgaW1wbGllZEV2ZW50cy5hZGQobmV3IEV4dHJhWFNjb3JlRXZlbnQobWF0Y2guZ2V0Q3VycmVudEhvbWVTY29yZSgpLCBtYXRjaC5nZXRDdXJyZW50QXdheVNjb3JlKCksIHByZXZpb3VzUGVyaW9kLCBtYXRjaCwgZ2V0U291cmNlSWQoKSkpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>commons</text>
       </register>
       <register name="-" type="4">
-        <text>currentPeriod</text>
+        <text>commons</text>
       </register>
       <register name="/" type="4">
         <text>collections</text>
@@ -472,23 +476,20 @@
         <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoU3RyaW5nLmZvcm1hdCgiY2Fubm90IHBhcnNlIHBhcmFtMyAiLCApKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>1444</text>
+        <text>%s/;/\n\r/g</text>
       </register>
     </registers>
     <search>
       <last-search>collections</last-search>
       <last-offset />
       <last-pattern>collections</last-pattern>
-      <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
-      <last-substitute>odds-models</last-substitute>
+      <last-replace>\n\r</last-replace>
+      <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>injuryTime</entry>
-        <entry>MINUTES</entry>
-        <entry>odds-models</entry>
         <entry>handleScore</entry>
         <entry>shots</entry>
         <entry>edited</entry>
@@ -505,11 +506,12 @@
         <entry>!= null</entry>
         <entry>addFilese</entry>
         <entry>addFiles</entry>
+        <entry>;</entry>
+        <entry>common</entry>
+        <entry>commons</entry>
         <entry>collections</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvKS9n</entry>
-        <entry encoding="base64">JzwsJz5zLz0+LywvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLyQvOy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLzovLCAwKTsvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLzovLCAwKS9nYw==</entry>
@@ -528,6 +530,8 @@
         <entry>308</entry>
         <entry>21</entry>
         <entry>1444</entry>
+        <entry>%s/;/\n/g</entry>
+        <entry>%s/;/\n\r/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
