@@ -154,6 +154,13 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="74" />
       </file>
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1551263544039">
+        <mark key="'" line="15" column="57" />
+        <mark key="[" line="804" column="27" />
+        <mark key="]" line="804" column="30" />
+        <mark key="." line="804" column="30" />
+        <mark key="^" line="804" column="30" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatisticsProcessor.java" timestamp="1550743638826">
         <mark key="[" line="67" column="21" />
         <mark key="]" line="67" column="25" />
@@ -327,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="47" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/betfaircomparison2/BF_3Way_Comparer.java" />
       <jump line="25" column="4" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/specialodds/util/PrematchTemplate.java" />
       <jump line="341" column="34" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/specialodds/util/PrematchTemplate.java" />
       <jump line="343" column="6" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/specialodds/util/PrematchTemplate.java" />
@@ -427,19 +433,20 @@
       <jump line="58" column="0" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
       <jump line="1" column="0" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
       <jump line="0" column="1924" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="15" column="57" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>commons</text>
+        <text>filesender</text>
       </register>
       <register name="-" type="4">
-        <text>commons</text>
+        <text>filesender</text>
       </register>
       <register name="/" type="4">
-        <text>collections</text>
+        <text>resource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBJbnRlZ2VyLnRvU3RyaW5nKFBBVVNFXzUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlc291cmNlPgogICAgICAgICAgICAgICAgPGRpcmVjdG9yeT5maWxlc2VuZGVyPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDwvcmVzb3VyY2U+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmICghSUdOT1JFX1NDT1JFX1NPVVJDRVMuY29udGFpbnMoZ2V0U291cmNlSWQoKSkpIHsKICAgICAgaW1wbGllZEV2ZW50cy5hZGQobmV3IEV4dHJhWFNjb3JlRXZlbnQobWF0Y2guZ2V0Q3VycmVudEhvbWVTY29yZSgpLCBtYXRjaC5nZXRDdXJyZW50QXdheVNjb3JlKCksIHByZXZpb3VzUGVyaW9kLCBtYXRjaCwgZ2V0U291cmNlSWQoKSkpOwogICAgfQo=</text>
@@ -473,9 +480,9 @@
       </register>
     </registers>
     <search>
-      <last-search>collections</last-search>
+      <last-search>resource</last-search>
       <last-offset />
-      <last-pattern>collections</last-pattern>
+      <last-pattern>resource</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -483,7 +490,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handleScore</entry>
         <entry>shots</entry>
         <entry>edited</entry>
         <entry>postEvent</entry>
@@ -503,6 +509,7 @@
         <entry>common</entry>
         <entry>commons</entry>
         <entry>collections</entry>
+        <entry>resource</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvOy9nYw==</entry>
