@@ -211,6 +211,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFCellStyle.java" timestamp="1549549666670">
         <mark key="'" line="244" column="52" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/common/filesender/common/1.0.3/common-1.0.3-sources.jar!/com/betradar/filesender/cleaner/MetaFile.java" timestamp="1551254705971" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1551182217828">
         <mark key="'" line="59" column="26" />
       </file>
@@ -225,6 +226,9 @@
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" timestamp="1549970534362">
         <mark key="'" line="224" column="26" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/conf/component_453.classpath" timestamp="1551254776458">
+        <mark key="'" line="0" column="2142" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/DeepCoverageBasketMatch.java" timestamp="1550742855482">
         <mark key="[" line="155" column="10" />
@@ -261,6 +265,9 @@
         <mark key="]" line="14" column="29" />
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/common/filesender/common/1.0.3/common-1.0.3-sources.jar!/com/betradar/filesender/cleaner/FileSendQueueCleanerComponent.java" timestamp="1551254673520">
+        <mark key="'" line="142" column="41" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/shittyutilsthatshouldnotexistinjavasource/VolleyballLeagueBreakProbabilityUtilityWrapperForScoutMatchDataVolleyballUtil.java" timestamp="1549541459575">
         <mark key="[" line="26" column="5" />
@@ -311,6 +318,7 @@
         <mark key="." line="304" column="20" />
         <mark key="^" line="304" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/net/sf/jxls/jxls-core/1.0.5/jxls-core-1.0.5-sources.jar!/net/sf/jxls/transformer/XLSTransformer.java" timestamp="1551254721568" />
       <file name="/fragment.java" timestamp="1551186344368">
         <mark key="[" line="0" column="0" />
       </file>
@@ -322,9 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1197" column="17" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="1196" column="14" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
-      <jump line="108" column="12" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="116" column="20" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="1136" column="52" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
       <jump line="1153" column="25" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/filesender2/dom/LiveScoreDOMGenerator.java" />
@@ -422,6 +427,9 @@
       <jump line="337" column="18" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="365" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="622" column="60" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
+      <jump line="142" column="41" filename="$MAVEN_REPOSITORY$/com/sportradar/common/filesender/common/1.0.3/common-1.0.3-sources.jar!/com/betradar/filesender/cleaner/FileSendQueueCleanerComponent.java" />
+      <jump line="1" column="0" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
+      <jump line="0" column="2142" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -431,7 +439,7 @@
         <text>currentPeriod</text>
       </register>
       <register name="/" type="4">
-        <text>!= null</text>
+        <text>collections</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBJbnRlZ2VyLnRvU3RyaW5nKFBBVVNFXzUpLAo=</text>
@@ -468,9 +476,9 @@
       </register>
     </registers>
     <search>
-      <last-search>!= null</last-search>
+      <last-search>collections</last-search>
       <last-offset />
-      <last-pattern>!= null</last-pattern>
+      <last-pattern>collections</last-pattern>
       <last-replace>org.apache.poi.ss.usermodel.BorderStyle.</last-replace>
       <last-substitute>odds-models</last-substitute>
       <last-dir>1</last-dir>
@@ -478,9 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>livedata</entry>
-        <entry>minutes</entry>
-        <entry>QCI</entry>
         <entry>injuryTime</entry>
         <entry>MINUTES</entry>
         <entry>odds-models</entry>
@@ -498,6 +503,9 @@
         <entry>matchTime != null</entry>
         <entry>matchTime</entry>
         <entry>!= null</entry>
+        <entry>addFilese</entry>
+        <entry>addFiles</entry>
+        <entry>collections</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvKS9n</entry>
