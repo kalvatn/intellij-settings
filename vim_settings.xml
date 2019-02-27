@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1551255170867">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1551256960848">
         <mark key="'" line="24" column="31" />
-        <mark key="[" line="401" column="23" />
-        <mark key="]" line="401" column="23" />
-        <mark key="." line="401" column="23" />
-        <mark key="^" line="404" column="4" />
+        <mark key="[" line="401" column="36" />
+        <mark key="]" line="400" column="34" />
+        <mark key="." line="400" column="34" />
+        <mark key="^" line="400" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1551253052767">
         <mark key="[" line="223" column="58" />
@@ -57,7 +57,7 @@
         <text encoding="base64">c2VsZWMK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>10.200.4.63</text>
+        <text>%livescorefilesender%</text>
       </register>
       <register name="2" type="4">
         <text>c.ComponentId in
@@ -68,7 +68,7 @@
         <text encoding="base64">ICBqb2luIGxpdmVzY29yZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>10.200.4.63</text>
+        <text>%livescorefilesender%</text>
       </register>
     </registers>
     <search>
