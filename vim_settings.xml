@@ -355,11 +355,12 @@
         <mark key="." line="192" column="135" />
         <mark key="^" line="192" column="135" />
       </file>
-      <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/sportradar/environment/properties/PropertyLoader.java" timestamp="1551449645692">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="18" column="0" />
+      <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/sportradar/environment/properties/PropertyLoader.java" timestamp="1551453918526">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="25" />
+        <mark key="^" line="53" column="25" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VHCCreateDefaultOddskeys.java" timestamp="1549541641070">
         <mark key="[" line="41" column="27" />
@@ -490,7 +491,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludCBjb21wb25lbnRJZCA9IC0xOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgibG9hZGVkIHByb3BlcnRpZXMgZnJvbSBmaWxlc3lzdGVtIHBhdGggJyVzJyIsIHBhdGgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>64</text>
@@ -499,34 +500,34 @@
         <text>poi-3.17</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCJHRU5FUkFMIFBST1BFUlRJRVMiKTsK</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgibG9hZGVkIHByb3BlcnRpZXMgZnJvbSBmaWxlc3lzdGVtIHBhdGggJyVzJyIsIHBhdGgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBjb21wb25lbnRJZCA9IC0xOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgibG9hZGVkIHByb3BlcnRpZXMgZnJvbSBmaWxlc3lzdGVtIHBhdGggJyVzJyIsIHBhdGgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29tcG9uZW50SWQgPSBJbnRlZ2VyLnBhcnNlSW50KGFyZ3NbMF0pOwo=</text>
+        <text encoding="base64">ICAgIGludCBjb21wb25lbnRJZCA9IC0xOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExvZ1V0aWwuc2V0Um9vdEFwcGVuZGVyKExldmVsLkRFQlVHKTsK</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50SWQgPSBJbnRlZ2VyLnBhcnNlSW50KGFyZ3NbMF0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiY29tcG9uZW50aWQiLCBTdHJpbmcudmFsdWVPZig2NCkpOwo=</text>
+        <text encoding="base64">ICAgIExvZ1V0aWwuc2V0Um9vdEFwcGVuZGVyKExldmVsLkRFQlVHKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY29tcG9uZW50Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiY29tcG9uZW50aWQiLCBTdHJpbmcudmFsdWVPZig2NCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY29tcG9uZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoImNvbXBvbmVudC5wcm9wZXJ0aWVzIHNpemUgOiAlZCIsIGNwLnNpemUoKSkpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoImNvbXBvbmVudC5wcm9wZXJ0aWVzIHNpemUgOiAlZCIsIGNwLnNpemUoKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoU3RyaW5nIGtleSA6IGdwLmdldEF2YWlsYWJsZVByb3BlcnRpZXMoKSkgewogICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCIlcyA6ICVzIiwga2V5LCBncC5nZXRQcm9wZXJ0eShrZXkpKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
