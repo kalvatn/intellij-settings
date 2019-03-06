@@ -159,7 +159,6 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="74" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1551872820410" />
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1551721490389">
         <mark key="[" line="74" column="56" />
         <mark key="]" line="74" column="63" />
@@ -203,6 +202,7 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/immutable/builder/MatchBuilder.java" timestamp="1551877576208" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/AbstractStatistics.java" timestamp="1550757907088">
         <mark key="[" line="78" column="25" />
         <mark key="]" line="78" column="42" />
@@ -276,12 +276,10 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1551787687001" />
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/immutable/Event.java" timestamp="1551875895729">
-        <mark key="[" line="352" column="0" />
-        <mark key="]" line="352" column="0" />
-        <mark key="." line="352" column="0" />
-        <mark key="^" line="349" column="51" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/immutable/Event.java" timestamp="1551877470308">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="127" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/shittyutilsthatshouldnotexistinjavasource/VolleyballLeagueBreakProbabilityUtilityWrapperForScoutMatchDataVolleyballUtil.java" timestamp="1549541459575">
         <mark key="[" line="26" column="5" />
@@ -458,43 +456,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBhcmVkVGltZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5PVCBOVUxMIGV2ZW50IGlkICVkLCBwcmV2aW91c1RpbWUgOiAlZCIsIGV2ZW50LmdldElkKCksIHByZXZpb3VzVGltZSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">NDM2NSwgNjEwNCwgMTY5MSwg</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>shade</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gaWQgLSBvdGhlckhvbGRlci5pZDsK</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5VTEwgZXZlbnQgaWQgJWQsIHByZXZpb3VzVGltZSA6ICVkIiwgZXZlbnQuZ2V0SWQoKSwgcHJldmlvdXNUaW1lKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBhcmVkVGltZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5PVCBOVUxMIGV2ZW50IGlkICVkLCBwcmV2aW91c1RpbWUgOiAlZCIsIGV2ZW50LmdldElkKCksIHByZXZpb3VzVGltZSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChpbmp1cnlUaW1lID49IDAgJiYgb3RoZXJIb2xkZXIuaW5qdXJ5VGltZSA+PSAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNPTVBBUkUgVE8gIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQgLSBvdGhlckhvbGRlci5pZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBhcmVkVGltZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGltZSA+PSAwICYmIG90aGVySG9sZGVyLnRpbWUgPj0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChpbmp1cnlUaW1lID49IDAgJiYgb3RoZXJIb2xkZXIuaW5qdXJ5VGltZSA+PSAwKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQgLSBvdGhlckhvbGRlci5pZDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropertyQuery/Query/g</text>
