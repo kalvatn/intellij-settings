@@ -202,6 +202,7 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1551878380313" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/immutable/builder/MatchBuilder.java" timestamp="1551877576208" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/AbstractStatistics.java" timestamp="1550757907088">
         <mark key="[" line="78" column="25" />
@@ -276,11 +277,7 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/immutable/Event.java" timestamp="1551877470308">
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="127" />
-        <mark key="." line="261" column="0" />
-      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/immutable/Event.java" timestamp="1551878720760" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/shittyutilsthatshouldnotexistinjavasource/VolleyballLeagueBreakProbabilityUtilityWrapperForScoutMatchDataVolleyballUtil.java" timestamp="1549541459575">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="29" column="7" />
@@ -456,43 +453,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5PVCBOVUxMIGV2ZW50IGlkICVkLCBwcmV2aW91c1RpbWUgOiAlZCIsIGV2ZW50LmdldElkKCksIHByZXZpb3VzVGltZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5VTEwgZXZlbnQgaWQgJWQsIHByZXZpb3VzVGltZSA6ICVkIiwgZXZlbnQuZ2V0SWQoKSwgcHJldmlvdXNUaW1lKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>POSSESSION</text>
       </register>
       <register name="/" type="4">
         <text>shade</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5VTEwgZXZlbnQgaWQgJWQsIHByZXZpb3VzVGltZSA6ICVkIiwgZXZlbnQuZ2V0SWQoKSwgcHJldmlvdXNUaW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChldmVudC5nZXRUeXBlKCkgIT0gY29tLm9kZHNhcmJpdHJhZ2UubGl2ZXNjb3JlLmV2ZW50LkV2ZW50LlBPU1NFU1NJT04pIHsKICAgICAgICAgICAgcHJldmlvdXNUaW1lID0gTWF0aC5tYXgocHJldmlvdXNUaW1lLCBldmVudFRpbWUpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5PVCBOVUxMIGV2ZW50IGlkICVkLCBwcmV2aW91c1RpbWUgOiAlZCIsIGV2ZW50LmdldElkKCksIHByZXZpb3VzVGltZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5VTEwgZXZlbnQgaWQgJWQsIHByZXZpb3VzVGltZSA6ICVkIiwgZXZlbnQuZ2V0SWQoKSwgcHJldmlvdXNUaW1lKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJldmlvdXNUaW1lID0gTWF0aC5tYXgocHJldmlvdXNUaW1lLCBldmVudFRpbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByZXZpb3VzSW5qdXJ5VGltZSA9IE1hdGgubWF4KHByZXZpb3VzSW5qdXJ5VGltZSwgZXZlbnRJbmp1cnlUaW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNPTVBBUkUgVE8gIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5PVCBOVUxMIGV2ZW50IGlkICVkLCBwcmV2aW91c1RpbWUgOiAlZCIsIGV2ZW50LmdldElkKCksIHByZXZpb3VzVGltZSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBhcmVkVGltZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5PVCBOVUxMIGV2ZW50IGlkICVkLCBwcmV2aW91c1RpbWUgOiAlZCIsIGV2ZW50LmdldElkKCksIHByZXZpb3VzVGltZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChpbmp1cnlUaW1lID49IDAgJiYgb3RoZXJIb2xkZXIuaW5qdXJ5VGltZSA+PSAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNPTVBBUkUgVE8gIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQgLSBvdGhlckhvbGRlci5pZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBhcmVkVGltZTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropertyQuery/Query/g</text>
