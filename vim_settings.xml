@@ -12,6 +12,7 @@
       <file name="/a.dummy" timestamp="1551713747201">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/resultcomparison/ResultComparison.java" timestamp="1551968616752" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ExtraXScoreEvent.java" timestamp="1551183052919">
         <mark key="[" line="131" column="50" />
         <mark key="]" line="131" column="63" />
@@ -57,6 +58,7 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="43" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/alert/ScheduleWrongResultAlertSender.java" timestamp="1551968973592" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1550743350233">
         <mark key="[" line="2222" column="68" />
         <mark key="]" line="2222" column="71" />
@@ -453,17 +455,17 @@
       <jump line="855" column="36" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5VTEwgZXZlbnQgaWQgJWQsIHByZXZpb3VzVGltZSA6ICVkIiwgZXZlbnQuZ2V0SWQoKSwgcHJldmlvdXNUaW1lKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sportradar-common</text>
       </register>
       <register name="-" type="4">
-        <text>POSSESSION</text>
+        <text>sportradar-common</text>
       </register>
       <register name="/" type="4">
         <text>shade</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChldmVudC5nZXRUeXBlKCkgIT0gY29tLm9kZHNhcmJpdHJhZ2UubGl2ZXNjb3JlLmV2ZW50LkV2ZW50LlBPU1NFU1NJT04pIHsKICAgICAgICAgICAgcHJldmlvdXNUaW1lID0gTWF0aC5tYXgocHJldmlvdXNUaW1lLCBldmVudFRpbWUpOwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjAuMjk8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJFVkVOVCBUSU1FIE5VTEwgZXZlbnQgaWQgJWQsIHByZXZpb3VzVGltZSA6ICVkIiwgZXZlbnQuZ2V0SWQoKSwgcHJldmlvdXNUaW1lKSk7Cg==</text>
