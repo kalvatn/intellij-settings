@@ -102,10 +102,10 @@
         <mark key="^" line="37" column="26" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/MatchManager.java" timestamp="1551721627381">
-        <mark key="[" line="390" column="14" />
-        <mark key="]" line="390" column="23" />
-        <mark key="." line="390" column="23" />
-        <mark key="^" line="390" column="23" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="/work/projects/gitlab/java-common/filesender/common/pom.xml" timestamp="1551978346076">
         <mark key="[" line="33" column="0" />
@@ -130,12 +130,6 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="74" />
-      </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1551721490389">
-        <mark key="[" line="74" column="56" />
-        <mark key="]" line="74" column="63" />
-        <mark key="^" line="74" column="63" />
-        <mark key="." line="74" column="63" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VDROddsSaver.java" timestamp="1549543290726">
         <mark key="[" line="78" column="60" />
@@ -521,7 +515,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>filesender</text>
+        <text>promotion</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIFRpbWVJbnRlcnZhbCB0aW1lb3V0ID0gbmV3IFRpbWVJbnRlcnZhbChUaW1lVW5pdC5TRUNPTkRTLCAzMCk7Cg==</text>
@@ -559,9 +553,9 @@ new TimeInterval</text>
       </register>
     </registers>
     <search>
-      <last-search>filesender</last-search>
+      <last-search>promotion</last-search>
       <last-offset />
-      <last-pattern>filesender</last-pattern>
+      <last-pattern>promotion</last-pattern>
       <last-replace>Query</last-replace>
       <last-substitute>PropertyQuery</last-substitute>
       <last-dir>1</last-dir>
@@ -569,7 +563,6 @@ new TimeInterval</text>
     </search>
     <history>
       <history-search>
-        <entry>matchTime != null</entry>
         <entry>matchTime</entry>
         <entry>!= null</entry>
         <entry>addFilese</entry>
@@ -589,6 +582,7 @@ new TimeInterval</text>
         <entry>PropertyQuery</entry>
         <entry>shade</entry>
         <entry>filesender</entry>
+        <entry>promotion</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
