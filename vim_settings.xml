@@ -9,6 +9,10 @@
         <mark key="^" line="135" column="56" />
         <mark key="." line="135" column="56" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1552308927334" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_1.sql" timestamp="1552309387095">
+        <mark key="[" line="2" column="56" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
@@ -17,6 +21,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
