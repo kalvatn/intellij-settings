@@ -80,11 +80,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" timestamp="1552419136975">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="^" line="203" column="17" />
-        <mark key="." line="203" column="0" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" timestamp="1552422358922">
+        <mark key="[" line="220" column="106" />
+        <mark key="]" line="220" column="113" />
+        <mark key="^" line="220" column="113" />
+        <mark key="." line="220" column="113" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1550743350233">
         <mark key="[" line="2222" column="68" />
@@ -557,11 +557,11 @@
       <jump line="56" column="30" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PromotionManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, teamid</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>, teamid</text>
       </register>
       <register name="/" type="4">
         <text>promotion</text>
@@ -570,31 +570,31 @@
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvYWRpbmdDYWNoZTxJbnRlZ2VyLCBTdGF0aXN0aWNzUHJvbW90aW9udGFibGU+IHByb21vdGlvbkNhY2hlID0KICAgICAgQ2FjaGVCdWlsZGVyLm5ld0J1aWxkZXIoKQogICAgICAgICAgLmV4cGlyZUFmdGVyV3JpdGUoRHVyYXRpb24ub2ZIb3VycygxMikpCiAgICAgICAgICAuYnVpbGQoCiAgICAgICAgICAgICAgbmV3IENhY2hlTG9hZGVyPEludGVnZXIsIFN0YXRpc3RpY3NQcm9tb3Rpb250YWJsZT4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBTdGF0aXN0aWNzUHJvbW90aW9udGFibGUgbG9hZChATm9ubnVsbCBJbnRlZ2VyIGtleSkgewogICAgICAgICAgICAgICAgICByZXR1cm4gcHJvbW90aW9uRUFPLmZpbmRCeUlkKGtleSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMZWFndWVUYWJsZVByb21vdGlvbiBsZWFndWVUYWJsZVByb21vdGlvbiA9IHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oc3RhdGlzdGljc1RlYW1pbnRhYmxlLmdldE1hbnVhbFByb21vdGlvbigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZT4gcHJvbW90aW9ucyA9IHByb21vdGlvbkVBTy5nZXRQcm9tb3Rpb25zSW5UYWJsZShzdC5nZXRJZCgpKTsKLy8gICAgICAgICAgICBmb3IgKFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZSBwaXQgOiBwcm9tb3Rpb25zKSB7Ci8vICAgICAgICAgICAgICAgIExlYWd1ZVRhYmxlUHJvbW90aW9uIHByb20gPSBsZWFndWVUYWJsZU1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24ocGl0KTsKLy8gICAgICAgICAgICAgICAgaW50IHBvc2l0aW9uID0gcGl0LmdldFBvc2l0aW9uKCkgLSAxOwovLyAgICAgICAgICAgICAgICBpZiAocG9zaXRpb24gPCBsdC5nZXRUYWJsZVJvd3MoKS5zaXplKCkpIHsKLy8gICAgICAgICAgICAgICAgICAgIGx0LmdldFRhYmxlUm93cygpLmdldChwb3NpdGlvbikuc2V0UHJvbW90aW9uKHByb20pOwovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oU3RyaW5nLmZvcm1hdCgiUHJvbW90aW9uIGlnbm9yZWQ6ICVzLCBwb3MgJWQgc2l6ZSwgJWQiLCBwcm9tLmdldE5hbWUoKSwgcGl0LmdldFBvc2l0aW9uKCksIGx0LmdldFRhYmxlUm93cygpLnNpemUoKSkpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzaXplID0gbHQuZ2V0VGFibGVSb3dzKCkuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsb2cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMZWFndWVUYWJsZVByb21vdGlvbiBjcmVhdGVMZWFndWVUYWJsZVByb21vdGlvbihTdGF0aXN0aWNzUHJvbW90aW9uc2ludGFibGUgcGl0KSB7CiAgICAgICAgcmV0dXJuIG5ldyBMZWFndWVUYWJsZVByb21vdGlvbigKICAgICAgICAgICAgICAgIHBpdC5nZXRQcm9tb3Rpb25pZCgpLAogICAgICAgICAgICAgICAgcGl0LmdldFByb21vdGlvbigpLmdldFByb21vdGlvbm5hbWUoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZT4gcHJvbW90aW9ucyA9IHByb21vdGlvbkVBTy5nZXRQcm9tb3Rpb25zSW5UYWJsZShzdC5nZXRJZCgpKTsKLy8gICAgICAgICAgICBmb3IgKFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZSBwaXQgOiBwcm9tb3Rpb25zKSB7Ci8vICAgICAgICAgICAgICAgIExlYWd1ZVRhYmxlUHJvbW90aW9uIHByb20gPSBsZWFndWVUYWJsZU1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24ocGl0KTsKLy8gICAgICAgICAgICAgICAgaW50IHBvc2l0aW9uID0gcGl0LmdldFBvc2l0aW9uKCkgLSAxOwovLyAgICAgICAgICAgICAgICBpZiAocG9zaXRpb24gPCBsdC5nZXRUYWJsZVJvd3MoKS5zaXplKCkpIHsKLy8gICAgICAgICAgICAgICAgICAgIGx0LmdldFRhYmxlUm93cygpLmdldChwb3NpdGlvbikuc2V0UHJvbW90aW9uKHByb20pOwovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oU3RyaW5nLmZvcm1hdCgiUHJvbW90aW9uIGlnbm9yZWQ6ICVzLCBwb3MgJWQgc2l6ZSwgJWQiLCBwcm9tLmdldE5hbWUoKSwgcGl0LmdldFBvc2l0aW9uKCksIGx0LmdldFRhYmxlUm93cygpLnNpemUoKSkpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFtc0luVGFibGUgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICByZXR1cm4gdGVhbXNJblRhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzaXplID0gbHQuZ2V0VGFibGVSb3dzKCkuc2l6ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
