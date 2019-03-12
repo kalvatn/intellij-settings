@@ -80,12 +80,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" timestamp="1552410545246">
-        <mark key="'" line="202" column="37" />
-        <mark key="[" line="218" column="24" />
-        <mark key="]" line="217" column="69" />
-        <mark key="." line="217" column="69" />
-        <mark key="^" line="217" column="69" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" timestamp="1552413913341">
+        <mark key="[" line="210" column="78" />
+        <mark key="]" line="210" column="79" />
+        <mark key="^" line="210" column="79" />
+        <mark key="." line="210" column="79" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1550743350233">
         <mark key="[" line="2222" column="68" />
@@ -126,6 +125,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="442" column="1" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsPromotionsintable.java" timestamp="1552414295808">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VDRCreateDefaultOddskeys.java" timestamp="1549541598057">
         <mark key="[" line="35" column="27" />
@@ -227,6 +231,12 @@
         <mark key="[" line="388" column="0" />
         <mark key="]" line="392" column="5" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/PromotionEAO.java" timestamp="1552413671847">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="15" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatisticsProcessor.java" timestamp="1550743638826">
         <mark key="[" line="67" column="21" />
         <mark key="]" line="67" column="25" />
@@ -245,6 +255,12 @@
         <mark key="^" line="380" column="37" />
         <mark key="." line="380" column="37" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsPromotionsintablePK.java" timestamp="1552414357746">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VDROddsSaver.java" timestamp="1549543290726">
         <mark key="[" line="78" column="60" />
         <mark key="]" line="78" column="71" />
@@ -257,10 +273,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PromotionManager.java" timestamp="1552412793920">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PromotionManager.java" timestamp="1552415364581">
+        <mark key="'" line="53" column="30" />
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="44" column="25" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/immutable/Event.java" timestamp="1552037628196">
         <mark key="[" line="269" column="0" />
@@ -430,7 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="983" column="27" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1037" column="16" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1039" column="16" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1042" column="16" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
@@ -530,46 +547,47 @@
       <jump line="199" column="37" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
       <jump line="394" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" />
       <jump line="401" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" />
+      <jump line="56" column="30" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PromotionManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuZQo=</text>
+      <register name="&quot;" type="4">
+        <text>promotion</text>
       </register>
       <register name="-" type="4">
-        <text>NotNull</text>
+        <text>promotion</text>
       </register>
       <register name="/" type="4">
         <text>intable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTGVhZ3VlVGFibGVQcm9tb3Rpb24gY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oU3RhdGlzdGljc1Byb21vdGlvbnNpbnRhYmxlIHBpdCkgewogICAgcmV0dXJuIG5ldyBMZWFndWVUYWJsZVByb21vdGlvbihwaXQuZ2V0UHJvbW90aW9uaWQoKSwgcGl0LmdldFByb21vdGlvbigpLmdldFByb21vdGlvbm5hbWUoKSk7CiAgfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvYWRpbmdDYWNoZTxJbnRlZ2VyLCBTdGF0aXN0aWNzUHJvbW90aW9udGFibGU+IHByb21vdGlvbkNhY2hlID0KICAgICAgQ2FjaGVCdWlsZGVyLm5ld0J1aWxkZXIoKQogICAgICAgICAgLmV4cGlyZUFmdGVyV3JpdGUoRHVyYXRpb24ub2ZIb3VycygxMikpCiAgICAgICAgICAuYnVpbGQoCiAgICAgICAgICAgICAgbmV3IENhY2hlTG9hZGVyPEludGVnZXIsIFN0YXRpc3RpY3NQcm9tb3Rpb250YWJsZT4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBTdGF0aXN0aWNzUHJvbW90aW9udGFibGUgbG9hZChATm9ubnVsbCBJbnRlZ2VyIGtleSkgewogICAgICAgICAgICAgICAgICByZXR1cm4gcHJvbW90aW9uRUFPLmZpbmRCeUlkKGtleSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgT3B0aW9uYWw8TGVhZ3VlVGFibGVQcm9tb3Rpb24+IHByb21vdGlvbjsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwcml2YXRlIExlYWd1ZVRhYmxlUHJvbW90aW9uIGNyZWF0ZUxlYWd1ZVRhYmxlUHJvbW90aW9uKFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZSBwaXQpIHsKICAgIHJldHVybiBjcmVhdGVMZWFndWVUYWJsZVByb21vdGlvbihwaXQuZ2V0UHJvbW90aW9uaWQoKSk7CiAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBARUpCIHByaXZhdGUgU3RhdGlzdGljc1RhYmxlTWFuYWdlciB0YWJsZU1hbmFnZXI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIExpc3Q8U3RhdGlzdGljc1RlYW1pbnRhYmxlPiB0ZWFtc0luVGFibGUgPSB0YWJsZU1hbmFnZXIuZ2V0VGVhbXNJblRhYmxlKHRhYmxlLmdldElkKCkpOwogICAgZm9yIChTdGF0aXN0aWNzVGVhbWludGFibGUgdGVhbUluVGFibGUgOiB0ZWFtc0luVGFibGUpIHsKICAgICAgSW50ZWdlciBtYW51YWxQcm9tb3Rpb24gPSB0ZWFtSW5UYWJsZS5nZXRNYW51YWxQcm9tb3Rpb24oKTsKICAgICAgaWYgKG1hbnVhbFByb21vdGlvbiAhPSBudWxsICYmIG1hbnVhbFByb21vdGlvbiA+IDApIHsKICAgICAgICBwcm9tb3Rpb25zLnB1dCgpCiAgICAgIH0KICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgTGVhZ3VlVGFibGVQcm9tb3Rpb24ocGl0LmdldFByb21vdGlvbmlkKCksIHBpdC5nZXRQcm9tb3Rpb24oKS5nZXRQcm9tb3Rpb25uYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMZWFndWVUYWJsZVByb21vdGlvbiBjcmVhdGVQcm9tb3Rpb24oKSB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgTGVhZ3VlVGFibGVQcm9tb3Rpb24ocGl0LmdldFByb21vdGlvbmlkKCksIHBpdC5nZXRQcm9tb3Rpb24oKS5nZXRQcm9tb3Rpb25uYW1lKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9hZGluZ0NhY2hlPEludGVnZXIsIE9wdGlvbmFsPFN0YXRpc3RpY3NQcm9tb3Rpb250YWJsZT4+IHByb21vdGlvbkNhY2hlID0KICAgICAgICAgICAgQ2FjaGVCdWlsZGVyLm5ld0J1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5idWlsZCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBDYWNoZUxvYWRlcjxJbnRlZ2VyLCBPcHRpb25hbDxTdGF0aXN0aWNzUHJvbW90aW9udGFibGU+PigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgT3B0aW9uYWw8U3RhdGlzdGljc1Byb21vdGlvbnRhYmxlPiBsb2FkKEludGVnZXIga2V5KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBwcm9tb3Rpb25FQU8uZmluZEJ5SWQoa2V5KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgcmV0dXJuIHRoaXMucG9zaXRpb24gXiB0aGlzLnByb21vdGlvbmlkIF4gdGhpcy50YWJsZWlkOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICBpZiAobyA9PSB0aGlzKSB7CiAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgaWYgKCEobyBpbnN0YW5jZW9mIFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZVBLKSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBTdGF0aXN0aWNzUHJvbW90aW9uc2ludGFibGVQSyBvdGhlciA9IChTdGF0aXN0aWNzUHJvbW90aW9uc2ludGFibGVQSykgbzsKICAgIHJldHVybiBPYmplY3RzLmVxdWFscyh0aGlzLnBvc2l0aW9uLCBvdGhlci5wb3NpdGlvbikKICAgICAgICAmJiBPYmplY3RzLmVxdWFscyh0aGlzLnByb21vdGlvbmlkLCBvdGhlci5wcm9tb3Rpb25pZCkKICAgICAgICAmJiBPYmplY3RzLmVxdWFscyh0aGlzLnRhYmxlaWQsIG90aGVyLnRhYmxlaWQpOwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropertyQuery/Query/g</text>
