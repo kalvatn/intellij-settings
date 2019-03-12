@@ -80,11 +80,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" timestamp="1552413913341">
-        <mark key="[" line="210" column="78" />
-        <mark key="]" line="210" column="79" />
-        <mark key="^" line="210" column="79" />
-        <mark key="." line="210" column="79" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" timestamp="1552417266757">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+        <mark key="^" line="216" column="88" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1550743350233">
         <mark key="[" line="2222" column="68" />
@@ -227,9 +227,10 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="74" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" timestamp="1552412155070">
-        <mark key="[" line="388" column="0" />
-        <mark key="]" line="392" column="5" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" timestamp="1552417377887">
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/PromotionEAO.java" timestamp="1552413671847">
         <mark key="[" line="32" column="0" />
@@ -266,6 +267,12 @@
         <mark key="]" line="78" column="71" />
         <mark key="^" line="78" column="71" />
         <mark key="." line="78" column="71" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/StatisticsTableManager.java" timestamp="1552417341870">
+        <mark key="[" line="165" column="38" />
+        <mark key="]" line="165" column="38" />
+        <mark key="." line="165" column="38" />
+        <mark key="^" line="165" column="38" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/americanmonitoring/casinos/storers/stadiumtech/StadiumTechDBStorer.java" timestamp="1551355997158">
         <mark key="[" line="2" column="17" />
@@ -550,14 +557,14 @@
       <jump line="56" column="30" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PromotionManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>promotion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>promotion</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
-        <text>intable</text>
+        <text>promotion</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvYWRpbmdDYWNoZTxJbnRlZ2VyLCBTdGF0aXN0aWNzUHJvbW90aW9udGFibGU+IHByb21vdGlvbkNhY2hlID0KICAgICAgQ2FjaGVCdWlsZGVyLm5ld0J1aWxkZXIoKQogICAgICAgICAgLmV4cGlyZUFmdGVyV3JpdGUoRHVyYXRpb24ub2ZIb3VycygxMikpCiAgICAgICAgICAuYnVpbGQoCiAgICAgICAgICAgICAgbmV3IENhY2hlTG9hZGVyPEludGVnZXIsIFN0YXRpc3RpY3NQcm9tb3Rpb250YWJsZT4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBTdGF0aXN0aWNzUHJvbW90aW9udGFibGUgbG9hZChATm9ubnVsbCBJbnRlZ2VyIGtleSkgewogICAgICAgICAgICAgICAgICByZXR1cm4gcHJvbW90aW9uRUFPLmZpbmRCeUlkKGtleSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7Cg==</text>
@@ -566,37 +573,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExlYWd1ZVRhYmxlUHJvbW90aW9uIGNyZWF0ZUxlYWd1ZVRhYmxlUHJvbW90aW9uKFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZSBwaXQpIHsKICAgIHJldHVybiBjcmVhdGVMZWFndWVUYWJsZVByb21vdGlvbihwaXQuZ2V0UHJvbW90aW9uaWQoKSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMZWFndWVUYWJsZVByb21vdGlvbiBjcmVhdGVMZWFndWVUYWJsZVByb21vdGlvbihTdGF0aXN0aWNzUHJvbW90aW9uc2ludGFibGUgcGl0KSB7CiAgICAgICAgcmV0dXJuIG5ldyBMZWFndWVUYWJsZVByb21vdGlvbigKICAgICAgICAgICAgICAgIHBpdC5nZXRQcm9tb3Rpb25pZCgpLAogICAgICAgICAgICAgICAgcGl0LmdldFByb21vdGlvbigpLmdldFByb21vdGlvbm5hbWUoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBARUpCIHByaXZhdGUgU3RhdGlzdGljc1RhYmxlTWFuYWdlciB0YWJsZU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZWFtc0luVGFibGUgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICByZXR1cm4gdGVhbXNJblRhYmxlOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RhdGlzdGljc1RlYW1pbnRhYmxlPiB0ZWFtc0luVGFibGUgPSB0YWJsZU1hbmFnZXIuZ2V0VGVhbXNJblRhYmxlKHRhYmxlLmdldElkKCkpOwogICAgZm9yIChTdGF0aXN0aWNzVGVhbWludGFibGUgdGVhbUluVGFibGUgOiB0ZWFtc0luVGFibGUpIHsKICAgICAgSW50ZWdlciBtYW51YWxQcm9tb3Rpb24gPSB0ZWFtSW5UYWJsZS5nZXRNYW51YWxQcm9tb3Rpb24oKTsKICAgICAgaWYgKG1hbnVhbFByb21vdGlvbiAhPSBudWxsICYmIG1hbnVhbFByb21vdGlvbiA+IDApIHsKICAgICAgICBwcm9tb3Rpb25zLnB1dCgpCiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHQuZ2V0VGFibGVSb3dzKCkuZm9yRWFjaChyIC0+IHsKICAgICAgICAgICAgICAgIHIuZ2V0CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgTGVhZ3VlVGFibGVQcm9tb3Rpb24ocGl0LmdldFByb21vdGlvbmlkKCksIHBpdC5nZXRQcm9tb3Rpb24oKS5nZXRQcm9tb3Rpb25uYW1lKCkpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIExlYWd1ZVRhYmxlUHJvbW90aW9uIGNyZWF0ZUxlYWd1ZVRhYmxlUHJvbW90aW9uKFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZSBwaXQpIHsKICAgIHJldHVybiBjcmVhdGVMZWFndWVUYWJsZVByb21vdGlvbihwaXQuZ2V0UHJvbW90aW9uaWQoKSk7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgcmV0dXJuIHRoaXMucG9zaXRpb24gXiB0aGlzLnByb21vdGlvbmlkIF4gdGhpcy50YWJsZWlkOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICBpZiAobyA9PSB0aGlzKSB7CiAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgaWYgKCEobyBpbnN0YW5jZW9mIFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZVBLKSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBTdGF0aXN0aWNzUHJvbW90aW9uc2ludGFibGVQSyBvdGhlciA9IChTdGF0aXN0aWNzUHJvbW90aW9uc2ludGFibGVQSykgbzsKICAgIHJldHVybiBPYmplY3RzLmVxdWFscyh0aGlzLnBvc2l0aW9uLCBvdGhlci5wb3NpdGlvbikKICAgICAgICAmJiBPYmplY3RzLmVxdWFscyh0aGlzLnByb21vdGlvbmlkLCBvdGhlci5wcm9tb3Rpb25pZCkKICAgICAgICAmJiBPYmplY3RzLmVxdWFscyh0aGlzLnRhYmxlaWQsIG90aGVyLnRhYmxlaWQpOwogIH0K</text>
+        <text encoding="base64">ICBARUpCIHByaXZhdGUgU3RhdGlzdGljc1RhYmxlTWFuYWdlciB0YWJsZU1hbmFnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropertyQuery/Query/g</text>
       </register>
     </registers>
     <search>
-      <last-search>intable</last-search>
+      <last-search>promotion</last-search>
       <last-offset />
-      <last-pattern>intable</last-pattern>
+      <last-pattern>promotion</last-pattern>
       <last-replace>Query</last-replace>
       <last-substitute>PropertyQuery</last-substitute>
       <last-dir>1</last-dir>
@@ -604,8 +611,6 @@
     </search>
     <history>
       <history-search>
-        <entry>!= null</entry>
-        <entry>addFilese</entry>
         <entry>addFiles</entry>
         <entry>;</entry>
         <entry>common</entry>
@@ -622,8 +627,10 @@
         <entry>PropertyQuery</entry>
         <entry>shade</entry>
         <entry>filesender</entry>
-        <entry>promotion</entry>
         <entry>intable</entry>
+        <entry>setPromotino</entry>
+        <entry>setPromotion</entry>
+        <entry>promotion</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
