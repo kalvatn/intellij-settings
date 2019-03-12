@@ -80,12 +80,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" timestamp="1552422358922">
-        <mark key="[" line="220" column="106" />
-        <mark key="]" line="220" column="113" />
-        <mark key="^" line="220" column="113" />
-        <mark key="." line="220" column="113" />
-      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1550743350233">
         <mark key="[" line="2222" column="68" />
         <mark key="]" line="2222" column="71" />
@@ -103,10 +97,11 @@
         <mark key="^" line="69" column="36" />
         <mark key="." line="69" column="36" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1552312936566">
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1552424839560">
         <mark key="[" line="128" column="71" />
         <mark key="]" line="128" column="71" />
         <mark key="." line="128" column="71" />
+        <mark key="^" line="128" column="71" />
       </file>
       <file name="/work/projects/gitlab/java-common/filesender/common/src/main/java/com/betradar/filesender/storage/S3FileStorage.java" timestamp="1551982248712">
         <mark key="[" line="45" column="31" />
@@ -174,10 +169,9 @@
         <mark key="^" line="5" column="23" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsTeamintable.java" timestamp="1552311270799">
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="54" column="7" />
-        <mark key="^" line="54" column="7" />
-        <mark key="." line="54" column="7" />
+        <mark key="]" line="39" column="7" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="39" column="7" />
       </file>
       <file name="/work/projects/gitlab/java-common/filesender/common/pom.xml" timestamp="1551978346076">
         <mark key="[" line="33" column="0" />
@@ -257,10 +251,9 @@
         <mark key="." line="380" column="37" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsPromotionsintablePK.java" timestamp="1552414357746">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/virtualleague/VDROddsSaver.java" timestamp="1549543290726">
         <mark key="[" line="78" column="60" />
@@ -269,10 +262,10 @@
         <mark key="." line="78" column="71" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/StatisticsTableManager.java" timestamp="1552417341870">
-        <mark key="[" line="165" column="38" />
-        <mark key="]" line="165" column="38" />
-        <mark key="." line="165" column="38" />
-        <mark key="^" line="165" column="38" />
+        <mark key="[" line="162" column="38" />
+        <mark key="]" line="162" column="38" />
+        <mark key="." line="162" column="38" />
+        <mark key="^" line="162" column="38" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/americanmonitoring/casinos/storers/stadiumtech/StadiumTechDBStorer.java" timestamp="1551355997158">
         <mark key="[" line="2" column="17" />
@@ -321,6 +314,12 @@
         <mark key="]" line="82" column="33" />
         <mark key="." line="82" column="33" />
         <mark key="^" line="82" column="33" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/StatisticsTableCache.java" timestamp="1552423942654">
+        <mark key="[" line="205" column="156" />
+        <mark key="]" line="205" column="165" />
+        <mark key="." line="205" column="165" />
+        <mark key="^" line="205" column="165" />
       </file>
       <file name="/work/projects/gitlab/java/source/junit4test/com/oddsarbitrage/filesender2/transport/provider/TestFileTransportHTTP.java" timestamp="1551713051475">
         <mark key="[" line="2" column="80" />
@@ -558,60 +557,59 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, teamid</text>
+        <text>31227,31211,31219,31213,31215,31217,31225,31221,31223,31263,31657,32107,36066,36520,36636</text>
       </register>
       <register name="-" type="4">
-        <text>, teamid</text>
+        <text>31227,31211,31219,31213,31215,31217,31225,31221,31223,31263,31657,32107,36066,36520,36636</text>
       </register>
       <register name="/" type="4">
-        <text>promotion</text>
+        <text>toMap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvYWRpbmdDYWNoZTxJbnRlZ2VyLCBTdGF0aXN0aWNzUHJvbW90aW9udGFibGU+IHByb21vdGlvbkNhY2hlID0KICAgICAgQ2FjaGVCdWlsZGVyLm5ld0J1aWxkZXIoKQogICAgICAgICAgLmV4cGlyZUFmdGVyV3JpdGUoRHVyYXRpb24ub2ZIb3VycygxMikpCiAgICAgICAgICAuYnVpbGQoCiAgICAgICAgICAgICAgbmV3IENhY2hlTG9hZGVyPEludGVnZXIsIFN0YXRpc3RpY3NQcm9tb3Rpb250YWJsZT4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBTdGF0aXN0aWNzUHJvbW90aW9udGFibGUgbG9hZChATm9ubnVsbCBJbnRlZ2VyIGtleSkgewogICAgICAgICAgICAgICAgICByZXR1cm4gcHJvbW90aW9uRUFPLmZpbmRCeUlkKGtleSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMZWFndWVUYWJsZVByb21vdGlvbiBsZWFndWVUYWJsZVByb21vdGlvbiA9IHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oc3RhdGlzdGljc1RlYW1pbnRhYmxlLmdldE1hbnVhbFByb21vdGlvbigpKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogZmV0Y2ggYWxsIHByb21vdGlvbnMgZm9yIHRoaXMgdGFibGUsIG9ubHkgaWYgdGhpcyBpcyBhIG5vcm1hbCB0YWJsZQogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJzZXR0aW5nIG1hbnVhbCBwcm9tb3Rpb24gJXMgZm9yIHRlYW0gJWQiLCBsZWFndWVUYWJsZVByb21vdGlvbiwgdGVhbWlkKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVhbXNJblRhYmxlLmZvckVhY2goCiAgICAgICAgICAgICAgICAgICAgKGssIHYpIC0+IGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoInRlYW0gJWQgOiAlcyIsIGssdiApKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChTdGF0aXN0aWNzVGVhbWludGFibGUgc3RhdGlzdGljc1RlYW1pbnRhYmxlIDogdGVhbXNJblRhYmxlMSkgewogICAgICAgIGxvZy5pbmZvKHN0YXRpc3RpY3NUZWFtaW50YWJsZSk7CiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZT4gcHJvbW90aW9ucyA9IHByb21vdGlvbkVBTy5nZXRQcm9tb3Rpb25zSW5UYWJsZShzdC5nZXRJZCgpKTsKLy8gICAgICAgICAgICBmb3IgKFN0YXRpc3RpY3NQcm9tb3Rpb25zaW50YWJsZSBwaXQgOiBwcm9tb3Rpb25zKSB7Ci8vICAgICAgICAgICAgICAgIExlYWd1ZVRhYmxlUHJvbW90aW9uIHByb20gPSBsZWFndWVUYWJsZU1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24ocGl0KTsKLy8gICAgICAgICAgICAgICAgaW50IHBvc2l0aW9uID0gcGl0LmdldFBvc2l0aW9uKCkgLSAxOwovLyAgICAgICAgICAgICAgICBpZiAocG9zaXRpb24gPCBsdC5nZXRUYWJsZVJvd3MoKS5zaXplKCkpIHsKLy8gICAgICAgICAgICAgICAgICAgIGx0LmdldFRhYmxlUm93cygpLmdldChwb3NpdGlvbikuc2V0UHJvbW90aW9uKHByb20pOwovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oU3RyaW5nLmZvcm1hdCgiUHJvbW90aW9uIGlnbm9yZWQ6ICVzLCBwb3MgJWQgc2l6ZSwgJWQiLCBwcm9tLmdldE5hbWUoKSwgcGl0LmdldFBvc2l0aW9uKCksIGx0LmdldFRhYmxlUm93cygpLnNpemUoKSkpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiU0VUIFBST01PVElPTlMiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzaXplID0gbHQuZ2V0VGFibGVSb3dzKCkuc2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlBFUklPRExFTkdUSCBOT1JNQUwiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMZWFndWVUYWJsZVByb21vdGlvbiBsZWFndWVUYWJsZVByb21vdGlvbiA9IHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oc3RhdGlzdGljc1RlYW1pbnRhYmxlLmdldE1hbnVhbFByb21vdGlvbigpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>promotion</last-search>
+      <last-search>toMap</last-search>
       <last-offset />
-      <last-pattern>promotion</last-pattern>
+      <last-pattern>toMap</last-pattern>
       <last-replace>Query</last-replace>
-      <last-substitute>PropertyQuery</last-substitute>
+      <last-substitute>promotion</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addFiles</entry>
         <entry>;</entry>
         <entry>common</entry>
         <entry>commons</entry>
@@ -631,6 +629,7 @@
         <entry>setPromotino</entry>
         <entry>setPromotion</entry>
         <entry>promotion</entry>
+        <entry>toMap</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
