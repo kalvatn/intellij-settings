@@ -131,8 +131,8 @@
         <mark key="." line="35" column="27" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" timestamp="1552479166182">
-        <mark key="'" line="49" column="54" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" timestamp="1552480344212">
+        <mark key="'" line="45" column="72" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1550837375330">
         <mark key="[" line="12" column="19" />
@@ -322,12 +322,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/work/projects/gitlab/statistics/league-standings-builder/src/main/java/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" timestamp="1552479135090">
-        <mark key="'" line="28" column="51" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="1081" column="36" />
+      <file name="/work/projects/gitlab/statistics/league-standings-builder/src/main/java/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" timestamp="1552480831227">
+        <mark key="'" line="27" column="51" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="1080" column="36" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/StadiumEAO.java" timestamp="1551358816447">
         <mark key="[" line="82" column="35" />
@@ -489,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1042" column="16" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1046" column="9" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1069" column="9" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1574" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
@@ -589,55 +588,56 @@
       <jump line="56" column="30" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PromotionManager.java" />
       <jump line="28" column="51" filename="/work/projects/gitlab/statistics/league-standings-builder/src/main/java/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="49" column="54" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
+      <jump line="45" column="72" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlTZWxlY3REQjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlEQjsK</text>
       </register>
       <register name="-" type="4">
         <text>StatsHistorySelectDB</text>
       </register>
       <register name="/" type="4">
-        <text>StatsHistory</text>
+        <text>Stats</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlTZWxlY3REQjsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlEQjsK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlTZWxlY3REQjsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlEQjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oMSk7CiAgICBwcm9tb3Rpb25NYW5hZ2VyLmNyZWF0ZUxlYWd1ZVRhYmxlUHJvbW90aW9uKDEpOwogICAgcHJvbW90aW9uTWFuYWdlci5jcmVhdGVMZWFndWVUYWJsZVByb21vdGlvbigxKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiTE9BRElORyAlZCIsIGtleSkpOwo=</text>
+        <text encoding="base64">ICAgIHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oMSk7CiAgICBwcm9tb3Rpb25NYW5hZ2VyLmNyZWF0ZUxlYWd1ZVRhYmxlUHJvbW90aW9uKDEpOwogICAgcHJvbW90aW9uTWFuYWdlci5jcmVhdGVMZWFndWVUYWJsZVByb21vdGlvbigxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExlYWd1ZVRhYmxlUHJvbW90aW9uIGRvZXNub3RleGlzdCA9IHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oMTAwKTsKICAgIEFzc2VydC5hc3NlcnRUaGF0KGRvZXNub3RleGlzdCwgaXMoZXF1YWxUbyhudWxsKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiTE9BRElORyAlZCIsIGtleSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFzc2VyCg==</text>
+        <text encoding="base64">ICAgIExlYWd1ZVRhYmxlUHJvbW90aW9uIGRvZXNub3RleGlzdCA9IHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oMTAwKTsKICAgIEFzc2VydC5hc3NlcnRUaGF0KGRvZXNub3RleGlzdCwgaXMoZXF1YWxUbyhudWxsKSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGxlYWd1ZVRhYmxlUHJvbW90aW9uKTsK</text>
+        <text encoding="base64">ICAgIEFzc2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDbGllbnQgZmluZEJ5SWQoSW50ZWdlciBpZCkgewogICAgICAgIFNlc3Npb24gc2Vzc2lvbiA9IChTZXNzaW9uKSBlbS5nZXREZWxlZ2F0ZSgpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiAoQ2xpZW50KSBzZXNzaW9uLmNyZWF0ZUNyaXRlcmlhKENsaWVudC5jbGFzcykKICAgICAgICAgICAgICAgICAgICAuY3JlYXRlQWxpYXMoImNmcHMiLCAiZmlsZXB1c2hTZXR0aW5ncyIpCiAgICAgICAgICAgICAgICAgICAgLmNyZWF0ZUFsaWFzKCJjZnBzLmZpbGVzZW5kZXJEZWZpbml0aW9uIiwgImZpbGVzZW5kZXJEZWZpbml0aW9uIikKICAgICAgICAgICAgICAgICAgICAuYWRkKFJlc3RyaWN0aW9ucy5lcSgiZmlsZXNlbmRlckRlZmluaXRpb24uYWN0aXZlIiwgMSkpCiAgICAgICAgICAgICAgICAgICAgLmFkZChSZXN0cmljdGlvbnMuZXEoIm1hcmtEZWxldGlvbiIsIGZhbHNlKSkudW5pcXVlUmVzdWx0KCk7CiAgICAgICAgfSBjYXRjaCAoSGliZXJuYXRlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVyCiAgICAgICAgfQoKICAgIH0K</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGxlYWd1ZVRhYmxlUHJvbW90aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>StatsHistory</last-search>
+      <last-search>Stats</last-search>
       <last-offset />
-      <last-pattern>StatsHistory</last-pattern>
+      <last-pattern>Stats</last-pattern>
       <last-replace>Query</last-replace>
       <last-substitute>promotion</last-substitute>
       <last-dir>1</last-dir>
@@ -645,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>common</entry>
         <entry>commons</entry>
         <entry>collections</entry>
         <entry>resource</entry>
@@ -665,6 +664,7 @@
         <entry>promotion</entry>
         <entry>toMap</entry>
         <entry>StatsHistory</entry>
+        <entry>Stats</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
