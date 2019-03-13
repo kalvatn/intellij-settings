@@ -98,10 +98,6 @@
         <mark key="." line="2222" column="71" />
         <mark key="^" line="2222" column="71" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/StaticTableEAO.java" timestamp="1552410865054">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="29" />
-      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/modifier/ArtificialMatchTime.java" timestamp="1550744643528">
         <mark key="[" line="69" column="24" />
         <mark key="]" line="69" column="36" />
@@ -300,6 +296,9 @@
         <mark key="]" line="77" column="73" />
         <mark key="." line="77" column="73" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" timestamp="1552490476374">
+        <mark key="'" line="701" column="75" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/ClientEAO.java" timestamp="1552427779212">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -459,6 +458,7 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="27" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export2/MatchMapping.java" timestamp="1552490823126" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/feeds/util/Util.java" timestamp="1551975330191">
         <mark key="[" line="962" column="33" />
         <mark key="]" line="962" column="33" />
@@ -503,13 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1575" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
-      <jump line="1624" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
-      <jump line="1625" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
-      <jump line="281" column="56" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
-      <jump line="217" column="67" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
-      <jump line="306" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
-      <jump line="307" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatistics.java" />
       <jump line="710" column="40" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="717" column="40" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
       <jump line="32" column="188" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
@@ -603,6 +596,13 @@
       <jump line="18" column="16" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
       <jump line="53" column="12" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
       <jump line="63" column="14" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" />
+      <jump line="100" column="42" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
+      <jump line="146" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
+      <jump line="154" column="44" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
+      <jump line="161" column="28" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
+      <jump line="471" column="40" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
+      <jump line="652" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
+      <jump line="701" column="75" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -612,7 +612,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>ALL_ATTENDANCE</text>
+        <text>BetradarMatchId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
@@ -649,9 +649,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ALL_ATTENDANCE</last-search>
+      <last-search>BetradarMatchId</last-search>
       <last-offset />
-      <last-pattern>ALL_ATTENDANCE</last-pattern>
+      <last-pattern>BetradarMatchId</last-pattern>
       <last-replace>Query</last-replace>
       <last-substitute>promotion</last-substitute>
       <last-dir>1</last-dir>
@@ -659,8 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>collections</entry>
-        <entry>resource</entry>
         <entry>ComponentProperties</entry>
         <entry>Trigger</entry>
         <entry>periodic</entry>
@@ -679,6 +677,8 @@
         <entry>StatsHistory</entry>
         <entry>Stats</entry>
         <entry>ALL_ATTENDANCE</entry>
+        <entry>Fixture</entry>
+        <entry>BetradarMatchId</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
