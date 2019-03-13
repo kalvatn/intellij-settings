@@ -27,6 +27,13 @@
         <mark key="." line="131" column="63" />
         <mark key="^" line="131" column="63" />
       </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" timestamp="1552485009621">
+        <mark key="'" line="75" column="14" />
+        <mark key="[" line="78" column="1" />
+        <mark key="]" line="71" column="64" />
+        <mark key="." line="71" column="64" />
+        <mark key="^" line="71" column="64" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/ScoutEventStatisticsProcessor.java" timestamp="1550743705722">
         <mark key="[" line="167" column="20" />
         <mark key="]" line="167" column="22" />
@@ -233,6 +240,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="15" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1552484599254">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HockeyStatisticsProcessor.java" timestamp="1550743638826">
         <mark key="[" line="67" column="21" />
@@ -458,6 +471,9 @@
         <mark key="." line="304" column="20" />
         <mark key="^" line="304" column="20" />
       </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" timestamp="1552483819313">
+        <mark key="'" line="53" column="12" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/common/src/main/java/com/oddsarbitrage/filesender/ShutDownThread.java" timestamp="1551982441810">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -487,9 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1046" column="9" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
-      <jump line="1069" column="9" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
-      <jump line="1574" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1575" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1624" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
       <jump line="1625" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.21/sportradar-common-2.0.21.jar!/com/oddsarbitrage/statistics/Statistics.class" />
@@ -587,55 +600,58 @@
       <jump line="28" column="51" filename="/work/projects/gitlab/statistics/league-standings-builder/src/main/java/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="49" column="54" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
       <jump line="45" column="72" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
+      <jump line="18" column="16" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
+      <jump line="53" column="12" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
+      <jump line="63" column="14" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlEQjsK</text>
+      <register name="&quot;" type="4">
+        <text>TOURNAMENT</text>
       </register>
       <register name="-" type="4">
-        <text>StatsHistorySelectDB</text>
+        <text>TOURNAMENT</text>
       </register>
       <register name="/" type="4">
-        <text>Stats</text>
+        <text>ALL_ATTENDANCE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlEQjsK</text>
+        <text encoding="base64">ICAgICAgaW5mCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlTZWxlY3REQjsK</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydFRoYXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXRyYWRhci5kYXRhYmFzZS5TdGF0c0hpc3RvcnlEQjsK</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFByb3BlcnR5QXBpIGFwaSA9IG5ldyBQcm9wZXJ0eUFwaShQcm9wZXJ0eUFwaUNvbmZpZy5CdWlsZGVyLmFwaVRva2VuKCJhODc2ZTJiMDFiZTEzMWFmMTJhZTMyZTkzMmUyNGZkMSIpLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oMSk7CiAgICBwcm9tb3Rpb25NYW5hZ2VyLmNyZWF0ZUxlYWd1ZVRhYmxlUHJvbW90aW9uKDEpOwogICAgcHJvbW90aW9uTWFuYWdlci5jcmVhdGVMZWFndWVUYWJsZVByb21vdGlvbigxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiTE9BRElORyAlZCIsIGtleSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExlYWd1ZVRhYmxlUHJvbW90aW9uIGRvZXNub3RleGlzdCA9IHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oMTAwKTsKICAgIEFzc2VydC5hc3NlcnRUaGF0KGRvZXNub3RleGlzdCwgaXMoZXF1YWxUbyhudWxsKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFzc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGxlYWd1ZVRhYmxlUHJvbW90aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Stats</last-search>
+      <last-search>ALL_ATTENDANCE</last-search>
       <last-offset />
-      <last-pattern>Stats</last-pattern>
+      <last-pattern>ALL_ATTENDANCE</last-pattern>
       <last-replace>Query</last-replace>
       <last-substitute>promotion</last-substitute>
       <last-dir>1</last-dir>
@@ -643,7 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>commons</entry>
         <entry>collections</entry>
         <entry>resource</entry>
         <entry>ComponentProperties</entry>
@@ -663,6 +678,7 @@
         <entry>toMap</entry>
         <entry>StatsHistory</entry>
         <entry>Stats</entry>
+        <entry>ALL_ATTENDANCE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
