@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1552489433354">
-        <mark key="[" line="77" column="20" />
-        <mark key="]" line="77" column="19" />
-        <mark key="^" line="77" column="19" />
-        <mark key="." line="77" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1552491039858">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="53" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_1.sql" timestamp="1552424995133">
         <mark key="[" line="3" column="33" />
@@ -15,29 +14,38 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console.sql" timestamp="1552491059828">
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBkZWZhdWx0X3Byb3BlcnR5X3Nwb3J0IHAgd2hlcmUgcC5wcm9wZXJ0eV9pZCA9IDU0Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtYXRjaHRhYmxlIG0gd2hlcmUgbS5NQVRDSElEID0gMTUxMjI5NzkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnNlbGVjdCAqCmZyb20gY29tcG9uZW50dGFibGUgYwp3aGVyZQoKc2VsZWN0ICoKZnJvbSBjb21wb25lbnR0YWJsZSBjCndoZXJlIGMuCiAgc2VsZWN0IGMuaG9zdE1hY2hpbmVJcAogICAgLCBjLm1hY2hpbmVfZ3JvdXAKICAgICwgY291bnQgKGRpc3RpbmN0IGMuQ29tcG9uZW50SWQpCiAgICAsIGdyb3VwX2NvbmNhdChjLkNvbXBvbmVudE5hbWUpCmZyb20gY29tcG9uZW50dGFibGUgYwp3aGVyZSBjLmFjdGl2ZSA9IDEKICBhbmQgYy5ob3N0TWFjaGluZUlwIGxpa2UgIjEwLjIwMC4xNC4lIgpncm91cCBieSBjLmhvc3RNYWNoaW5lSXA7CgpzZWxlY3QgZnNkLmxpdmVzY29yZV9pbnN0YW5jZSwgY291bnQoZGlzdGluY3QgZnNkLmlkKQpmcm9tIGZpbGVzZW5kZXJkZWZpbml0b24gZnNkCndoZXJlIGZzZC5hY3RpdmUgPSAxCiAgYW5kIGZzZC5kYXRhdHlwZSA9IDcKICBhbmQgZnNkLmxhc3REb25lID49IE5PVygpIC0gaW50ZXJ2YWwgMSB5ZWFyCmdyb3VwIGJ5IGZzZC5saXZlc2NvcmVfaW5zdGFuY2UKOwoKCnNlbGVjdCBjLmFjdGl2ZSwgYy4qCmZyb20gY29tcG9uZW50dGFibGUgYwp3aGVyZSBjLkNvbXBvbmVudElkIGluICg1NjAsIDU2OCwgMjI4LCAyMzIsIDIzNCwgMjM1KTsKCnNlbGVjdCAqCmZyb20gcmVzdWx0Y29tcGFyaXNvbl9zdW1tYXJpZXMgcwpvcmRlciBieSBzLmNyZWF0ZWRBdCBkZXNjCjsKc2VsZWN0ICoKZnJvbSByZXN1bHRjb21wYXJpc29uX3Jlc3VsdHN0YXR1cwo7CgpzaG93IHRhYmxlcyBsaWtlICJyZXN1bHRjb21wYXJpc29uJSIKCgpzZWxlY3QgKgpmcm9tIGJldHJhZGFyc2NoZWR1bGUgYnMKd2hlcmUgYnMuY2xhc3NuYW1lIGxpa2UgIiVTY2hlZHVsZVdyb25nUmVzdWx0QWxlcnRTZW5kZXIlIgoKClNFTEVDVCB0aXQudGFibGVpZCwKICAgICAgIHRpdC50ZWFtaWQsCiAgICAgICB0dS5UZWFtTmFtZSwKICAgICAgIHRpdC5tYW51YWxwcm9tb3Rpb24sCiAgICAgICBwaXQucG9zc2l0aW9uLAogICAgICAgZnQucm91bmQsCiAgICAgICBmdC5wb3NpdGlvblRvdGFsLAogICAgICAgZnQucG9pbnRzVG90YWwsCiAgICAgICBwaXQucHJvbW90aW9uaWQsCiAgICAgICBwLnByb21vdGlvbm5hbWUKRlJPTSBzdGF0aXN0aWNzX3RlYW1pbnRhYmxlIHRpdAogICAgICAgbGVmdCBqb2luIHRlYW10YWJsZSB0dSBvbiB0dS5UZWFtaWQgPSB0aXQudGVhbWlkCiAgICAgICBsZWZ0IGpvaW4gc3RhdGlzdGljc19zdGF0aWNfdGFibGVzX2Z0IGZ0IG9uIGZ0LnRhYmxlSWQgPSB0aXQudGFibGVpZCBhbmQgZnQudGVhbUlkID0gdGl0LnRlYW1pZAogICAgICAgbGVmdCBqb2luIHN0YXRpc3RpY3NfcHJvbW90aW9uc2ludGFibGUgcGl0IG9uIHBpdC50YWJsZWlkID0gdGl0LnRhYmxlaWQgYW5kIHBpdC5wb3NzaXRpb24gPSBmdC5wb3NpdGlvblRvdGFsCiAgICAgICBsZWZ0IGpvaW4gc3RhdGlzdGljc19wcm9tb3Rpb250YWJsZSBwIG9uIHAucHJvbW90aW9uaWQgPSBwaXQucHJvbW90aW9uaWQKV0hFUkUgdGl0LnRhYmxlaWQgPSAzMTY1NwogIGFuZCBmdC5yb3VuZCA9IDM4Cmdyb3VwIGJ5IGZ0LnRlYW1JZApvcmRlciBieSBmdC5yb3VuZCBkZXNjLCBmdC5wb3NpdGlvblRvdGFsIGFzYwo7CgpzZWxlY3QgKgpmcm9tIHN0YXRpc3RpY3NfcHJvbW90aW9udGFibGUKOwoKc2VsZWN0IGNvdW50KGRpc3RpbmN0IHBpdC50YWJsZWlkKSwgZ3JvdXBfY29uY2F0KGRpc3RpbmN0IHBpdC50YWJsZWlkKSwgZ3JvdXBfY29uY2F0KGRpc3RpbmN0IHMuc2Vhc29uaWQpCmZyb20gc3RhdGlzdGljc190ZWFtaW50YWJsZSBwaXQKam9pbiBzdGF0aXN0aWNzX3RhYmxlcyB0IG9uIHQuaWQgPSBwaXQudGFibGVpZApqb2luIHN0YXRpc3RpY3Nfc2Vhc29ucyBzIG9uIHMuc2Vhc29uaWQgPSB0LnNlYXNvbmlkCndoZXJlIHBpdC5tYW51YWxwcm9tb3Rpb24gaXMgbm90IG51bGwKICBhbmQgcGl0Lm1hbnVhbHByb21vdGlvbiA+IDAKYW5kIHMuc3RhcnQgPj0gTk9XKCkgLSBpbnRlcnZhbCAxIHllYXIKCgpzZWxlY3QgKgpmcm9tIHN0YXRpc3RpY3NfcHJvbW90aW9uc2ludGFibGUgcGl0CndoZXJlIHBpdC5wcm9tb3Rpb25pZCA9IDE2CjsKCnNlbGVjdCAqCmZyb20gc3RhdGlzdGljc19wcm9tb3Rpb250YWJsZQo7CgoKc2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfc2NvdXRldmVudCBlCiAgICAgICBqb2luIGxpdmVzY29yZV9ldmVudHR5cGUgZXQgb24gZXQuZXZlbnR0eXBlID0gZS5ldmVudHR5cGUKd2hlcmUgZS5tYXRjaGlkID0gMTc1ODgwODUKOwoKCnNlbGVjdCAqIGZyb20gY29tcG9uZW50dGFibGUgYyB3aGVyZSBjLmhvc3RNYWNoaW5lSXAgPSAiMTAuMjAwLjE0LjExMCIKOwoKCnNlbGVjCg==</text>
+        <text encoding="base64">c2VsZWN0ICogY29tcG9uZW50dAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cup</text>
+        <text>matchtable</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVmdCBqb2luIHN0YXRpc3RpY3Nfc3RhdGljX3RhYmxlc19mdCBmdCBvbiBmdC50YWJsZUlkID0gdGl0LnRhYmxlaWQgYW5kIGZ0LnRlYW1JZCA9IHRpdC50ZWFtaWQK</text>
+        <text encoding="base64">CnNlbGVjdCAqCmZyb20gY29tcG9uZW50dGFibGUgYwp3aGVyZQoKc2VsZWN0ICoKZnJvbSBjb21wb25lbnR0YWJsZSBjCndoZXJlIGMuCiAgc2VsZWN0IGMuaG9zdE1hY2hpbmVJcAogICAgLCBjLm1hY2hpbmVfZ3JvdXAKICAgICwgY291bnQgKGRpc3RpbmN0IGMuQ29tcG9uZW50SWQpCiAgICAsIGdyb3VwX2NvbmNhdChjLkNvbXBvbmVudE5hbWUpCmZyb20gY29tcG9uZW50dGFibGUgYwp3aGVyZSBjLmFjdGl2ZSA9IDEKICBhbmQgYy5ob3N0TWFjaGluZUlwIGxpa2UgIjEwLjIwMC4xNC4lIgpncm91cCBieSBjLmhvc3RNYWNoaW5lSXA7CgpzZWxlY3QgZnNkLmxpdmVzY29yZV9pbnN0YW5jZSwgY291bnQoZGlzdGluY3QgZnNkLmlkKQpmcm9tIGZpbGVzZW5kZXJkZWZpbml0b24gZnNkCndoZXJlIGZzZC5hY3RpdmUgPSAxCiAgYW5kIGZzZC5kYXRhdHlwZSA9IDcKICBhbmQgZnNkLmxhc3REb25lID49IE5PVygpIC0gaW50ZXJ2YWwgMSB5ZWFyCmdyb3VwIGJ5IGZzZC5saXZlc2NvcmVfaW5zdGFuY2UKOwoKCnNlbGVjdCBjLmFjdGl2ZSwgYy4qCmZyb20gY29tcG9uZW50dGFibGUgYwp3aGVyZSBjLkNvbXBvbmVudElkIGluICg1NjAsIDU2OCwgMjI4LCAyMzIsIDIzNCwgMjM1KTsKCnNlbGVjdCAqCmZyb20gcmVzdWx0Y29tcGFyaXNvbl9zdW1tYXJpZXMgcwpvcmRlciBieSBzLmNyZWF0ZWRBdCBkZXNjCjsKc2VsZWN0ICoKZnJvbSByZXN1bHRjb21wYXJpc29uX3Jlc3VsdHN0YXR1cwo7CgpzaG93IHRhYmxlcyBsaWtlICJyZXN1bHRjb21wYXJpc29uJSIKCgpzZWxlY3QgKgpmcm9tIGJldHJhZGFyc2NoZWR1bGUgYnMKd2hlcmUgYnMuY2xhc3NuYW1lIGxpa2UgIiVTY2hlZHVsZVdyb25nUmVzdWx0QWxlcnRTZW5kZXIlIgoKClNFTEVDVCB0aXQudGFibGVpZCwKICAgICAgIHRpdC50ZWFtaWQsCiAgICAgICB0dS5UZWFtTmFtZSwKICAgICAgIHRpdC5tYW51YWxwcm9tb3Rpb24sCiAgICAgICBwaXQucG9zc2l0aW9uLAogICAgICAgZnQucm91bmQsCiAgICAgICBmdC5wb3NpdGlvblRvdGFsLAogICAgICAgZnQucG9pbnRzVG90YWwsCiAgICAgICBwaXQucHJvbW90aW9uaWQsCiAgICAgICBwLnByb21vdGlvbm5hbWUKRlJPTSBzdGF0aXN0aWNzX3RlYW1pbnRhYmxlIHRpdAogICAgICAgbGVmdCBqb2luIHRlYW10YWJsZSB0dSBvbiB0dS5UZWFtaWQgPSB0aXQudGVhbWlkCiAgICAgICBsZWZ0IGpvaW4gc3RhdGlzdGljc19zdGF0aWNfdGFibGVzX2Z0IGZ0IG9uIGZ0LnRhYmxlSWQgPSB0aXQudGFibGVpZCBhbmQgZnQudGVhbUlkID0gdGl0LnRlYW1pZAogICAgICAgbGVmdCBqb2luIHN0YXRpc3RpY3NfcHJvbW90aW9uc2ludGFibGUgcGl0IG9uIHBpdC50YWJsZWlkID0gdGl0LnRhYmxlaWQgYW5kIHBpdC5wb3NzaXRpb24gPSBmdC5wb3NpdGlvblRvdGFsCiAgICAgICBsZWZ0IGpvaW4gc3RhdGlzdGljc19wcm9tb3Rpb250YWJsZSBwIG9uIHAucHJvbW90aW9uaWQgPSBwaXQucHJvbW90aW9uaWQKV0hFUkUgdGl0LnRhYmxlaWQgPSAzMTY1NwogIGFuZCBmdC5yb3VuZCA9IDM4Cmdyb3VwIGJ5IGZ0LnRlYW1JZApvcmRlciBieSBmdC5yb3VuZCBkZXNjLCBmdC5wb3NpdGlvblRvdGFsIGFzYwo7CgpzZWxlY3QgKgpmcm9tIHN0YXRpc3RpY3NfcHJvbW90aW9udGFibGUKOwoKc2VsZWN0IGNvdW50KGRpc3RpbmN0IHBpdC50YWJsZWlkKSwgZ3JvdXBfY29uY2F0KGRpc3RpbmN0IHBpdC50YWJsZWlkKSwgZ3JvdXBfY29uY2F0KGRpc3RpbmN0IHMuc2Vhc29uaWQpCmZyb20gc3RhdGlzdGljc190ZWFtaW50YWJsZSBwaXQKam9pbiBzdGF0aXN0aWNzX3RhYmxlcyB0IG9uIHQuaWQgPSBwaXQudGFibGVpZApqb2luIHN0YXRpc3RpY3Nfc2Vhc29ucyBzIG9uIHMuc2Vhc29uaWQgPSB0LnNlYXNvbmlkCndoZXJlIHBpdC5tYW51YWxwcm9tb3Rpb24gaXMgbm90IG51bGwKICBhbmQgcGl0Lm1hbnVhbHByb21vdGlvbiA+IDAKYW5kIHMuc3RhcnQgPj0gTk9XKCkgLSBpbnRlcnZhbCAxIHllYXIKCgpzZWxlY3QgKgpmcm9tIHN0YXRpc3RpY3NfcHJvbW90aW9uc2ludGFibGUgcGl0CndoZXJlIHBpdC5wcm9tb3Rpb25pZCA9IDE2CjsKCnNlbGVjdCAqCmZyb20gc3RhdGlzdGljc19wcm9tb3Rpb250YWJsZQo7CgoKc2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfc2NvdXRldmVudCBlCiAgICAgICBqb2luIGxpdmVzY29yZV9ldmVudHR5cGUgZXQgb24gZXQuZXZlbnR0eXBlID0gZS5ldmVudHR5cGUKd2hlcmUgZS5tYXRjaGlkID0gMTc1ODgwODUKOwoKCnNlbGVjdCAqIGZyb20gY29tcG9uZW50dGFibGUgYyB3aGVyZSBjLmhvc3RNYWNoaW5lSXAgPSAiMTAuMjAwLjE0LjExMCIKOwoKCnNlbGVjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgZnQudGVhbUlkLCBmdC5yb3VuZAo=</text>
+        <text encoding="base64">bGVmdCBqb2luIHN0YXRpc3RpY3Nfc3RhdGljX3RhYmxlc19mdCBmdCBvbiBmdC50YWJsZUlkID0gdGl0LnRhYmxlaWQgYW5kIGZ0LnRlYW1JZCA9IHRpdC50ZWFtaWQK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Z3JvdXAgYnkgZnQudGVhbUlkLCBmdC5yb3VuZAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">YW5kIGZ0LnJvdW5kID0gbWF4KGZ0LnJvdW5kKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>cup</text>
+        <text>matchtable</text>
       </register>
     </registers>
     <search>
@@ -59,6 +67,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
