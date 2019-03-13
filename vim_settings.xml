@@ -27,12 +27,12 @@
         <mark key="." line="131" column="63" />
         <mark key="^" line="131" column="63" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" timestamp="1552485009621">
-        <mark key="'" line="75" column="14" />
-        <mark key="[" line="78" column="1" />
-        <mark key="]" line="71" column="64" />
-        <mark key="." line="71" column="64" />
-        <mark key="^" line="71" column="64" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" timestamp="1552487554414">
+        <mark key="'" line="76" column="14" />
+        <mark key="[" line="71" column="39" />
+        <mark key="]" line="71" column="48" />
+        <mark key="." line="71" column="48" />
+        <mark key="^" line="71" column="48" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/ScoutEventStatisticsProcessor.java" timestamp="1550743705722">
         <mark key="[" line="167" column="20" />
@@ -606,10 +606,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TOURNAMENT</text>
+        <text>REALCATEGORY</text>
       </register>
       <register name="-" type="4">
-        <text>TOURNAMENT</text>
+        <text>REALCATEGORY</text>
       </register>
       <register name="/" type="4">
         <text>ALL_ATTENDANCE</text>
@@ -618,19 +618,19 @@
         <text encoding="base64">ICAgIHByb21vdGlvbk1hbmFnZXIuY3JlYXRlTGVhZ3VlVGFibGVQcm9tb3Rpb24oMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW5mCg==</text>
+        <text encoding="base64">T2x2TTljcFZoaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydFRoYXQoKTsK</text>
+        <text encoding="base64">ICAgICAgaW5mCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oKTsK</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydFRoYXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnR5QXBpIGFwaSA9IG5ldyBQcm9wZXJ0eUFwaShQcm9wZXJ0eUFwaUNvbmZpZy5CdWlsZGVyLmFwaVRva2VuKCJhODc2ZTJiMDFiZTEzMWFmMTJhZTMyZTkzMmUyNGZkMSIpLmJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzZXQK</text>
+        <text encoding="base64">ICAgIFByb3BlcnR5QXBpIGFwaSA9IG5ldyBQcm9wZXJ0eUFwaShQcm9wZXJ0eUFwaUNvbmZpZy5CdWlsZGVyLmFwaVRva2VuKCJhODc2ZTJiMDFiZTEzMWFmMTJhZTMyZTkzMmUyNGZkMSIpLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzZXQK</text>
