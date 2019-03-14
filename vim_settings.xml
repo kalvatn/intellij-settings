@@ -197,6 +197,9 @@
         <mark key="." line="147" column="35" />
         <mark key="^" line="147" column="35" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" timestamp="1552567037166">
+        <mark key="'" line="93" column="58" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/filesender2/LivescoreLocalDebugGenerator.java" timestamp="1551875128590">
         <mark key="[" line="64" column="25" />
         <mark key="]" line="64" column="24" />
@@ -514,9 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="717" column="40" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
-      <jump line="32" column="188" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
-      <jump line="44" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" />
       <jump line="0" column="3089" filename="/work/projects/gitlab/java/source/conf/component_403.classpath" />
       <jump line="29" column="26" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="270" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
@@ -614,6 +614,9 @@
       <jump line="652" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
       <jump line="701" column="75" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
       <jump line="11" column="21" filename="/work/projects/gitlab/java/source/src/com/sportradar/dei/properties/PropertyAPISingleton.java" />
+      <jump line="27" column="30" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" />
+      <jump line="77" column="58" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" />
+      <jump line="93" column="58" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -623,7 +626,7 @@
         <text>Statement</text>
       </register>
       <register name="/" type="4">
-        <text>BetradarMatchId</text>
+        <text>PITCHING_STARTER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgYXBpVXJsID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZGVpX2FwaV91cmwiKTsKICAgICAgICBTdHJpbmcgYXBpVG9rZW4gPSBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJkZWlfYXBpX2tleSIpOwo=</text>
@@ -660,9 +663,9 @@
       </register>
     </registers>
     <search>
-      <last-search>BetradarMatchId</last-search>
+      <last-search>PITCHING_STARTER</last-search>
       <last-offset />
-      <last-pattern>BetradarMatchId</last-pattern>
+      <last-pattern>PITCHING_STARTER</last-pattern>
       <last-replace>Query</last-replace>
       <last-substitute>promotion</last-substitute>
       <last-dir>1</last-dir>
@@ -670,7 +673,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ComponentProperties</entry>
         <entry>Trigger</entry>
         <entry>periodic</entry>
         <entry>delta</entry>
@@ -690,6 +692,7 @@
         <entry>ALL_ATTENDANCE</entry>
         <entry>Fixture</entry>
         <entry>BetradarMatchId</entry>
+        <entry>PITCHING_STARTER</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
