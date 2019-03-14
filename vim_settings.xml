@@ -179,6 +179,11 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/StatisticsTeamintable.java" timestamp="1552311270799">
+        <mark key="]" line="39" column="7" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="39" column="7" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/common/pom.xml" timestamp="1551978346076">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="37" column="17" />
@@ -309,11 +314,11 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/sportradar/dei/properties/PropertyAPISingleton.java" timestamp="1552493232301">
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="48" column="9" />
-        <mark key="^" line="48" column="9" />
-        <mark key="." line="48" column="9" />
+      <file name="/work/projects/gitlab/java/source/src/com/sportradar/dei/properties/PropertyAPISingleton.java" timestamp="1552572173589">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/immutable/Event.java" timestamp="1552037628196">
         <mark key="[" line="269" column="0" />
@@ -348,6 +353,12 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/AttendanceWarningCreator.java" timestamp="1552572014183">
+        <mark key="[" line="90" column="42" />
+        <mark key="]" line="90" column="70" />
+        <mark key="." line="90" column="70" />
+        <mark key="^" line="90" column="70" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/StadiumEAO.java" timestamp="1551358816447">
         <mark key="[" line="82" column="35" />
@@ -389,11 +400,10 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="64" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/rule/DfcRule.java" timestamp="1550515474111">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="105" column="32" />
-        <mark key="." line="104" column="0" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/rule/DfcRule.java" timestamp="1552569381111">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="113" column="5" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/AussieRulesStatistics.java" timestamp="1550743028979">
         <mark key="[" line="39" column="18" />
@@ -448,12 +458,12 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" timestamp="1552569075472">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" timestamp="1552569620116">
         <mark key="'" line="494" column="47" />
-        <mark key="[" line="492" column="41" />
-        <mark key="]" line="492" column="67" />
-        <mark key="." line="492" column="67" />
-        <mark key="^" line="492" column="67" />
+        <mark key="[" line="501" column="67" />
+        <mark key="]" line="501" column="77" />
+        <mark key="." line="501" column="77" />
+        <mark key="^" line="501" column="77" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/PromotionManagerTest.java" timestamp="1552427515621">
         <mark key="[" line="7" column="29" />
@@ -479,6 +489,11 @@
         <mark key="]" line="962" column="33" />
         <mark key="." line="962" column="33" />
         <mark key="^" line="962" column="32" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/sportradar/dei/properties/PropertyApiSingleton.java" timestamp="1552572194109">
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/translation/TranslationFeed.java" timestamp="1549541673922">
         <mark key="[" line="304" column="21" />
@@ -621,43 +636,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>getConnection</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>getConnection</text>
       </register>
       <register name="/" type="4">
         <text>injurytime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYXBpVXJsID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZGVpX2FwaV91cmwiKTsKICAgICAgICBTdHJpbmcgYXBpVG9rZW4gPSBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJkZWlfYXBpX2tleSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuZ2V0TWF0Y2hUaW1lKCkgPT0gMCkgewogICAgICAgICAgZXZlbnQuc2V0VGltZShFdmVudC5OT19USU1FKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuZ2V0VGltZSgpID09IDApIHsKICAgICAgICAgIGV2ZW50LnNldFRpbWUoRXZlbnQuTk9fVElNRSk7CiAgICAgICAgfQogICAgICAgIGlmIChldmVudC5nZXRJbmp1cnlUaW1lKCkgPT0gMCkgewogICAgICAgICAgZXZlbnQuc2V0SW5qdXJ5VGltZShFdmVudC5OT19USU1FKTsKICAgICAgICB9CiAgICAgICAgaWYgKGV2ZW50LmdldE1hdGNoVGltZSgpID09IDApIHsKICAgICAgICAgIGV2ZW50LnNldE1hdGNoVGltZShFdmVudC5OT19USU1FKTsKICAgICAgICB9CiAgICAgICAgaWYgKGV2ZW50LmdldEluanVyeU1hdGNoVGltZSgpID09IDApIHsKICAgICAgICAgIGV2ZW50LnNldEluanVyeU1hdGNoVGltZShFdmVudC5OT19USU1FKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3RtLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3RtLnNldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiSk9JTiBsaXZlc2NvcmVfbW9uaXRvcmluZyBsbSBPTiBsbS50b3VybmFtZW50aWQ9bS50b3VybmFtZW50aWQgQU5EIGxtLmhhc2F0dGVuZGFuY2U9MSAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIgSk9JTiB0b3VybmFtZW50dGFibGUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiSk9JTiBsaXZlc2NvcmVfbW9uaXRvcmluZyBsbSBPTiBsbS50b3VybmFtZW50aWQ9bS50b3VybmFtZW50aWQgQU5EIGxtLmhhc2F0dGVuZGFuY2U9MSAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgSk9JTiB0b3VybmFtZW50dGFibGUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
