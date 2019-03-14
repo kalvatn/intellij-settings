@@ -448,11 +448,12 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" timestamp="1550493079708">
-        <mark key="[" line="451" column="24" />
-        <mark key="]" line="451" column="44" />
-        <mark key="." line="451" column="44" />
-        <mark key="^" line="451" column="44" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" timestamp="1552569075472">
+        <mark key="'" line="494" column="47" />
+        <mark key="[" line="492" column="41" />
+        <mark key="]" line="492" column="67" />
+        <mark key="." line="492" column="67" />
+        <mark key="^" line="492" column="67" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/PromotionManagerTest.java" timestamp="1552427515621">
         <mark key="[" line="7" column="29" />
@@ -517,19 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="3089" filename="/work/projects/gitlab/java/source/conf/component_403.classpath" />
-      <jump line="29" column="26" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="270" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="263" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="252" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="1444" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="58" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="59" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="14" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ScoreChangeEvent.java" />
-      <jump line="826" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
-      <jump line="57" column="38" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="48" column="36" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="394" column="32" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="740" column="19" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="668" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="669" column="36" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
@@ -617,16 +605,29 @@
       <jump line="27" column="30" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" />
       <jump line="77" column="58" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" />
       <jump line="93" column="58" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" />
+      <jump line="538" column="60" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="590" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="641" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="642" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="643" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="644" column="28" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="646" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="97" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="117" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="125" column="33" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="231" column="41" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="382" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
+      <jump line="494" column="47" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Statement</text>
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>Statement</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text>PITCHING_STARTER</text>
+        <text>injurytime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgYXBpVXJsID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZGVpX2FwaV91cmwiKTsKICAgICAgICBTdHJpbmcgYXBpVG9rZW4gPSBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJkZWlfYXBpX2tleSIpOwo=</text>
@@ -659,13 +660,13 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>PITCHING_STARTER</last-search>
+      <last-search>injurytime</last-search>
       <last-offset />
-      <last-pattern>PITCHING_STARTER</last-pattern>
+      <last-pattern>injurytime</last-pattern>
       <last-replace>Query</last-replace>
       <last-substitute>promotion</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +674,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Trigger</entry>
         <entry>periodic</entry>
         <entry>delta</entry>
         <entry>poi-3.17</entry>
@@ -693,6 +693,7 @@
         <entry>Fixture</entry>
         <entry>BetradarMatchId</entry>
         <entry>PITCHING_STARTER</entry>
+        <entry>injurytime</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
@@ -704,7 +705,6 @@
         <entry>47</entry>
         <entry>56</entry>
         <entry>%s/XSSFCellStyle.BORDER_/org.apache.poi.ss.usermodel.BorderStyle./gc</entry>
-        <entry>set ignorecase</entry>
         <entry>308</entry>
         <entry>21</entry>
         <entry>1444</entry>
@@ -715,6 +715,7 @@
         <entry>%s/DeiProperty/PropertyId/g</entry>
         <entry>%s/PropertyQuery/Query/g</entry>
         <entry>w</entry>
+        <entry>set ignorecase</entry>
       </history-cmd>
       <history-expr />
       <history-input />
