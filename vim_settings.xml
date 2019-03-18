@@ -166,8 +166,12 @@
         <mark key="^" line="78" column="71" />
         <mark key="." line="78" column="71" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" timestamp="1552910076260">
-        <mark key="'" line="451" column="59" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" timestamp="1552912892851">
+        <mark key="'" line="472" column="78" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="39" column="2" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/ClientEAO.java" timestamp="1552427779212">
         <mark key="[" line="39" column="0" />
@@ -203,10 +207,6 @@
         <mark key="]" line="155" column="9" />
         <mark key="^" line="155" column="9" />
         <mark key="." line="155" column="9" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.29/sportradar-common-2.0.29.jar!/com/betradar/dei/api/DeiApi.class" timestamp="1552492828589">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="64" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/AussieRulesStatistics.java" timestamp="1550743028979">
         <mark key="[" line="39" column="18" />
@@ -279,6 +279,11 @@
         <mark key="." line="36" column="39" />
         <mark key="^" line="36" column="39" />
       </file>
+      <file name="/work/projects/gitlab/statistics/league-standings-builder/src/main/resources/conf/statisticsbuilder.properties" timestamp="1552912894364">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/common/src/main/java/com/oddsarbitrage/filesender/ShutDownThread.java" timestamp="1551982441810">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -308,6 +313,9 @@
         <mark key="]" line="24" column="54" />
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="54" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.30/sportradar-common-2.0.30.jar!/com/betradar/PropertiesFile.class" timestamp="1552912415580">
+        <mark key="'" line="68" column="4" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/card/generator/infographic/basketball/TrackerRecord.java" timestamp="1550744813026">
         <mark key="[" line="53" column="8" />
@@ -556,6 +564,7 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="41" column="16" />
       </file>
+      <file name="/work/projects/gitlab/statistics/league-standings-builder/src/main/resources/conf/statisticsbuilder.properties.virtual" timestamp="1552912702425" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/translation/TranslationFeed.java" timestamp="1549541673922">
         <mark key="[" line="304" column="21" />
         <mark key="]" line="304" column="20" />
@@ -565,9 +574,6 @@
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" timestamp="1552483819313">
         <mark key="'" line="53" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1552492565343">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java-common/filesender/common/src/main/java/com/betradar/filesender/storage/FileStorageCache.java" timestamp="1551979616966">
         <mark key="[" line="52" column="14" />
         <mark key="]" line="52" column="20" />
@@ -576,8 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="435" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
-      <jump line="646" column="12" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="647" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="772" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="280" column="26" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
@@ -676,13 +680,15 @@
       <jump line="134" column="43" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
       <jump line="205" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
       <jump line="451" column="59" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
+      <jump line="68" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.30/sportradar-common-2.0.30.jar!/com/betradar/PropertiesFile.class" />
+      <jump line="472" column="78" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>statistics</text>
@@ -694,31 +700,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1hcDxJbnRlZ2VyLCBUb3VybmFtZW50bGV2ZWw+IGxldmVsQnlJZCA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QExvY2soTG9ja1R5cGUuUkVBRCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqIEBhdXRob3IgaGFha29uICovCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBTZXR0aW5ncyBmb3IgU2NoZWR1bGVTdGF0UGxheWVyRXZlbnRzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">U2NoZWR1bGVTdGF0UGxheWVyRXZlbnRzX0hvdXJzQmFjayA9IDQ4MAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>PropertiesFile.load(&quot;statisticsbuilder.properties&quot;)
+            .getPropertyAsInt(&quot;ScheduleStatPlayerEvents_HoursBack&quot;, 4</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAUG9zdENvbnN0cnVjdAogIHByaXZhdGUgdm9pZCBwb3N0Q29uc3RydWN0KCkgewogICAgY2FjaGVUb3VybmFtZW50TGV2ZWwoKTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE1hcDxJbnRlZ2VyLCBUb3VybmFtZW50bGV2ZWw+IGxldmVsQnlJZCA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyZWFtPFRvdXJuYW1lbnRsZXZlbD4gZ2V0VG91cm5hbWVudGxldmVsU3RyZWFtKCkgewogICAgcmV0dXJuIGxldmVsQnlJZC52YWx1ZXMoKS5zdHJlYW0oKTsKICB9CgogIEBMb2NrKExvY2tUeXBlLldSSVRFKQogIHByaXZhdGUgdm9pZCBjYWNoZVRvdXJuYW1lbnRMZXZlbCgpIHsKICAgIGxvZy5pbmZvKCJDYWNoaW5nIFRvdXJuYW1lbnRsZXZlbCBNYXAiKTsKICAgIE1hcDxJbnRlZ2VyLCBUb3VybmFtZW50bGV2ZWw+IGNvbGxlY3QgPQogICAgICAgIHRvdXJuYW1lbnRsZXZlbEVBTy5nZXRBbGxUb3VybmFtZW50bGV2ZWwoKS5zdHJlYW0oKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKFRvdXJuYW1lbnRsZXZlbDo6Z2V0SWQsIGwgLT4gbCkpOwogICAgbGV2ZWxCeUlkLmNsZWFyKCk7CiAgICBsZXZlbEJ5SWQucHV0QWxsKGNvbGxlY3QpOwogICAgbG9nLmluZm8oIkNhY2hlZCBUb3VybmFtZW50bGV2ZWwgTWFwIik7CiAgfQo=</text>
+        <text encoding="base64">QExvY2soTG9ja1R5cGUuUkVBRCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">LyoqIEBhdXRob3IgaGFha29uICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -772,8 +779,8 @@
         <entry>%s/PropertyResponse/Response/g</entry>
         <entry>%s/DeiProperty/PropertyId/g</entry>
         <entry>%s/PropertyQuery/Query/g</entry>
-        <entry>w</entry>
         <entry>set ignorecase</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
