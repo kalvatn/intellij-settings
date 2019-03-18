@@ -166,6 +166,9 @@
         <mark key="^" line="78" column="71" />
         <mark key="." line="78" column="71" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" timestamp="1552909372033">
+        <mark key="'" line="451" column="59" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/ClientEAO.java" timestamp="1552427779212">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -573,10 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="668" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
-      <jump line="669" column="36" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
-      <jump line="431" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
-      <jump line="432" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="435" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="646" column="12" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
       <jump line="647" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/EventDao.java" />
@@ -673,6 +672,10 @@
       <jump line="382" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
       <jump line="494" column="47" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
       <jump line="71" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/TournamentEAO.java" />
+      <jump line="107" column="63" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
+      <jump line="134" column="43" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
+      <jump line="205" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
+      <jump line="451" column="59" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -682,7 +685,7 @@
         <text>key</text>
       </register>
       <register name="/" type="4">
-        <text>injurytime</text>
+        <text>statistics</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExvYWRpbmdDYWNoZTxJbnRlZ2VyLCBUb3VybmFtZW50dGFibGV1bmlxdWU+IHVuaXF1ZVRvdXJuYW1lbnRDYWNoZSA9CiAgICAgIERlZmF1bHRDYWNoZUJ1aWxkZXIubmV3QnVpbGRlcigxMDAsIER1cmF0aW9uLm9mSG91cnMoMSkpCiAgICAgICAgICAuYnVpbGQoCiAgICAgICAgICAgICAgbmV3IENhY2hlTG9hZGVyPEludGVnZXIsIFRvdXJuYW1lbnR0YWJsZXVuaXF1ZT4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBUb3VybmFtZW50dGFibGV1bmlxdWUgbG9hZChATm9ubnVsbCBJbnRlZ2VyIGtleSkgewogICAgICAgICAgICAgICAgICByZXR1cm4gdG91cm5hbWVudFRhYmxlVW5pcXVlRUFPLmZpbmRCeUlkKGtleSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7Cg==</text>
@@ -719,9 +722,9 @@
       </register>
     </registers>
     <search>
-      <last-search>injurytime</last-search>
+      <last-search>statistics</last-search>
       <last-offset />
-      <last-pattern>injurytime</last-pattern>
+      <last-pattern>statistics</last-pattern>
       <last-replace>Query</last-replace>
       <last-substitute>promotion</last-substitute>
       <last-dir>1</last-dir>
@@ -729,7 +732,6 @@
     </search>
     <history>
       <history-search>
-        <entry>periodic</entry>
         <entry>delta</entry>
         <entry>poi-3.17</entry>
         <entry>PropertyResponse</entry>
@@ -749,6 +751,7 @@
         <entry>BetradarMatchId</entry>
         <entry>PITCHING_STARTER</entry>
         <entry>injurytime</entry>
+        <entry>statistics</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
