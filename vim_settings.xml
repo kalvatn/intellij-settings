@@ -706,7 +706,7 @@
         <text>jar</text>
       </register>
       <register name="/" type="4">
-        <text>pluginManagement</text>
+        <text>StatusLogger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXNvdXJjZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+Z2VuZXJhdGUtc291cmNlczwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmphci1uby1mb3JrPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
@@ -739,13 +739,13 @@
         <text encoding="base64">ICAgICAgICAucXVlcnkoUXVlcnkuZm9yQWxsKEVudGl0eVR5cGUuVE9VUk5BTUVOVCwgUHJvcGVydHlJZC5BTExfQVRURU5EQU5DRSkpCiAgICAgICAgLnByb3BlcnRpZXNCeVR5cGUoKQogICAgICAgIC5nZXQoRW50aXR5VHlwZS5UT1VSTkFNRU5UKQogICAgICAgIC5rZXlTZXQoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9leGlzdHMvZw==</text>
+        <text>71</text>
       </register>
     </registers>
     <search>
-      <last-search>pluginManagement</last-search>
+      <last-search>StatusLogger</last-search>
       <last-offset />
-      <last-pattern>pluginManagement</last-pattern>
+      <last-pattern>StatusLogger</last-pattern>
       <last-replace>exists</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -753,7 +753,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setPromotino</entry>
         <entry>setPromotion</entry>
         <entry>promotion</entry>
         <entry>toMap</entry>
@@ -773,9 +772,9 @@
         <entry>595</entry>
         <entry>maven-source</entry>
         <entry>pluginManagement</entry>
+        <entry>StatusLogger</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/GeneralScoutDataConnector.getScoutMatchData/gscdInstance.getScoutMatchDataFor/g</entry>
         <entry>%s/GeneralScoutDataConnector.getScoutMatchData/gsdcInstance.getScoutMatchDataFor/g</entry>
         <entry>%s/2018.5.1/2018.6.12/gc</entry>
         <entry>%s/MatchOdds.type/MatchOddsType.type/g</entry>
@@ -795,6 +794,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5pc0VuYWJsZWQvZXhpc3RzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2lzRW5hYmxlZC9leGlzdHMvZw==</entry>
+        <entry>71</entry>
       </history-cmd>
       <history-expr />
       <history-input />
