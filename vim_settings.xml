@@ -400,11 +400,12 @@
         <mark key="." line="581" column="58" />
         <mark key="^" line="581" column="58" />
       </file>
-      <file name="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" timestamp="1553003119395">
-        <mark key="[" line="71" column="36" />
-        <mark key="]" line="72" column="22" />
-        <mark key="." line="72" column="22" />
-        <mark key="^" line="72" column="22" />
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" timestamp="1553004603324">
+        <mark key="'" line="46" column="34" />
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
+        <mark key="^" line="48" column="23" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/RugbyStatistics.java" timestamp="1550743692474">
         <mark key="[" line="110" column="18" />
@@ -620,8 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="57" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="25" column="4" filename="/work/projects/gitlab/java/source/src/com/sportradar/environment/test/TestPropertyLoading.java" />
       <jump line="57" column="76" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/central/ComponentPropertiesLoader.java" />
       <jump line="22" column="8" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/TeamsintournamentEAOTest.java" />
       <jump line="678" column="84" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
@@ -720,19 +719,21 @@
       <jump line="347" column="6" filename="/work/projects/gitlab/java/source/conf/log4j.xml" />
       <jump line="351" column="27" filename="/work/projects/gitlab/java/source/conf/log4j.xml" />
       <jump line="28" column="65" filename="/work/projects/gitlab/java/source/conf/log4j.xml" />
+      <jump line="68" column="0" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
+      <jump line="46" column="34" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>log4j12</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1zaW1wbGU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuNy43PC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>log4j12</text>
       </register>
       <register name="/" type="4">
-        <text>ConsoleAppender</text>
+        <text>okhttp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJDb25zb2xlQXBwZW5kZXJTeW5jIiBjbGFzcz0ib3JnLmFwYWNoZS5sb2c0ai5Db25zb2xlQXBwZW5kZXIiPgoJCTxwYXJhbSBuYW1lPSJUaHJlc2hvbGQiIHZhbHVlPSJkZWJ1ZyIgLz4KCQk8bGF5b3V0IGNsYXNzPSJvcmcuYXBhY2hlLmxvZzRqLlBhdHRlcm5MYXlvdXQiPgoJCQk8cGFyYW0gbmFtZT0iQ29udmVyc2lvblBhdHRlcm4iIHZhbHVlPSIlZHt5eXl5LU1NLWRkIEhIOm1tOnNzfSAoJXApOiAlY3sxfS4lTSglTCkgJW0lbiIgLz4KCQk8L2xheW91dD4KCTwvYXBwZW5kZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1zaW1wbGU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuNy43PC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXIiIC8+Cg==</text>
@@ -766,9 +767,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ConsoleAppender</last-search>
+      <last-search>okhttp</last-search>
       <last-offset />
-      <last-pattern>ConsoleAppender</last-pattern>
+      <last-pattern>okhttp</last-pattern>
       <last-replace>exists</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -776,7 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ALL_ATTENDANCE</entry>
         <entry>Fixture</entry>
         <entry>BetradarMatchId</entry>
         <entry>PITCHING_STARTER</entry>
@@ -796,6 +796,7 @@
         <entry>slf4j</entry>
         <entry>sl4j</entry>
         <entry>ConsoleAppender</entry>
+        <entry>okhttp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/GeneralScoutDataConnector.getScoutMatchData/gsdcInstance.getScoutMatchDataFor/g</entry>
