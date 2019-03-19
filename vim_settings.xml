@@ -241,6 +241,10 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="68" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1552999843944">
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="263" column="21" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/template/DefaultCacheBuilder.java" timestamp="1552578339044">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="9" column="3" />
@@ -298,6 +302,7 @@
         <mark key="." line="36" column="39" />
         <mark key="^" line="36" column="39" />
       </file>
+      <file name="/work/projects/gitlab/java/sportradar-common/pom.xml" timestamp="1552999869588" />
       <file name="/work/projects/gitlab/statistics/league-standings-builder/src/main/resources/conf/statisticsbuilder.properties" timestamp="1552912894364">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -338,9 +343,6 @@
         <mark key="]" line="24" column="54" />
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="54" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.30/sportradar-common-2.0.30.jar!/com/betradar/PropertiesFile.class" timestamp="1552912415580">
-        <mark key="'" line="68" column="4" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/util/Timing.kt" timestamp="1552924576043">
         <mark key="[" line="5" column="58" />
@@ -697,17 +699,17 @@
       <jump line="209" column="60" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXNvdXJjZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+Z2VuZXJhdGUtc291cmNlczwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmphci1uby1mb3JrPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
       </register>
       <register name="-" type="4">
         <text>jar</text>
       </register>
       <register name="/" type="4">
-        <text>maven-source</text>
+        <text>pluginManagement</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPmdlbmVyYXRlLXNvdXJjZXM8L3BoYXNlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXNvdXJjZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+Z2VuZXJhdGUtc291cmNlczwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmphci1uby1mb3JrPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlkPmF0dGFjaC1qYXZhZG9jczwvaWQ+Cg==</text>
@@ -741,9 +743,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maven-source</last-search>
+      <last-search>pluginManagement</last-search>
       <last-offset />
-      <last-pattern>maven-source</last-pattern>
+      <last-pattern>pluginManagement</last-pattern>
       <last-replace>exists</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -769,8 +771,8 @@
         <entry>155</entry>
         <entry>58</entry>
         <entry>595</entry>
-        <entry>pluginManagement</entry>
         <entry>maven-source</entry>
+        <entry>pluginManagement</entry>
       </history-search>
       <history-cmd>
         <entry>%s/GeneralScoutDataConnector.getScoutMatchData/gscdInstance.getScoutMatchDataFor/g</entry>
