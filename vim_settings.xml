@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/TennisPlayerInfoServiceBean.java" timestamp="1553082751036">
+        <mark key="'" line="250" column="8" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/resources/log4j.xml" timestamp="1553003035868">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="29" />
@@ -39,6 +42,15 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/XmlExportService.java" timestamp="1553083839299">
+        <mark key="[" line="83" column="3" />
+        <mark key="]" line="85" column="49" />
+        <mark key="^" line="85" column="49" />
+        <mark key="." line="85" column="49" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" timestamp="1552567037166">
+        <mark key="'" line="93" column="58" />
+      </file>
       <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1553002473347">
         <mark key="'" line="179" column="44" />
         <mark key="[" line="193" column="26" />
@@ -46,11 +58,11 @@
         <mark key="^" line="193" column="25" />
         <mark key="." line="193" column="25" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1553009268079">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="76" />
-        <mark key="^" line="90" column="21" />
-        <mark key="." line="91" column="0" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1553084129661">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="23" column="43" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" timestamp="1552912892851">
         <mark key="'" line="472" column="78" />
@@ -59,12 +71,6 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="39" column="2" />
       </file>
-      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/AttendanceWarningCreator.java" timestamp="1552997416341">
-        <mark key="'" line="54" column="2" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java/source/conf/general.properties.@env@" timestamp="1552997337411">
         <mark key="'" line="17" column="27" />
         <mark key="[" line="172" column="18" />
@@ -72,9 +78,8 @@
         <mark key="." line="172" column="18" />
         <mark key="^" line="172" column="18" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1552999843944">
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="263" column="21" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/tournaments/TennisTournamentInfoServiceBean.java" timestamp="1553082806892">
+        <mark key="'" line="285" column="62" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/template/DefaultCacheBuilder.java" timestamp="1552578339044">
         <mark key="[" line="6" column="34" />
@@ -149,6 +154,9 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" timestamp="1552480344212">
+        <mark key="'" line="45" column="72" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" timestamp="1553005332177">
         <mark key="'" line="46" column="34" />
         <mark key="[" line="18" column="30" />
@@ -173,13 +181,17 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="16" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/betradar/mapping/finders/1.0.21/finders-1.0.21.jar!/conf/general.properties" timestamp="1552914367699">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="165" column="46" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/dei/properties/DEIPropertiesIntegrationTest.java" timestamp="1553084647659">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="27" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.3.0/kotlin-stdlib-1.3.0-sources.jar!/kotlin/system/Timing.kt" timestamp="1552924466964">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="1" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" timestamp="1552490476374">
+        <mark key="'" line="701" column="75" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/common/dei/dei-properties-api/2.0.4/dei-properties-api-2.0.4-sources.jar!/com/sportradar/common/dei/api/properties/model/PropertyId.kt" timestamp="1553084690491">
+        <mark key="'" line="3" column="11" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/Response.kt" timestamp="1552923719493">
         <mark key="[" line="51" column="58" />
@@ -202,10 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="678" column="84" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
-      <jump line="992" column="57" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
-      <jump line="37" column="43" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
-      <jump line="1" column="0" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
       <jump line="0" column="2539" filename="/work/projects/gitlab/java/source/conf/component_453.classpath" />
       <jump line="52" column="0" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/sportradar/environment/properties/PropertyLoader.java" />
       <jump line="180" column="20" filename="/work/projects/gitlab/java/source/pom.xml" />
@@ -302,55 +310,61 @@
       <jump line="46" column="34" filename="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" />
       <jump line="0" column="0" filename="/work/projects/gitlab/java/xmlexport/pom.xml" />
       <jump line="75" column="17" filename="/work/projects/gitlab/java/xmlexport/pom.xml" />
+      <jump line="79" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
+      <jump line="250" column="8" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/TennisPlayerInfoServiceBean.java" />
+      <jump line="285" column="62" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/tournaments/TennisTournamentInfoServiceBean.java" />
+      <jump line="3" column="11" filename="$MAVEN_REPOSITORY$/com/sportradar/common/dei/dei-properties-api/2.0.4/dei-properties-api-2.0.4-sources.jar!/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXBpKCkudG91cm5hbWVudElkc1dpdGhQcm9wZXJ0eShQcm9wZXJ0eUlkLkFMTF9MRUFHVUVfVEFCTEUpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;true&quot;</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>dei-properties</text>
+        <text>ALL_ROUND</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXBpKCkudG91cm5hbWVudElkc1dpdGhQcm9wZXJ0eShQcm9wZXJ0eUlkLkFMTF9MRUFHVUVfVEFCTEUpOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBoYXNDb3ZlcmFnZShYbWxFeHBvcnRTZXJ2aWNlIHNlcnZpY2UsIFRvdXJuYW1lbnR0YWJsZSB0b3VybmFtZW50KSB7CiAgICBTZXQ8SW50ZWdlcj4gY292ZXJlZFRvdXJuYW1lbnRJZHMgPSBnZXRDb3ZlcmVkVG91cm5hbWVudElkcyhzZXJ2aWNlKTsKICAgIHJldHVybiBjb3ZlcmVkVG91cm5hbWVudElkcy5pc0VtcHR5KCkKICAgICAgICB8fCBjb3ZlcmVkVG91cm5hbWVudElkcy5jb250YWlucyh0b3VybmFtZW50LmdldFRvdXJuYW1lbnRpZCgpKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgUmVzcG9uc2UgZ2V0UmVzcG9uc2UoUXVlcnkgcXVlcnkpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICByZXR1cm4gZ2V0UmVzcG9uc2UoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChxdWVyeSkpOwogIH0KCiAgcHVibGljIFJlc3BvbnNlIGdldFJlc3BvbnNlKExpc3Q8UXVlcnk+IHF1ZXJ5KSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgcmV0dXJuIHByb3BlcnRpZXNBUEkucXVlcnkocXVlcnkpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5oYXNWYWx1ZSgKICAgICAgICAgICAgRW50aXR5VHlwZS5UT1VSTkFNRU5ULCAxLCBQcm9wZXJ0eUlkLkFMTF9ST1VORF9JTkZPUk1BVElPTl9VU0VEX0lOX0NPTVBFVElUSU9OLCB0cnVlKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFByb3BlcnR5QXBpKAogICAgICAgICAgUHJvcGVydHlBcGlDb25maWcuQnVpbGRlcgogICAgICAgICAgICAgICAgICAuYXBpVG9rZW4oImE4NzZlMmIwMWJlMTMxYWYxMmFlMzJlOTMyZTI0ZmQxIikKICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">ICAgIFJlc3BvbnNlIHJlc3BvbnNlID0KICAgICAgICBwcm9wZXJ0aWVzQVBJLnF1ZXJ5KAogICAgICAgICAgICBRdWVyeS5mb3JUb3VybmFtZW50KDEsIFByb3BlcnR5SWQuQUxMX1JPVU5EX0lORk9STUFUSU9OX1VTRURfSU5fQ09NUEVUSVRJT04pKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFByb3BlcnR5QXBpKAogICAgICAgICAgbmV3IFByb3BlcnR5QXBpQ29uZmlnKAogICAgICAgICAgICAgICJodHRwczovL2FkbWluLnNwb3J0cmFkYXIuYWcvcHJvcGVydGllcy9maW5kIiwgImE4NzZlMmIwMWJlMTMxYWYxMmFlMzJlOTMyZTI0ZmQxIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW50aXR5VHlwZS5UT1VSTkFNRU5ULCAzLCBQcm9wZXJ0eUlkLkFMTF9ST1VORF9JTkZPUk1BVElPTl9VU0VEX0lOX0NPTVBFVElUSU9OLCB0cnVlKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">VXJsKCkKICAgICAgICAgICAgICAiaHR0cHM6Ly9hZG1pbi5zcG9ydHJhZGFyLmFnL3Byb3BlcnRpZXMvZmluZCIsIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ1ZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXIiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHlJZC5BTExfUk9VTkRfSU5GT1JNQVRJT05fVVNFRF9JTl9DT01QRVRJVElPTiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxBcHBlbmRlcnM+CiAgICAgICAgPENvbnNvbGUgbmFtZT0iQ29uc29sZSIgdGFyZ2V0PSJTWVNURU1fT1VUIj4KICAgICAgICAgICAgPFBhdHRlcm5MYXlvdXQgcGF0dGVybj0iJWR7SEg6bW06c3MuU1NTfSBbJXRdICUtNWxldmVsICVsb2dnZXJ7MzZ9IC0gJW1zZyVuIi8+CiAgICAgICAgPC9Db25zb2xlPgogICAgPC9BcHBlbmRlcnM+CiAgICA8TG9nZ2Vycz4KICAgICAgICA8Um9vdCBsZXZlbD0iZGVidWciPgogICAgICAgICAgICA8QXBwZW5kZXJSZWYgcmVmPSJDb25zb2xlIi8+CiAgICAgICAgPC9Sb290PgogICAgPC9Mb2dnZXJzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW50aXR5VHlwZS5UT1VSTkFNRU5ULAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PENvbmZpZ3VyYXRpb24gc3RhdHVzPSJJTkZPIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW50aXR5VHlwZS5UT1VSTkFNRU5ULCAxLCBQcm9wZXJ0eUlkLkFMTF9ST1VORF9JTkZPUk1BVElPTl9VU0VEX0lOX0NPTVBFVElUSU9OLCB0cnVlKSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
+      <register name="9" type="4">
+        <text>query(
+            Query.forAll(
+                EntityType.TOURNAMENT</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
       </register>
     </registers>
     <search>
-      <last-search>dei-properties</last-search>
+      <last-search>ALL_ROUND</last-search>
       <last-offset />
-      <last-pattern>dei-properties</last-pattern>
+      <last-pattern>ALL_ROUND</last-pattern>
       <last-replace>exists</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -358,9 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Fixture</entry>
-        <entry>BetradarMatchId</entry>
-        <entry>PITCHING_STARTER</entry>
         <entry>injurytime</entry>
         <entry>statistics</entry>
         <entry>isEnabled</entry>
@@ -378,6 +389,9 @@
         <entry>ConsoleAppender</entry>
         <entry>okhttp</entry>
         <entry>dei-properties</entry>
+        <entry>coverageMana</entry>
+        <entry>coverage</entry>
+        <entry>ALL_ROUND</entry>
       </history-search>
       <history-cmd>
         <entry>%s/GeneralScoutDataConnector.getScoutMatchData/gsdcInstance.getScoutMatchDataFor/g</entry>
