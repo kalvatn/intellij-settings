@@ -3,16 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/TennisPlayerInfoServiceBean.java" timestamp="1553163672259">
+        <mark key="'" line="354" column="25" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="90" column="5" />
+        <mark key="^" line="79" column="47" />
+        <mark key="." line="347" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/resources/log4j.xml" timestamp="1553003035868">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
-      </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/seasonstats/SeasonAverageCalculatorBean.java" timestamp="1553095570078">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/matchdetails/MatchDetailsServiceBean.java" timestamp="1553096555934">
         <mark key="'" line="311" column="0" />
@@ -27,6 +29,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="21" column="95" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" timestamp="1553163531668">
+        <mark key="'" line="511" column="29" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="71" column="5" />
+        <mark key="^" line="60" column="45" />
+        <mark key="." line="520" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Tournamenttable.java" timestamp="1552578281860">
         <mark key="[" line="19" column="0" />
@@ -87,10 +96,26 @@
         <mark key="^" line="60" column="26" />
         <mark key="." line="60" column="26" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" timestamp="1553095731415">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1553002473347">
+        <mark key="'" line="179" column="44" />
+        <mark key="[" line="193" column="26" />
+        <mark key="]" line="193" column="25" />
+        <mark key="^" line="193" column="25" />
+        <mark key="." line="193" column="25" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/playertransfers/PlayerTransferService.java" timestamp="1553163716316">
+        <mark key="'" line="154" column="53" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="64" column="5" />
+        <mark key="^" line="53" column="46" />
+        <mark key="." line="151" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/GenericPrematchFeedBean.java" timestamp="1553163741092">
+        <mark key="'" line="497" column="52" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="89" column="5" />
+        <mark key="^" line="78" column="46" />
+        <mark key="." line="501" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" timestamp="1552912892851">
         <mark key="'" line="472" column="78" />
@@ -106,16 +131,18 @@
         <mark key="." line="172" column="18" />
         <mark key="^" line="172" column="18" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/seasonstatistics/SeasonStatisticsManager.java" timestamp="1553095465680">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/template/DefaultCacheBuilder.java" timestamp="1552578339044">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" timestamp="1553163637172">
+        <mark key="'" line="240" column="8" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="89" column="5" />
+        <mark key="^" line="78" column="36" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1553002609148">
         <mark key="'" line="30" column="41" />
@@ -123,6 +150,13 @@
         <mark key="]" line="38" column="30" />
         <mark key="." line="38" column="30" />
         <mark key="^" line="38" column="30" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" timestamp="1552569620116">
+        <mark key="'" line="494" column="47" />
+        <mark key="[" line="501" column="67" />
+        <mark key="]" line="501" column="77" />
+        <mark key="." line="501" column="77" />
+        <mark key="^" line="501" column="77" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/interfaces/ExportService.java" timestamp="1553096390384">
         <mark key="[" line="15" column="23" />
@@ -149,10 +183,12 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="/work/projects/gitlab/statistics/league-standings-builder/src/main/resources/conf/statisticsbuilder.properties" timestamp="1552912894364">
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiIntegrationTest.kt" timestamp="1553085561165">
+        <mark key="'" line="181" column="8" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+        <mark key="^" line="206" column="71" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/loader/Loader.kt" timestamp="1553002683652">
         <mark key="[" line="63" column="38" />
@@ -179,6 +215,27 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematchandleaguetable/PreMatchAndLeaguetableServiceBean.java" timestamp="1553163813820">
+        <mark key="'" line="57" column="3" />
+        <mark key="[" line="50" column="50" />
+        <mark key="]" line="51" column="3" />
+        <mark key="." line="51" column="3" />
+        <mark key="^" line="51" column="3" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/DisciplinaryServiceBean.java" timestamp="1553163446852">
+        <mark key="'" line="287" column="57" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="69" column="5" />
+        <mark key="." line="290" column="3" />
+        <mark key="^" line="290" column="3" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" timestamp="1553163773571">
+        <mark key="'" line="565" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="98" column="5" />
+        <mark key="^" line="87" column="39" />
+        <mark key="." line="87" column="39" />
+      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" timestamp="1553085573284">
         <mark key="'" line="18" column="47" />
         <mark key="[" line="61" column="0" />
@@ -191,6 +248,13 @@
         <mark key="]" line="9" column="79" />
         <mark key="." line="9" column="79" />
         <mark key="^" line="9" column="79" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/GoalScorerServiceBean.java" timestamp="1553163501819">
+        <mark key="'" line="320" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="75" column="5" />
+        <mark key="^" line="64" column="43" />
+        <mark key="." line="492" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsService.java" timestamp="1553096414604" />
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1553002222684">
@@ -211,10 +275,30 @@
         <mark key="." line="38" column="74" />
         <mark key="^" line="38" column="74" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/overunderstatistics/OverUnderStatisticsService.java" timestamp="1553096896218">
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" timestamp="1553163604108">
+        <mark key="'" line="477" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="81" column="5" />
+        <mark key="^" line="70" column="47" />
+        <mark key="." line="70" column="47" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/AssistServiceBean.java" timestamp="1553163376116">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="82" column="5" />
+        <mark key="^" line="71" column="38" />
+        <mark key="." line="71" column="38" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" timestamp="1553163802154">
+        <mark key="'" line="63" column="11" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="65" column="5" />
+        <mark key="^" line="54" column="44" />
+        <mark key="." line="227" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/overunderstatistics/OverUnderStatisticsService.java" timestamp="1553163331019">
         <mark key="'" line="196" column="0" />
-        <mark key="[" line="128" column="32" />
-        <mark key="]" line="128" column="50" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="139" column="5" />
         <mark key="." line="128" column="50" />
         <mark key="^" line="128" column="50" />
       </file>
@@ -230,6 +314,13 @@
         <mark key="^" line="51" column="88" />
         <mark key="." line="51" column="88" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerMergeServiceBean.java" timestamp="1553163560804">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="68" column="5" />
+        <mark key="^" line="57" column="42" />
+        <mark key="." line="114" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/TournamentTableUniqueEAO.java" timestamp="1552578566974">
         <mark key="[" line="41" column="14" />
         <mark key="]" line="41" column="16" />
@@ -244,58 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="43" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="198" column="44" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="205" column="37" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="20" column="63" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="40" column="62" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="103" column="32" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="199" column="37" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/leaguetable/LeagueTableColumnMapperBean.java" />
-      <jump line="394" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" />
-      <jump line="401" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/LeagueTableManager.java" />
-      <jump line="56" column="30" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/PromotionManager.java" />
-      <jump line="28" column="51" filename="/work/projects/gitlab/statistics/league-standings-builder/src/main/java/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
-      <jump line="49" column="54" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
-      <jump line="45" column="72" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/statistics/tables/data/LeagueEntry.java" />
-      <jump line="18" column="16" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
-      <jump line="53" column="12" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
-      <jump line="63" column="14" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" />
-      <jump line="100" column="42" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
-      <jump line="146" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
-      <jump line="154" column="44" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
-      <jump line="161" column="28" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
-      <jump line="471" column="40" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
-      <jump line="652" column="26" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
-      <jump line="701" column="75" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/export/ExportXMLGenerator.java" />
-      <jump line="11" column="21" filename="/work/projects/gitlab/java/source/src/com/sportradar/dei/properties/PropertyAPISingleton.java" />
-      <jump line="27" column="30" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" />
-      <jump line="77" column="58" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" />
-      <jump line="93" column="58" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/importer/usapi/data/UsApiBaseballExtractor.java" />
-      <jump line="538" column="60" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="590" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="641" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="642" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="643" column="10" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="644" column="28" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="646" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="97" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="117" column="13" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="125" column="33" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="231" column="41" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="382" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="494" column="47" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/external/dfc/DFCEventImporter.java" />
-      <jump line="71" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/TournamentEAO.java" />
-      <jump line="107" column="63" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
-      <jump line="134" column="43" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
-      <jump line="205" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
-      <jump line="451" column="59" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
-      <jump line="68" column="4" filename="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/2.0.30/sportradar-common-2.0.30.jar!/com/betradar/PropertiesFile.class" />
-      <jump line="472" column="78" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/statistics/ScheduleStatPlayerEvents.java" />
-      <jump line="367" column="40" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="56" column="28" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="17" column="27" filename="/work/projects/gitlab/java/source/conf/general.properties.@env@" />
-      <jump line="57" column="2" filename="/work/projects/gitlab/java/source/src/com/sportradar/dei/properties/PropertyApiSingleton.java" />
-      <jump line="56" column="2" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/AttendanceWarningCreator.java" />
       <jump line="24" column="14" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" />
       <jump line="81" column="4" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
       <jump line="487" column="12" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
@@ -344,55 +383,107 @@
       <jump line="1071" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="136" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/overunderstatistics/OverUnderStatisticsService.java" />
       <jump line="191" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/overunderstatistics/OverUnderStatisticsService.java" />
+      <jump line="172" column="12" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/DisciplinaryServiceBean.java" />
+      <jump line="173" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/DisciplinaryServiceBean.java" />
+      <jump line="62" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/DisciplinaryServiceBean.java" />
+      <jump line="287" column="57" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/DisciplinaryServiceBean.java" />
+      <jump line="67" column="12" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/GoalScorerServiceBean.java" />
+      <jump line="321" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/GoalScorerServiceBean.java" />
+      <jump line="68" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/GoalScorerServiceBean.java" />
+      <jump line="320" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/GoalScorerServiceBean.java" />
+      <jump line="60" column="45" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" />
+      <jump line="64" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" />
+      <jump line="328" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" />
+      <jump line="403" column="58" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" />
+      <jump line="471" column="65" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" />
+      <jump line="476" column="79" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" />
+      <jump line="499" column="61" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" />
+      <jump line="504" column="75" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" />
+      <jump line="511" column="29" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/MissingPlayersServiceBean.java" />
+      <jump line="57" column="42" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerMergeServiceBean.java" />
+      <jump line="66" column="18" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerMergeServiceBean.java" />
+      <jump line="114" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerMergeServiceBean.java" />
+      <jump line="82" column="3" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" />
+      <jump line="341" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" />
+      <jump line="477" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/PlayerStatisticsServiceBean.java" />
+      <jump line="78" column="36" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="87" column="11" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="397" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="81" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="82" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="240" column="8" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/SquadServiceBean.java" />
+      <jump line="79" column="47" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/TennisPlayerInfoServiceBean.java" />
+      <jump line="83" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/TennisPlayerInfoServiceBean.java" />
+      <jump line="246" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/TennisPlayerInfoServiceBean.java" />
+      <jump line="354" column="25" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/TennisPlayerInfoServiceBean.java" />
+      <jump line="53" column="46" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/playertransfers/PlayerTransferService.java" />
+      <jump line="62" column="11" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/playertransfers/PlayerTransferService.java" />
+      <jump line="240" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/playertransfers/PlayerTransferService.java" />
+      <jump line="57" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/playertransfers/PlayerTransferService.java" />
+      <jump line="154" column="53" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/playertransfers/PlayerTransferService.java" />
+      <jump line="78" column="46" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/GenericPrematchFeedBean.java" />
+      <jump line="82" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/GenericPrematchFeedBean.java" />
+      <jump line="426" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/GenericPrematchFeedBean.java" />
+      <jump line="497" column="52" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/GenericPrematchFeedBean.java" />
+      <jump line="84" column="3" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="96" column="11" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="639" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="91" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="565" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematch/PreMatchServiceBean.java" />
+      <jump line="53" column="41" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="58" column="4" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="227" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="63" column="11" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/ranking/TennisRankingServiceBean.java" />
+      <jump line="57" column="3" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/prematchandleaguetable/PreMatchAndLeaguetableServiceBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GOALSTATISTICS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFhtbEV4cG9ydFNlcnZpY2UgZ2V0U2VydmljZSgpIHsKICAgICAgICByZXR1cm4gWG1sRXhwb3J0U2VydmljZS5URU5OSVNSQU5LSU5HOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBnZXRTZXJ2aWNlSWQoKSB7CiAgICAgICAgcmV0dXJuIGdldFNlcnZpY2UoKS5pZCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRTZXJ2aWNlTmFtZSgpIHsKICAgICAgICByZXR1cm4gc2VydmljZU1hbmFnZXIuZ2V0U2VydmljZU5hbWUoZ2V0U2VydmljZUlkKCkpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>GOALSTATISTICS</text>
+        <text>PREMATCH</text>
       </register>
       <register name="/" type="4">
-        <text>getServiceId</text>
+        <text>String getServiceName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBFSkIKICAgIHByaXZhdGUgQ292ZXJhZ2VNYW5hZ2VyIGNvdmVyYWdlTWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFhtbEV4cG9ydFNlcnZpY2UgZ2V0U2VydmljZSgpIHsKICAgICAgICByZXR1cm4gWG1sRXhwb3J0U2VydmljZS5URU5OSVNSQU5LSU5HOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBnZXRTZXJ2aWNlSWQoKSB7CiAgICAgICAgcmV0dXJuIGdldFNlcnZpY2UoKS5pZCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXRTZXJ2aWNlTmFtZSgpIHsKICAgICAgICByZXR1cm4gc2VydmljZU1hbmFnZXIuZ2V0U2VydmljZU5hbWUoZ2V0U2VydmljZUlkKCkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFNlcnZpY2VOYW1lKCkgewogICAgICAgIHJldHVybiBzZXJ2aWNlTWFuYWdlci5nZXRTZXJ2aWNlTmFtZShnZXRTZXJ2aWNlSWQoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldFNlcnZpY2VOYW1lCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0U2VydmljZUlkKCkgewogICAgICAgIHJldHVybiBYbWxFeHBvcnRTZXJ2aWNlLlRFTk5JU1JBTktJTkcuaWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldFNlcgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFNlcnZpY2VOYW1lKCkgewogICAgICAgIHJldHVybiBzZXJ2aWNlTWFuYWdlci5nZXRTZXJ2aWNlTmFtZShnZXRTZXJ2aWNlSWQoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZU1hbmFnZXIuZ2V0U2VydmljZU5hbWUoZ2V0U2VydmljZUlkKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2VydmljZU5hbWUoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBnZXRTZXJ2aWNlSWQoKSB7CiAgICAgICAgcmV0dXJuIFhtbEV4cG9ydFNlcnZpY2UuT1VUUklHSFQuaWQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPVVRSSUdIVFNDSEUK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>getServiceId</last-search>
+      <last-search>String getServiceName</last-search>
       <last-offset />
-      <last-pattern>getServiceId</last-pattern>
+      <last-pattern>String getServiceName</last-pattern>
       <last-replace>exists</last-replace>
       <last-substitute>isEnabled</last-substitute>
       <last-dir>1</last-dir>
@@ -400,8 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>maven-source</entry>
-        <entry>pluginManagement</entry>
         <entry>StatusLogger</entry>
         <entry>sl</entry>
         <entry>slfj</entry>
@@ -418,8 +507,10 @@
         <entry>SQUAD</entry>
         <entry>roundInfo</entry>
         <entry>roundinfo</entry>
-        <entry>getServiceName</entry>
         <entry>getServiceId</entry>
+        <entry>getServiceName</entry>
+        <entry>public int getServiceId</entry>
+        <entry>String getServiceName</entry>
       </history-search>
       <history-cmd>
         <entry>%s/GeneralScoutDataConnector.getScoutMatchData/gsdcInstance.getScoutMatchDataFor/g</entry>
