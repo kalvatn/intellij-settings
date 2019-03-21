@@ -2,17 +2,111 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1553174020829">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java" timestamp="1553173429867">
+        <mark key="'" line="343" column="89" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApiConfig.kt" timestamp="1553175151102">
+        <mark key="[" line="38" column="70" />
+        <mark key="]" line="38" column="69" />
+        <mark key="^" line="38" column="69" />
+        <mark key="." line="38" column="69" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/loader/CachingLoader.kt" timestamp="1553175043763">
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="67" />
+        <mark key="." line="11" column="67" />
+        <mark key="^" line="11" column="67" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" timestamp="1553175062753">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="61" />
+        <mark key="." line="20" column="61" />
+        <mark key="^" line="20" column="61" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiIntegrationTest.kt" timestamp="1553174277878">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="199" column="67" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="347" column="16" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java" />
+      <jump line="343" column="89" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java" />
+      <jump line="22" column="25" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PENvbGxlY3Rpb248UXVlcnk+LCBSZXNwb25zZT4=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PENvbGxlY3Rpb248UXVlcnk+LCBSZXNwb25zZT4=</text>
+      </register>
+      <register name="/" type="4">
+        <text>hamcrest</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhhbWNyZXN0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5oYW1jcmVzdC1qdW5pdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjAuMDwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBASnZtRmllbGQKICAgICAgICB2YWwgREVGQVVMVF9VUkw6IFN0cmluZyA9ICJodHRwczovL2FkbWluLnNwb3J0cmFkYXIuYWcvcHJvcGVydGllcy9maW5kIgogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIERFRkFVTFRfQVBJX1RPS0VOID0gIiIKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgdmFsIERFRkFVTFRfREVCVUdfTE9HR0lORyA9IGZhbHNlCiAgICAgICAgQEp2bVN0YXRpYwogICAgICAgIHZhbCBERUZBVUxUX1RJTUVPVVRfU0VDT05EUzogSW50ID0gMzAKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgdmFsIERFRkFVTFRfQ0FDSEVfRU5BQkxFRCA9IHRydWUKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgdmFsIERFRkFVTFRfQ0FDSEVfQ09ORklHOiBDYWNoZUJ1aWxkZXI8QW55LCBBbnk+ID0gQ2FjaGVCdWlsZGVyLm5ld0J1aWxkZXIoKQogICAgICAgICAgICAgICAgLm1heGltdW1TaXplKDUwMDApCiAgICAgICAgICAgICAgICAuZXhwaXJlQWZ0ZXJXcml0ZSgxLCBUaW1lVW5pdC5IT1VSUykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBASnZtU3RhdGljCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBQcm9wZXJ0eUFwaUNvbmZpZy5CdWlsZGVyLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmhhbWNyZXN0PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5oYW1jcmVzdC1qdW5pdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4wLjAuMDwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBpVG9rZW4gPSAiYTg3NmUyYjAxYmUxMzFhZjEyYWUzMmU5MzJlMjRmZDEiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBpVG9rZW4gPSAiYTg3NmUyYjAxYmUxMzFhZjEyYWUzMmU5MzJlMjRmZDEiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>hamcrest</last-search>
+      <last-offset />
+      <last-pattern>hamcrest</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>greater</entry>
+        <entry>gt</entry>
+        <entry>larger</entry>
+        <entry>hamcrest</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
