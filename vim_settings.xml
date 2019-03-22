@@ -245,6 +245,12 @@
         <mark key="." line="73" column="69" />
         <mark key="^" line="73" column="69" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1553259576962">
+        <mark key="[" line="312" column="63" />
+        <mark key="]" line="312" column="63" />
+        <mark key="^" line="312" column="52" />
+        <mark key="." line="312" column="63" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/manager/ManagerProfileServiceBean.java" timestamp="1553181864717">
         <mark key="[" line="240" column="90" />
         <mark key="]" line="240" column="91" />
@@ -349,11 +355,11 @@
       <jump line="10" column="0" filename="/work/projects/gitlab/livescore/common/src/main/resources/log4j.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8YXBwZW5kZXItcmVmIHJlZj0iRGVmYXVsdEVycm9yTG9nQXBwZW5kZXIiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>Sync</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>dei-properties</text>
@@ -388,6 +394,9 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgIFNldDxJbnRlZ2VyPiBjb3ZlcmVkVG91cm5hbWVudElkcyA9IGdldENvdmVyZWRUb3VybmFtZW50SWRzKHNlcnZpY2UpOwoKICAgIGlmIChjb3ZlcmVkVG91cm5hbWVudElkcy5pc0VtcHR5KCkpIHsKICAgICAgICByZXR1cm4gdW5pcXVlVGVhbUlkczsKICAgIH0K</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
     </registers>
     <search>
       <last-search>dei-properties</last-search>
@@ -404,7 +413,9 @@
         <entry>hamcrest</entry>
         <entry>dei-properties</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
