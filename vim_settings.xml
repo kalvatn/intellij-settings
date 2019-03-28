@@ -187,6 +187,12 @@
         <mark key="." line="153" column="94" />
         <mark key="^" line="153" column="94" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/dei/properties/PropertyAPIWrapperTest.java" timestamp="1553770064540">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/resources/log4j.xml" timestamp="1553258413100">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -348,8 +354,8 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="66" column="5" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/pom.xml" timestamp="1553186724154">
-        <mark key="'" line="314" column="39" />
+      <file name="/work/projects/gitlab/java/xmlexport/pom.xml" timestamp="1553769923733">
+        <mark key="'" line="306" column="29" />
         <mark key="[" line="75" column="41" />
         <mark key="]" line="75" column="49" />
         <mark key="^" line="75" column="49" />
@@ -369,7 +375,7 @@
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" timestamp="1553186090906">
         <mark key="'" line="228" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1553602915451">
+      <file name="/fragment.java" timestamp="1553770058013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiIntegrationTest.kt" timestamp="1553174277878">
@@ -405,6 +411,8 @@
       <jump line="34" column="39" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" />
       <jump line="71" column="51" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManager.java" />
       <jump line="12" column="55" filename="$MAVEN_REPOSITORY$/com/sportradar/common/dei/dei-properties-api/2.0.6/dei-properties-api-2.0.6-sources.jar!/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
+      <jump line="141" column="23" filename="/work/projects/gitlab/java/xmlexport/pom.xml" />
+      <jump line="306" column="29" filename="/work/projects/gitlab/java/xmlexport/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -414,7 +422,7 @@
         <text encoding="base64">IHNlcnZpY2UuZ2V0U2VydmljZUlkKCksIA==</text>
       </register>
       <register name="/" type="4">
-        <text>75</text>
+        <text>slf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBCb29sZWFuIGNoZWNrQ292ZXJhZ2VTdWIoQ29sbGVjdGlvbjxJbnRlZ2VyPiB0b3VybmFtZW50SWRzLCBDb3ZlcmFnZVN1YiBzdWIpIHsKICAgICAgICBmb3IgKEludGVnZXIgdG91cm5hbWVudElkIDogdG91cm5hbWVudElkcykgewogICAgICAgICAgICBpZiAoIWNoZWNrQ292ZXJhZ2VTdWIodG91cm5hbWVudElkLCBzdWIpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9Cg==</text>
@@ -451,9 +459,9 @@
       </register>
     </registers>
     <search>
-      <last-search>75</last-search>
+      <last-search>slf</last-search>
       <last-offset />
-      <last-pattern>75</last-pattern>
+      <last-pattern>slf</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -467,6 +475,7 @@
         <entry>sportradar-common</entry>
         <entry>getFullUpdate</entry>
         <entry>75</entry>
+        <entry>slf</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
