@@ -108,7 +108,7 @@
         <mark key="." line="90" column="69" />
         <mark key="^" line="90" column="69" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1553862922507">
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/services/GenericServiceIntegrationTest.java" timestamp="1553863635666">
         <mark key="[" line="147" column="70" />
         <mark key="]" line="147" column="75" />
         <mark key="." line="147" column="75" />
@@ -360,11 +360,11 @@
         <mark key="." line="293" column="76" />
         <mark key="^" line="293" column="76" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyAPIWrapper.java" timestamp="1553782856811">
-        <mark key="[" line="15" column="55" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="15" column="54" />
-        <mark key="^" line="15" column="54" />
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyAPIWrapper.java" timestamp="1553863668149">
+        <mark key="[" line="49" column="79" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="49" column="25" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManager.java" timestamp="1553611926318">
         <mark key="'" line="71" column="51" />
@@ -448,11 +448,11 @@
       <jump line="821" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>306297</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNhY2hlLnN0YXRzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>306297</text>
+        <text>logCacheStats</text>
       </register>
       <register name="/" type="4">
         <text>= 30;</text>
@@ -461,15 +461,18 @@
         <text encoding="base64">ICAgICAgICB2YWwgYXBpID0gYXBpKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYXBpID0gYXBpKCkK</text>
+        <text encoding="base64">ICAgIGNhY2hlLnN0YXRzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYXBpID0gYXBpKCkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIEBCZWZvcmUK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGFwaTogUHJvcGVydHlBcGkgPSBudWxsCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>PropertyApi(PropertyApiConfig(
             apiToken = &quot;a876e2b01be131af12ae32e932e24fd1&quot;,
             debugLogging = true,
@@ -479,17 +482,14 @@
                     .recordStats()
     ))</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhcGkuZ2V0Q2FjaGUoKS5zdGF0cygpLgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0cy4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkZQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzcygidW51c2VkIikK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzcygidW51c2VkIikK</text>
