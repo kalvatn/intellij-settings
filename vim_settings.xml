@@ -9,9 +9,22 @@
         <mark key="^" line="151" column="13" />
         <mark key="." line="151" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console_1.sql" timestamp="1554117364210">
+        <mark key="[" line="6" column="106" />
+        <mark key="]" line="6" column="95" />
+        <mark key="^" line="6" column="95" />
+        <mark key="." line="6" column="95" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>l</text>
+      </register>
+      <register name="-" type="4">
+        <text>l</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
