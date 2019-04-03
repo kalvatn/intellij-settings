@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1554287754277">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1554289701145">
         <mark key="'" line="160" column="54" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="166" column="41" />
-        <mark key="^" line="166" column="41" />
-        <mark key="." line="166" column="41" />
+        <mark key="[" line="175" column="1" />
+        <mark key="]" line="176" column="45" />
+        <mark key="^" line="176" column="45" />
+        <mark key="." line="176" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console.sql" timestamp="1554287897956">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console.sql" timestamp="1554290140106">
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="43" />
+        <mark key="^" line="49" column="43" />
+        <mark key="." line="49" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554287670116">
         <mark key="'" line="0" column="0" />
@@ -29,17 +29,20 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfc2NvdXRldmVudCBlCmpvaW4gbGl2ZXNjb3JlX21hdGNoIGxtIG9uIGxtLm1hdGNoaWQgPSBlLm1hdGNoaWQKd2hlcmUgZS5ldmVudHR5cGUgPSAxNzQzCmFuZCBsbS5zcG9ydGlkID0gMgo7Cg==</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">c2hvdyB0YWJsZXM7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2hvdyB0YWJsZXM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e.eventtype = 1743</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX3RlYW1fc3RhdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>10-SNAPSHOT</text>
+        <text>e.eventtype = 1743</text>
       </register>
     </registers>
     <search>
@@ -47,6 +50,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
