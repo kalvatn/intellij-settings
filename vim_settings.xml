@@ -15,10 +15,6 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-war/pom.xml" timestamp="1554126653660">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="13" />
-      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Statistics2Stagetype.java" timestamp="1553864975053">
         <mark key="[" line="29" column="11" />
         <mark key="]" line="29" column="13" />
@@ -43,6 +39,9 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" timestamp="1554290203716">
+        <mark key="'" line="27" column="55" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1553872960963">
         <mark key="[" line="442" column="47" />
         <mark key="]" line="442" column="56" />
@@ -53,6 +52,9 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1554289915874">
+        <mark key="'" line="257" column="80" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StageinfoEAO.java" timestamp="1553872720731">
         <mark key="[" line="17" column="0" />
@@ -89,6 +91,7 @@
         <mark key="." line="24" column="11" />
         <mark key="^" line="24" column="11" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/DeepCoverageBasketMatch.java" timestamp="1554289875275" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554287338676">
         <mark key="'" line="846" column="49" />
       </file>
@@ -177,11 +180,8 @@
         <mark key="." line="24" column="32" />
         <mark key="^" line="24" column="32" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/filesender2/TestLiveScoreFileSender.java" timestamp="1554288752722">
-        <mark key="[" line="59" column="17" />
-        <mark key="]" line="59" column="20" />
-        <mark key="." line="59" column="20" />
-        <mark key="^" line="59" column="20" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/statistics/PlayerStats.java" timestamp="1554289808566">
+        <mark key="'" line="150" column="16" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/StageEAOIntegrationTest.java" timestamp="1553869070789">
         <mark key="[" line="74" column="41" />
@@ -217,11 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/loader/Loader.kt" />
-      <jump line="121" column="0" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
-      <jump line="19" column="35" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.3.0/kotlin-stdlib-common-1.3.0-sources.jar!/kotlin/util/Tuples.kt" />
-      <jump line="76" column="6" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" />
-      <jump line="116" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
       <jump line="10" column="0" filename="/work/projects/gitlab/livescore/common/src/main/resources/log4j.xml" />
       <jump line="298" column="61" filename="/work/projects/gitlab/livescore/common/pom.xml" />
       <jump line="42" column="8" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" />
@@ -317,6 +312,11 @@
       <jump line="231" column="45" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="834" column="36" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="846" column="49" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="115" column="21" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="150" column="16" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="257" column="80" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" />
+      <jump line="127" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
+      <jump line="27" column="55" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -326,7 +326,7 @@
         <text>project</text>
       </register>
       <register name="/" type="4">
-        <text>DFC_ASSIST</text>
+        <text>addEvent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAoRmlsZVRyYW5zcG9ydFNmdHApIEZpbGVUcmFuc3BvcnRQcm92aWRlci5nZXRJbnN0YW5jZSgpLmNyZWF0ZUZpbGVUcmFuc3BvcnQoMTk0MCk7Cg==</text>
@@ -363,18 +363,14 @@
       </register>
     </registers>
     <search>
-      <last-search>DFC_ASSIST</last-search>
+      <last-search>addEvent</last-search>
       <last-offset />
-      <last-pattern>DFC_ASSIST</last-pattern>
+      <last-pattern>addEvent</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>75</entry>
-        <entry>sl4j</entry>
-        <entry>slfj</entry>
-        <entry>slf</entry>
         <entry>dei-properties</entry>
         <entry>1002</entry>
         <entry>shootout</entry>
@@ -391,6 +387,10 @@
         <entry>conf\/keys</entry>
         <entry>ASSIST</entry>
         <entry>DFC_ASSIST</entry>
+        <entry>1743</entry>
+        <entry>BLOCKED</entry>
+        <entry>insert</entry>
+        <entry>addEvent</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
