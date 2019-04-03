@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1554300373049">
-        <mark key="'" line="221" column="6" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1554303146249">
+        <mark key="'" line="260" column="66" />
+        <mark key="[" line="260" column="69" />
+        <mark key="]" line="260" column="66" />
+        <mark key="^" line="260" column="66" />
+        <mark key="." line="260" column="66" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console.sql" timestamp="1554293342338">
         <mark key="[" line="55" column="70" />
@@ -16,7 +16,7 @@
         <mark key="^" line="58" column="19" />
         <mark key="." line="58" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554300451811">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554302797905">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -30,9 +30,10 @@
       <jump line="259" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="249" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="221" column="69" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="260" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="342" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="219" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="103" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="260" column="66" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -44,14 +45,14 @@
       <register name="/" type="4">
         <text>$</text>
       </register>
-      <register name="0" type="4">
-        <text>rc.REALCATEGORYID, rc.DESCRIPTION, t.uniquetournamentid, t.TOURNAMENTID, t.TOURNAMENTNAME</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wb25lbnR0YWJsZSBjIHdoZXJlIGMuQ29tcG9uZW50SWQgaW4gKDExOCwgMTIwKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
