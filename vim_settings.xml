@@ -89,6 +89,9 @@
         <mark key="." line="24" column="11" />
         <mark key="^" line="24" column="11" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554287338676">
+        <mark key="'" line="846" column="49" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1554214736059">
         <mark key="'" line="190" column="40" />
         <mark key="[" line="55" column="22" />
@@ -208,16 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="16" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java" />
-      <jump line="343" column="89" filename="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java" />
-      <jump line="22" column="25" filename="/work/projects/gitlab/java-common/dei-properties-api/src/test/kotlin/com/sportradar/common/dei/api/properties/PropertyApiJavaIntegrationTest.java" />
-      <jump line="26" column="15" filename="/work/projects/gitlab/java/xmlexport/pom.xml" />
-      <jump line="38" column="96" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
-      <jump line="66" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" />
-      <jump line="24" column="45" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" />
-      <jump line="228" column="12" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
-      <jump line="314" column="39" filename="/work/projects/gitlab/java/xmlexport/pom.xml" />
-      <jump line="105" column="70" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2.java" />
       <jump line="86" column="0" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/loader/Loader.kt" />
       <jump line="121" column="0" filename="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" />
       <jump line="19" column="35" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.3.0/kotlin-stdlib-common-1.3.0-sources.jar!/kotlin/util/Tuples.kt" />
@@ -303,6 +296,21 @@
       <jump line="37" column="4" filename="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportSftpTest.java" />
       <jump line="21" column="14" filename="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportSftpTest.java" />
       <jump line="36" column="71" filename="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportSftpTest.java" />
+      <jump line="170" column="40" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="883" column="29" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="952" column="30" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="994" column="34" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="995" column="34" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1038" column="32" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1039" column="32" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1040" column="41" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1041" column="41" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="227" column="34" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="228" column="34" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="230" column="45" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="231" column="45" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="834" column="36" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="846" column="49" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -312,7 +320,7 @@
         <text>project</text>
       </register>
       <register name="/" type="4">
-        <text>conf\/keys</text>
+        <text>DFC_ASSIST</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAoRmlsZVRyYW5zcG9ydFNmdHApIEZpbGVUcmFuc3BvcnRQcm92aWRlci5nZXRJbnN0YW5jZSgpLmNyZWF0ZUZpbGVUcmFuc3BvcnQoMTk0MCk7Cg==</text>
@@ -349,16 +357,14 @@
       </register>
     </registers>
     <search>
-      <last-search>conf\/keys</last-search>
+      <last-search>DFC_ASSIST</last-search>
       <last-offset />
-      <last-pattern>conf\/keys</last-pattern>
+      <last-pattern>DFC_ASSIST</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sportradar-common</entry>
-        <entry>getFullUpdate</entry>
         <entry>75</entry>
         <entry>sl4j</entry>
         <entry>slfj</entry>
@@ -377,6 +383,8 @@
         <entry>source</entry>
         <entry>conf</entry>
         <entry>conf\/keys</entry>
+        <entry>ASSIST</entry>
+        <entry>DFC_ASSIST</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
