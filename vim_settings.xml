@@ -91,6 +91,13 @@
         <mark key="." line="154" column="41" />
         <mark key="^" line="154" column="41" />
       </file>
+      <file name="/work/projects/gitlab/java-common/filesender/pom.xml" timestamp="1554304409826">
+        <mark key="'" line="124" column="37" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="37" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StagevalueEAO.java" timestamp="1553872829768">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="11" />
@@ -152,12 +159,12 @@
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554287338676">
         <mark key="'" line="846" column="49" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1554214736059">
+      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1554305224762">
         <mark key="'" line="190" column="40" />
-        <mark key="[" line="55" column="22" />
-        <mark key="]" line="55" column="40" />
-        <mark key="^" line="55" column="40" />
-        <mark key="." line="55" column="40" />
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="20" column="32" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Statistics2Stage.java" timestamp="1553870304227">
         <mark key="[" line="48" column="12" />
@@ -194,9 +201,6 @@
         <mark key="]" line="74" column="50" />
         <mark key="." line="74" column="50" />
         <mark key="^" line="74" column="50" />
-      </file>
-      <file name="/fragment.java" timestamp="1554207658623">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/filesender/transport/pom.xml" timestamp="1554125662037">
         <mark key="[" line="34" column="18" />
@@ -308,11 +312,11 @@
       <jump line="295" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/DeepCoverageBasketMatch.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEZpbGVUcmFuc3BvcnRQcm92aWRlci4K</text>
+      <register name="&quot;" type="4">
+        <text>import</text>
       </register>
       <register name="-" type="4">
-        <text>project</text>
+        <text>import</text>
       </register>
       <register name="/" type="4">
         <text>BLOCKED</text>
@@ -321,31 +325,31 @@
         <text encoding="base64">ICAgICAgICAoRmlsZVRyYW5zcG9ydFNmdHApIEZpbGVUcmFuc3BvcnRQcm92aWRlci5nZXRJbnN0YW5jZSgpLmNyZWF0ZUZpbGVUcmFuc3BvcnQoMTk0MCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEZpbGVUcmFuc3BvcnRQcm92aWRlci4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4ke3BhcmVudC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJT1V0aWxzLmNvcHkoaXMsIG5ldyBGaWxlT3V0cHV0U3RyZWFtKGZpbGUpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uLmZpbGVzZW5kZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZpbGVzZW5kZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx0eXBlPnBvbTwvdHlwZT4KICAgICAgICAgICAgPHZlcnNpb24+JHt2ZXJzaW9uLmZpbGVzZW5kZXJ9PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPjwvc2NvcGU+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+cG9tPC90eXBlPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXIuY29tbW9uLmZpbGVzZW5kZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZpbGVzZW5kZXItdHJhbnNwb3J0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3ZlcnNpb24uZmlsZXNlbmRlcn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb24uZmlsZXNlbmRlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmlsZXNlbmRlci1zZW5kZXJzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke3ZlcnNpb24uZmlsZXNlbmRlcn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uc3BvcnRyYWRhci5jb21tb24uZmlsZXNlbmRlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmlsZXNlbmRlci1jb21wb25lbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7dmVyc2lvbi5maWxlc2VuZGVyfTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbGVUcmFuc3BvcnQubGlzdEZpbGVzKCkuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
+        <text encoding="base64">ICAgIEZpbGVUcmFuc3BvcnRQcm92aWRlci4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbGVUcmFuc3BvcnQuc2V0VXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4ke3BhcmVudC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGVUcmFuc3BvcnQuCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZpbGUgZmlsZSA9IEZpbGUuY3JlYXRlVGVtcEZpbGUoIi90bXAvIiwgImZpbGVzZW5kZXIub3BlbnNzaCIpOwogICAgSW5wdXRTdHJlYW0gaXMgPQogICAgICAgIEZpbGVUcmFuc3BvcnRTZnRwVGVzdC5jbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCJjb25mL2tleXMvZmlsZXNlbmRlci5vcGVuc3NoIik7CiAgICBJT1V0aWxzLmNvcHkoaXMsIG5ldyBGaWxlT3V0cHV0U3RyZWFtKGZpbGUpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihJT1V0aWxzLnJlYWRMaW5lcyhuZXcgRmlsZUlucHV0U3RyZWFtKGZpbGUpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJT1V0aWxzLmNvcHkoaXMsIG5ldyBGaWxlT3V0cHV0U3RyZWFtKGZpbGUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
