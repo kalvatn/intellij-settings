@@ -150,6 +150,13 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
+      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1554379179650">
+        <mark key="'" line="709" column="25" />
+        <mark key="[" line="710" column="30" />
+        <mark key="]" line="710" column="29" />
+        <mark key="." line="710" column="29" />
+        <mark key="^" line="710" column="29" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-common/pom.xml" timestamp="1554215822609">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="21" />
@@ -203,11 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" />
-      <jump line="92" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
-      <jump line="82" column="81" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" />
-      <jump line="34" column="39" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/businesslogic/coverage/CoverageManagerV2IntegrationTest.java" />
-      <jump line="71" column="51" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/coverage/CoverageManager.java" />
       <jump line="12" column="55" filename="$MAVEN_REPOSITORY$/com/sportradar/common/dei/dei-properties-api/2.0.6/dei-properties-api-2.0.6-sources.jar!/com/sportradar/common/dei/api/properties/model/PropertyId.kt" />
       <jump line="141" column="23" filename="/work/projects/gitlab/java/xmlexport/pom.xml" />
       <jump line="306" column="29" filename="/work/projects/gitlab/java/xmlexport/pom.xml" />
@@ -303,16 +305,21 @@
       <jump line="295" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/DeepCoverageBasketMatch.java" />
       <jump line="51" column="37" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/LiveScoreFileSenderMemcacheMonitor.java" />
       <jump line="26" column="32" filename="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" />
+      <jump line="301" column="26" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="710" column="24" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="703" column="23" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="704" column="22" filename="/work/projects/gitlab/java/source/pom.xml" />
+      <jump line="709" column="25" filename="/work/projects/gitlab/java/source/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import</text>
+        <text>simple</text>
       </register>
       <register name="-" type="4">
-        <text>import</text>
+        <text>simple</text>
       </register>
       <register name="/" type="4">
-        <text>10.200.4.30</text>
+        <text>slf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAoRmlsZVRyYW5zcG9ydFNmdHApIEZpbGVUcmFuc3BvcnRQcm92aWRlci5nZXRJbnN0YW5jZSgpLmNyZWF0ZUZpbGVUcmFuc3BvcnQoMTk0MCk7Cg==</text>
@@ -349,15 +356,14 @@
       </register>
     </registers>
     <search>
-      <last-search>10.200.4.30</last-search>
+      <last-search>slf</last-search>
       <last-offset />
-      <last-pattern>10.200.4.30</last-pattern>
+      <last-pattern>slf</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>shootout</entry>
         <entry>SCORE_CHANGE</entry>
         <entry>30</entry>
         <entry>= 30</entry>
@@ -377,6 +383,7 @@
         <entry>BLOCKED</entry>
         <entry>queue_file</entry>
         <entry>10.200.4.30</entry>
+        <entry>slf</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
