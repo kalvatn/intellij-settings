@@ -46,6 +46,13 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554758341830">
+        <mark key="'" line="978" column="58" />
+        <mark key="[" line="68" column="52" />
+        <mark key="]" line="68" column="53" />
+        <mark key="." line="68" column="53" />
+        <mark key="^" line="68" column="53" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/teams/Formula1TeamDetailsServiceBean.java" timestamp="1553872960963">
         <mark key="[" line="442" column="47" />
         <mark key="]" line="442" column="56" />
@@ -91,6 +98,13 @@
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554287338676">
         <mark key="'" line="846" column="49" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" timestamp="1554759021534">
+        <mark key="'" line="484" column="48" />
+        <mark key="[" line="484" column="49" />
+        <mark key="]" line="485" column="45" />
+        <mark key="." line="485" column="45" />
+        <mark key="^" line="485" column="45" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1554305224762">
         <mark key="'" line="190" column="40" />
         <mark key="[" line="20" column="33" />
@@ -106,6 +120,12 @@
         <mark key="]" line="69" column="36" />
         <mark key="^" line="69" column="36" />
         <mark key="." line="69" column="36" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/OvertimePeriodScoreEvent.java" timestamp="1554758796557">
+        <mark key="[" line="110" column="3" />
+        <mark key="]" line="111" column="1" />
+        <mark key="^" line="111" column="1" />
+        <mark key="." line="111" column="1" />
       </file>
       <file name="/work/projects/gitlab/java-common/filesender/common/pom.xml" timestamp="1554125831002">
         <mark key="[" line="9" column="8" />
@@ -125,12 +145,6 @@
         <mark key="." line="154" column="41" />
         <mark key="^" line="154" column="41" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/TestBasketMatch.java" timestamp="1554756989838">
-        <mark key="[" line="47" column="33" />
-        <mark key="]" line="47" column="48" />
-        <mark key="." line="47" column="48" />
-        <mark key="^" line="47" column="48" />
-      </file>
       <file name="/work/projects/gitlab/java-common/filesender/pom.xml" timestamp="1554304409826">
         <mark key="'" line="124" column="37" />
         <mark key="[" line="40" column="38" />
@@ -149,6 +163,9 @@
         <mark key="]" line="47" column="35" />
         <mark key="^" line="47" column="35" />
         <mark key="." line="47" column="35" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ScoreChangeEvent.java" timestamp="1554758667103">
+        <mark key="'" line="25" column="27" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StagevalueEAO.java" timestamp="1553872829768">
         <mark key="[" line="18" column="4" />
@@ -213,6 +230,9 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
       </file>
+      <file name="/fragment.java" timestamp="1554758256425">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StageinfovalueEAO.java" timestamp="1553872746625">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -227,9 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="614" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="674" column="45" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="818" column="49" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="819" column="45" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="820" column="44" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="821" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
@@ -327,71 +344,58 @@
       <jump line="466" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Tournaments.java" />
       <jump line="511" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Tournaments.java" />
       <jump line="23" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketballLeague.java" />
+      <jump line="484" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
+      <jump line="977" column="58" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="25" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ScoreChangeEvent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQuY3JlYXRlKCkK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBwYXJhbTROZWVkc1VwZGF0ZShFdmVudCBuZXdFdmVudCkgewogICAgcmV0dXJuIGZhbHNlOwogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>clone</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFBFUklPRF9MRU5HVEhfTUlOVVRFU19OQkEgPSAxMDsK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBwYXJhbTROZWVkc1VwZGF0ZShFdmVudCBuZXdFdmVudCkgewogICAgcmV0dXJuIGZhbHNlOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQuY3JlYXRlKCkK</text>
+        <text encoding="base64">ICAgIGZpbmFsIE92ZXJ0aW1lUGVyaW9kU2NvcmVFdmVudCBjbG9uZSA9IChPdmVydGltZVBlcmlvZFNjb3JlRXZlbnQpIHN1cGVyLmNsb25lKCk7CiAgICBjbG9uZS5hd2F5VGVhbVNjb3JlID0gYXdheVRlYW1TY29yZTsKICAgIGNsb25lLmhvbWVUZWFtU2NvcmUgPSBob21lVGVhbVNjb3JlOwogICAgY2xvbmUub3ZlclRpbWVQZXJpb2ROdW1iZXIgPSBvdmVyVGltZVBlcmlvZE51bWJlcjsKICAgIHJldHVybiBjbG9uZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG0uaGFuZGxlRXZlbnQoRXZlbnQuY3JlYXRlKCkpOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBwYXJhbTNOZWVkc1VwZGF0ZShFdmVudCBuZXdFdmVudCkgewogICAgcmV0dXJuIGZhbHNlOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAvKiogQ29uc3RydWN0b3IuICovCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBQRVJJT0RfTEVOR1RIX01JTlVURVNfRklCQSA9IDEwOwogIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFBFUklPRF9MRU5HVEhfTUlOVVRFU19OQkEgPSAxMjsKICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBPVkVSVElNRV9MRU5HVEhfTUlOVVRFUyA9IDU7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHx8CgkJCQlzY29yZUV2ZW50LmdldDs=</text>
       </register>
-      <register name="8" type="8">
-        <text>PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_
-PERIOD_LENGTH_MINUTES_</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQl0aGlzLm92ZXIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQuY3JlYXRlKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG0uaGFuZGxlRXZlbnQoRXZlbnQuY3JlYXRlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vXC9cLyBVVA==</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search>clone</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
+      <last-pattern>clone</last-pattern>
       <last-replace>\/\/ UT</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -399,9 +403,6 @@ PERIOD_LENGTH_MINUTES_</text>
     </search>
     <history>
       <history-search>
-        <entry>recursive load</entry>
-        <entry>source</entry>
-        <entry>conf</entry>
         <entry>conf\/keys</entry>
         <entry>ASSIST</entry>
         <entry>DFC_ASSIST</entry>
@@ -419,6 +420,9 @@ PERIOD_LENGTH_MINUTES_</text>
         <entry>league-standings-builder</entry>
         <entry>$</entry>
         <entry>^</entry>
+        <entry>10</entry>
+        <entry>OVERTIME</entry>
+        <entry>clone</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
