@@ -15,7 +15,6 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/work/projects/gitlab/statistics/league-standings-builder/src/main/java/com/oddsarbitrage/statistics/tables/sorting/ArabianGulfLeagueFairPlaySorting.java" timestamp="1554729451524" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/domain/constants/basketball/BasketballConstants.java" timestamp="1554726925548">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="8" />
@@ -53,7 +52,6 @@
         <mark key="^" line="442" column="56" />
         <mark key="." line="442" column="56" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/MatchCreator.java" timestamp="1554725378776" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1554289915874">
         <mark key="'" line="257" column="80" />
       </file>
@@ -126,6 +124,12 @@
         <mark key="]" line="154" column="41" />
         <mark key="." line="154" column="41" />
         <mark key="^" line="154" column="41" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/TestBasketMatch.java" timestamp="1554756989838">
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="47" column="48" />
+        <mark key="." line="47" column="48" />
+        <mark key="^" line="47" column="48" />
       </file>
       <file name="/work/projects/gitlab/java-common/filesender/pom.xml" timestamp="1554304409826">
         <mark key="'" line="124" column="37" />
@@ -326,10 +330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQuY3JlYXRlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -338,18 +342,27 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFBFUklPRF9MRU5HVEhfTUlOVVRFU19OQkEgPSAxMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQuY3JlYXRlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKiogQ29uc3RydWN0b3IuICovCg==</text>
+        <text encoding="base64">ICAgIG0uaGFuZGxlRXZlbnQoRXZlbnQuY3JlYXRlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvKiogQ29uc3RydWN0b3IuICovCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBQRVJJT0RfTEVOR1RIX01JTlVURVNfRklCQSA9IDEwOwogIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFBFUklPRF9MRU5HVEhfTUlOVVRFU19OQkEgPSAxMjsKICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBPVkVSVElNRV9MRU5HVEhfTUlOVVRFUyA9IDU7Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>PERIOD_LENGTH_MINUTES_
 PERIOD_LENGTH_MINUTES_
 PERIOD_LENGTH_MINUTES_
@@ -368,43 +381,8 @@ PERIOD_LENGTH_MINUTES_
 PERIOD_LENGTH_MINUTES_
 PERIOD_LENGTH_MINUTES_</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="8" type="8">
-        <text>B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B</text>
-      </register>
-      <register name="9" type="8">
-        <text>5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vXC9cLyBVVA==</text>
