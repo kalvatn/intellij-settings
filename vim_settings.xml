@@ -247,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="819" column="45" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="820" column="44" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="821" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="65" column="19" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/cache/StageCache.java" />
@@ -347,6 +346,7 @@
       <jump line="484" column="48" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
       <jump line="977" column="58" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="25" column="27" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ScoreChangeEvent.java" />
+      <jump line="487" column="32" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -474,6 +474,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
