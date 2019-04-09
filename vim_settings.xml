@@ -18,8 +18,10 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554807099324">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554818174789">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1554816865183">
         <mark key="'" line="202" column="53" />
@@ -46,8 +48,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICBhbmQgZXQuZXZlbnR0eXBlIDwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhbmQgZXQuZXZlbnR0eXBlIDwK</text>
+      <register name="&quot;" type="4">
+        <text>extra</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHBhcmFtMT0yCg==</text>
@@ -74,7 +76,7 @@
         <text encoding="base64">ICAgIGNhbmNlbD0gZmFsc2UsCiAgICBmbGFndHlwZT0gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>34</text>
+        <text>extra</text>
       </register>
     </registers>
     <search>
