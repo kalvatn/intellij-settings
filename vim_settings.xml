@@ -73,12 +73,12 @@
         <mark key="." line="147" column="75" />
         <mark key="^" line="147" column="75" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" timestamp="1554806494013">
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" timestamp="1554807777697">
         <mark key="'" line="507" column="2" />
-        <mark key="[" line="523" column="0" />
-        <mark key="]" line="520" column="42" />
-        <mark key="^" line="520" column="42" />
-        <mark key="." line="520" column="42" />
+        <mark key="[" line="431" column="13" />
+        <mark key="]" line="431" column="13" />
+        <mark key="^" line="431" column="13" />
+        <mark key="." line="431" column="13" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1554378610044">
         <mark key="'" line="26" column="32" />
@@ -367,11 +367,11 @@
       <jump line="506" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgcmV0dXJuICJDdXJyZW50UGVyaW9kRXZlbnQgW3BlcmlvZD0iICsgY3VycmVudFBlcmlvZCArICJdIjsKICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>);(S</text>
       </register>
       <register name="-" type="4">
-        <text>SingletonEvent</text>
+        <text>);(S</text>
       </register>
       <register name="/" type="4">
         <text>@Override</text>
