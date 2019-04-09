@@ -43,8 +43,11 @@
         <mark key="^" line="442" column="56" />
         <mark key="." line="442" column="56" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1554808884997">
-        <mark key="'" line="1501" column="57" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1554812928859">
+        <mark key="'" line="1507" column="2" />
+        <mark key="[" line="1428" column="0" />
+        <mark key="]" line="1428" column="0" />
+        <mark key="." line="1428" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1554289915874">
         <mark key="'" line="257" column="80" />
@@ -178,6 +181,13 @@
         <mark key="^" line="6" column="78" />
         <mark key="." line="6" column="78" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1554813445502">
+        <mark key="'" line="959" column="43" />
+        <mark key="[" line="514" column="67" />
+        <mark key="]" line="514" column="79" />
+        <mark key="." line="514" column="79" />
+        <mark key="^" line="514" column="79" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportSftpTest.java" timestamp="1554213881206">
         <mark key="'" line="18" column="71" />
         <mark key="[" line="24" column="17" />
@@ -271,8 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="34" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="230" column="45" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="231" column="45" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="834" column="36" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="846" column="49" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
@@ -371,55 +379,57 @@
       <jump line="682" column="39" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
       <jump line="680" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
       <jump line="1837" column="30" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="1503" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="945" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>);(S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJFdmVudENyZWF0b3IuQ1VSUkVOVF9QRVJJT0QgJWQiLCBjdXJyZW50UGVyaW9kLCB0eXBlQ291bnRlcikpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>);(S</text>
+        <text>int countOvertimes</text>
       </register>
       <register name="/" type="4">
-        <text>START</text>
+        <text>CURRENT_PERIOD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE1hdGNoIG1hdGNoID0gbmV3IEJhc2tldE1hdGNoKDE1NDk2NzYwLCBTcG9ydC5CQVNLRVRCQUxMLCAxMTEsIDE1NCwgbnVsbCwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgcmV0dXJuICJDdXJyZW50UGVyaW9kRXZlbnQgW3BlcmlvZD0iICsgY3VycmVudFBlcmlvZCArICJdIjsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJFdmVudENyZWF0b3IuQ1VSUkVOVF9QRVJJT0QgJWQiLCBjdXJyZW50UGVyaW9kLCB0eXBlQ291bnRlcikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGludCBob21lVGVhbVNjb3JlOwogIHByaXZhdGUgaW50IGF3YXlUZWFtU2NvcmU7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZCgib3ZlclRpbWVQZXJpb2ROdW1iZXIiLCBvdmVyVGltZVBlcmlvZE51bWJlcikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoIk92ZXJ0aW1lIHBlcmlvZCBzY29yZSAoJWQtJWQpIiwgaG9tZVRlYW1TY29yZSwgYXdheVRlYW1TY29yZSk7CiAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBpc0NvbmZsaWN0aW5nKEV2ZW50IG90aGVyKSB7CiAgICBpZiAob3RoZXIuZ2V0VHlwZSgpICE9IGdldFR5cGUoKSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBPdmVydGltZVBlcmlvZFNjb3JlRXZlbnQgc2NvcmVFdmVudCA9IChPdmVydGltZVBlcmlvZFNjb3JlRXZlbnQpIG90aGVyOwogICAgcmV0dXJuIHNjb3JlRXZlbnQub3ZlclRpbWVQZXJpb2ROdW1iZXIgPT0gb3ZlclRpbWVQZXJpb2ROdW1iZXIKICAgICAgICAmJiAoc2NvcmVFdmVudC5nZXRIb21lVGVhbVNjb3JlKCkgIT0gaG9tZVRlYW1TY29yZQogICAgICAgICAgICB8fCBzY29yZUV2ZW50LmdldEF3YXlUZWFtU2NvcmUoKSAhPSBhd2F5VGVhbVNjb3JlKTsKICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZUNvdW50ZXIgPSBjb3VudE92ZXJ0aW1lczsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoT2JqZWN0Ojp0b1N0cmluZykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBwYXJhbTQgPSBub25OdWxsUGFyYW00Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaW50IGdldEhvbWVUZWFtU2NvcmUoKSB7CiAgICByZXR1cm4gaG9tZVRlYW1TY29yZTsKICB9CgogIHB1YmxpYyBpbnQgZ2V0QXdheVRlYW1TY29yZSgpIHsKICAgIHJldHVybiBhd2F5VGVhbVNjb3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY3VycmVudFBlcmlvZCA9IEludGVnZXIucGFyc2VJbnQobm9uTnVsbFBhcmFtMSk7CiAgICAgICAgaW50IHR5cGVDb3VudGVyID0gZ2V0Tm9uTnVsbEludChub25OdWxsUGFyYW00KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaG9tZVRlYW1TY29yZSA9IGV2ZW50LmhvbWVUZWFtU2NvcmU7CiAgICB0aGlzLmF3YXlUZWFtU2NvcmUgPSBldmVudC5hd2F5VGVhbVNjb3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBwYXJhbTQgPSBub25OdWxsUGFyYW00Owo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vXC9cLyBVVA==</text>
       </register>
     </registers>
     <search>
-      <last-search>START</last-search>
+      <last-search>CURRENT_PERIOD</last-search>
       <last-offset />
-      <last-pattern>START</last-pattern>
+      <last-pattern>CURRENT_PERIOD</last-pattern>
       <last-replace>\/\/ UT</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -427,7 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>10.200.4.30</entry>
         <entry>slf</entry>
         <entry>filesender-common</entry>
         <entry>common</entry>
@@ -443,10 +452,11 @@
         <entry>typeCounter</entry>
         <entry>toString</entry>
         <entry>@Override</entry>
-        <entry>handleCurrent</entry>
         <entry>update</entry>
         <entry>PERIOD_START</entry>
         <entry>START</entry>
+        <entry>handleCurrent</entry>
+        <entry>CURRENT_PERIOD</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
