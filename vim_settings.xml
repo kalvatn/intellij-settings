@@ -43,11 +43,11 @@
         <mark key="^" line="442" column="56" />
         <mark key="." line="442" column="56" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1554812928859">
-        <mark key="'" line="1507" column="2" />
-        <mark key="[" line="1428" column="0" />
-        <mark key="]" line="1428" column="0" />
-        <mark key="." line="1428" column="0" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1554815129543">
+        <mark key="'" line="1590" column="32" />
+        <mark key="[" line="1426" column="0" />
+        <mark key="]" line="1426" column="0" />
+        <mark key="." line="1426" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1554289915874">
         <mark key="'" line="257" column="80" />
@@ -76,15 +76,19 @@
         <mark key="." line="147" column="75" />
         <mark key="^" line="147" column="75" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" timestamp="1554808983470">
-        <mark key="'" line="412" column="21" />
-        <mark key="[" line="431" column="13" />
-        <mark key="]" line="431" column="13" />
-        <mark key="^" line="431" column="13" />
-        <mark key="." line="431" column="13" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" timestamp="1554817403261">
+        <mark key="'" line="282" column="9" />
+        <mark key="[" line="488" column="27" />
+        <mark key="]" line="488" column="33" />
+        <mark key="^" line="488" column="33" />
+        <mark key="." line="488" column="33" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1554378610044">
-        <mark key="'" line="26" column="32" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1554814893454">
+        <mark key="'" line="331" column="34" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" timestamp="1553777936933">
         <mark key="[" line="69" column="30" />
@@ -126,12 +130,6 @@
         <mark key="]" line="18" column="11" />
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
-      </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1554464100354">
-        <mark key="'" line="15" column="57" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketballLeague.java" timestamp="1554727374043">
         <mark key="[" line="10" column="37" />
@@ -181,12 +179,12 @@
         <mark key="^" line="6" column="78" />
         <mark key="." line="6" column="78" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1554813445502">
-        <mark key="'" line="959" column="43" />
-        <mark key="[" line="514" column="67" />
-        <mark key="]" line="514" column="79" />
-        <mark key="." line="514" column="79" />
-        <mark key="^" line="514" column="79" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1554817221359">
+        <mark key="'" line="960" column="43" />
+        <mark key="[" line="512" column="32" />
+        <mark key="]" line="512" column="32" />
+        <mark key="." line="512" column="32" />
+        <mark key="^" line="512" column="32" />
       </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportSftpTest.java" timestamp="1554213881206">
         <mark key="'" line="18" column="71" />
@@ -195,8 +193,8 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554809891749">
-        <mark key="'" line="1837" column="30" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554817049183">
+        <mark key="'" line="225" column="46" />
         <mark key="[" line="68" column="52" />
         <mark key="]" line="68" column="53" />
         <mark key="." line="68" column="53" />
@@ -224,6 +222,7 @@
         <mark key="^" line="20" column="32" />
         <mark key="." line="20" column="32" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/InsertStadiumEventTask.java" timestamp="1554816437646" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/OvertimePeriodScoreEvent.java" timestamp="1554803482761">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="10" column="0" />
@@ -252,6 +251,7 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ScoreChangeEvent.java" timestamp="1554758667103">
         <mark key="'" line="25" column="27" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/FillStadiums.java" timestamp="1554816474238" />
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/dei/properties/PropertyAPIWrapper.java" timestamp="1553863668149">
         <mark key="[" line="49" column="79" />
         <mark key="]" line="49" column="25" />
@@ -270,7 +270,7 @@
         <mark key="." line="74" column="50" />
         <mark key="^" line="74" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1554797828125">
+      <file name="/fragment.java" timestamp="1554814778482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/filesender/transport/pom.xml" timestamp="1554125662037">
@@ -281,16 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="45" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="834" column="36" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="846" column="49" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" />
-      <jump line="115" column="21" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
-      <jump line="150" column="16" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
-      <jump line="257" column="80" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" />
-      <jump line="127" column="65" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
-      <jump line="27" column="55" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
-      <jump line="424" column="28" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/DeepCoverageBasketMatch.java" />
-      <jump line="295" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/DeepCoverageBasketMatch.java" />
       <jump line="51" column="37" filename="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/LiveScoreFileSenderMemcacheMonitor.java" />
       <jump line="26" column="32" filename="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" />
       <jump line="301" column="26" filename="/work/projects/gitlab/java/source/pom.xml" />
@@ -381,13 +371,23 @@
       <jump line="1837" column="30" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="1503" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="945" column="43" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
+      <jump line="496" column="31" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
+      <jump line="518" column="36" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
+      <jump line="595" column="6" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
+      <jump line="236" column="18" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
+      <jump line="282" column="9" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
+      <jump line="331" column="34" filename="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" />
+      <jump line="1592" column="32" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
+      <jump line="43" column="41" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="153" column="52" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
+      <jump line="225" column="46" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJFdmVudENyZWF0b3IuQ1VSUkVOVF9QRVJJT0QgJWQiLCBjdXJyZW50UGVyaW9kLCB0eXBlQ291bnRlcikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>OVERTIME</text>
       </register>
       <register name="-" type="4">
-        <text>int countOvertimes</text>
+        <text>OVERTIME</text>
       </register>
       <register name="/" type="4">
         <text>CURRENT_PERIOD</text>
@@ -396,28 +396,28 @@
         <text encoding="base64">ICAgIE1hdGNoIG1hdGNoID0gbmV3IEJhc2tldE1hdGNoKDE1NDk2NzYwLCBTcG9ydC5CQVNLRVRCQUxMLCAxMTEsIDE1NCwgbnVsbCwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJFdmVudENyZWF0b3IuQ1VSUkVOVF9QRVJJT0QgJWQiLCBjdXJyZW50UGVyaW9kLCB0eXBlQ291bnRlcikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkhBTkRMRSBDVVJSRU5UIFBFUklPRCAlcyIsIHBlcmlvZEV2ZW50KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJFdmVudENyZWF0b3IuQ1VSUkVOVF9QRVJJT0QgJWQiLCBjdXJyZW50UGVyaW9kLCB0eXBlQ291bnRlcikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZUNvdW50ZXIgPSBjb3VudE92ZXJ0aW1lczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoT2JqZWN0Ojp0b1N0cmluZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZUNvdW50ZXIgPSBjb3VudE92ZXJ0aW1lczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBwYXJhbTQgPSBub25OdWxsUGFyYW00Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoT2JqZWN0Ojp0b1N0cmluZykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY3VycmVudFBlcmlvZCA9IEludGVnZXIucGFyc2VJbnQobm9uTnVsbFBhcmFtMSk7CiAgICAgICAgaW50IHR5cGVDb3VudGVyID0gZ2V0Tm9uTnVsbEludChub25OdWxsUGFyYW00KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIFN0cmluZyBwYXJhbTQgPSBub25OdWxsUGFyYW00Owo=</text>
@@ -437,8 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slf</entry>
-        <entry>filesender-common</entry>
         <entry>common</entry>
         <entry>filesender</entry>
         <entry>league-standings</entry>
@@ -455,7 +453,9 @@
         <entry>update</entry>
         <entry>PERIOD_START</entry>
         <entry>START</entry>
+        <entry>previousUpdated</entry>
         <entry>handleCurrent</entry>
+        <entry>162</entry>
         <entry>CURRENT_PERIOD</entry>
       </history-search>
       <history-cmd>
