@@ -73,8 +73,8 @@
         <mark key="." line="147" column="75" />
         <mark key="^" line="147" column="75" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" timestamp="1554801904815">
-        <mark key="'" line="641" column="4" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" timestamp="1554802540005">
+        <mark key="'" line="237" column="14" />
         <mark key="[" line="430" column="51" />
         <mark key="]" line="430" column="54" />
         <mark key="." line="430" column="54" />
@@ -264,8 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
-      <jump line="173" column="38" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="451" column="45" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="456" column="55" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
       <jump line="749" column="40" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/outright/OutrightServiceBean.java" />
@@ -364,6 +362,8 @@
       <jump line="1330" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="1339" column="8" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="51" column="29" filename="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/TestBasketMatch.java" />
+      <jump line="682" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
+      <jump line="237" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -373,7 +373,7 @@
         <text>testMatch, event</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>typeCounter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE1hdGNoIG1hdGNoID0gbmV3IEJhc2tldE1hdGNoKDE1NDk2NzYwLCBTcG9ydC5CQVNLRVRCQUxMLCAxMTEsIDE1NCwgbnVsbCwgdHJ1ZSk7Cg==</text>
@@ -410,9 +410,9 @@
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>typeCounter</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>typeCounter</last-pattern>
       <last-replace>\/\/ UT</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -420,7 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DFC_ASSIST</entry>
         <entry>1743</entry>
         <entry>insert</entry>
         <entry>addEvent</entry>
@@ -440,6 +439,7 @@
         <entry>clone</entry>
         <entry>implies</entry>
         <entry>update</entry>
+        <entry>typeCounter</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
