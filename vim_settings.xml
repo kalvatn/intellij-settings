@@ -208,12 +208,12 @@
         <mark key="'" line="42" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/InsertStadiumEventTask.java" timestamp="1554816437646" />
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/OvertimePeriodScoreEvent.java" timestamp="1554894694917">
-        <mark key="'" line="109" column="51" />
-        <mark key="[" line="112" column="5" />
-        <mark key="]" line="113" column="16" />
-        <mark key="." line="113" column="16" />
-        <mark key="^" line="113" column="16" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/OvertimePeriodScoreEvent.java" timestamp="1554897385685">
+        <mark key="'" line="111" column="51" />
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="62" />
+        <mark key="." line="26" column="62" />
+        <mark key="^" line="26" column="62" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/Statistics2Stage.java" timestamp="1553870304227">
         <mark key="[" line="48" column="12" />
@@ -370,16 +370,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, )</text>
+        <text>overTimePeriodNumber</text>
       </register>
       <register name="-" type="4">
-        <text>, )</text>
+        <text>overTimePeriodNumber</text>
       </register>
       <register name="/" type="4">
         <text>OvertimePeriodScore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkNVUlJFTlRQRVJJT0QgQ09OU1RSVUNUT1IgMiAlcywgJXMiLCBtYXRjaCwgbWF0Y2guZ2V0Q3VycmVudFNjb3JlKCkpKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuaG9tZVRlYW1TY29yZSA9IGhvbWVUZWFtU2NvcmU7CiAgICB0aGlzLmF3YXlUZWFtU2NvcmUgPSBhd2F5VGVhbVNjb3JlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJDUkVBVElORyBPVkVSVElNRVBFUklPRCBTQ09SRSAlZCAiLCApKTsK</text>
