@@ -15,12 +15,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1554816564926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1554898441518">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1554899179377">
         <mark key="'" line="136" column="26" />
-        <mark key="[" line="192" column="17" />
-        <mark key="]" line="192" column="15" />
+        <mark key="[" line="119" column="15" />
+        <mark key="]" line="119" column="15" />
         <mark key="^" line="192" column="15" />
-        <mark key="." line="192" column="15" />
+        <mark key="." line="119" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554893306981">
         <mark key="[" line="0" column="1" />
@@ -53,8 +53,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhcmFtMT0xMAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhcmFtMT0xMAo=</text>
+      <register name="&quot;" type="4">
+        <text>15123408</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgIHBhcmFtND0yCg==</text>
@@ -81,7 +81,7 @@
         <text encoding="base64">CnNlbGVjdCAqIGZyb20gYmV0cmFkYXJzY2hlZHVsZSBzIHdoZXJlIHMuY2xhc3NuYW1lIGxpa2UgIiVGaWxsU3RhZGl1bXMlIgo7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>15123387</text>
+        <text>15123408</text>
       </register>
     </registers>
     <search>
