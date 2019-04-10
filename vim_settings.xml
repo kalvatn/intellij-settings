@@ -27,6 +27,9 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" timestamp="1554904241836">
+        <mark key="'" line="105" column="14" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/TestDartMatch.java" timestamp="1554797622191">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="69" />
@@ -85,15 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="355" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="361" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="369" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="377" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="382" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="387" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="395" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="403" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
       <jump line="423" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
       <jump line="431" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
       <jump line="501" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
@@ -185,6 +179,15 @@
       <jump line="34" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
       <jump line="59" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
       <jump line="186" column="17" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
+      <jump line="281" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="22" column="35" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="30" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="49" column="42" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="63" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="80" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="88" column="11" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="97" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="105" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -241,7 +244,6 @@
     </search>
     <history>
       <history-search>
-        <entry>START</entry>
         <entry>previousUpdated</entry>
         <entry>162</entry>
         <entry>countOvert</entry>
@@ -260,6 +262,7 @@
         <entry>getCurrent</entry>
         <entry>implies</entry>
         <entry>delta</entry>
+        <entry>111</entry>
         <entry>BLOCK</entry>
       </history-search>
       <history-cmd>
