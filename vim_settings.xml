@@ -6,28 +6,19 @@
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/LiveScoreFileSenderMemcacheMonitor.java" timestamp="1554316706258">
         <mark key="'" line="51" column="37" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" timestamp="1554291945454">
-        <mark key="'" line="27" column="55" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" timestamp="1554903557710">
+        <mark key="'" line="186" column="17" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1554798193430">
         <mark key="[" line="581" column="20" />
         <mark key="]" line="581" column="85" />
-      </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" timestamp="1554898624070">
-        <mark key="'" line="508" column="11" />
-        <mark key="[" line="574" column="0" />
-        <mark key="]" line="574" column="0" />
-        <mark key="." line="574" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1554901615388" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1554289915874">
         <mark key="'" line="257" column="80" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" timestamp="1554898686973">
-        <mark key="'" line="850" column="0" />
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="." line="279" column="0" />
+        <mark key="'" line="822" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1554814893454">
         <mark key="'" line="331" column="34" />
@@ -49,12 +40,6 @@
         <mark key="^" line="60" column="68" />
         <mark key="." line="60" column="68" />
       </file>
-      <file name="/work/projects/gitlab/java/source/pom.xml" timestamp="1554464100354">
-        <mark key="'" line="15" column="57" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/componentcontroller/ComponentShutdownThread.java" timestamp="1554884297700" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/statistics/PlayerStats.java" timestamp="1554289808566">
         <mark key="'" line="150" column="16" />
@@ -68,13 +53,6 @@
         <mark key="]" line="249" column="13" />
         <mark key="." line="249" column="13" />
         <mark key="^" line="249" column="13" />
-      </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554887096513">
-        <mark key="'" line="3349" column="18" />
-        <mark key="[" line="3367" column="84" />
-        <mark key="]" line="3367" column="130" />
-        <mark key="." line="3367" column="130" />
-        <mark key="^" line="3367" column="130" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Period1ScoreEvent.java" timestamp="1554888788741">
         <mark key="[" line="80" column="0" />
@@ -107,14 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="156" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="157" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="163" column="22" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="291" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="309" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="313" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="331" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
       <jump line="350" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
       <jump line="355" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
       <jump line="361" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
@@ -207,6 +177,14 @@
       <jump line="349" column="31" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/GoalScorerServiceBean.java" />
       <jump line="351" column="49" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/GoalScorerServiceBean.java" />
       <jump line="448" column="22" filename="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/GoalScorerServiceBean.java" />
+      <jump line="823" column="15" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
+      <jump line="1120" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
+      <jump line="1121" column="75" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
+      <jump line="1124" column="23" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
+      <jump line="1125" column="75" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
+      <jump line="34" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
+      <jump line="59" column="4" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
+      <jump line="186" column="17" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -216,7 +194,7 @@
         <text>overTimePeriodNumber</text>
       </register>
       <register name="/" type="4">
-        <text>delta</text>
+        <text>BLOCK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuaG9tZVRlYW1TY29yZSA9IGhvbWVUZWFtU2NvcmU7CiAgICB0aGlzLmF3YXlUZWFtU2NvcmUgPSBhd2F5VGVhbVNjb3JlOwo=</text>
@@ -253,9 +231,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delta</last-search>
+      <last-search>BLOCK</last-search>
       <last-offset />
-      <last-pattern>delta</last-pattern>
+      <last-pattern>BLOCK</last-pattern>
       <last-replace>\/\/ UT</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -263,7 +241,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PERIOD_START</entry>
         <entry>START</entry>
         <entry>previousUpdated</entry>
         <entry>162</entry>
@@ -283,6 +260,7 @@
         <entry>getCurrent</entry>
         <entry>implies</entry>
         <entry>delta</entry>
+        <entry>BLOCK</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
