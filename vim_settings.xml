@@ -174,11 +174,12 @@
         <mark key="^" line="6" column="78" />
         <mark key="." line="6" column="78" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1554888093341">
-        <mark key="'" line="1767" column="20" />
-        <mark key="[" line="501" column="0" />
-        <mark key="]" line="501" column="0" />
-        <mark key="." line="501" column="0" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1554889520781">
+        <mark key="'" line="241" column="17" />
+        <mark key="[" line="248" column="10" />
+        <mark key="]" line="249" column="13" />
+        <mark key="." line="249" column="13" />
+        <mark key="^" line="249" column="13" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554887096513">
         <mark key="'" line="3349" column="18" />
@@ -266,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="46" filename="/work/projects/gitlab/java/source/pom.xml" />
-      <jump line="258" column="43" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="269" column="43" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="280" column="43" filename="/work/projects/gitlab/java/source/pom.xml" />
       <jump line="216" column="25" filename="/work/projects/gitlab/java/source/pom.xml" />
@@ -366,55 +365,57 @@
       <jump line="3349" column="18" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="1767" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
       <jump line="80" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Period1ScoreEvent.java" />
+      <jump line="432" column="28" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
+      <jump line="241" column="17" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false!!!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="-" type="4">
         <text>false!!!</text>
       </register>
       <register name="/" type="4">
-        <text>CURRENT_PERIOD</text>
+        <text>OVERTIME</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkVRVUFMU0VWRU5UICVzICVzIHJldHVybmVkIGZhbHNlISEhIiwgdGhpcywgZXZlbnQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiRVFVQUxTRVZFTlQgJXMgJXMgcmV0dXJuZWQgZmFsc2UhISEiLCB0aGlzLCBldmVudCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBpc0NvbmZsaWN0aW5nKEV2ZW50IGV2ZW50KSB7CiAgICBpZiAoZXZlbnQgaW5zdGFuY2VvZiBPdmVydGltZVBlcmlvZFNjb3JlRXZlbnQpIHsKICAgICAgT3ZlcnRpbWVQZXJpb2RTY29yZUV2ZW50IG90aGVyID0gKE92ZXJ0aW1lUGVyaW9kU2NvcmVFdmVudCkgZXZlbnQ7CiAgICAgIHJldHVybiBnZXRPdmVyVGltZVBlcmlvZE51bWJlcigpICE9IG90aGVyLmdldE92ZXJUaW1lUGVyaW9kTnVtYmVyKCkKICAgICAgICAgICYmIGdldEhvbWVUZWFtU2NvcmUoKSAhPSBvdGhlci5nZXRIb21lVGVhbVNjb3JlKCkKICAgICAgICAgICYmIGdldEF3YXlUZWFtU2NvcmUoKSAhPSBvdGhlci5nZXRBd2F5VGVhbVNjb3JlKCk7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oU3RyaW5nLmZvcm1hdCgiRVFVQUxTRVZFTlQgJXMgJXMgcmV0dXJuZWQgZmFsc2UhISEiLCB0aGlzLCBldmVudCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkVRVUFMU0VWRU5UICVzICVzIiwgdGhpcywgZXZlbnQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE92ZXJ0aW1lUGVyaW9kU2NvcmVFdmVudCBvdGhlciA9IChPdmVydGltZVBlcmlvZFNjb3JlRXZlbnQpIGV2ZW50OwogICAgcmV0dXJuIGdldE92ZXJUaW1lUGVyaW9kTnVtYmVyKCkgPT0gb3RoZXIKICAgICAgICAgICAgZ2V0SG9tZVRlYW1TY29yZSgpID09IG90aGVyLmdldEhvbWVUZWFtU2NvcmUoKQogICAgICAgICYmIGdldEF3YXlUZWFtU2NvcmUoKSA9PSBvdGhlci5nZXRBd2F5VGVhbVNjb3JlKCk7Cg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBpc0NvbmZsaWN0aW5nKEV2ZW50IGV2ZW50KSB7CiAgICBpZiAoZXZlbnQgaW5zdGFuY2VvZiBPdmVydGltZVBlcmlvZFNjb3JlRXZlbnQpIHsKICAgICAgT3ZlcnRpbWVQZXJpb2RTY29yZUV2ZW50IG90aGVyID0gKE92ZXJ0aW1lUGVyaW9kU2NvcmVFdmVudCkgZXZlbnQ7CiAgICAgIHJldHVybiBnZXRPdmVyVGltZVBlcmlvZE51bWJlcigpICE9IG90aGVyLmdldE92ZXJUaW1lUGVyaW9kTnVtYmVyKCkKICAgICAgICAgICYmIGdldEhvbWVUZWFtU2NvcmUoKSAhPSBvdGhlci5nZXRIb21lVGVhbVNjb3JlKCkKICAgICAgICAgICYmIGdldEF3YXlUZWFtU2NvcmUoKSAhPSBvdGhlci5nZXRBd2F5VGVhbVNjb3JlKCk7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vdmVycmlkZXNFdmVudChldmVudCk7Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkVRVUFMU0VWRU5UICVzICVzIiwgdGhpcywgZXZlbnQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIE92ZXJ0aW1lUGVyaW9kU2NvcmVFdmVudCBvdGhlciA9IChPdmVydGltZVBlcmlvZFNjb3JlRXZlbnQpIGV2ZW50OwogICAgcmV0dXJuIGdldE92ZXJUaW1lUGVyaW9kTnVtYmVyKCkgPT0gb3RoZXIKICAgICAgICAgICAgZ2V0SG9tZVRlYW1TY29yZSgpID09IG90aGVyLmdldEhvbWVUZWFtU2NvcmUoKQogICAgICAgICYmIGdldEF3YXlUZWFtU2NvcmUoKSA9PSBvdGhlci5nZXRBd2F5VGVhbVNjb3JlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gb3ZlcnJpZGVzRXZlbnQoRXZlbnQgZXZlbnQpIHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdXBlci5vdmVycmlkZXNFdmVudChldmVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vXC9cLyBVVA==</text>
       </register>
     </registers>
     <search>
-      <last-search>CURRENT_PERIOD</last-search>
+      <last-search>OVERTIME</last-search>
       <last-offset />
-      <last-pattern>CURRENT_PERIOD</last-pattern>
+      <last-pattern>OVERTIME</last-pattern>
       <last-replace>\/\/ UT</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -426,7 +427,6 @@
         <entry>$</entry>
         <entry>^</entry>
         <entry>10</entry>
-        <entry>OVERTIME</entry>
         <entry>clone</entry>
         <entry>typeCounter</entry>
         <entry>toString</entry>
@@ -442,6 +442,7 @@
         <entry>handleCurrent</entry>
         <entry>isConflicting</entry>
         <entry>CURRENT_PERIOD</entry>
+        <entry>OVERTIME</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
