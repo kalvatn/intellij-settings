@@ -72,11 +72,11 @@
         <mark key="^" line="249" column="13" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554907296749" />
-      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/main/java/com/sportradar/TestSOAPSenders.java" timestamp="1554981174837">
-        <mark key="[" line="15" column="75" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="31" />
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/main/java/com/sportradar/TestSOAPSenders.java" timestamp="1554981646871">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Period1ScoreEvent.java" timestamp="1554888788741">
         <mark key="[" line="80" column="0" />
@@ -213,8 +213,8 @@
       <jump line="105" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3788</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmZpbGVzZW5kZXIyLnRyYW5zcG9ydC5wcm92aWRlci5GaWxlVHJhbnNwb3J0UHJvdmlkZXI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>3788</text>
@@ -226,31 +226,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWRpc2NvdmVyeTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtZGlzY292ZXJ5PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MC41PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmZpbGVzZW5kZXIyLnRyYW5zcG9ydC5wcm92aWRlci5GaWxlVHJhbnNwb3J0UHJvdmlkZXI7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtZGlzY292ZXJ5PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1kaXNjb3Zlcnk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4wLjU8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtZGlzY292ZXJ5PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1kaXNjb3Zlcnk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4wLjU8L3ZlcnNpb24+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNlbmRlclNPQVAxXzMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZpbGVTZW5kZXIuCg==</text>
+        <text encoding="base64">ICAgIFNlbmRlclNPQVAxXzMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIEZpbGVTZW5kZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
