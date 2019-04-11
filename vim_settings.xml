@@ -43,12 +43,12 @@
         <mark key="^" line="60" column="68" />
         <mark key="." line="60" column="68" />
       </file>
-      <file name="/work/projects/gitlab/java-common/filesender/pom.xml" timestamp="1554980530734">
-        <mark key="'" line="130" column="37" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="101" column="24" />
-        <mark key="." line="101" column="0" />
+      <file name="/work/projects/gitlab/java-common/filesender/pom.xml" timestamp="1554980902445">
+        <mark key="'" line="135" column="37" />
+        <mark key="[" line="105" column="30" />
+        <mark key="]" line="105" column="29" />
+        <mark key="^" line="105" column="29" />
+        <mark key="." line="105" column="29" />
       </file>
       <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/componentcontroller/ComponentShutdownThread.java" timestamp="1554884297700" />
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/statistics/PlayerStats.java" timestamp="1554289808566">
@@ -63,13 +63,6 @@
         <mark key="]" line="249" column="13" />
         <mark key="." line="249" column="13" />
         <mark key="^" line="249" column="13" />
-      </file>
-      <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportSftpTest.java" timestamp="1554213881206">
-        <mark key="'" line="18" column="71" />
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="17" />
-        <mark key="." line="24" column="17" />
-        <mark key="^" line="24" column="17" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554907296749" />
       <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/main/java/com/sportradar/TestSOAPSenders.java" timestamp="1554980444661">
@@ -91,18 +84,11 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreBasketball.java" timestamp="1554809810182">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1554305224762">
-        <mark key="'" line="190" column="40" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="32" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/InsertStadiumEventTask.java" timestamp="1554816437646" />
-      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/pom.xml" timestamp="1554980557150">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/pom.xml" timestamp="1554980922861">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/OvertimePeriodScoreEvent.java" timestamp="1554897385685">
         <mark key="'" line="111" column="51" />
@@ -233,34 +219,34 @@
         <text>BLOCK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaG9tZVRlYW1TY29yZSA9IGhvbWVUZWFtU2NvcmU7CiAgICB0aGlzLmF3YXlUZWFtU2NvcmUgPSBhd2F5VGVhbVNjb3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWRpc2NvdmVyeTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtZGlzY292ZXJ5PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MC41PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtZGlzY292ZXJ5PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1kaXNjb3Zlcnk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4wLjU8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNlbmRlclNPQVAxXzMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZpbGVTZW5kZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIFNlbmRlclNPQVAxXzMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkNVUlJFTlRQRVJJT0QgQ09OU1RSVUNUT1IgMyAlcywgJXMiLCBtYXRjaCwgbWF0Y2guZ2V0Q3VycmVudFNjb3JlKCkpKTsK</text>
+        <text encoding="base64">ICAgIEZpbGVTZW5kZXIuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkNVUlJFTlRQRVJJT0QgQ09OU1RSVUNUT1IgMiAlcywgJXMiLCBtYXRjaCwgbWF0Y2guZ2V0Q3VycmVudFNjb3JlKCkpKTsK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkNVUlJFTlRQRVJJT0QgQ09OU1RSVUNUT1IgMSAlcywgJXMiLCBtYXRjaCwgbWF0Y2guZ2V0Q3VycmVudFNjb3JlKCkpKTsK</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkNVUlJFTlRQRVJJT0QgQ09OU1RSVUNUT1IgMyAlcywgJXMiLCBtYXRjaCwgbWF0Y2guZ2V0Q3VycmVudFNjb3JlKCkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoImdldEN1cnJlbnRTY29yZSBzdGFydGVkIDogJXMsIHJlYXNvbiA6ICVzICVkOiVkIiwgc3RhcnRlZCwgcmVhc29uLCBjdXJyZW50SG9tZSwgY3VycmVudEF3YXkpKTsK</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkNVUlJFTlRQRVJJT0QgQ09OU1RSVUNUT1IgMiAlcywgJXMiLCBtYXRjaCwgbWF0Y2guZ2V0Q3VycmVudFNjb3JlKCkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
