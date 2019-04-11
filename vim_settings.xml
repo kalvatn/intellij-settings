@@ -7,6 +7,12 @@
       <file name="/a.dummy" timestamp="1554984662339">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/LiveScoreFileSenderMemcacheMonitor.java" timestamp="1554316706258">
+        <mark key="'" line="51" column="37" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/BasketMatchStatistics.java" timestamp="1554903557710">
+        <mark key="'" line="186" column="17" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1554798193430">
         <mark key="[" line="581" column="20" />
         <mark key="]" line="581" column="85" />
@@ -16,12 +22,21 @@
         <mark key="]" line="26" column="11" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1554901615388" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1554289915874">
+        <mark key="'" line="257" column="80" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" timestamp="1554898686973">
+        <mark key="'" line="822" column="0" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1554814893454">
         <mark key="'" line="331" column="34" />
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="23" />
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" timestamp="1554904241836">
+        <mark key="'" line="105" column="14" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/TestDartMatch.java" timestamp="1554797622191">
         <mark key="[" line="12" column="0" />
@@ -33,24 +48,36 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
+      <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/services/players/GoalScorerServiceBean.java" timestamp="1554901569225">
+        <mark key="'" line="448" column="22" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/test/java/com/oddsarbitrage/livescore/TestBasketMatch.java" timestamp="1554801798529">
         <mark key="[" line="60" column="53" />
         <mark key="]" line="60" column="68" />
         <mark key="^" line="60" column="68" />
         <mark key="." line="60" column="68" />
       </file>
-      <file name="/work/projects/gitlab/java-common/filesender/pom.xml" timestamp="1554989487736">
+      <file name="/work/projects/gitlab/java-common/filesender/pom.xml" timestamp="1554992725252">
         <mark key="'" line="135" column="37" />
-        <mark key="[" line="63" column="28" />
-        <mark key="]" line="63" column="24" />
-        <mark key="^" line="63" column="24" />
-        <mark key="." line="63" column="24" />
+        <mark key="[" line="105" column="30" />
+        <mark key="]" line="105" column="29" />
+        <mark key="." line="105" column="29" />
+        <mark key="^" line="105" column="29" />
       </file>
       <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/componentcontroller/ComponentShutdownThread.java" timestamp="1554884297700" />
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/statistics/PlayerStats.java" timestamp="1554289808566">
+        <mark key="'" line="150" column="16" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/main/java/com/oddsarbitrage/filesender2/utils/sftp/KeyFileLoader.java" timestamp="1554984197959">
         <mark key="^" line="11" column="17" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" timestamp="1554809820069">
+        <mark key="'" line="680" column="20" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-senders/src/main/java/com/oddsarbitrage/newfilesenders/SenderSOAP1_3.java" timestamp="1554981050781" />
+      <file name="$MAVEN_REPOSITORY$/axis/axis/1.3/axis-1.3-sources.jar!/org/apache/axis/AxisEngine.java" timestamp="1554991309014">
+        <mark key="'" line="162" column="16" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1554889520781">
         <mark key="'" line="241" column="17" />
         <mark key="[" line="248" column="10" />
@@ -82,12 +109,21 @@
         <mark key="[" line="80" column="0" />
         <mark key="]" line="84" column="3" />
       </file>
-      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/test/java/oddsarbitrage/filesender2/FileTransportFactoryTest.java" timestamp="1554985013959">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="52" />
-        <mark key="." line="27" column="0" />
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/DeepCoverageBasketMatch.java" timestamp="1554292263395">
+        <mark key="'" line="295" column="43" />
+      </file>
+      <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554287338676">
+        <mark key="'" line="846" column="49" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreBasketball.java" timestamp="1554809810182">
+        <mark key="'" line="42" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/InsertStadiumEventTask.java" timestamp="1554816437646" />
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/pom.xml" timestamp="1554991699536">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/utils/sftp/KeyFileLoaderTest.java" timestamp="1554984270621">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="28" />
@@ -107,7 +143,13 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="56" column="59" />
       </file>
+      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ScoreChangeEvent.java" timestamp="1554758667103">
+        <mark key="'" line="25" column="27" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/FillStadiums.java" timestamp="1554816474238" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/axis/axis/1.4/axis-1.4-sources.jar!/org/apache/axis/AxisEngine.java" timestamp="1554991064493">
+        <mark key="'" line="45" column="22" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/test/java/oddsarbitrage/filesender2/transport/provider/FileTransportProviderTest.java" timestamp="1554985005294">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="50" />
@@ -120,11 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="423" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="431" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="501" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="506" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
-      <jump line="1501" column="57" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
       <jump line="242" column="3" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
       <jump line="409" column="30" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
       <jump line="412" column="21" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
@@ -220,55 +257,60 @@
       <jump line="88" column="11" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
       <jump line="97" column="16" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
       <jump line="105" column="14" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/PlayerStats.java" />
+      <jump line="45" column="22" filename="$MAVEN_REPOSITORY$/org/apache/axis/axis/1.4/axis-1.4-sources.jar!/org/apache/axis/AxisEngine.java" />
+      <jump line="148" column="60" filename="$MAVEN_REPOSITORY$/axis/axis/1.3/axis-1.3-sources.jar!/org/apache/axis/AxisEngine.java" />
+      <jump line="155" column="8" filename="$MAVEN_REPOSITORY$/axis/axis/1.3/axis-1.3-sources.jar!/org/apache/axis/AxisEngine.java" />
+      <jump line="159" column="7" filename="$MAVEN_REPOSITORY$/axis/axis/1.3/axis-1.3-sources.jar!/org/apache/axis/AxisEngine.java" />
+      <jump line="162" column="16" filename="$MAVEN_REPOSITORY$/axis/axis/1.3/axis-1.3-sources.jar!/org/apache/axis/AxisEngine.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyBGaWxlKCJjb25mL2tleXMvZmlsZXNlbmRlci5vcGVuc3NoIikuZGVsZXRlKCk7CiAgICBuZXcgRmlsZSgiY29uZi9rZXlzL3Nwb3J0cmFkYXIucGVtIikuZGVsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDE4ODksIDM0MTYsIDM2OTksIDM3ODgsIDQxNzYsIDQ4MjUsIDQxNzYsIDQ4MjUsIDU3MjUsIDY5NzQsIDcxNzgsIDcyNzksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>filesender.openssh</text>
+        <text>, 3992</text>
       </register>
       <register name="/" type="4">
-        <text>BLOCK</text>
+        <text>Exit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5ldyBGaWxlKCJjb25mL2tleXMvZmlsZXNlbmRlci5vcGVuc3NoIikuZGVsZXRlKCk7CiAgICBuZXcgRmlsZSgiY29uZi9rZXlzL3Nwb3J0cmFkYXIucGVtIikuZGVsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgQXRvbWljSW50ZWdlciBmYWlsZWQgPSBuZXcgQXRvbWljSW50ZWdlcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIEZpbGVTZW5kZXJJbmZvIGZzaSA9IG5ldyBGaWxlU2VuZGVySW5mbyhmc2lkKTsKICAgICAgICAgIGZzaS51cGRhdGVGcm9tRGF0YUJhc2UoU2VsZWN0REIuZ2V0Q29ubmVjdGlvbigpKTsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIG5ldyBGaWxlVHJhbnNwb3J0RmFjdG9yeSgpLmdldFRyYW5zcG9ydChmc2kpLnNldFVwKCk7CiAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDE4ODksIDM0MTYsIDM2OTksIDM3ODgsIDQxNzYsIDQ4MjUsIDQxNzYsIDQ4MjUsIDU3MjUsIDY5NzQsIDcxNzgsIDcyNzksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZpbGVUcmFuc3BvcnRQcm92aWRlci5nZXRJbnN0YW5jZSgpLmNyZWF0ZUZpbGVUcmFuc3BvcnQoMTk0MCkuc2V0VXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSGFzaFNldDw+KAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gZmlsZXNlbmRlcnNUb1Rlc3QgPSBBcnJheXMuYXNMaXN0KDI3NjEsIDM1NzUpOwogICAgZmlsZXNlbmRlcnNUb1Rlc3QuZm9yRWFjaCgKICAgICAgICBmc2lkIC0+IHsKICAgICAgICAgIEZpbGVTZW5kZXJJbmZvIGZzaSA9IG5ldyBGaWxlU2VuZGVySW5mbyhmc2lkKTsKICAgICAgICAgIGZzaS51cGRhdGVGcm9tRGF0YUJhc2UoU2VsZWN0REIuZ2V0Q29ubmVjdGlvbigpKTsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIG5ldyBGaWxlVHJhbnNwb3J0RmFjdG9yeSgpLmdldFRyYW5zcG9ydChmc2kpLnNldFVwKCk7CiAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFycmF5cy5hc0xpc3QoMjc2MSwgNDE3NikKICAgICAgICAgICAgLmZvckVhY2goCiAgICAgICAgICAgICAgICAgICAgZnNpZCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICBGaWxlU2VuZGVySW5mbyBmc2kgPSBuZXcgRmlsZVNlbmRlckluZm8oZnNpZCk7CiAgICAgICAgICAgICAgICAgICAgICBmc2kudXBkYXRlRnJvbURhdGFCYXNlKFNlbGVjdERCLmdldENvbm5lY3Rpb24oKSk7CiAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBuZXcgRmlsZVRyYW5zcG9ydEZhY3RvcnkoKS5nZXRUcmFuc3BvcnQoZnNpKS5zZXRVcCgpOwogICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8odHJhbnNwb3J0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZpbGVUcmFuc3BvcnRTZnRwIGZpbGVUcmFuc3BvcnQgPQogICAgICAgIChGaWxlVHJhbnNwb3J0U2Z0cCkgRmlsZVRyYW5zcG9ydFByb3ZpZGVyLmdldEluc3RhbmNlKCkuY3JlYXRlRmlsZVRyYW5zcG9ydCgxOTQwKTsK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgICAgIDwhLS08Z3JvdXBJZD5heGlzPC9ncm91cElkPi0tPgogICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+YXhpczwvYXJ0aWZhY3RJZD4tLT4KICAgICAgICA8IS0tPC9kZXBlbmRlbmN5Pi0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGxvYWRLZXlGaWxlKCkgdGhyb3dzIEZpbGVUcmFuc3BvcnRFeGNlcHRpb24sIElPRXhjZXB0aW9uIHsKICAgIEZpbGVUcmFuc3BvcnRTZnRwIGZpbGVUcmFuc3BvcnQgPQogICAgICAgIChGaWxlVHJhbnNwb3J0U2Z0cCkgRmlsZVRyYW5zcG9ydFByb3ZpZGVyLmdldEluc3RhbmNlKCkuY3JlYXRlRmlsZVRyYW5zcG9ydCgxOTQwKTsKICAgIEZpbGUgZmlsZSA9IGZpbGVUcmFuc3BvcnQubG9hZEtleUZpbGUoImNvbmYva2V5cy9maWxlc2VuZGVyLm9wZW5zc2giKTsKICAgIEFzc2VydC5hc3NlcnROb3ROdWxsKGZpbGUpOwogICAgU3RyaW5nIGNvbnRlbnRzID0gKFN0cmluZykgSU9VdGlscy5yZWFkTGluZXMobmV3IEZpbGVJbnB1dFN0cmVhbShmaWxlKSkuZ2V0KDApOwogICAgQXNzZXJ0LmFzc2VydFRoYXQoY29udGVudHMuc3RhcnRzV2l0aCgiLS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLSIpLCBpcyhlcXVhbFRvKHRydWUpKSk7CiAgICBmaWxlLmRlbGV0ZSgpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxkZXBlbmRlbmN5Pi0tPgogICAgICAgICAgICAgICAgPCEtLTxncm91cElkPmF4aXM8L2dyb3VwSWQ+LS0+CiAgICAgICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+YXhpczwvYXJ0aWZhY3RJZD4tLT4KICAgICAgICAgICAgICAgIDwhLS08dmVyc2lvbj4xLjM8L3ZlcnNpb24+LS0+CiAgICAgICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgRmlsZSBsb2FkS2V5RmlsZShTdHJpbmcgZmlsZW5hbWUpIHsKICAgICAgcmV0dXJuIEtleUZpbGVMb2FkZXIubG9hZEtleUZpbGUoZmlsZW5hbWUpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIEZpbGVTZW5kZXJJbmZvIGZzaSA9IG5ldyBGaWxlU2VuZGVySW5mbyhmc2lkKTsKICAgICAgICAgIGZzaS51cGRhdGVGcm9tRGF0YUJhc2UoU2VsZWN0REIuZ2V0Q29ubmVjdGlvbigpKTsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIG5ldyBGaWxlVHJhbnNwb3J0RmFjdG9yeSgpLmdldFRyYW5zcG9ydChmc2kpLnNldFVwKCk7CiAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmb3VuZCBmaWxlIik7Cg==</text>
+        <text encoding="base64">ICAgIEZpbGVUcmFuc3BvcnRQcm92aWRlci5nZXRJbnN0YW5jZSgpLmNyZWF0ZUZpbGVUcmFuc3BvcnQoMTk0MCkuc2V0VXAoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>BLOCK</last-search>
+      <last-search>Exit</last-search>
       <last-offset />
-      <last-pattern>BLOCK</last-pattern>
+      <last-pattern>Exit</last-pattern>
       <last-replace>\/\/ UT</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -276,8 +318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>previousUpdated</entry>
-        <entry>162</entry>
         <entry>countOvert</entry>
         <entry>handle</entry>
         <entry>handleCurrent</entry>
@@ -296,6 +336,8 @@
         <entry>delta</entry>
         <entry>111</entry>
         <entry>BLOCK</entry>
+        <entry>init</entry>
+        <entry>Exit</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
