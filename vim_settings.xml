@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/main/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportProvider.java" timestamp="1554984646429" />
+      <file name="/a.dummy" timestamp="1554984662339">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/LiveScoreFileSenderMemcacheMonitor.java" timestamp="1554316706258">
         <mark key="'" line="51" column="37" />
       </file>
@@ -12,6 +16,10 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/LiveScoreController.java" timestamp="1554798193430">
         <mark key="[" line="581" column="20" />
         <mark key="]" line="581" column="85" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/test/java/oddsarbitrage/filesender2/transport/provider/FileTransportSftpTest.java" timestamp="1554984606390">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="26" column="11" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/domain/internal/enums/TriggerTable.java" timestamp="1554901615388" />
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/statistics/HandballStatistics.java" timestamp="1554289915874">
@@ -60,6 +68,9 @@
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/livescore/statistics/PlayerStats.java" timestamp="1554289808566">
         <mark key="'" line="150" column="16" />
       </file>
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/main/java/com/oddsarbitrage/filesender2/utils/sftp/KeyFileLoader.java" timestamp="1554984197959">
+        <mark key="^" line="11" column="17" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" timestamp="1554809820069">
         <mark key="'" line="680" column="20" />
       </file>
@@ -71,7 +82,19 @@
         <mark key="." line="249" column="13" />
         <mark key="^" line="249" column="13" />
       </file>
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportSftpTest.java" timestamp="1554984346748">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" timestamp="1554907296749" />
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-senders/src/main/java/com/oddsarbitrage/newfilesenders/SenderSFTP2.java" timestamp="1554984118067">
+        <mark key="[" line="89" column="52" />
+        <mark key="]" line="89" column="52" />
+        <mark key="." line="89" column="52" />
+        <mark key="^" line="89" column="52" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/main/java/com/sportradar/TestSOAPSenders.java" timestamp="1554981646871">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -91,11 +114,22 @@
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreBasketball.java" timestamp="1554809810182">
         <mark key="'" line="42" column="0" />
       </file>
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/test/java/oddsarbitrage/filesender2/FileTransportFactoryTest.java" timestamp="1554985013959">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="52" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/InsertStadiumEventTask.java" timestamp="1554816437646" />
       <file name="/work/projects/gitlab/java-common/filesender/filesender-component/pom.xml" timestamp="1554980922861">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/utils/sftp/KeyFileLoaderTest.java" timestamp="1554984270621">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/OvertimePeriodScoreEvent.java" timestamp="1554897385685">
         <mark key="'" line="111" column="51" />
@@ -104,11 +138,26 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="26" column="62" />
       </file>
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/main/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportSftp.java" timestamp="1554984221984">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="56" column="59" />
+      </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/ScoreChangeEvent.java" timestamp="1554758667103">
         <mark key="'" line="25" column="27" />
       </file>
       <file name="/work/projects/gitlab/java/source/src/com/oddsarbitrage/schedule2/tasks/livescore/FillStadiums.java" timestamp="1554816474238" />
+      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/test/java/oddsarbitrage/filesender2/transport/provider/FileTransportProviderTest.java" timestamp="1554985005294">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="39" />
+      </file>
       <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/component/ComponentAliveThread.java" timestamp="1554885609553" />
+      <file name="/fragment.java" timestamp="1554984401787">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="423" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/CurrentPeriodEvent.java" />
@@ -214,43 +263,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmZpbGVzZW5kZXIyLnRyYW5zcG9ydC5wcm92aWRlci5GaWxlVHJhbnNwb3J0UHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBGaWxlKCJjb25mL2tleXMvZmlsZXNlbmRlci5vcGVuc3NoIikuZGVsZXRlKCk7CiAgICBuZXcgRmlsZSgiY29uZi9rZXlzL3Nwb3J0cmFkYXIucGVtIikuZGVsZXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3788</text>
+        <text>filesender.openssh</text>
       </register>
       <register name="/" type="4">
         <text>BLOCK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWRpc2NvdmVyeTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtZGlzY292ZXJ5PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MC41PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBGaWxlKCJjb25mL2tleXMvZmlsZXNlbmRlci5vcGVuc3NoIikuZGVsZXRlKCk7CiAgICBuZXcgRmlsZSgiY29uZi9rZXlzL3Nwb3J0cmFkYXIucGVtIikuZGVsZXRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmZpbGVzZW5kZXIyLnRyYW5zcG9ydC5wcm92aWRlci5GaWxlVHJhbnNwb3J0UHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEZpbGVTZW5kZXJJbmZvIGZzaSA9IG5ldyBGaWxlU2VuZGVySW5mbyhmc2lkKTsKICAgICAgICAgIGZzaS51cGRhdGVGcm9tRGF0YUJhc2UoU2VsZWN0REIuZ2V0Q29ubmVjdGlvbigpKTsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIG5ldyBGaWxlVHJhbnNwb3J0RmFjdG9yeSgpLmdldFRyYW5zcG9ydChmc2kpLnNldFVwKCk7CiAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIEZpbGVUcmFuc3BvcnRQcm92aWRlci5nZXRJbnN0YW5jZSgpLmNyZWF0ZUZpbGVUcmFuc3BvcnQoMTk0MCkuc2V0VXAoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gZmlsZXNlbmRlcnNUb1Rlc3QgPSBBcnJheXMuYXNMaXN0KDI3NjEsIDM1NzUpOwogICAgZmlsZXNlbmRlcnNUb1Rlc3QuZm9yRWFjaCgKICAgICAgICBmc2lkIC0+IHsKICAgICAgICAgIEZpbGVTZW5kZXJJbmZvIGZzaSA9IG5ldyBGaWxlU2VuZGVySW5mbyhmc2lkKTsKICAgICAgICAgIGZzaS51cGRhdGVGcm9tRGF0YUJhc2UoU2VsZWN0REIuZ2V0Q29ubmVjdGlvbigpKTsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIG5ldyBGaWxlVHJhbnNwb3J0RmFjdG9yeSgpLmdldFRyYW5zcG9ydChmc2kpLnNldFVwKCk7CiAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIEFycmF5cy5hc0xpc3QoMjc2MSwgNDE3NikKICAgICAgICAgICAgLmZvckVhY2goCiAgICAgICAgICAgICAgICAgICAgZnNpZCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICBGaWxlU2VuZGVySW5mbyBmc2kgPSBuZXcgRmlsZVNlbmRlckluZm8oZnNpZCk7CiAgICAgICAgICAgICAgICAgICAgICBmc2kudXBkYXRlRnJvbURhdGFCYXNlKFNlbGVjdERCLmdldENvbm5lY3Rpb24oKSk7CiAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBuZXcgRmlsZVRyYW5zcG9ydEZhY3RvcnkoKS5nZXRUcmFuc3BvcnQoZnNpKS5zZXRVcCgpOwogICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtZGlzY292ZXJ5PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1kaXNjb3Zlcnk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4wLjU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIEZpbGVUcmFuc3BvcnRTZnRwIGZpbGVUcmFuc3BvcnQgPQogICAgICAgIChGaWxlVHJhbnNwb3J0U2Z0cCkgRmlsZVRyYW5zcG9ydFByb3ZpZGVyLmdldEluc3RhbmNlKCkuY3JlYXRlRmlsZVRyYW5zcG9ydCgxOTQwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGxvYWRLZXlGaWxlKCkgdGhyb3dzIEZpbGVUcmFuc3BvcnRFeGNlcHRpb24sIElPRXhjZXB0aW9uIHsKICAgIEZpbGVUcmFuc3BvcnRTZnRwIGZpbGVUcmFuc3BvcnQgPQogICAgICAgIChGaWxlVHJhbnNwb3J0U2Z0cCkgRmlsZVRyYW5zcG9ydFByb3ZpZGVyLmdldEluc3RhbmNlKCkuY3JlYXRlRmlsZVRyYW5zcG9ydCgxOTQwKTsKICAgIEZpbGUgZmlsZSA9IGZpbGVUcmFuc3BvcnQubG9hZEtleUZpbGUoImNvbmYva2V5cy9maWxlc2VuZGVyLm9wZW5zc2giKTsKICAgIEFzc2VydC5hc3NlcnROb3ROdWxsKGZpbGUpOwogICAgU3RyaW5nIGNvbnRlbnRzID0gKFN0cmluZykgSU9VdGlscy5yZWFkTGluZXMobmV3IEZpbGVJbnB1dFN0cmVhbShmaWxlKSkuZ2V0KDApOwogICAgQXNzZXJ0LmFzc2VydFRoYXQoY29udGVudHMuc3RhcnRzV2l0aCgiLS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLSIpLCBpcyhlcXVhbFRvKHRydWUpKSk7CiAgICBmaWxlLmRlbGV0ZSgpOwogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNlbmRlclNPQVAxXzMK</text>
+        <text encoding="base64">ICBwdWJsaWMgRmlsZSBsb2FkS2V5RmlsZShTdHJpbmcgZmlsZW5hbWUpIHsKICAgICAgcmV0dXJuIEtleUZpbGVMb2FkZXIubG9hZEtleUZpbGUoZmlsZW5hbWUpOwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZpbGVTZW5kZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmb3VuZCBmaWxlIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
