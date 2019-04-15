@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/guthimport/playerimport/ImportPlayerUtils.java" timestamp="1555333191117">
+        <mark key="'" line="59" column="45" />
+        <mark key="[" line="549" column="27" />
+        <mark key="]" line="549" column="39" />
+        <mark key="^" line="549" column="39" />
+        <mark key="." line="549" column="39" />
+      </file>
       <file name="/work/projects/gitlab/java-common/filesender/component/pom.xml" timestamp="1554125924000">
         <mark key="[" line="29" column="20" />
         <mark key="]" line="29" column="20" />
@@ -11,13 +18,6 @@
       </file>
       <file name="/a.dummy" timestamp="1554984662339">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/work/projects/gitlab/livescore/livescore/livescore-core/src/main/java/com/oddsarbitrage/livescore/statistics/SoccerScoutStatisticsProcessor.java" timestamp="1555079995752">
-        <mark key="'" line="88" column="17" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="93" column="33" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/domain/constants/basketball/BasketballConstants.java" timestamp="1554726925548">
         <mark key="[" line="4" column="2" />
@@ -85,13 +85,6 @@
         <mark key="." line="24" column="37" />
         <mark key="^" line="24" column="37" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/resources/conf/general.properties" timestamp="1554814893454">
-        <mark key="'" line="331" column="34" />
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-      </file>
       <file name="/work/projects/gitlab/java-common/dei-properties-api/pom.xml" timestamp="1553777936933">
         <mark key="[" line="69" column="30" />
         <mark key="]" line="69" column="36" />
@@ -110,11 +103,6 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="/work/projects/gitlab/livescore/livescore/livescore-shitty-deps/src/main/java/com/oddsarbitrage/scout/livescore/ScoutToLivescoreShittyUtil.java" timestamp="1555079850121">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="169" column="5" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/businesslogic/backend/PreStageManager.java" timestamp="1553868894155">
         <mark key="[" line="154" column="34" />
         <mark key="]" line="154" column="41" />
@@ -126,13 +114,6 @@
         <mark key="]" line="60" column="68" />
         <mark key="^" line="60" column="68" />
         <mark key="." line="60" column="68" />
-      </file>
-      <file name="/work/projects/gitlab/java-common/filesender/pom.xml" timestamp="1555076821069">
-        <mark key="'" line="135" column="37" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="105" column="29" />
-        <mark key="^" line="105" column="29" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StagevalueEAO.java" timestamp="1553872829768">
         <mark key="[" line="18" column="4" />
@@ -203,13 +184,6 @@
         <mark key="." line="745" column="19" />
         <mark key="^" line="745" column="19" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/EventCreator.java" timestamp="1554889520781">
-        <mark key="'" line="241" column="17" />
-        <mark key="[" line="248" column="10" />
-        <mark key="]" line="249" column="13" />
-        <mark key="." line="249" column="13" />
-        <mark key="^" line="249" column="13" />
-      </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/transport/provider/FileTransportSftpTest.java" timestamp="1554984346748">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="15" column="27" />
@@ -222,11 +196,18 @@
         <mark key="." line="89" column="52" />
         <mark key="^" line="89" column="52" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/sportradar/sportradar-common/3.0.2/sportradar-common-3.0.2-sources.jar!/com/betradar/util/StringUtil.java" timestamp="1555335428179" />
       <file name="/work/projects/gitlab/java-common/filesender/filesender-component/src/main/java/com/sportradar/TestSOAPSenders.java" timestamp="1554981646871">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="16" column="31" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/livescore/livescore-shitty-deps/src/test/java/com/oddsarbitrage/livescore/filesender2/data/utility/CommonUtilsTest.java" timestamp="1555335546128">
+        <mark key="[" line="27" column="87" />
+        <mark key="]" line="27" column="87" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="27" column="87" />
       </file>
       <file name="/work/projects/gitlab/livescore/livescore/livescore-core/src/main/java/com/oddsarbitrage/livescore/card/generator/infographic/basketball/BasketballInfographicProvider.java" timestamp="1555080948654">
         <mark key="[" line="60" column="0" />
@@ -243,36 +224,17 @@
       <file name="/Dummy.txt" timestamp="1555327840414">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/work/projects/gitlab/livescore/common/pom.xml" timestamp="1554305224762">
-        <mark key="'" line="190" column="40" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="32" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-      </file>
       <file name="/work/projects/gitlab/livescore/livescore/livescore-core/src/main/java/com/oddsarbitrage/livescore/card/generator/infographic/InfographicProvider.java" timestamp="1555080925489">
         <mark key="[" line="235" column="13" />
         <mark key="]" line="235" column="24" />
         <mark key="." line="235" column="24" />
         <mark key="^" line="235" column="24" />
       </file>
-      <file name="/work/projects/gitlab/java-common/filesender/filesender-component/pom.xml" timestamp="1554991699536">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="/work/projects/gitlab/java-common/filesender/filesender-transport/src/test/java/com/oddsarbitrage/filesender2/utils/sftp/KeyFileLoaderTest.java" timestamp="1554984270621">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
-      </file>
-      <file name="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/OvertimePeriodScoreEvent.java" timestamp="1554897385685">
-        <mark key="'" line="111" column="51" />
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="26" column="62" />
-        <mark key="." line="26" column="62" />
-        <mark key="^" line="26" column="62" />
       </file>
       <file name="/work/projects/gitlab/livescore/livescore/livescore-core/src/main/java/com/oddsarbitrage/livescore/statistics/ScoutEventStatisticsProcessor.java" timestamp="1555079991296">
         <mark key="[" line="8" column="0" />
@@ -286,6 +248,7 @@
         <mark key="." line="48" column="18" />
         <mark key="^" line="48" column="18" />
       </file>
+      <file name="/work/projects/gitlab/livescore/livescore/livescore-shitty-deps/src/main/java/com/oddsarbitrage/common2/Connections.java" timestamp="1555334147134" />
       <file name="/work/projects/gitlab/java-common/dei-properties-api/src/main/kotlin/com/sportradar/common/dei/api/properties/PropertyApi.kt" timestamp="1553783127107">
         <mark key="[" line="42" column="37" />
         <mark key="]" line="42" column="35" />
@@ -316,10 +279,11 @@
         <mark key="." line="949" column="48" />
         <mark key="^" line="949" column="48" />
       </file>
-      <file name="/work/projects/gitlab/livescore/livescore/livescore-shitty-deps/pom.xml" timestamp="1555079894682">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="42" column="21" />
-        <mark key="." line="25" column="0" />
+      <file name="/work/projects/gitlab/livescore/livescore/livescore-shitty-deps/pom.xml" timestamp="1555334598463">
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="28" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="38" column="28" />
       </file>
       <file name="/work/projects/gitlab/livescore/livescore/livescore-liveodds/pom.xml" timestamp="1555080386720">
         <mark key="[" line="29" column="0" />
@@ -333,18 +297,32 @@
         <mark key="." line="49" column="25" />
         <mark key="^" line="49" column="25" />
       </file>
-      <file name="/work/projects/gitlab/livescore/livescore/pom.xml" timestamp="1555330655781">
-        <mark key="'" line="345" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="358" column="43" />
-        <mark key="." line="36" column="0" />
+      <file name="/work/projects/gitlab/livescore/livescore/livescore-shitty-deps/src/main/java/com/oddsarbitrage/livescore/filesender2/data/utility/CommonUtils.java" timestamp="1555335854494">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="76" />
+      </file>
+      <file name="/work/projects/gitlab/livescore/livescore/pom.xml" timestamp="1555334327640">
+        <mark key="'" line="355" column="0" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="216" column="25" />
+        <mark key="^" line="210" column="29" />
+        <mark key="." line="212" column="0" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/main/java/com/betradar/export/eao/statistics/Statistics2StagevaluenameEAO.java" timestamp="1553872851987">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="24" column="32" />
         <mark key="." line="24" column="32" />
         <mark key="^" line="24" column="32" />
+      </file>
+      <file name="/work/projects/gitlab/java/sportradar-common/pom.xml" timestamp="1555334322558">
+        <mark key="'" line="219" column="15" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="127" column="17" />
+      </file>
+      <file name="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/util/StringUtil.java" timestamp="1555335317466">
+        <mark key="'" line="59" column="6" />
       </file>
       <file name="/work/projects/gitlab/java/xmlexport/xmlexport-ejb/src/test/java/com/betradar/export/eao/StageEAOIntegrationTest.java" timestamp="1553869070789">
         <mark key="[" line="74" column="41" />
@@ -358,7 +336,7 @@
         <mark key="." line="23" column="39" />
         <mark key="^" line="23" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1554987317509">
+      <file name="/fragment.java" timestamp="1555334575123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/work/projects/gitlab/java-common/filesender/transport/pom.xml" timestamp="1554125662037">
@@ -369,11 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreBasketball.java" />
-      <jump line="41" column="67" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
-      <jump line="42" column="40" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
-      <jump line="252" column="35" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
-      <jump line="682" column="39" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
       <jump line="680" column="20" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/scout/livescore/ScoutLivescoreSport.java" />
       <jump line="1837" column="30" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/event/Event.java" />
       <jump line="1503" column="2" filename="/work/projects/gitlab/livescore/common/src/main/java/com/oddsarbitrage/livescore/Match.java" />
@@ -469,55 +442,60 @@
       <jump line="359" column="25" filename="/work/projects/gitlab/livescore/livescore/pom.xml" />
       <jump line="36" column="8" filename="/work/projects/gitlab/livescore/livescore/pom.xml" />
       <jump line="346" column="0" filename="/work/projects/gitlab/livescore/livescore/pom.xml" />
+      <jump line="55" column="0" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/guthimport/playerimport/ImportPlayerUtils.java" />
+      <jump line="59" column="45" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/oddsarbitrage/guthimport/playerimport/ImportPlayerUtils.java" />
+      <jump line="316" column="31" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
+      <jump line="219" column="15" filename="/work/projects/gitlab/java/sportradar-common/pom.xml" />
+      <jump line="59" column="6" filename="/work/projects/gitlab/java/sportradar-common/src/main/java/com/betradar/util/StringUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Z2l0LXBsdWdpbi1za2lwPmZhbHNlPC9naXQtcGx1Z2luLXNraXA+Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtb2RpZmllZC5tYXRjaGVzKCJcXFciKSkgewogICAgICBtb2RpZmllZCA9ICJcXCIgKyBtb2RpZmllZDsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>separator</text>
       </register>
       <register name="/" type="4">
-        <text>profile</text>
+        <text>explodeFast</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxnaXQtcGx1Z2luLXNraXA+ZmFsc2U8L2dpdC1wbHVnaW4tc2tpcD4K</text>
+        <text encoding="base64">Ly8gICAgU3RyaW5nIG1vZGlmaWVkID0gc2VwYXJhdG9yOwovLyAgICBpZiAobW9kaWZpZWQubWF0Y2hlcygiXFxXIikpIHsKLy8gICAgICBtb2RpZmllZCA9ICJcXCIgKyBtb2RpZmllZDsKLy8gICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Z2l0LXBsdWdpbi1za2lwPmZhbHNlPC9naXQtcGx1Z2luLXNraXA+Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtb2RpZmllZC5tYXRjaGVzKCJcXFciKSkgewogICAgICBtb2RpZmllZCA9ICJcXCIgKyBtb2RpZmllZDsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2tpcD4ke2dpdC1wbHVnaW4tc2tpcH08L3NraXA+Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiByZXRWYWwgPSBuZXcgTGlua2VkTGlzdDw+KCk7CgogICAgU3RyaW5nIG1vZGlmaWVkID0gc2VwYXJhdG9yOwogICAgaWYgKG1vZGlmaWVkLm1hdGNoZXMoIlxcVyIpKSB7CiAgICAgIG1vZGlmaWVkID0gIlxcIiArIG1vZGlmaWVkOwogICAgfQoKICAgIFN0cmluZ1tdIHJldCA9IHN0cmluZy5zcGxpdChtb2RpZmllZCk7CiAgICBmb3IgKFN0cmluZyBzIDogcmV0KSB7CiAgICAgIGlmIChzLmxlbmd0aCgpICE9IDApIHsKICAgICAgICByZXRWYWwuYWRkKHMpOwogICAgICB9CiAgICB9CiAgICByZXR1cm4gcmV0VmFsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxnaXQtcGx1Z2luLXNraXA+dHJ1ZTwvZ2l0LXBsdWdpbi1za2lwPgo=</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiByZXRWYWwgPSBuZXcgTGlua2VkTGlzdDw+KCk7CgogICAgU3RyaW5nIG1vZGlmaWVkID0gc2VwYXJhdG9yOwogICAgaWYgKG1vZGlmaWVkLm1hdGNoZXMoIlxcVyIpKSB7CiAgICAgIG1vZGlmaWVkID0gIlxcIiArIG1vZGlmaWVkOwogICAgfQoKICAgIFN0cmluZ1tdIHJldCA9IHN0cmluZy5zcGxpdChtb2RpZmllZCk7CiAgICBmb3IgKFN0cmluZyBzIDogcmV0KSB7CiAgICAgIGlmIChzLmxlbmd0aCgpICE9IDApIHsKICAgICAgICByZXRWYWwuYWRkKHMpOwogICAgICB9CiAgICB9CiAgICByZXR1cm4gcmV0VmFsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudW1iZXJzLnN0cmVhbSgpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ub2Rkc2FyYml0cmFnZS5saXZlc2NvcmUuZmlsZXNlbmRlcjIuZGF0YS51dGlsaXR5LkNvbW1vblV0aWxzLmlzQmxhbms7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MjYuMC1qcmU8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ub2Rkc2FyYml0cmFnZS5saXZlc2NvcmUuZmlsZXNlbmRlcjIuZGF0YS51dGlsaXR5LkNvbW1vblV0aWxzLmlzQmxhbms7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnNwb3J0cmFkYXI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwb3J0cmFkYXItY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVzY29yZS5kYXRhLlNwb3J0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ub2Rkc2FyYml0cmFnZS5saXZlc2NvcmUuZmlsZXNlbmRlcjIuZGF0YS51dGlsaXR5LkNvbW1vblV0aWxzLmlzQmxhbms7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVzY29yZS5kYXRhLlNwb3J0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ub2Rkc2FyYml0cmFnZS5saXZlc2NvcmUuZmlsZXNlbmRlcjIuZGF0YS51dGlsaXR5LkNvbW1vblV0aWxzLmlzQmxhbms7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vZGRzYXJiaXRyYWdlLmxpdmVzY29yZS5kYXRhLlNwb3J0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>profile</last-search>
+      <last-search>explodeFast</last-search>
       <last-offset />
-      <last-pattern>profile</last-pattern>
+      <last-pattern>explodeFast</last-pattern>
       <last-replace>\/\/ UT</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -525,10 +503,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handleCurrent</entry>
-        <entry>isConflicting</entry>
-        <entry>CURRENT_PERIOD</entry>
-        <entry>OVERTIME</entry>
         <entry>currentHome</entry>
         <entry>handleCurrentPeriod</entry>
         <entry>handleEvent</entry>
@@ -545,6 +519,10 @@
         <entry>Exit</entry>
         <entry>FOUL</entry>
         <entry>profile</entry>
+        <entry>12</entry>
+        <entry>findbugs</entry>
+        <entry>guava</entry>
+        <entry>explodeFast</entry>
       </history-search>
       <history-cmd>
         <entry>517</entry>
@@ -599,6 +577,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
