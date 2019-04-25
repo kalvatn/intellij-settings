@@ -29,23 +29,50 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1556183987101">
+        <mark key="[" line="437" column="32" />
+        <mark key="]" line="440" column="34" />
+        <mark key="." line="440" column="34" />
+        <mark key="^" line="440" column="34" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">IyBhbmQgYy5wYWNrYWdlTmFtZSBsaWtlICIlZmlsZXNlbmRlciUiCg==</text>
+        <text encoding="base64">YW5kIHR1LnRlYW10eXBlaWQgbm90IGxpa2UgIk9WRVIgJSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wb25lbnR0YWJsZSBjIHdoZXJlIGMuQ29tcG9uZW50TmFtZSBsaWtlICIlZmlsZXNlbmRlciUiCg==</text>
+        <text encoding="base64">ICAgICAgIGMuQ0FURUdPUlksCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.betradar.</text>
+        <text>OVER</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MQo=</text>
+        <text encoding="base64">ICAgICAgIGpvaW4gdGVhbXNsaW5rdW5pcXVlY2F0ZWdvcnl0ZWFtIHRsIG9uIHRsLlJlYWxDYXRlZ29yeUlkID0gcmMuUkVBTENBVEVHT1JZSUQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIGpvaW4gY2F0ZWdvcnl0YWJsZSBjIG9uIGMuQ0FURUdPUllJRCA9IHRsLkNhdGVnb3J5SWQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YW5kIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIGMuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Z3JvdXAgYnkgdHUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBqb2luIHRlYW0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0ZWFtc3VuaXF1ZSB0dSB3aGVyZSB0dQo=</text>
       </register>
       <register name="-" type="4">
-        <text>com.betradar.</text>
+        <text>OVER</text>
       </register>
     </registers>
     <search>
