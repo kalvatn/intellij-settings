@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1556117351157">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="8" />
-        <mark key="^" line="36" column="8" />
-        <mark key="." line="36" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1556183012054">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="42" />
+        <mark key="^" line="27" column="42" />
+        <mark key="." line="27" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1556020413278">
         <mark key="[" line="0" column="0" />
@@ -36,13 +36,16 @@
         <text encoding="base64">IyBhbmQgYy5wYWNrYWdlTmFtZSBsaWtlICIlZmlsZXNlbmRlciUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wb25lbnR0YWJsZSBjIHdoZXJlIGMuQ29tcG9uZW50TmFtZSBsaWtlICIlZmlsZXNlbmRlciUiCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Yy5tYWNoaW5lX2dyb3VwLCA=</text>
+        <text>com.betradar.</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Yy5tYWNoaW5lX2dyb3VwLCA=</text>
+        <text>com.betradar.</text>
       </register>
     </registers>
     <search>
