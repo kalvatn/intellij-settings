@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1556266835517">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1556268681308">
         <mark key="'" line="461" column="0" />
-        <mark key="[" line="457" column="1" />
-        <mark key="]" line="459" column="73" />
-        <mark key="^" line="459" column="73" />
-        <mark key="." line="459" column="73" />
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="491" column="36" />
+        <mark key="^" line="491" column="36" />
+        <mark key="." line="491" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1556267133030">
         <mark key="[" line="0" column="0" />
@@ -50,7 +50,7 @@
         <text encoding="base64">dXBkYXRlIGNvbXBvbmVudHRhYmxlIGMgc2V0IGMuCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>group_concat(s.id), s.*</text>
+        <text>group_concat(s.id)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBhbmQgcy5jbGFzc25hbWUgcmVnZXhwCg==</text>
@@ -77,7 +77,7 @@
         <text encoding="base64">ICAgICAgIGpvaW4gY2F0ZWdvcnl0YWJsZSBjIG9uIGMuQ0FURUdPUllJRCA9IHRsLkNhdGVnb3J5SWQK</text>
       </register>
       <register name="-" type="4">
-        <text>group_concat(s.id), s.*</text>
+        <text>group_concat(s.id)</text>
       </register>
     </registers>
     <search>
