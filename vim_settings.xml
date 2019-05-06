@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1557139790059">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1557140829769">
         <mark key="'" line="94" column="0" />
-        <mark key="[" line="772" column="0" />
-        <mark key="]" line="772" column="0" />
-        <mark key="^" line="782" column="27" />
-        <mark key="." line="781" column="71" />
+        <mark key="[" line="792" column="24" />
+        <mark key="]" line="793" column="64" />
+        <mark key="^" line="793" column="64" />
+        <mark key="." line="793" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1556267133030">
         <mark key="[" line="0" column="0" />
@@ -46,13 +46,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">dXBkYXRlIGJldHJhZGFyc2NoZWR1bGUgcyBzZXQgcy5jb21wb25lbnRpZCA9IDE4MTMgd2hlcmUgcy5jb21wb25lbnRpZCA9IDQwMyBhbmQgcy5pZCBpbiAoMTQzLDE2NywxODgsMTg5LDIwMSwyMTAsMjE0LDIyNywyMjgsMjI5LDIzMCwyMzQsMjM2LDI1MSwyNTYsMjU5LDI2MiwzMTUsMzMyLDQyMiw0MzIsNDM5LDQ2Miw0NjMsNTA2LDUyOSw1MzMsNjc5LDY4OSw3MzAsNzQ0LDc2OCw3ODgsODQ3LDkwNSw5MTUsOTkyLDExMDAsMTEzNiwxMTUwLDEyMTIsMTQ4OCwxNTA0LDE1MjMsMTU4NywxNjcwLDE3MjAsMTc0NCwxNzQ2LDE3NzQsMTgwMSwxODI3LDE4NDksMjEwMSwyMTI0LDIxNDgsMjE2NCwyMTcyLDIyMjQsMjIzNCwyMjM2LDIyNDYsMjI1NCwyMzM1LDIzNjksMjM4MSwyNTI3KTsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX3RhYmxlcyB0IHdoZXJlIHQuaWQgaW4gKDMzOTA1LCAzMzkwNywgMzM5MDMpCjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX3RhYmxlcyB0IHdoZXJlIHQuaWQgaW4gKDMzOTA1LCAzMzkwNywgMzM5MDMpCjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
