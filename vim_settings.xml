@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1558441868581">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1558443834980">
         <mark key="'" line="377" column="17" />
-        <mark key="[" line="414" column="1" />
-        <mark key="]" line="402" column="19" />
-        <mark key="." line="402" column="19" />
-        <mark key="^" line="407" column="29" />
+        <mark key="[" line="421" column="4" />
+        <mark key="]" line="421" column="4" />
+        <mark key="." line="421" column="4" />
+        <mark key="^" line="421" column="128" />
       </file>
       <file name="/Dummy.txt" timestamp="1558381688413">
         <mark key="[" line="0" column="0" />
@@ -57,10 +57,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>15988992</text>
+        <text>101</text>
       </register>
       <register name="-" type="4">
-        <text>15988992</text>
+        <text>101</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
