@@ -3,22 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1558522922987">
-        <mark key="'" line="404" column="19" />
-        <mark key="[" line="421" column="4" />
-        <mark key="]" line="404" column="19" />
-        <mark key="." line="404" column="19" />
-        <mark key="^" line="404" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1558526622467">
+        <mark key="'" line="515" column="54" />
+        <mark key="[" line="621" column="0" />
+        <mark key="]" line="613" column="73" />
+        <mark key="." line="613" column="73" />
+        <mark key="^" line="613" column="73" />
       </file>
       <file name="/Dummy.txt" timestamp="1558381688413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1558521863243">
-        <mark key="'" line="277" column="0" />
-        <mark key="[" line="289" column="62" />
-        <mark key="]" line="277" column="0" />
-        <mark key="." line="277" column="0" />
-        <mark key="^" line="277" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1558525221517">
+        <mark key="'" line="97" column="16" />
+        <mark key="]" line="284" column="0" />
+        <mark key="^" line="288" column="41" />
+        <mark key="." line="284" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console.sql" timestamp="1557402456361">
         <mark key="[" line="0" column="30" />
@@ -57,34 +56,40 @@
       <jump line="234" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="277" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="404" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="97" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="26" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="442" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="77" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="618" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="515" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>15136987</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>15136987</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text encoding="base64">XDxOT1RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">am9pbiBkZWZhdWx0X3Byb3BlcnR5X3Nwb3J0IHBzIG9uIHBzLnNwb3J0X2lkID0gbG0uc3BvcnRpZCBhbmQgcHMucHJvcGVydHlfaWQgPSAxOQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgID8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5kIGUucGFyYW0xID0gMTAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gb2Rkcy5saXZlc2NvcmVfYXV0b3J1bGVfdHlwZSAocnVsZWlkLCB0eXBlaWQsIHRpbWUsIHBhcmFtMSwgcGFyYW0yLCBwYXJhbTMsIHBhcmFtNCkgVkFMVUVTICgyOSwgMjE0MiwgMCwgMSwgMSwgMSwgMCk7CgoKVVBEQVRFIG9kZHMubGl2ZXNjb3JlX2V2ZW50dHlwZSBTRVQgbmFtZSA9ICdPdmVydGltZSBQZXJpb2QgU2NvcmUnLCBgZGVzY2AgPSAnU2NvcmUgaW4gWHRoIG92ZXJ0aW1lIHBlcmlvZCcsIHBhcmFtMWRlc2MgPSAnSG9tZSB0ZWFtIHNjb3JlJywgcGFyYW0yZGVzYyA9ICdBd2F5IHRlYW0gc2NvcmUnLCBwYXJhbTNkZXNjID0gJ1BlcmlvZCBudW1iZXIgKDEtWCknLCBwYXJhbTRkZXNjID0gbnVsbCwgcGFyYW01ZGVzYyA9IG51bGwsIHBsYXllcjFkZXNjID0gbnVsbCwgcGxheWVyMmRlc2MgPSBudWxsLCB3ZWJ0ZXh0ID0gJ09UIFggc2NvcmUgJm5ic3A7IHBhcmFtMSAtIHBhcmFtMiAtIHBhcmFtMycsIHBsYXllcnNfcmVxdWlyZWQgPSAwLCBzdHJpbmdfcmVwcmVzZW50YXRpb24gPSBudWxsLCBzY291dGRlc2MgPSAnT3ZlcnRpbWUgcGVyaW9kIHNjb3JlJyBXSEVSRSBldmVudHR5cGUgPSAyMTQyOwo=</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgYXJ0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gb2Rkcy5saXZlc2NvcmVfbmV3ZXZlbnRfbHNjdCAoc291cmNlaWQsIG1hdGNoaWQsIHRpbWUsIGluanVyeXRpbWUsIGV2ZW50dHlwZSwgcGFyYW0xLCBwYXJhbTIsIHBhcmFtMywgcGFyYW00KSB2YWx1ZXMKKDgsIDE1MTM2OTg3LCAtMSwgLTEsIDEwMDIsIDAsICJCZXRoIFNtaXRoIiwgMCwgMSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -93,26 +98,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICBpbnNlcnQgaW50byBvZGRzLmxpdmVzY29yZV9uZXdldmVudF9sc2N0IChzb3VyY2VpZCwgbWF0Y2hpZCwgdGltZSwgaW5qdXJ5dGltZSwgZXZlbnR0eXBlLCBwYXJhbTEsIHBhcmFtMiwgcGFyYW0zLCBwYXJhbTQpIHZhbHVlcwogICAgICAgKDgsIDE1MTM2OTk5LCAtMSwgLTEsIDEwMDIsIDAsICJCZXRoIFNtaXRoIiwgMCwgMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
-      <last-pattern>$</last-pattern>
+      <last-search encoding="base64">XDxOT1RcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxOT1RcPg==</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>$</entry>
+        <entry encoding="base64">XDxOT1RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
@@ -132,6 +139,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
