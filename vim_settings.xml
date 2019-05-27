@@ -37,11 +37,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1558986635458">
-        <mark key="[" line="479" column="203" />
-        <mark key="]" line="479" column="226" />
-        <mark key="." line="479" column="226" />
-        <mark key="^" line="479" column="226" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1558987994842">
+        <mark key="'" line="500" column="0" />
+        <mark key="[" line="565" column="0" />
+        <mark key="]" line="565" column="0" />
+        <mark key="^" line="565" column="2" />
+        <mark key="." line="565" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -74,10 +75,11 @@
       <jump line="668" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="254" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="90" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="487" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>statistics_presentationconfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAyCg==</text>
       </register>
       <register name="-" type="4">
         <text>statistics_presentationconfig</text>
@@ -89,31 +91,31 @@
         <text encoding="base64">am9pbiBkZWZhdWx0X3Byb3BlcnR5X3Nwb3J0IHBzIG9uIHBzLnNwb3J0X2lkID0gbG0uc3BvcnRpZCBhbmQgcHMucHJvcGVydHlfaWQgPSAxOQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U1FMOgo=</text>
+        <text encoding="base64">ICAyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTUUw6Cg==</text>
+        <text encoding="base64">ICBvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U1FMOmRkCg==</text>
+        <text encoding="base64">ICBvCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBteXNxbC4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">ClttYWluXSBXQVJOIEV4cG9zZWQgLSBUcmFuc2FjdGlvbiBhdHRlbXB0ICMwIGZhaWxlZDogamF2YS5zcWwuU1FMU3ludGF4RXJyb3JFeGNlcHRpb246IFVua25vd24gY29sdW1uICd0ZWFtdGFibGUudGVhbWlkJyBpbiAnZmllbGQgbGlzdCcuIFN0YXRlbWVudChzKTog</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IGMuZm9yY2VfcmVsb2FkLAogICAgICAgYy5Db21wb25lbnRJZCwKICAgICAgIGMuQ29tcG9uZW50TmFtZSwKICAgICAgIGMuaG9zdE1hY2hpbmVJcCwKICAgICAgIGMubWFjaGluZV9ncm91cCwKICAgICAgIGMucHJvZHVjdGlkLAogICAgICAgYy5hY3RpdmUsCiAgICAgICBjLmdyb3VwSWQsCiAgICAgICBjLmFydGlmYWN0SWQsCiAgICAgICBjLnZlcnNpb24sCiAgICAgICBjLmphdmFQYXRoLAogICAgICAgYy5qYXZhUGFyYW1ldGVyZXMsCiAgICAgICBjLlBhcmFtZXRlcmVzLAogICAgICAgYy4qCmZyb20gY29tcG9uZW50dGFibGUgYwp3aGVyZSAxCiAgYW5kIGMuaG9zdE1hY2hpbmVJcCA9ICIxMC4yMDAuMTIuMjEiCiAgYW5kIGMucGFja2FnZU5hbWUgbGlrZSAiJWxpdmVzY29yZSUiCiAgYW5kIGMuYWN0aXZlID0gMQojICAgYW5kIGMuQ29tcG9uZW50SWQgaW4KIyAgICAgICAoNjQsIDEyMSwgMTM2LCAyMjQsIDE5NCwgMTA3MSwgMTE5OSwgNDQ1LCA1MzcsIDUzOCwgNjA5LCA2NDAsIDgzNCwgODUsIDU0OSwgNTUxLCA1MzksIDk5NiwgMTQwOCwgNjIzLCA2NCwgMjI1LAojICAgICAgICA0NDksCiMgICAgICAgIDg1Nik7CjsKCgp1cGRhdGUgY29tcG9uZW50dGFibGUgYwpzZXQgYy5mb3JjZV9yZWxvYWQgPSAxCndoZXJlIGMuQ29tcG9uZW50SWQgaW4gKDY0LCAyMjUsIDQ0OSk7Cgo=</text>
+        <text encoding="base64">U1FMOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5kIGUuCg==</text>
+        <text encoding="base64">ICBTUUw6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgID8K</text>
+        <text encoding="base64">U1FMOmRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBteXNxbC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">c2VsZWN0IGMuZm9yY2VfcmVsb2FkLAogICAgICAgYy5Db21wb25lbnRJZCwKICAgICAgIGMuQ29tcG9uZW50TmFtZSwKICAgICAgIGMuaG9zdE1hY2hpbmVJcCwKICAgICAgIGMubWFjaGluZV9ncm91cCwKICAgICAgIGMucHJvZHVjdGlkLAogICAgICAgYy5hY3RpdmUsCiAgICAgICBjLmdyb3VwSWQsCiAgICAgICBjLmFydGlmYWN0SWQsCiAgICAgICBjLnZlcnNpb24sCiAgICAgICBjLmphdmFQYXRoLAogICAgICAgYy5qYXZhUGFyYW1ldGVyZXMsCiAgICAgICBjLlBhcmFtZXRlcmVzLAogICAgICAgYy4qCmZyb20gY29tcG9uZW50dGFibGUgYwp3aGVyZSAxCiAgYW5kIGMuaG9zdE1hY2hpbmVJcCA9ICIxMC4yMDAuMTIuMjEiCiAgYW5kIGMucGFja2FnZU5hbWUgbGlrZSAiJWxpdmVzY29yZSUiCiAgYW5kIGMuYWN0aXZlID0gMQojICAgYW5kIGMuQ29tcG9uZW50SWQgaW4KIyAgICAgICAoNjQsIDEyMSwgMTM2LCAyMjQsIDE5NCwgMTA3MSwgMTE5OSwgNDQ1LCA1MzcsIDUzOCwgNjA5LCA2NDAsIDgzNCwgODUsIDU0OSwgNTUxLCA1MzksIDk5NiwgMTQwOCwgNjIzLCA2NCwgMjI1LAojICAgICAgICA0NDksCiMgICAgICAgIDg1Nik7CjsKCgp1cGRhdGUgY29tcG9uZW50dGFibGUgYwpzZXQgYy5mb3JjZV9yZWxvYWQgPSAxCndoZXJlIGMuQ29tcG9uZW50SWQgaW4gKDY0LCAyMjUsIDQ0OSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
