@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1559568980672">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1559655987285">
         <mark key="'" line="18" column="9" />
-        <mark key="[" line="860" column="39" />
-        <mark key="]" line="860" column="61" />
-        <mark key="^" line="860" column="61" />
-        <mark key="." line="860" column="61" />
+        <mark key="[" line="860" column="0" />
+        <mark key="]" line="860" column="83" />
+        <mark key="^" line="860" column="31" />
+        <mark key="." line="860" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1558703800278">
         <mark key="[" line="0" column="0" />
@@ -37,12 +37,12 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1559300965333">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1559655995452">
         <mark key="'" line="500" column="0" />
-        <mark key="[" line="565" column="0" />
-        <mark key="]" line="565" column="0" />
+        <mark key="[" line="567" column="0" />
+        <mark key="]" line="567" column="84" />
         <mark key="^" line="565" column="2" />
-        <mark key="." line="565" column="0" />
+        <mark key="." line="567" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -80,8 +80,8 @@
       <jump line="18" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>javaParameteres = &quot;&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IGMuY29tbWVudCwgYy5yZXNwb25zaWJsZSwgYy4qIGZyb20gY29tcG9uZW50dGFibGUgYyB3aGVyZSBjLkNvbXBvbmVudElkID0gOTQ4Cg==</text>
       </register>
       <register name="-" type="4">
         <text>javaParameteres = &quot;&quot;</text>
@@ -90,7 +90,7 @@
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">am9pbiBkZWZhdWx0X3Byb3BlcnR5X3Nwb3J0IHBzIG9uIHBzLnNwb3J0X2lkID0gbG0uc3BvcnRpZCBhbmQgcHMucHJvcGVydHlfaWQgPSAxOQo=</text>
+        <text encoding="base64">c2VsZWN0IGMuY29tbWVudCwgYy5yZXNwb25zaWJsZSwgYy4qIGZyb20gY29tcG9uZW50dGFibGUgYyB3aGVyZSBjLkNvbXBvbmVudElkID0gOTQ4Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2hvdyBmdWxsIGNvbHVtbnMgZnJvbSBsaXZlc2NvcmVfbmV3ZXZlbnQKOwo=</text>
