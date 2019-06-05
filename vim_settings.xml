@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1559655987285">
-        <mark key="'" line="18" column="9" />
-        <mark key="[" line="860" column="0" />
-        <mark key="]" line="860" column="83" />
-        <mark key="^" line="860" column="31" />
-        <mark key="." line="860" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1559732351060">
+        <mark key="'" line="901" column="0" />
+        <mark key="[" line="901" column="20" />
+        <mark key="]" line="901" column="18" />
+        <mark key="." line="901" column="18" />
+        <mark key="^" line="901" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1558703800278">
         <mark key="[" line="0" column="0" />
@@ -78,10 +78,12 @@
       <jump line="487" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" />
       <jump line="835" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="18" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="910" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="901" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0IGMuY29tbWVudCwgYy5yZXNwb25zaWJsZSwgYy4qIGZyb20gY29tcG9uZW50dGFibGUgYyB3aGVyZSBjLkNvbXBvbmVudElkID0gOTQ4Cg==</text>
+        <text encoding="base64">KCkK</text>
       </register>
       <register name="-" type="4">
         <text>javaParameteres = &quot;&quot;</text>
@@ -90,34 +92,34 @@
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGMuY29tbWVudCwgYy5yZXNwb25zaWJsZSwgYy4qIGZyb20gY29tcG9uZW50dGFibGUgYyB3aGVyZSBjLkNvbXBvbmVudElkID0gOTQ4Cg==</text>
+        <text encoding="base64">d2hlcmUgYy50b3VybmFtZW50aWQgaW4gKDUyMTMsIDUyMTQsIDU2NzU0LCA0ODM3LCA2MTY4KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2hvdyBmdWxsIGNvbHVtbnMgZnJvbSBsaXZlc2NvcmVfbmV3ZXZlbnQKOwo=</text>
+        <text encoding="base64">KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAyCg==</text>
+        <text encoding="base64">KDQ4NDgsKQooNjE2MCwpCig2MTYxLCkKKDYxNjIsKQooNjE2MywpCig2MTY0LCkKKDYxNjUsKQooNjE2NiwpCig2MTY3LCkKKDYxNjgsKQooNjE2OSwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvCg==</text>
+        <text encoding="base64">KDQ4NDgsIDYxNjAsIDYxNjEsIDYxNjIsIDYxNjMsIDYxNjQsIDYxNjUsIDYxNjYsIDYxNjcsIDYxNjgsIDYxNjkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0b3UK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ClttYWluXSBXQVJOIEV4cG9zZWQgLSBUcmFuc2FjdGlvbiBhdHRlbXB0ICMwIGZhaWxlZDogamF2YS5zcWwuU1FMU3ludGF4RXJyb3JFeGNlcHRpb246IFVua25vd24gY29sdW1uICd0ZWFtdGFibGUudGVhbWlkJyBpbiAnZmllbGQgbGlzdCcuIFN0YXRlbWVudChzKTog</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBqb2luIHN0YXRpc3RpY3Nfc2Vhc29ucyBzIG9uIHMuc2Vhc29uaWQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U1FMOgo=</text>
+        <text encoding="base64">Z3JvdXAgYnkgYy50b3VybmFtZW50aWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTUUw6Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U1FMOmRkCg==</text>
+        <text encoding="base64">c2hvdyBmdWxsIGNvbHVtbnMgZnJvbSBsaXZlc2NvcmVfbmV3ZXZlbnQKOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBteXNxbC4K</text>
+        <text encoding="base64">ICAyCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
@@ -135,9 +137,14 @@
     <history>
       <history-search>
         <entry encoding="base64">XDxOT1RcPg==</entry>
+        <entry>^</entry>
+        <entry>,</entry>
         <entry>$</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz5zL14vKC9n</entry>
+        <entry encoding="base64">JzwsJz5zLyQvKS9n</entry>
+        <entry encoding="base64">JzwsJz5zLywvLDU0LDMyMywyNjgsMA==</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
       </history-cmd>
       <history-expr />
