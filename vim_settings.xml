@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1560453692245">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1560456882634">
         <mark key="'" line="62" column="26" />
-        <mark key="[" line="1025" column="43" />
-        <mark key="]" line="1025" column="33" />
+        <mark key="[" line="1032" column="0" />
+        <mark key="]" line="1032" column="32" />
         <mark key="." line="1025" column="33" />
         <mark key="^" line="1025" column="33" />
       </file>
@@ -47,12 +47,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1559655995452">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1560457594192">
         <mark key="'" line="500" column="0" />
-        <mark key="[" line="567" column="0" />
-        <mark key="]" line="567" column="84" />
-        <mark key="^" line="565" column="2" />
-        <mark key="." line="567" column="0" />
+        <mark key="[" line="575" column="44" />
+        <mark key="]" line="575" column="46" />
+        <mark key="." line="575" column="46" />
+        <mark key="^" line="575" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -97,44 +97,44 @@
       <jump line="62" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2hvdyB0YWJsZSBzdGF0dXMK</text>
+      <register name="&quot;" type="4">
+        <text>max</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>max</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIGMubG9nZ2VyX25hbWUsIGMubG9nZ2luZ19sZXZlbCwgYy5hZGRpdGl2aXR5IEZST00gY29tcG9uZW50X2xvZ2dlciBjIFdIRVJFIGMuY29tcG9uZW50X2lkPTE4MzAgT1IgYy5jb21wb25lbnRfaWQ9MCBPUkRFUiBCWSBjLmNvbXBvbmVudF9pZCBBU0MK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb3Vwb25fY291cG9udHlwZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2hvdyB0YWJsZSBzdGF0dXMK</text>
+        <text encoding="base64">dXNlIGluZm9ybWF0aW9uX3NjaGVtYTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">c2hvdyB0YWJsZSBzdGF0dXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">MQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgYy5DT0xVTU5fVFlQRSBub3QgbGlrZSAiJXVuc2lnbmVkIgo=</text>
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgYy5DT0xVTU5fS0VZIGlzIG5vdCBudWxsCg==</text>
+        <text encoding="base64">ICBhbmQgYy5DT0xVTU5fVFlQRSBub3QgbGlrZSAiJXVuc2lnbmVkIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmQgYy5FWFRSQSA9ICJhdXRvX2luY3JlbWVudCIK</text>
+        <text encoding="base64">ICBhbmQgYy5DT0xVTU5fS0VZIGlzIG5vdCBudWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnRpbWUsaW5qdXJ5dGltZSxtYXRjaHRpbWUsaW5qdXJ5bWF0Y2h0aW1lCi0xLDAsTlVMTCxOVUxMCg==</text>
+        <text encoding="base64">ICBhbmQgYy5FWFRSQSA9ICJhdXRvX2luY3JlbWVudCIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
