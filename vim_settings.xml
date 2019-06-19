@@ -12,12 +12,12 @@
       <file name="/Dummy.txt" timestamp="1559813141647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1560942337612">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1560943526830">
         <mark key="'" line="375" column="30" />
-        <mark key="[" line="399" column="52" />
-        <mark key="]" line="400" column="26" />
-        <mark key="." line="400" column="26" />
-        <mark key="^" line="400" column="26" />
+        <mark key="[" line="398" column="33" />
+        <mark key="]" line="398" column="43" />
+        <mark key="." line="398" column="43" />
+        <mark key="^" line="398" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console.sql" timestamp="1560780035900">
         <mark key="[" line="44" column="1" />
@@ -115,10 +115,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>promotiontable</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>promotiontable</text>
       </register>
       <register name="/" type="4">
         <text>concat</text>
