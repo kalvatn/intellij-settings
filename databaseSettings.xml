@@ -1,5 +1,5 @@
 <application>
-  <component name="DatabaseSettings" version="3">
+  <component name="DatabaseSettings" version="4">
     <option name="page-size" value="100000" />
     <option name="prefetch-size" value="100000" />
     <text-mode>
@@ -59,6 +59,11 @@
             </quotation>
           </record-format>
         </header>
+      </csv-format>
+      <csv-format name="code friendly" id="54e6b090-e4dc-4a05-9af3-ef106d3645e3">
+        <data>
+          <record-format prefix="" suffix="" nullText="null" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;" trimWhitespace="true" />
+        </data>
       </csv-format>
     </csv-formats>
   </component>
