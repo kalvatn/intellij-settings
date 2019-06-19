@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1560942648484">
-        <mark key="[" line="1097" column="40" />
-        <mark key="]" line="1097" column="40" />
-        <mark key="^" line="1096" column="33" />
-        <mark key="." line="1097" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1560955348369">
+        <mark key="[" line="1106" column="103" />
+        <mark key="]" line="1106" column="122" />
+        <mark key="^" line="1106" column="122" />
+        <mark key="." line="1106" column="122" />
       </file>
       <file name="/Dummy.txt" timestamp="1559813141647">
         <mark key="[" line="0" column="0" />
@@ -120,11 +120,11 @@
       <jump line="495" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlBlc2FwYWxsbyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>cupid = 10118</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KHRvdXJuYW1lbnR0YWJsZXVuaXF1ZS51bmlxdWV0b3VybmFtZW50aWQgPiAwIEFORA==</text>
+        <text>cupid = 10118</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
