@@ -13,12 +13,12 @@
       <file name="/Dummy.txt" timestamp="1559813141647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1561580116483">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1561580741878">
         <mark key="'" line="615" column="0" />
-        <mark key="[" line="642" column="7" />
-        <mark key="]" line="641" column="14" />
-        <mark key="." line="641" column="14" />
-        <mark key="^" line="641" column="14" />
+        <mark key="[" line="643" column="87" />
+        <mark key="]" line="642" column="69" />
+        <mark key="." line="642" column="69" />
+        <mark key="^" line="642" column="69" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console.sql" timestamp="1560780035900">
         <mark key="[" line="44" column="1" />
@@ -135,10 +135,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parent</text>
+        <text encoding="base64">bGVmdCA=</text>
       </register>
       <register name="-" type="4">
-        <text>parent</text>
+        <text encoding="base64">bGVmdCA=</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
