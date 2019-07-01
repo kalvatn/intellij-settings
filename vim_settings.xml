@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1561660600996">
-        <mark key="'" line="53" column="17" />
-        <mark key="[" line="1143" column="17" />
-        <mark key="]" line="24" column="5" />
-        <mark key="^" line="24" column="5" />
-        <mark key="." line="24" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1561981948998">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="51" />
+        <mark key="." line="37" column="51" />
+        <mark key="^" line="37" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1559813141647">
         <mark key="[" line="0" column="0" />
@@ -134,57 +134,63 @@
       <jump line="578" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" />
       <jump line="1123" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="53" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="1124" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="1137" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="138" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="25" column="60" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="120" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="121" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>s.classname like &quot;%card%&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s.classname like &quot;%card%&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>stagejoin</text>
+        <text>schedule</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljczJfc3RhZ2Uyc3RhZ2UgczJzIHdoZXJlIHMycy5jaGlsZCA9IDE2NzgyMgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnNlbGVjdA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBhbmQgYy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IENPVU5UKCopIGFzIHJvd19jb3VudCBGUk9NIG9kZHMubmFtZV9zdGF0aXN0aWNzMl9zdGFnZXZhbHVlCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgc2ouc3RhZ2VpZAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CnNlbGVjdA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgczJzLmNoaWxkIGluICgpOwo=</text>
+        <text encoding="base64">c2VsZWN0IENPVU5UKCopIGFzIHJvd19jb3VudCBGUk9NIG9kZHMubmFtZV9zdGF0aXN0aWNzMl9zdGFnZXZhbHVlCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Z3JvdXAgYnkgc2ouc3RhZ2VpZAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">d2hlcmUgczJzLmNoaWxkIGluICgpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">am9pbiBzdGF0aXN0aWNzMl9zdGEK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>426678, 427875, 428093, 428311, 428529, 428747, 428965, 429183, 429403, 429621, 429839, 430057, 430313, 430531,
        430749, 430967, 431185, 431403, 431621, 431839, 432057, 432275</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgcy5pZCBpbgogICAgICAoNDUzNzYxLCA0MzI4MzMsIDEyOTU0MikK</text>
-      </register>
-      <register name="8" type="4">
-        <text>528712, 522662, 528748, 528686, 528750, 528736, 522670, 528738, 522668, 522666, 528710, 522664, 528696, 522674,
-       522672, 528722, 528692, 528694</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAjIHdoZXJlIHMuaWQgaW4gKDQxNjM5OCwgNDE4MzI2LCA0MWRkNzY4NCwgNDE4NzU0LCA0MTgxMTIsIDQxNjM5OCwgNDE4NTQwLCA0MTc4OTgsIDQxODk2OCkK</text>
+        <text encoding="base64">ICBhbmQgcy5pZCBpbgogICAgICAoNDUzNzYxLCA0MzI4MzMsIDEyOTU0MikK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>stagejoin</last-search>
+      <last-search>schedule</last-search>
       <last-offset />
-      <last-pattern>stagejoin</last-pattern>
+      <last-pattern>schedule</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -201,6 +207,7 @@
         <entry>$</entry>
         <entry>join</entry>
         <entry>stagejoin</entry>
+        <entry>schedule</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vKC9n</entry>
