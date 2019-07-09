@@ -13,12 +13,12 @@
       <file name="/Dummy.txt" timestamp="1559813141647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1561986531939">
-        <mark key="'" line="169" column="41" />
-        <mark key="[" line="166" column="29" />
-        <mark key="]" line="166" column="37" />
-        <mark key="." line="166" column="37" />
-        <mark key="^" line="166" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1562671209926">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="770" column="8" />
+        <mark key="]" line="770" column="20" />
+        <mark key="." line="770" column="20" />
+        <mark key="^" line="770" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console.sql" timestamp="1560780035900">
         <mark key="[" line="44" column="1" />
@@ -145,13 +145,14 @@
       <jump line="387" column="63" filename="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" />
       <jump line="169" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" />
       <jump line="61" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="164" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KDEzNiwgNjUsIDEyNTg3NjUwLCAzMCwgMywgIG51bGwsICAgICAgICcxMicsICc2JywgJycsICcxJywgbnVsbCwgJzA6MCcsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIC0xLCBudWxsLCBudWxsLCBudWxsLCA0NiwgZmFsc2UsIG51bGwsIG51bGwsIDc4Nzk5NzkxMSwgbnVsbCksCigxMzcsIDY1LCAxMjU4NzY1MCwgMzAsIDE2LCA4OTk5MDAwMDAsICAnMTQnLCAnNycsICcnLCAnMScsIG51bGwsICcwOjAnLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAtMSwgbnVsbCwgbnVsbCwgbnVsbCwgNDYsIGZhbHNlLCBudWxsLCBudWxsLCA3ODc5OTc5MTQsIG51bGwpLAooMTM4LCA2NSwgMTI1ODc2NTAsIDMwLCAxNywgOTU5OTYwMDAwLCAgJzE0JywgJzE2JywnJywgJzInLCBudWxsLCAnMDowJywgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgLTEsIG51bGwsIG51bGwsIG51bGwsIDQ0LCBmYWxzZSwgbnVsbCwgbnVsbCwgNzg3OTk3OTE1LCBudWxsKSwKKDEzOSwgNjUsIDEyNTg3NjUwLCAzMCwgMjIsIDIxNDc0ODM2NDcsICcxMycsICc3JywgJycsICcxJywgbnVsbCwgJzA6MCcsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIC0xLCBudWxsLCBudWxsLCBudWxsLCA0NiwgZmFsc2UsIG51bGwsIG51bGwsIDc4Nzk5NzkxMywgbnVsbCksCigxNDAsIDY1LCAxMjU4NzY1MCwgMzAsIDUsICAyMTQ3NDgzNjQ3LCAnMTEnLCAnMCcsICcnLCAnMScsIG51bGwsICcwOjAnLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAtMSwgbnVsbCwgbnVsbCwgbnVsbCwgNDQsIGZhbHNlLCBudWxsLCBudWxsLCA3ODc5OTc5MDgsIG51bGwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>SPORTID</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SPORTID</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
