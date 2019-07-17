@@ -3,15 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1563361852967">
-        <mark key="'" line="1206" column="33" />
-        <mark key="[" line="1254" column="24" />
-        <mark key="]" line="1255" column="28" />
-        <mark key="." line="1255" column="28" />
-        <mark key="^" line="1255" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1563370474749">
+        <mark key="'" line="1288" column="27" />
+        <mark key="[" line="1293" column="0" />
+        <mark key="]" line="1275" column="19" />
+        <mark key="." line="1275" column="19" />
+        <mark key="^" line="1275" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563221877440">
+      <file name="/Dummy.txt" timestamp="1563370341641">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71344792-3c51-4617-92fa-01a867044cd6/console_1.sql" timestamp="1563370312311">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1560934661550">
+        <mark key="'" line="508" column="0" />
+        <mark key="[" line="491" column="45" />
+        <mark key="]" line="491" column="71" />
+        <mark key="." line="491" column="71" />
+        <mark key="^" line="491" column="71" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1563361016672">
         <mark key="'" line="753" column="53" />
@@ -25,6 +37,12 @@
         <mark key="]" line="50" column="7" />
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86b7adde-60fc-49ec-be7b-5de0a17d8716/console.sql" timestamp="1563370307158">
+        <mark key="[" line="3" column="63" />
+        <mark key="]" line="3" column="62" />
+        <mark key="^" line="3" column="62" />
+        <mark key="." line="3" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1563367041108">
         <mark key="'" line="94" column="22" />
@@ -60,18 +78,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e6af12a-6c18-4583-8b51-245eab98df09/console.sql" timestamp="1563369837125">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console.sql" timestamp="1561551030958">
         <mark key="[" line="40" column="35" />
         <mark key="]" line="43" column="28" />
         <mark key="^" line="43" column="28" />
         <mark key="." line="43" column="28" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1560934661550">
-        <mark key="'" line="508" column="0" />
-        <mark key="[" line="491" column="45" />
-        <mark key="]" line="491" column="71" />
-        <mark key="." line="491" column="71" />
-        <mark key="^" line="491" column="71" />
       </file>
     </filemarks>
     <jumps>
@@ -161,21 +178,37 @@
       <jump line="1206" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="55" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" />
       <jump line="89" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" />
+      <jump line="1288" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sport_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX3RlYW1pbnRhYmxlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sport_id</text>
+        <text>select * from</text>
       </register>
       <register name="/" type="4">
         <text>last_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0IEBzcG9ydF9pZCA9IDE7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBib29rbWFrZXJfaWRtYXBwaW5nIGJpbSB3aGVyZSBiaW0uYm9va21ha2VySWQgPSAxNzUyOQphbmQgYmltLnR5cGVJZCA9IDIKOwo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX3RlYW1pbnRhYmxlCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgam9pbiBzb3VyY2Vqb2luX2ZpbGVzZW5kZXJfb3B0aW9uIG8gb24gby5maWxlc2VuZGVyaWQgPSBsc2ouCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">am9pbiBzb3VyY2Vqb2luX2ZpbGVzZW5kZXJfb3B0aW9uCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzb3VyY2Vqb2luX2ZpbGVzZW5kZXJfb3B0aW9uCg==</text>
+      </register>
+      <register name="6" type="8">
         <text>bet
 bet
 bet
@@ -183,29 +216,11 @@ bet
 bet
 bet</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IGIuQk9PS01BS0VSSUQsCiAgICAgICBiLkRJU1BMQVlOQU1FLAogICAgICAgcy5TUE9SVE5BTUUsCiAgICAgICBERVNDUklQVElPTiwKICAgICAgIFRPVVJOQU1FTlROQU1FLAogICAgICAgbS5NQVRDSElELAogICAgICAgR0FNRVNUQVJULAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0IGIuQk9PS01BS0VSSUQsCiAgICAgICBiLkRJU1BMQVlOQU1FLAogICAgICAgcy5TUE9SVE5BTUUsCiAgICAgICBERVNDUklQVElPTiwKICAgICAgIFRPVVJOQU1FTlROQU1FLAogICAgICAgbS5NQVRDSElELAogICAgICAgR0FNRVNUQVJULAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="8">
-        <text>odds
-odds
-odds</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGMuCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIG9kZHMuCg==</text>
+        <text encoding="base64">c2VsZWN0IGIuQk9PS01BS0VSSUQsCiAgICAgICBiLkRJU1BMQVlOQU1FLAogICAgICAgcy5TUE9SVE5BTUUsCiAgICAgICBERVNDUklQVElPTiwKICAgICAgIFRPVVJOQU1FTlROQU1FLAogICAgICAgbS5NQVRDSElELAogICAgICAgR0FNRVNUQVJULAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>c
-       join</text>
+      <register name="8" type="2">
+        <text encoding="base64">c2VsZWN0IGIuQk9PS01BS0VSSUQsCiAgICAgICBiLkRJU1BMQVlOQU1FLAogICAgICAgcy5TUE9SVE5BTUUsCiAgICAgICBERVNDUklQVElPTiwKICAgICAgIFRPVVJOQU1FTlROQU1FLAogICAgICAgbS5NQVRDSElELAogICAgICAgR0FNRVNUQVJULAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -282,6 +297,9 @@ odds</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
