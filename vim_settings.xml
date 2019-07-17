@@ -26,12 +26,12 @@
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1563365040846">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1563366395501">
         <mark key="'" line="90" column="22" />
-        <mark key="[" line="90" column="34" />
-        <mark key="]" line="90" column="38" />
-        <mark key="." line="90" column="38" />
-        <mark key="^" line="90" column="38" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1563359693048">
         <mark key="'" line="340" column="0" />
@@ -163,11 +163,11 @@
       <jump line="89" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0IGIuQk9PS01BS0VSSUQsCiAgICAgICBiLkRJU1BMQVlOQU1FLAogICAgICAgcy5TUE9SVE5BTUUsCiAgICAgICBERVNDUklQVElPTiwKICAgICAgIFRPVVJOQU1FTlROQU1FLAogICAgICAgbS5NQVRDSElELAogICAgICAgR0FNRVNUQVJULAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAo=</text>
+      <register name="&quot;" type="4">
+        <text>bettable</text>
       </register>
       <register name="-" type="4">
-        <text>underodds</text>
+        <text>bettable</text>
       </register>
       <register name="/" type="4">
         <text>last_</text>
