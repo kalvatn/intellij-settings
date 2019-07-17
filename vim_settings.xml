@@ -26,12 +26,12 @@
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1563366395501">
-        <mark key="'" line="90" column="22" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1563367041108">
+        <mark key="'" line="94" column="22" />
+        <mark key="[" line="108" column="25" />
+        <mark key="]" line="108" column="34" />
+        <mark key="." line="108" column="34" />
+        <mark key="^" line="108" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1563359693048">
         <mark key="'" line="340" column="0" />
@@ -164,48 +164,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bettable</text>
+        <text>sport_id</text>
       </register>
       <register name="-" type="4">
-        <text>bettable</text>
+        <text>sport_id</text>
       </register>
       <register name="/" type="4">
         <text>last_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0CiAgICAgICBiLkJPT0tNQUtFUklEICAgIGFzIGJvb2ttYWtlcl9pZCwKICAgICAgIGIuRElTUExBWU5BTUUgICAgYXMgYm9va21ha2VyX25hbWUsCiAgICAgICBzLlNQT1JUTkFNRSAgICAgIGFzIHNwb3J0LAogICAgICAgcmMuREVTQ1JJUFRJT04gICBhcyBjYXRlZ29yeSwKICAgICAgIHQuVE9VUk5BTUVOVE5BTUUgYXMgdG91cm5hbWVudCwKICAgICAgIG0uTUFUQ0hJRCAgICAgICAgYXMgbWF0Y2hfaWQsCiAgICAgICBHQU1FU1RBUlQgICAgICAgIGFzIG1hdGNoX3N0YXJ0LAogICAgICAgaG9tZS5UZWFtaWQgICAgICBhcyBob21lX2lkLAogICAgICAgaG9tZS5UZWFtTmFtZSAgICBhcyBob21lX25hbWUsCiAgICAgICBob21lLlRlYW1pZCAgICAgIGFzIGF3YXlfaWQsCiAgICAgICBob21lLlRlYW1OYW1lICAgIGFzIGF3YXlfbmFtZSwK</text>
+        <text encoding="base64">c2V0IEBzcG9ydF9pZCA9IDE7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0IGIuQk9PS01BS0VSSUQsCiAgICAgICBiLkRJU1BMQVlOQU1FLAogICAgICAgcy5TUE9SVE5BTUUsCiAgICAgICBERVNDUklQVElPTiwKICAgICAgIFRPVVJOQU1FTlROQU1FLAogICAgICAgbS5NQVRDSElELAogICAgICAgR0FNRVNUQVJULAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAo=</text>
+      <register name="1" type="8">
+        <text>bet
+bet
+bet
+bet
+bet
+bet</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c2VsZWN0IGIuQk9PS01BS0VSSUQsCiAgICAgICBiLkRJU1BMQVlOQU1FLAogICAgICAgcy5TUE9SVE5BTUUsCiAgICAgICBERVNDUklQVElPTiwKICAgICAgIFRPVVJOQU1FTlROQU1FLAogICAgICAgbS5NQVRDSElELAogICAgICAgR0FNRVNUQVJULAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">c2VsZWN0IGIuQk9PS01BS0VSSUQsCiAgICAgICBiLkRJU1BMQVlOQU1FLAogICAgICAgcy5TUE9SVE5BTUUsCiAgICAgICBERVNDUklQVElPTiwKICAgICAgIFRPVVJOQU1FTlROQU1FLAogICAgICAgbS5NQVRDSElELAogICAgICAgR0FNRVNUQVJULAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAogICAgICAgaG9tZS5UZWFtaWQsCiAgICAgICBob21lLlRlYW1OYW1lLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>odds
 odds
 odds</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIGMuCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgIG9kZHMuCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>c
        join</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="8">
-        <text>bet
-bet
-bet</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xhc3RfLy9n</text>
