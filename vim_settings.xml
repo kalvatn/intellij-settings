@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1563370474749">
-        <mark key="'" line="1288" column="27" />
-        <mark key="[" line="1293" column="0" />
-        <mark key="]" line="1275" column="19" />
-        <mark key="." line="1275" column="19" />
-        <mark key="^" line="1275" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1563441674949">
+        <mark key="'" line="1292" column="0" />
+        <mark key="[" line="1297" column="83" />
+        <mark key="]" line="1292" column="0" />
+        <mark key="." line="1292" column="0" />
+        <mark key="^" line="1292" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563370341641">
         <mark key="[" line="0" column="0" />
@@ -44,7 +44,7 @@
         <mark key="^" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1563385582557">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1563441670082">
         <mark key="'" line="94" column="22" />
         <mark key="[" line="108" column="25" />
         <mark key="]" line="108" column="34" />
@@ -179,6 +179,7 @@
       <jump line="55" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" />
       <jump line="89" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" />
       <jump line="1288" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="1292" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
