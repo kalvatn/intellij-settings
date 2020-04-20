@@ -201,12 +201,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_1.sql" timestamp="1587385884948">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_1.sql" timestamp="1587387484561">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="60" />
-        <mark key="]" line="43" column="60" />
-        <mark key="^" line="42" column="21" />
-        <mark key="." line="43" column="60" />
+        <mark key="[" line="43" column="101" />
+        <mark key="]" line="43" column="71" />
+        <mark key="^" line="43" column="71" />
+        <mark key="." line="43" column="70" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1583833069933">
         <mark key="[" line="0" column="14" />
@@ -327,7 +327,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1,7,110,164,1010,1011,1012,1013,1014,1015,1035,1036,1039,1042,1043,1044,1047,1423,1424,1426,1429,1430,1431,1432,1433,1434,1435,1436,1437,1438,1440,1441,1442,1445,1447,1449,1450,1451,1452,1455,1458,1459,1740,1763,1764,1767,1831,1921,2185,2186,2191</text>
+        <text>36, 35</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -413,7 +413,7 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>1,7,110,164,1010,1011,1012,1013,1014,1015,1035,1036,1039,1042,1043,1044,1047,1423,1424,1426,1429,1430,1431,1432,1433,1434,1435,1436,1437,1438,1440,1441,1442,1445,1447,1449,1450,1451,1452,1455,1458,1459,1740,1763,1764,1767,1831,1921,2185,2186,2191</text>
+        <text>36, 35</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
