@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>74</entry>
         <entry>7792</entry>
         <entry encoding="base64">IC4q</entry>
         <entry>18639754</entry>
@@ -25,11 +24,11 @@
         <entry>^</entry>
         <entry>$</entry>
         <entry>.*INSERT</entry>
+        <entry>,.*</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIi9n</entry>
         <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
-        <entry encoding="base64">JzwsJz5zLywuKi8sL2c=</entry>
         <entry encoding="base64">JzwsJz5zLygvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvLCMvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyAuKi8vZw==</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JzwsJz5zLyQvLCAxLCBOT1coKSwgbnVsbCks</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry encoding="base64">JzwsJz5zLy4qSU5TRVJUL0lOU0VSVC9n</entry>
+        <entry encoding="base64">JzwsJz5zLywuKi8sL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -198,12 +198,12 @@
         <mark key="^" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1587634976434">
-        <mark key="'" line="147" column="6" />
-        <mark key="[" line="177" column="3" />
-        <mark key="]" line="177" column="4" />
-        <mark key="." line="177" column="3" />
-        <mark key="^" line="177" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1587635062656">
+        <mark key="'" line="204" column="0" />
+        <mark key="[" line="180" column="26" />
+        <mark key="]" line="181" column="26" />
+        <mark key="." line="181" column="25" />
+        <mark key="^" line="181" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_1.sql" timestamp="1587388225123">
         <mark key="'" line="51" column="133" />
@@ -226,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1528" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1549" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="179" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="184" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -326,6 +325,7 @@
       <jump line="67" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="93" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="63" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="197" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -420,7 +420,7 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text>donot</text>
       </register>
       <register name="/" type="4">
-        <text>.*INSERT</text>
+        <text>,.*</text>
       </register>
       <register name="0" type="2">
         <text>select * from livescore_eventtype et where et.eventtype in (1,7,110,164,1010,1011,1012,1013,1014,1015,1035,1036,1039,1042,1043,1044,1047,1423,1424,1426,1429,1430,1431,1432,1433,1434,1435,1436,1437,1438,1440,1441,1442,1445,1447,1449,1450,1451,1452,1455,1458,1459,1740,1763,1764,1767,1831,1921,2185,2186,2191)</text>
@@ -453,17 +453,17 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text encoding="base64">YW5kIGUuaWQgPSAyMzE5NjY5NDU3ZAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLy4qSU5TRVJUL0lOU0VSVC9n</text>
+        <text encoding="base64">JzwsJz5zLywuKi8sL2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>.*INSERT</last-search>
+      <last-search>,.*</last-search>
       <last-offset />
-      <last-pattern>.*INSERT</last-pattern>
-      <last-replace>INSERT</last-replace>
-      <last-substitute>.*INSERT</last-substitute>
+      <last-pattern>,.*</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute>,.*</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
