@@ -162,11 +162,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_1.sql" timestamp="1587658537656">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_3.sql" timestamp="1587995213054">
-        <mark key="[" line="76" column="26" />
-        <mark key="]" line="76" column="26" />
-        <mark key="." line="76" column="25" />
-        <mark key="^" line="76" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_3.sql" timestamp="1587997682202">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="26" />
+        <mark key="^" line="59" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1579706049233">
         <mark key="[" line="27" column="19" />
@@ -331,8 +331,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1423</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIGV0Lgo=</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -427,45 +427,25 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wX2JhY2t1cCBlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGV0Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgMQphbmQgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxNDQ1Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzY291dF9ldmVudCBlIHdoZXJlIA==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAxNDYxLAogICAgICAgICAgICAgICAgICAgICAgIDE3NjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTc2NCwKICAgICAgICAgICAgICAgICAgICAgICAyMTg1LAogICAgICAgICAgICAgICAgICAgICAgIDIxODYsCiAgICAgICAgICAgICAgICAgICAgICAgMTc2NywKICAgICAgICAgICAgICAgICAgICAgICAxNDI5LAogICAgICAgICAgICAgICAgICAgICAgIDE0MzAsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMSwKICAgICAgICAgICAgICAgICAgICAgICAxNDQxLAogICAgICAgICAgICAgICAgICAgICAgIDE0NDIsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzNSwKICAgICAgICAgICAgICAgICAgICAgICAyMTkxLAogICAgICAgICAgICAgICAgICAgICAgIDE0MzIsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMywKICAgICAgICAgICAgICAgICAgICAgICAxNDQ1LAogICAgICAgICAgICAgICAgICAgICAgIDE0MjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTQyNiwKICAgICAgICAgICAgICAgICAgICAgICAxNDQ0LAogICAgICAgICAgICAgICAgICAgICAgIDE0NTcsCiAgICAgICAgICAgICAgICAgICAgICAgMTQ0MAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">d2hlcmUgMQphbmQgCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>&quot;|&quot;Rule set American Football&quot;|&quot;RuleSet&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Kickoff mode started&quot;|&quot;Drive information&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Kickoff mode ended&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Drive Start&quot;|&quot;Team&quot;|&quot;Current Drive Number&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Drive Over&quot;|&quot;Team&quot;|&quot;Current Drive Number&quot;|&quot;Total Play Count&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Drive information changed&quot;|&quot;Drive information&quot;|&quot;Current drive number&quot;|&quot;Current play number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Interception&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Play start&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;Current Play Number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Play over&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;Current Play Number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Rush&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Sack&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Penalty American Football&quot;|&quot;Team (1=home, 2=away, -1=none)&quot;|&quot;Drive Info&quot;|&quot;Penalty decision&quot;|&quot;No-play (0=No, 1=Yes)&quot;|&quot;&quot;|
-&quot;|&quot;New first down&quot;|&quot;Result (-1 = Undefined, 0 = No, 2 = Yes)&quot;|&quot;Drive number&quot;|&quot;Play number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Punt result&quot;|&quot;Team&quot;|&quot;Outcome&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Challenge&quot;|&quot;Team&quot;|&quot;Outcome&quot;|&quot;Drive&quot;|&quot;Corrected score&quot;|&quot;&quot;|
-&quot;|&quot;Kickoff American Football&quot;|&quot;Team&quot;|&quot;Period&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Extra point&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Field goal result&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|
-&quot;|&quot;Touchdown&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;touchdown type&quot;|
-&quot;|&quot;2 point conversion&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Pass&quot;|&quot;Team&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxNDQ1Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzY291dF9ldmVudCBlIHdoZXJlIA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAxNDYxLAogICAgICAgICAgICAgICAgICAgICAgIDE3NjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTc2NCwKICAgICAgICAgICAgICAgICAgICAgICAyMTg1LAogICAgICAgICAgICAgICAgICAgICAgIDIxODYsCiAgICAgICAgICAgICAgICAgICAgICAgMTc2NywKICAgICAgICAgICAgICAgICAgICAgICAxNDI5LAogICAgICAgICAgICAgICAgICAgICAgIDE0MzAsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMSwKICAgICAgICAgICAgICAgICAgICAgICAxNDQxLAogICAgICAgICAgICAgICAgICAgICAgIDE0NDIsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzNSwKICAgICAgICAgICAgICAgICAgICAgICAyMTkxLAogICAgICAgICAgICAgICAgICAgICAgIDE0MzIsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMywKICAgICAgICAgICAgICAgICAgICAgICAxNDQ1LAogICAgICAgICAgICAgICAgICAgICAgIDE0MjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTQyNiwKICAgICAgICAgICAgICAgICAgICAgICAxNDQ0LAogICAgICAgICAgICAgICAgICAgICAgIDE0NTcsCiAgICAgICAgICAgICAgICAgICAgICAgMTQ0MAo=</text>
       </register>
       <register name="8" type="8">
         <text>&quot;|&quot;Rule set American Football&quot;|&quot;RuleSet&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
@@ -491,7 +471,27 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 &quot;|&quot;Pass&quot;|&quot;Team&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">ICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCI=</text>
+        <text>&quot;|&quot;Rule set American Football&quot;|&quot;RuleSet&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Kickoff mode started&quot;|&quot;Drive information&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Kickoff mode ended&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Drive Start&quot;|&quot;Team&quot;|&quot;Current Drive Number&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Drive Over&quot;|&quot;Team&quot;|&quot;Current Drive Number&quot;|&quot;Total Play Count&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Drive information changed&quot;|&quot;Drive information&quot;|&quot;Current drive number&quot;|&quot;Current play number&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Interception&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Play start&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;Current Play Number&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Play over&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;Current Play Number&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Rush&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Sack&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Penalty American Football&quot;|&quot;Team (1=home, 2=away, -1=none)&quot;|&quot;Drive Info&quot;|&quot;Penalty decision&quot;|&quot;No-play (0=No, 1=Yes)&quot;|&quot;&quot;|
+&quot;|&quot;New first down&quot;|&quot;Result (-1 = Undefined, 0 = No, 2 = Yes)&quot;|&quot;Drive number&quot;|&quot;Play number&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Punt result&quot;|&quot;Team&quot;|&quot;Outcome&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Challenge&quot;|&quot;Team&quot;|&quot;Outcome&quot;|&quot;Drive&quot;|&quot;Corrected score&quot;|&quot;&quot;|
+&quot;|&quot;Kickoff American Football&quot;|&quot;Team&quot;|&quot;Period&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Extra point&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Field goal result&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|
+&quot;|&quot;Touchdown&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;touchdown type&quot;|
+&quot;|&quot;2 point conversion&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
+&quot;|&quot;Pass&quot;|&quot;Team&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywuKi8sL2c=</text>
