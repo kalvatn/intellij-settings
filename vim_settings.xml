@@ -162,11 +162,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_1.sql" timestamp="1587658537656">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_3.sql" timestamp="1587658740087">
-        <mark key="[" line="40" column="61" />
-        <mark key="]" line="40" column="61" />
-        <mark key="." line="40" column="61" />
-        <mark key="^" line="39" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_3.sql" timestamp="1587994233102">
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="51" column="28" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1579706049233">
         <mark key="[" line="27" column="19" />
@@ -186,12 +186,12 @@
         <mark key="]" line="21" column="124" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/kotlin_development.sql" timestamp="1587988959007">
-        <mark key="'" line="120" column="2" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="46" column="56" />
-        <mark key="^" line="123" column="4" />
-        <mark key="." line="46" column="56" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/kotlin_development.sql" timestamp="1587994091975">
+        <mark key="'" line="122" column="2" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="170" column="1" />
+        <mark key="^" line="166" column="43" />
+        <mark key="." line="166" column="42" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5/console.sql" timestamp="1579521245094">
         <mark key="[" line="16" column="62" />
@@ -199,12 +199,12 @@
         <mark key="^" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1587654598382">
-        <mark key="'" line="223" column="0" />
-        <mark key="[" line="224" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1587993970953">
+        <mark key="'" line="222" column="0" />
+        <mark key="[" line="178" column="20" />
         <mark key="]" line="178" column="24" />
         <mark key="^" line="178" column="24" />
-        <mark key="." line="178" column="32" />
+        <mark key="." line="178" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_1.sql" timestamp="1587388225123">
         <mark key="'" line="51" column="133" />
@@ -331,8 +331,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>, '(x)' as livescore_done</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IGxtLm1hdGNoaWQsIGxtLmRhdGVvZm1hdGNoLCBlLioKZnJvbSBsaXZlc2NvcmVfbWF0Y2ggbG0Kam9pbiBzY291dF9tYXRjaCBzbSBvbiBzbS5ndXRobWF0Y2hpZCA9IGxtLm1hdGNoaWQKam9pbiBzY291dF9ldmVudCBlIG9uIGUubWF0Y2hpZCA9IHNtLmd1dGhtYXRjaGlkCndoZXJlIGxtLnNwb3J0aWQgPSAxNgoKICBhbmQgbG0uZGF0ZW9mbWF0Y2ggPj0gTk9XKCkgLSBpbnRlcnZhbCAxMiBtb250aAogIGFuZCBsbS5zdGFydGVkID0gMQogIGFuZCBsbS5lbmRlZCA9IDEKb3JkZXIgYnkgbG0uZGF0ZW9mbWF0Y2ggZGVzYwo7Cg==</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -424,38 +424,24 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text>,.*</text>
       </register>
       <register name="0" type="2">
-        <text>select et.eventtype, et.name, '(x)' as scout_import_done, '(x)' as livescore_done from livescore_eventtype et
-where et.eventtype in (
-1461,
-1763,
-1764,
-2185,
-2186,
-1767,
-1429,
-1430,
-1431,
-1441,
-1442,
-1435,
-2191,
-1432,
-1433,
-1445,
-1423,
-1426,
-1444,
-1457,
-1440
-  )</text>
+        <text encoding="base64">c2VsZWN0IGxtLm1hdGNoaWQsIGxtLmRhdGVvZm1hdGNoLCBlLioKZnJvbSBsaXZlc2NvcmVfbWF0Y2ggbG0Kam9pbiBzY291dF9tYXRjaCBzbSBvbiBzbS5ndXRobWF0Y2hpZCA9IGxtLm1hdGNoaWQKam9pbiBzY291dF9ldmVudCBlIG9uIGUubWF0Y2hpZCA9IHNtLmd1dGhtYXRjaGlkCndoZXJlIGxtLnNwb3J0aWQgPSAxNgoKICBhbmQgbG0uZGF0ZW9mbWF0Y2ggPj0gTk9XKCkgLSBpbnRlcnZhbCAxMiBtb250aAogIGFuZCBsbS5zdGFydGVkID0gMQogIGFuZCBsbS5lbmRlZCA9IDEKb3JkZXIgYnkgbG0uZGF0ZW9mbWF0Y2ggZGVzYwo7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgMQphbmQgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxNDQ1Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzY291dF9ldmVudCBlIHdoZXJlIA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAxNDYxLAogICAgICAgICAgICAgICAgICAgICAgIDE3NjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTc2NCwKICAgICAgICAgICAgICAgICAgICAgICAyMTg1LAogICAgICAgICAgICAgICAgICAgICAgIDIxODYsCiAgICAgICAgICAgICAgICAgICAgICAgMTc2NywKICAgICAgICAgICAgICAgICAgICAgICAxNDI5LAogICAgICAgICAgICAgICAgICAgICAgIDE0MzAsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMSwKICAgICAgICAgICAgICAgICAgICAgICAxNDQxLAogICAgICAgICAgICAgICAgICAgICAgIDE0NDIsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzNSwKICAgICAgICAgICAgICAgICAgICAgICAyMTkxLAogICAgICAgICAgICAgICAgICAgICAgIDE0MzIsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMywKICAgICAgICAgICAgICAgICAgICAgICAxNDQ1LAogICAgICAgICAgICAgICAgICAgICAgIDE0MjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTQyNiwKICAgICAgICAgICAgICAgICAgICAgICAxNDQ0LAogICAgICAgICAgICAgICAgICAgICAgIDE0NTcsCiAgICAgICAgICAgICAgICAgICAgICAgMTQ0MAo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>&quot;|&quot;Rule set American Football&quot;|&quot;RuleSet&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
 &quot;|&quot;Kickoff mode started&quot;|&quot;Drive information&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
 &quot;|&quot;Kickoff mode ended&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
@@ -478,7 +464,7 @@ where et.eventtype in (
 &quot;|&quot;2 point conversion&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
 &quot;|&quot;Pass&quot;|&quot;Team&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>&quot;|&quot;Rule set American Football&quot;|&quot;RuleSet&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
 &quot;|&quot;Kickoff mode started&quot;|&quot;Drive information&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
 &quot;|&quot;Kickoff mode ended&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
@@ -501,23 +487,11 @@ where et.eventtype in (
 &quot;|&quot;2 point conversion&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
 &quot;|&quot;Pass&quot;|&quot;Team&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCIKICB8IgogIHwiCiAgfCI=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB8aWR8fG5hbWV8fHAxfHxwMnx8cDN8fHA0fHxwNXwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">b3JkZXIgYnkgZS5ldmVudGRhdGUgZGVzYwpsaW1pdCAxMDAK</text>
-      </register>
-      <register name="8" type="4">
-        <text>432,
-                    1435,
-                    1767,
-                    2191</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxNDU3LAo=</text>
+        <text encoding="base64">ICB8aWR8fG5hbWV8fHAxfHxwMnx8cDN8fHA0fHxwNXwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywuKi8sL2c=</text>
