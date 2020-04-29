@@ -22,9 +22,9 @@
         <entry>insert into livescore_auto</entry>
         <entry>,</entry>
         <entry>^</entry>
-        <entry>$</entry>
         <entry>.*INSERT</entry>
         <entry>,.*</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vIi9n</entry>
@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz5zLywvXHIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL14vKC9n</entry>
         <entry encoding="base64">JzwsJz5zLyQvLCAxLCBOT1coKSwgbnVsbCks</entry>
-        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry encoding="base64">JzwsJz5zLy4qSU5TRVJUL0lOU0VSVC9n</entry>
         <entry encoding="base64">JzwsJz5zLywuKi8sL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -199,12 +199,12 @@
         <mark key="^" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1587993970953">
-        <mark key="'" line="222" column="0" />
-        <mark key="[" line="178" column="20" />
-        <mark key="]" line="178" column="24" />
-        <mark key="^" line="178" column="24" />
-        <mark key="." line="178" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1588160078509">
+        <mark key="'" line="219" column="0" />
+        <mark key="[" line="260" column="8" />
+        <mark key="]" line="260" column="14" />
+        <mark key="^" line="260" column="14" />
+        <mark key="." line="260" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_1.sql" timestamp="1587388225123">
         <mark key="'" line="51" column="133" />
@@ -213,7 +213,7 @@
         <mark key="^" line="51" column="134" />
         <mark key="." line="51" column="133" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587460291750">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1588159829103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="80" />
         <mark key="." line="0" column="0" />
@@ -227,10 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="749" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="844" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="851" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="867" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1091" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1167" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -327,12 +323,16 @@
       <jump line="94" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="73" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/kotlin_development.sql" />
       <jump line="120" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/kotlin_development.sql" />
+      <jump line="164" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="228" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="210" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="219" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>61</text>
+        <text>eventtype</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -418,93 +418,53 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>61</text>
+        <text>eventtype</text>
       </register>
       <register name="/" type="4">
-        <text>,.*</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wX2JhY2t1cCBlCg==</text>
+        <text encoding="base64">ICBhbmQgZXQuZXZlbnR0eXBlIGluICgKICAgICAgICAgICAgICAgICAgICAgICAxNDQwLAogICAgICAgICAgICAgICAgICAgICAgIDE0NDEsCiAgICAgICAgICAgICAgICAgICAgICAgMTQ0MiwKICAgICAgICAgICAgICAgICAgICAgICAxNDIxLAogICAgICAgICAgICAgICAgICAgICAgIDE0NTcsCiAgICAgICAgICAgICAgICAgICAgICAgMTQyMywKICAgICAgICAgICAgICAgICAgICAgICAxNDQ0LAogICAgICAgICAgICAgICAgICAgICAgIDE0MjksCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMwogICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGV0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgMQphbmQgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxNDQ1Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzY291dF9ldmVudCBlIHdoZXJlIA==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CnNlbGVjdCAqCmZyb20gc3lzdGVtc2V0dGluZ3Mgcwp3aGVyZSBzLkRFU0NSSVBUSU9OIGxpa2UgIiVzY291dCUiCjsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CgpzaG93IGZ1bGwgY29sdW1ucyBmcm9tIGxpdmVzY29yZV9hdXRvcnVsZV90eXBlCjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2VsZWN0IGV0LmV2ZW50dHlwZSAgYXMgaWQsCiAgICAgICBldC5uYW1lICAgICAgIGFzIGBuYW1lYCwKICAgICAgIGV0LnBhcmFtMWRlc2MgYXMgcDEsCiAgICAgICBldC5wYXJhbTJkZXNjIGFzIHAyLAogICAgICAgZXQucGFyYW0zZGVzYyBhcyBwMywKICAgICAgIGV0LnBhcmFtNGRlc2MgYXMgcDQsCiAgICAgICBldC5wYXJhbTVkZXNjIGFzIHA1CmZyb20gbGl2ZXNjb3JlX2V2ZW50dHlwZSBldAp3aGVyZSBldC5ldmVudHR5cGUgaW4gKAogICAgICAgICAgICAgICAgICAgICAgIDE0MjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTQyNiwKICAgICAgICAgICAgICAgICAgICAgICAxNDI5LAogICAgICAgICAgICAgICAgICAgICAgIDE0MzAsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMSwKICAgICAgICAgICAgICAgICAgICAgICAxNDMyLAogICAgICAgICAgICAgICAgICAgICAgIDE0MzMsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzNSwKICAgICAgICAgICAgICAgICAgICAgICAxNDQwLAogICAgICAgICAgICAgICAgICAgICAgIDE0NDEsCiAgICAgICAgICAgICAgICAgICAgICAgMTQ0MiwKICAgICAgICAgICAgICAgICAgICAgICAxNDQ0LAogICAgICAgICAgICAgICAgICAgICAgIDE0NDUsCiAgICAgICAgICAgICAgICAgICAgICAgMTQ1NywKICAgICAgICAgICAgICAgICAgICAgICAxNDYxLAogICAgICAgICAgICAgICAgICAgICAgIDE3NjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTc2NCwKICAgICAgICAgICAgICAgICAgICAgICAxNzY3LAogICAgICAgICAgICAgICAgICAgICAgIDIxODUsCiAgICAgICAgICAgICAgICAgICAgICAgMjE4NiwKICAgICAgICAgICAgICAgICAgICAgICAyMTkxCiAgKTsKCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAxNDYxLAogICAgICAgICAgICAgICAgICAgICAgIDE3NjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTc2NCwKICAgICAgICAgICAgICAgICAgICAgICAyMTg1LAogICAgICAgICAgICAgICAgICAgICAgIDIxODYsCiAgICAgICAgICAgICAgICAgICAgICAgMTc2NywKICAgICAgICAgICAgICAgICAgICAgICAxNDI5LAogICAgICAgICAgICAgICAgICAgICAgIDE0MzAsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMSwKICAgICAgICAgICAgICAgICAgICAgICAxNDQxLAogICAgICAgICAgICAgICAgICAgICAgIDE0NDIsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzNSwKICAgICAgICAgICAgICAgICAgICAgICAyMTkxLAogICAgICAgICAgICAgICAgICAgICAgIDE0MzIsCiAgICAgICAgICAgICAgICAgICAgICAgMTQzMywKICAgICAgICAgICAgICAgICAgICAgICAxNDQ1LAogICAgICAgICAgICAgICAgICAgICAgIDE0MjMsCiAgICAgICAgICAgICAgICAgICAgICAgMTQyNiwKICAgICAgICAgICAgICAgICAgICAgICAxNDQ0LAogICAgICAgICAgICAgICAgICAgICAgIDE0NTcsCiAgICAgICAgICAgICAgICAgICAgICAgMTQ0MAo=</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSBsaXZlc2NvcmVfYXV0b3J1bGUgcgpXSEVSRSByLnJ1bGVpZCA9IDI5Owo=</text>
       </register>
-      <register name="8" type="8">
-        <text>&quot;|&quot;Rule set American Football&quot;|&quot;RuleSet&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Kickoff mode started&quot;|&quot;Drive information&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Kickoff mode ended&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Drive Start&quot;|&quot;Team&quot;|&quot;Current Drive Number&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Drive Over&quot;|&quot;Team&quot;|&quot;Current Drive Number&quot;|&quot;Total Play Count&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Drive information changed&quot;|&quot;Drive information&quot;|&quot;Current drive number&quot;|&quot;Current play number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Interception&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Play start&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;Current Play Number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Play over&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;Current Play Number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Rush&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Sack&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Penalty American Football&quot;|&quot;Team (1=home, 2=away, -1=none)&quot;|&quot;Drive Info&quot;|&quot;Penalty decision&quot;|&quot;No-play (0=No, 1=Yes)&quot;|&quot;&quot;|
-&quot;|&quot;New first down&quot;|&quot;Result (-1 = Undefined, 0 = No, 2 = Yes)&quot;|&quot;Drive number&quot;|&quot;Play number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Punt result&quot;|&quot;Team&quot;|&quot;Outcome&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Challenge&quot;|&quot;Team&quot;|&quot;Outcome&quot;|&quot;Drive&quot;|&quot;Corrected score&quot;|&quot;&quot;|
-&quot;|&quot;Kickoff American Football&quot;|&quot;Team&quot;|&quot;Period&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Extra point&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Field goal result&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|
-&quot;|&quot;Touchdown&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;touchdown type&quot;|
-&quot;|&quot;2 point conversion&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Pass&quot;|&quot;Team&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="8">
-        <text>&quot;|&quot;Rule set American Football&quot;|&quot;RuleSet&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Kickoff mode started&quot;|&quot;Drive information&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Kickoff mode ended&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Drive Start&quot;|&quot;Team&quot;|&quot;Current Drive Number&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Drive Over&quot;|&quot;Team&quot;|&quot;Current Drive Number&quot;|&quot;Total Play Count&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Drive information changed&quot;|&quot;Drive information&quot;|&quot;Current drive number&quot;|&quot;Current play number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Interception&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Play start&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;Current Play Number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Play over&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;Current Play Number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Rush&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Sack&quot;|&quot;Team&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Penalty American Football&quot;|&quot;Team (1=home, 2=away, -1=none)&quot;|&quot;Drive Info&quot;|&quot;Penalty decision&quot;|&quot;No-play (0=No, 1=Yes)&quot;|&quot;&quot;|
-&quot;|&quot;New first down&quot;|&quot;Result (-1 = Undefined, 0 = No, 2 = Yes)&quot;|&quot;Drive number&quot;|&quot;Play number&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Punt result&quot;|&quot;Team&quot;|&quot;Outcome&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Challenge&quot;|&quot;Team&quot;|&quot;Outcome&quot;|&quot;Drive&quot;|&quot;Corrected score&quot;|&quot;&quot;|
-&quot;|&quot;Kickoff American Football&quot;|&quot;Team&quot;|&quot;Period&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Extra point&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Field goal result&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|
-&quot;|&quot;Touchdown&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;touchdown type&quot;|
-&quot;|&quot;2 point conversion&quot;|&quot;Team&quot;|&quot;Points&quot;|&quot;&quot;|&quot;&quot;|&quot;&quot;|
-&quot;|&quot;Pass&quot;|&quot;Team&quot;|&quot;Type&quot;|&quot;Drive&quot;|&quot;&quot;|&quot;&quot;|</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIDsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLywuKi8sL2c=</text>
+        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>,.*</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>,.*</last-pattern>
+      <last-pattern>$</last-pattern>
       <last-replace>,</last-replace>
-      <last-substitute>,.*</last-substitute>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
