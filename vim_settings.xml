@@ -107,12 +107,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1588763592187">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="208" column="54" />
-        <mark key="]" line="208" column="54" />
-        <mark key="." line="208" column="54" />
-        <mark key="^" line="208" column="59" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1588764811096">
+        <mark key="'" line="205" column="27" />
+        <mark key="[" line="219" column="24" />
+        <mark key="]" line="219" column="32" />
+        <mark key="." line="219" column="31" />
+        <mark key="^" line="219" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1587658528409">
         <mark key="[" line="0" column="0" />
@@ -162,10 +162,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_1.sql" timestamp="1587658537656">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_3.sql" timestamp="1588763558291">
-        <mark key="[" line="95" column="33" />
-        <mark key="]" line="95" column="66" />
-        <mark key="." line="95" column="65" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_3.sql" timestamp="1588764347846">
+        <mark key="[" line="95" column="61" />
+        <mark key="]" line="95" column="61" />
+        <mark key="." line="95" column="61" />
         <mark key="^" line="95" column="66" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42e07c43-1a07-485c-82ac-c8e33cc4d514/console.sql" timestamp="1579706049233">
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="1630" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1615" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="33" column="66" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
@@ -327,12 +326,13 @@
       <jump line="417" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="44" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="205" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>20191503</text>
+        <text>monitoring</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -418,7 +418,7 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>20191503</text>
+        <text>monitoring</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
