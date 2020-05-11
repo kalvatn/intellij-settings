@@ -107,12 +107,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1588782225540">
-        <mark key="'" line="243" column="28" />
-        <mark key="[" line="252" column="18" />
-        <mark key="]" line="245" column="41" />
-        <mark key="." line="245" column="40" />
-        <mark key="^" line="245" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1589188194254">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="259" column="28" />
+        <mark key="]" line="263" column="76" />
+        <mark key="." line="263" column="75" />
+        <mark key="^" line="263" column="76" />
       </file>
       <file name="/Dummy.txt" timestamp="1587658528409">
         <mark key="[" line="0" column="0" />
@@ -199,8 +199,8 @@
         <mark key="^" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1588858277588">
-        <mark key="'" line="93" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1589188171436">
+        <mark key="'" line="44" column="0" />
         <mark key="[" line="36" column="27" />
         <mark key="]" line="36" column="31" />
         <mark key="." line="36" column="30" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1620" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="27" column="64" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1639" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1649" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -319,7 +318,6 @@
       <jump line="117" column="69" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="139" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="417" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
-      <jump line="44" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="205" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="479" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
@@ -327,6 +325,8 @@
       <jump line="243" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="474" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="91" column="43" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="65" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
