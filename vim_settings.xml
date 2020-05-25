@@ -199,12 +199,12 @@
         <mark key="^" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1589996526493">
-        <mark key="'" line="372" column="0" />
-        <mark key="[" line="342" column="18" />
-        <mark key="]" line="342" column="18" />
-        <mark key="." line="342" column="18" />
-        <mark key="^" line="366" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1590408194368">
+        <mark key="'" line="121" column="18" />
+        <mark key="[" line="87" column="15" />
+        <mark key="]" line="87" column="15" />
+        <mark key="." line="87" column="15" />
+        <mark key="^" line="117" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_1.sql" timestamp="1587388225123">
         <mark key="'" line="51" column="133" />
@@ -213,9 +213,9 @@
         <mark key="^" line="51" column="134" />
         <mark key="." line="51" column="133" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589996876664">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1590407378029">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
@@ -228,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="76" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="71" column="190" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="68" column="73" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="164" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -328,12 +327,13 @@
       <jump line="351" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="17" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="372" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="115" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>21794705</text>
+        <text>21793225</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -419,40 +419,40 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>21794705</text>
+        <text>21793225</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhbmQgbG0ubWF0Y2hpZCA9IDIxNzk1MDczICMgU29jY2VyLktvcmVhIFJlcHVibGljLkstTGVhZ3VlIDEK</text>
+        <text encoding="base64">IyBhZnRlciBTTC01NTEsIFNMLTU1NApzZXQgQG1hdGNoaWQgPSAyMTc5MzIyMzsgIyBwcm9kIDE4MDAxNDI3CnNldCBAbWF0Y2hpZCA9IDIxNzkzMjI0OyAjIHByb2QgMTgwMDE1NzcKc2V0IEBtYXRjaGlkID0gMjE3OTMyMjU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2cK</text>
+        <text encoding="base64">ICAgICAgIGxlcC5udW1iZXIK</text>
       </register>
       <register name="2" type="2">
-        <text>4.0.37-FF-2309-SNAPSHOT</text>
+        <text encoding="base64">Z2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGUuc2NvdXRldmVudGlkLAo=</text>
+        <text>4.0.37-FF-2309-SNAPSHOT</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGUucGFyYW00LAogICAgICAgZS5wYXJhbTUsCiAgICAgICBlLnRleHQsCg==</text>
+        <text encoding="base64">ICAgICAgIGUuc2NvdXRldmVudGlkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wX2NoYW5nZSBjIHdoZXJlIGMuCg==</text>
+        <text encoding="base64">ICAgICAgIGUucGFyYW00LAogICAgICAgZS5wYXJhbTUsCiAgICAgICBlLnRleHQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIAo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wX2NoYW5nZSBjIHdoZXJlIGMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpzZWxlYwoKCnNlbGVjCgpzZWxlYw==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">am9pbiBsaXZlc2NvcmVfZXZlbnR0eXBlIGV0IG9uIGV0Lgo=</text>
+        <text encoding="base64">CgpzZWxlYwoKCnNlbGVjCgpzZWxlYw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBDVVJSRU5UIFBFUklPRCBFVkVOVA==</text>
+        <text encoding="base64">am9pbiBsaXZlc2NvcmVfZXZlbnR0eXBlIGV0IG9uIGV0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
