@@ -199,12 +199,12 @@
         <mark key="^" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1591781953503">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1591783801064">
         <mark key="'" line="128" column="46" />
-        <mark key="[" line="115" column="7" />
-        <mark key="]" line="115" column="18" />
-        <mark key="." line="115" column="17" />
-        <mark key="^" line="115" column="18" />
+        <mark key="[" line="273" column="31" />
+        <mark key="]" line="273" column="31" />
+        <mark key="." line="273" column="30" />
+        <mark key="^" line="273" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_1.sql" timestamp="1587388225123">
         <mark key="'" line="51" column="133" />
@@ -332,8 +332,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1738</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmFuZCBzZS5tYXRjaGlkIGluICgKICAyMTc5NjAxOCwKICAyMTc5NjAxOSwKICAyMTc5NjAyMCwKICAyMTc5NjAyMSwKICAyMTc5NjAyMgopCg==</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -431,36 +431,36 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 21796021;
 21796022;</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">CmFuZCBzZS5tYXRjaGlkIGluICgKICAyMTc5NjAxOCwKICAyMTc5NjAxOSwKICAyMTc5NjAyMCwKICAyMTc5NjAyMSwKICAyMTc5NjAyMgopCg==</text>
+      </register>
+      <register name="2" type="8">
         <text>;
 ;
 ;
 ;
 ;</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">IyAgIGFuZCBzZS5tYXRjaGlkID0gQG1hdGNoaWQKIyAgIGFuZCByLnR5cGVpZCBpcyBub3QgbnVsbAojICAgYW5kIHNlLm1hdGNoaWQgaW4gKDIxNzk1MjA0LCAyMTc5NTIwNSwgMjE3OTUyMDYpCiMgYW5kIGxlLmlkID0gMTM1MzExNzE4OQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IyBhbmQgc2UuZXZlbnR0eXBlIGluICg0MCw0NSw1MCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">bG9kZXYgbWF0Y2hJZDogMjE3OTYwMTIsIDIxNzk2MDExCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">am9pbiBsaXZlc2NvcmVfZXZlbnR0eXBlIGV0IG9uIGV0LmV2ZW50dHlwZSA9IGUuZXZlbnR0eXBlCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">am8K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam9pbiBsaQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2V0IEBtYXRjaGlkID0gMjE3OTYwMTg7ICMgcHJvZCAxODAwMTM5Nwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB4bWxleHBvcgo=</text>
+        <text encoding="base64">c2V0IEBtYXRjaGlkID0gMjE3OTYwMTg7ICMgcHJvZCAxODAwMTM5Nwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3wvLCAjL2c=</text>
