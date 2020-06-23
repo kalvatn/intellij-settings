@@ -107,14 +107,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1591803114046">
-        <mark key="'" line="824" column="51" />
-        <mark key="[" line="826" column="0" />
-        <mark key="]" line="824" column="91" />
-        <mark key="." line="824" column="90" />
-        <mark key="^" line="824" column="91" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1592919697361">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="836" column="33" />
+        <mark key="]" line="836" column="40" />
+        <mark key="." line="836" column="39" />
+        <mark key="^" line="836" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591779280452">
+      <file name="/Dummy.txt" timestamp="1592919881022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e1039c38-5c9c-439b-92ae-732873bc4650/console.sql" timestamp="1582881425901">
@@ -152,8 +152,10 @@
         <mark key="^" line="53" column="54" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_2.sql" timestamp="1592918782905">
-        <mark key="[" line="7" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_2.sql" timestamp="1592918845045">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_1.sql" timestamp="1587658537656">
         <mark key="[" line="0" column="0" />
@@ -169,12 +171,6 @@
         <mark key="]" line="27" column="19" />
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1e8f85d-a26e-4fb3-b734-aa9101f39a7d/console_1.sql" timestamp="1576145526611">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_1.sql" timestamp="1580733284745">
         <mark key="'" line="100" column="39" />
@@ -201,6 +197,9 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1592919721881">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_1.sql" timestamp="1587388225123">
         <mark key="'" line="51" column="133" />
         <mark key="[" line="45" column="0" />
@@ -223,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="161" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="220" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="287" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -275,7 +273,6 @@
       <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="58" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="379" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="15" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="394" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="387" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="26" column="64" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -323,12 +320,74 @@
       <jump line="285" column="44" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="306" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="7" column="44" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_2.sql" />
+      <jump line="8" column="93" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_2.sql" />
+      <jump line="15" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>select * from livescore_event_top_data;</text>
+        <text>insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (1, 'football.field_goal.kicked_by', 'football.field_goal.kicked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (2, 'football.field_goal.blocked_by', 'football.field_goal.blocked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (3, 'football.field_goal.spotted_at', 'football.field_goal.spotted_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (4, 'football.fumble.fumbled_by', 'football.fumble.fumbled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (5, 'football.fumble.recovered_by', 'football.fumble.recovered_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (6, 'football.fumble.caused_by', 'football.fumble.caused_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (7, 'football.fumble.fumbled_at', 'football.fumble.fumbled_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (8, 'football.fumble.recovered_at', 'football.fumble.recovered_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (9, 'football.interception.passed_by', 'football.interception.passed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (10, 'football.interception.intercepted_by', 'football.interception.intercepted_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (11, 'football.interception.intended_receiver', 'football.interception.intended_receiver');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (12, 'football.interception.direction', 'football.interception.direction');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (13, 'football.interception.tackled_by', 'football.interception.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (14, 'football.interception.pushed_by', 'football.interception.pushed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (15, 'football.interception.thrown_to', 'football.interception.thrown_to');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (16, 'football.interception.defensed_by', 'football.interception.defensed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (17, 'football.punt.snapped_by', 'football.punt.snapped_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (18, 'football.punt.kicked_by', 'football.punt.kicked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (19, 'football.punt.tackled_by', 'football.punt.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (20, 'football.punt.yardline', 'football.punt.yardline');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (21, 'football.punt.received_by', 'football.punt.received_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (22, 'football.punt.tried_to_advance', 'football.punt.tried_to_advance');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (23, 'football.punt.caught_by', 'football.punt.caught_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (24, 'football.punt.downed_by', 'football.punt.downed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (25, 'football.punt.blocked_by', 'football.punt.blocked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (26, 'football.punt.total_yards_gained', 'football.punt.total_yards_gained');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (27, 'football.punt.muffed_by', 'football.punt.muffed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (28, 'football.penalty.penalty', 'football.penalty.penalty');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (29, 'football.penalty.placed_at', 'football.penalty.placed_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (30, 'football.penalty.reason', 'football.penalty.reason');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (31, 'football.pass.passed_by', 'football.pass.passed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (32, 'football.pass.received_by', 'football.pass.received_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (33, 'football.pass.intended_receiver', 'football.pass.intended_receiver');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (34, 'football.pass.direction', 'football.pass.direction');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (35, 'football.pass.thrown_to', 'football.pass.thrown_to');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (36, 'football.pass.tackled_by', 'football.pass.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (37, 'football.pass.pushed_by', 'football.pass.pushed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (38, 'football.pass.defensed_by', 'football.pass.defensed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (39, 'football.pass.yardline', 'football.pass.yardline');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (40, 'football.pass.total_yards_gained', 'football.pass.total_yards_gained');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (41, 'football.rush.direction', 'football.rush.direction');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (42, 'football.rush.rushed_by', 'football.rush.rushed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (43, 'football.rush.tackled_by', 'football.rush.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (44, 'football.rush.pushed_by', 'football.rush.pushed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (45, 'football.rush.total_yards_gained', 'football.rush.total_yards_gained');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (46, 'football.rush.rush_speed', 'football.rush.rush_speed');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (47, 'football.touchdown.direction', 'football.touchdown.direction');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (48, 'football.touchdown.thrown_to', 'football.touchdown.thrown_to');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (50, 'football.kickoff.side', 'football.kickoff.side');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (51, 'football.kickoff.kicked_by', 'football.kickoff.kicked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (52, 'football.kickoff.received_by', 'football.kickoff.received_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (53, 'football.kickoff.received_at', 'football.kickoff.received_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (54, 'football.kickoff.muffed_by', 'football.kickoff.muffed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (55, 'football.kickoff.muffed_at', 'football.kickoff.muffed_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (56, 'football.kickoff.downed_by', 'football.kickoff.downed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (57, 'football.kickoff.downed_at', 'football.kickoff.downed_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (58, 'football.kickoff.caught_by', 'football.kickoff.caught_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (59, 'football.kickoff.caught_at', 'football.kickoff.caught_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (60, 'football.kickoff.tackled_by', 'football.kickoff.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (61, 'football.kickoff.tackled_at', 'football.kickoff.tackled_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (62, 'football.kickoff.touchback_at', 'football.kickoff.touchback_at');</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -423,35 +482,95 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text>select * from livescore_event_top_data;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MjE3OTYxODUK</text>
+        <text>insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (1, 'football.field_goal.kicked_by', 'football.field_goal.kicked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (2, 'football.field_goal.blocked_by', 'football.field_goal.blocked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (3, 'football.field_goal.spotted_at', 'football.field_goal.spotted_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (4, 'football.fumble.fumbled_by', 'football.fumble.fumbled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (5, 'football.fumble.recovered_by', 'football.fumble.recovered_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (6, 'football.fumble.caused_by', 'football.fumble.caused_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (7, 'football.fumble.fumbled_at', 'football.fumble.fumbled_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (8, 'football.fumble.recovered_at', 'football.fumble.recovered_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (9, 'football.interception.passed_by', 'football.interception.passed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (10, 'football.interception.intercepted_by', 'football.interception.intercepted_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (11, 'football.interception.intended_receiver', 'football.interception.intended_receiver');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (12, 'football.interception.direction', 'football.interception.direction');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (13, 'football.interception.tackled_by', 'football.interception.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (14, 'football.interception.pushed_by', 'football.interception.pushed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (15, 'football.interception.thrown_to', 'football.interception.thrown_to');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (16, 'football.interception.defensed_by', 'football.interception.defensed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (17, 'football.punt.snapped_by', 'football.punt.snapped_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (18, 'football.punt.kicked_by', 'football.punt.kicked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (19, 'football.punt.tackled_by', 'football.punt.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (20, 'football.punt.yardline', 'football.punt.yardline');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (21, 'football.punt.received_by', 'football.punt.received_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (22, 'football.punt.tried_to_advance', 'football.punt.tried_to_advance');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (23, 'football.punt.caught_by', 'football.punt.caught_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (24, 'football.punt.downed_by', 'football.punt.downed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (25, 'football.punt.blocked_by', 'football.punt.blocked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (26, 'football.punt.total_yards_gained', 'football.punt.total_yards_gained');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (27, 'football.punt.muffed_by', 'football.punt.muffed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (28, 'football.penalty.penalty', 'football.penalty.penalty');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (29, 'football.penalty.placed_at', 'football.penalty.placed_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (30, 'football.penalty.reason', 'football.penalty.reason');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (31, 'football.pass.passed_by', 'football.pass.passed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (32, 'football.pass.received_by', 'football.pass.received_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (33, 'football.pass.intended_receiver', 'football.pass.intended_receiver');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (34, 'football.pass.direction', 'football.pass.direction');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (35, 'football.pass.thrown_to', 'football.pass.thrown_to');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (36, 'football.pass.tackled_by', 'football.pass.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (37, 'football.pass.pushed_by', 'football.pass.pushed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (38, 'football.pass.defensed_by', 'football.pass.defensed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (39, 'football.pass.yardline', 'football.pass.yardline');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (40, 'football.pass.total_yards_gained', 'football.pass.total_yards_gained');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (41, 'football.rush.direction', 'football.rush.direction');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (42, 'football.rush.rushed_by', 'football.rush.rushed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (43, 'football.rush.tackled_by', 'football.rush.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (44, 'football.rush.pushed_by', 'football.rush.pushed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (45, 'football.rush.total_yards_gained', 'football.rush.total_yards_gained');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (46, 'football.rush.rush_speed', 'football.rush.rush_speed');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (47, 'football.touchdown.direction', 'football.touchdown.direction');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (48, 'football.touchdown.thrown_to', 'football.touchdown.thrown_to');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (50, 'football.kickoff.side', 'football.kickoff.side');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (51, 'football.kickoff.kicked_by', 'football.kickoff.kicked_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (52, 'football.kickoff.received_by', 'football.kickoff.received_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (53, 'football.kickoff.received_at', 'football.kickoff.received_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (54, 'football.kickoff.muffed_by', 'football.kickoff.muffed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (55, 'football.kickoff.muffed_at', 'football.kickoff.muffed_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (56, 'football.kickoff.downed_by', 'football.kickoff.downed_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (57, 'football.kickoff.downed_at', 'football.kickoff.downed_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (58, 'football.kickoff.caught_by', 'football.kickoff.caught_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (59, 'football.kickoff.caught_at', 'football.kickoff.caught_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (60, 'football.kickoff.tackled_by', 'football.kickoff.tackled_by');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (61, 'football.kickoff.tackled_at', 'football.kickoff.tackled_at');
+insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (62, 'football.kickoff.touchback_at', 'football.kickoff.touchback_at');</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">MjE3OTYxODUK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CmFuZCBzZS5tYXRjaGlkIGluICgKICAyMTc5NjAxOCwKICAyMTc5NjAxOSwKICAyMTc5NjAyMCwKICAyMTc5NjAyMSwKICAyMTc5NjAyMgopCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>;
 ;
 ;
 ;
 ;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IyAgIGFuZCBzZS5tYXRjaGlkID0gQG1hdGNoaWQKIyAgIGFuZCByLnR5cGVpZCBpcyBub3QgbnVsbAojICAgYW5kIHNlLm1hdGNoaWQgaW4gKDIxNzk1MjA0LCAyMTc5NTIwNSwgMjE3OTUyMDYpCiMgYW5kIGxlLmlkID0gMTM1MzExNzE4OQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyBhbmQgc2UuZXZlbnR0eXBlIGluICg0MCw0NSw1MCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">bG9kZXYgbWF0Y2hJZDogMjE3OTYwMTIsIDIxNzk2MDExCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">am9pbiBsaXZlc2NvcmVfZXZlbnR0eXBlIGV0IG9uIGV0LmV2ZW50dHlwZSA9IGUuZXZlbnR0eXBlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">am8K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam9pbiBsaQo=</text>
+        <text encoding="base64">am8K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3wvLCAjL2c=</text>
