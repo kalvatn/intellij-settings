@@ -192,12 +192,12 @@
         <mark key="^" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1593440447980">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1593441753975">
         <mark key="'" line="81" column="97" />
-        <mark key="[" line="671" column="7" />
-        <mark key="]" line="672" column="19" />
-        <mark key="." line="672" column="18" />
-        <mark key="^" line="672" column="19" />
+        <mark key="[" line="669" column="36" />
+        <mark key="]" line="669" column="50" />
+        <mark key="." line="669" column="49" />
+        <mark key="^" line="669" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1592920241657">
         <mark key="[" line="0" column="0" />
@@ -329,7 +329,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">d2hlcmUgZS5pZCA9IDIxNTMwODI2OTkK</text>
+        <text encoding="base64">b3JkZXIgCg==</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -415,7 +415,7 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>21797217</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>|</text>
@@ -424,15 +424,21 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text encoding="base64">IyBXSVAgU0wtNTg5IGxpdmVzY29yZV9ldmVudF90b3BfZGF0YSogZXJyb3Igd2l0aCBidWlsZGluZyBldmVudCBkYXRhCnNldCBAbWF0Y2hpZCA9IDIxNzk3MjE2OyAjIHByb2QgMTgwMDE0MjcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlcmUgZS5pZCA9IDIxNTMwODI2OTkK</text>
+        <text encoding="base64">b3JkZXIgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnNlbGVjdCAqIGZyb20gbGl2ZXNjb3JlX25ld2V2ZW50CjsK</text>
+        <text encoding="base64">YW5kIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gbGl2ZXNjb3JlX25ld2V2ZW50IHdoZXJlIG1hdGNoaWQgPSAyMTc5NzIxMwo7Cg==</text>
+        <text encoding="base64">d2hlcmUgZS5pZCA9IDIxNTMwODI2OTkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CnNlbGVjdCAqIGZyb20gbGl2ZXNjb3JlX25ld2V2ZW50CjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gbGl2ZXNjb3JlX25ld2V2ZW50IHdoZXJlIG1hdGNoaWQgPSAyMTc5NzIxMwo7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (1, 'football.field_goal.kicked_by', 'football.field_goal.kicked_by');
 insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (2, 'football.field_goal.blocked_by', 'football.field_goal.blocked_by');
 insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (3, 'football.field_goal.spotted_at', 'football.field_goal.spotted_at');
@@ -495,24 +501,18 @@ insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES 
 insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (61, 'football.kickoff.tackled_at', 'football.kickoff.tackled_at');
 insert into livescore_event_top_data_type (id, name, feed_property_name) VALUES (62, 'football.kickoff.touchback_at', 'football.kickoff.touchback_at');</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">MjE3OTYxODUK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CmFuZCBzZS5tYXRjaGlkIGluICgKICAyMTc5NjAxOCwKICAyMTc5NjAxOSwKICAyMTc5NjAyMCwKICAyMTc5NjAyMSwKICAyMTc5NjAyMgopCg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>;
 ;
 ;
 ;
 ;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgIGFuZCBzZS5tYXRjaGlkID0gQG1hdGNoaWQKIyAgIGFuZCByLnR5cGVpZCBpcyBub3QgbnVsbAojICAgYW5kIHNlLm1hdGNoaWQgaW4gKDIxNzk1MjA0LCAyMTc5NTIwNSwgMjE3OTUyMDYpCiMgYW5kIGxlLmlkID0gMTM1MzExNzE4OQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBhbmQgc2UuZXZlbnR0eXBlIGluICg0MCw0NSw1MCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3wvLCAjL2c=</text>
