@@ -192,12 +192,12 @@
         <mark key="^" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1593614960185">
-        <mark key="'" line="705" column="19" />
-        <mark key="[" line="272" column="13" />
-        <mark key="]" line="272" column="13" />
-        <mark key="." line="272" column="12" />
-        <mark key="^" line="272" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1593618272986">
+        <mark key="'" line="23" column="49" />
+        <mark key="[" line="351" column="1" />
+        <mark key="]" line="357" column="50" />
+        <mark key="." line="357" column="49" />
+        <mark key="^" line="357" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1592920241657">
         <mark key="[" line="0" column="0" />
@@ -209,7 +209,7 @@
         <mark key="^" line="51" column="134" />
         <mark key="." line="51" column="133" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593614701049">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593617417389">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,9 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/kotlin_development.sql" />
-      <jump line="228" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
-      <jump line="210" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="219" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="238" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="196" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
@@ -322,12 +319,15 @@
       <jump line="695" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="24" column="60" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="702" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="329" column="75" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="23" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>livescore_event_top_data* after fixes to building event data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnRfdG9wX2RhdGEgZWQgb24gZWQuZXZlbnRfaWQgPSBlLmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZWZ0IGpvaW4gbGl2ZXNjb3JlX2V2ZW50X3RvcF9kYXRhX3R5cGUgZWR0IG9uIGVkdC5pZCA9IGVkLmRhdGFfdHlwZV9pZAo=</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -413,40 +413,40 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>livescore_event_top_data* after fixes to building event data</text>
+        <text>ed.data_type_id, edt.name, ed.value</text>
       </register>
       <register name="/" type="4">
         <text>|</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBXSVAgU0wtNTg5IGxpdmVzY29yZV9ldmVudF90b3BfZGF0YSogYWZ0ZXIgZml4ZXMgdG8gYnVpbGRpbmcgZXZlbnQgZGF0YQpzZXQgQG1hdGNoaWQgPSAyMTc5NzIxODsgIyBwcm9kIDE4MDAxNDI3Cg==</text>
+        <text encoding="base64">c2VsZWN0IGUuaWQsIGVkLmRhdGFfdHlwZV9pZCwgZWR0Lm5hbWUsIGVkLnZhbHVlIGZyb20gbGl2ZXNjb3JlX2V2ZW50X3RvcCBlCmxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnRfdG9wX2RhdGEgZWQgb24gZWQuZXZlbnRfaWQgPSBlLmlkCmxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnRfdG9wX2RhdGFfdHlwZSBlZHQgb24gZWR0LmlkID0gZWQuZGF0YV90eXBlX2lkCndoZXJlIGUuaWQgPSAxMzUzNDkxOTc3CjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnRfdG9wX2RhdGEgZWQgb24gZWQuZXZlbnRfaWQgPSBlLmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZWZ0IGpvaW4gbGl2ZXNjb3JlX2V2ZW50X3RvcF9kYXRhX3R5cGUgZWR0IG9uIGVkdC5pZCA9IGVkLmRhdGFfdHlwZV9pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gbGl2ZXNjb3JlX3NvdXJjZSAobmFtZSwgcGFyZW50LCByZWFsc291cmNlKSB2YWx1ZXMgKCJORkwgR1NJUyBMaW5ldXBzIiwgMiwgMSkK</text>
+        <text encoding="base64">bGVmdCBqb2luIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wX2RhdGE7CnNlbGVjdCAqCmZyb20gbGl2ZXNjb3JlX2V2ZW50X3RvcF9kYXRhX3R5cGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RWpoYXRhc3Zpc2tlZ3JhdXQxMjM0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>UPDATE livescore_event_top_backup SET disabled = 1, updatedate=NOW() WHERE matchid = 18721100 AND eventtype NOT IN (170,169,185,186,188,162,189,80,181) AND disabled = 0;</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gbGl2ZXNjb3JlX3NvdXJjZSAobmFtZSwgcGFyZW50LCByZWFsc291cmNlKSB2YWx1ZXMgKCJORkwgR1NJUyBMaW5ldXBzIiwgMiwgMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MjE5Mjk4MDcsIDIxOTMwNDQ3LCAyMTkwMDEwOSwgMjE5MzA0NDUsIDIxOTI5ODAzLCAyMTg3MTk0NywgMjE5Mjk4MDEsIDIxOTMwNDQxLCAyMTkzMDE4NSwgMjE5MjE3MzcsIDIxOTMwNDM5LCAyMTkyOTc5OSwgMjE5MjE3MzUsIDIxOTMwMTgzLCAyMTkzMDE4MSwgMjE5MzA0MzcsIDIxOTMxMjA1LCAyMTg3MTkzNywgMjE5MjE3MzEsIDIxOTMxMjAzLCAyMTkzMDE3OSwgMjE5MzEyMDEsIDIxOTI5MDUxLCAyMTkyOTA0OSwgMjE5MzI4ODksIDIxOTMyODg3LCAyMTkyOTA0NywgMjE5MjkwNDUsIDIxOTI5MDQzLCAyMTkzMjg4MSwgMjE5Mjk4MDksIC05Mzk0MzksIDIxOTAyOTU5LCAyMTgyNTY0NywgMjE5MzA5ODUsIC05Mzk0MzEsIDIxOTI5MjE1LCAyMTkzMTc3NSwgMjE5MzI5MjUsIC05Mzk0NTEsIDIxOTMyOTIzLCAtOTM5NDQ5LCAtOTM5NDQ3LCAtOTM5NDQ1LCAyMTkyODgyMSwgMjE4OTQ3NjksIC05MzkwNzUsIDIxODk4MzY5LCAyMTkyOTIxNywgMjE5MjE2OTUsIDIxOTMxNTUxLCAyMTkyMTY5MywgMjE5MzE1NDksIDIxOTIxNjkxLCAyMTkyMTY4NywgMjE5MjE2ODEsIDIxOTMwMzg1LCAyMTkzMDU0MywgMjE5MjE5NjUsIDIxODcxOTEzLCAyMTkzMDUzOSwgMjE5MzA1MzcsIDIxOTIxNjk5LCAyMTkzMjk2MywgLTkzOTI2MywgMjE5MzAxNzUsIDIxOTMxMTk5LCAyMTkzMTE5NywgMjE5MzExOTUsIDIxOTMxMTkzLCAyMTkzMTgzMywgMjE5MzE4MzEsIDIxOTI4NjMxLCAyMTkyOTM5OSwgMjE5MzI5ODMsIDIxOTI4NjI5LCAyMTkwMjkwMSwgMjE5Mjg4ODUsIDIxOTI5Mzk3LCAyMTkyODg4MywgMjE5MzA1NDcsIDIxOTI5MzkzLCAyMTkyODg4MSwgMjE5MjE5NjksIDIxOTMwNTQ1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JkZXIgCg==</text>
+        <text encoding="base64">RWpoYXRhc3Zpc2tlZ3JhdXQxMjM0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YW5kIAo=</text>
+        <text>UPDATE livescore_event_top_backup SET disabled = 1, updatedate=NOW() WHERE matchid = 18721100 AND eventtype NOT IN (170,169,185,186,188,162,189,80,181) AND disabled = 0;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgZS5pZCA9IDIxNTMwODI2OTkK</text>
+        <text encoding="base64">MjE5Mjk4MDcsIDIxOTMwNDQ3LCAyMTkwMDEwOSwgMjE5MzA0NDUsIDIxOTI5ODAzLCAyMTg3MTk0NywgMjE5Mjk4MDEsIDIxOTMwNDQxLCAyMTkzMDE4NSwgMjE5MjE3MzcsIDIxOTMwNDM5LCAyMTkyOTc5OSwgMjE5MjE3MzUsIDIxOTMwMTgzLCAyMTkzMDE4MSwgMjE5MzA0MzcsIDIxOTMxMjA1LCAyMTg3MTkzNywgMjE5MjE3MzEsIDIxOTMxMjAzLCAyMTkzMDE3OSwgMjE5MzEyMDEsIDIxOTI5MDUxLCAyMTkyOTA0OSwgMjE5MzI4ODksIDIxOTMyODg3LCAyMTkyOTA0NywgMjE5MjkwNDUsIDIxOTI5MDQzLCAyMTkzMjg4MSwgMjE5Mjk4MDksIC05Mzk0MzksIDIxOTAyOTU5LCAyMTgyNTY0NywgMjE5MzA5ODUsIC05Mzk0MzEsIDIxOTI5MjE1LCAyMTkzMTc3NSwgMjE5MzI5MjUsIC05Mzk0NTEsIDIxOTMyOTIzLCAtOTM5NDQ5LCAtOTM5NDQ3LCAtOTM5NDQ1LCAyMTkyODgyMSwgMjE4OTQ3NjksIC05MzkwNzUsIDIxODk4MzY5LCAyMTkyOTIxNywgMjE5MjE2OTUsIDIxOTMxNTUxLCAyMTkyMTY5MywgMjE5MzE1NDksIDIxOTIxNjkxLCAyMTkyMTY4NywgMjE5MjE2ODEsIDIxOTMwMzg1LCAyMTkzMDU0MywgMjE5MjE5NjUsIDIxODcxOTEzLCAyMTkzMDUzOSwgMjE5MzA1MzcsIDIxOTIxNjk5LCAyMTkzMjk2MywgLTkzOTI2MywgMjE5MzAxNzUsIDIxOTMxMTk5LCAyMTkzMTE5NywgMjE5MzExOTUsIDIxOTMxMTkzLCAyMTkzMTgzMywgMjE5MzE4MzEsIDIxOTI4NjMxLCAyMTkyOTM5OSwgMjE5MzI5ODMsIDIxOTI4NjI5LCAyMTkwMjkwMSwgMjE5Mjg4ODUsIDIxOTI5Mzk3LCAyMTkyODg4MywgMjE5MzA1NDcsIDIxOTI5MzkzLCAyMTkyODg4MSwgMjE5MjE5NjksIDIxOTMwNTQ1Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3wvLCAjL2c=</text>
