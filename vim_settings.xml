@@ -192,12 +192,12 @@
         <mark key="^" line="132" column="6" />
         <mark key="." line="132" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1594643909533">
-        <mark key="'" line="413" column="23" />
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="37" column="39" />
-        <mark key="." line="37" column="38" />
-        <mark key="^" line="37" column="39" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1594645488111">
+        <mark key="'" line="190" column="7" />
+        <mark key="[" line="199" column="21" />
+        <mark key="]" line="199" column="29" />
+        <mark key="." line="199" column="28" />
+        <mark key="^" line="199" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1594121812759">
         <mark key="[" line="1" column="1" />
@@ -209,7 +209,7 @@
         <mark key="^" line="51" column="134" />
         <mark key="." line="51" column="133" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1594644337948">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1594645291548">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -224,8 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="125" column="82" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="126" column="82" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="432" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="25" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
@@ -324,12 +322,14 @@
       <jump line="305" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="40" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="412" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="187" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="189" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ago=</text>
+      <register name="&quot;" type="4">
+        <text>22548715</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -415,47 +415,40 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>22548715</text>
       </register>
       <register name="/" type="4">
         <text>22548446</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGxlLmlkICAgICAgICBhcyBldmVudF9pZCwKICAgICAgIGxlLmV2ZW50dHlwZSBhcyBldmVudF90eXBlX2lkLAogICAgICAgZXQubmFtZSAgICAgIGFzIGV2ZW50X3R5cGVfbmFtZSwKICAgICAgIGR0Lm5hbWUgICAgICBhcyBkYXRhX3R5cGVfbmFtZSwKICAgICAgIGQudmFsdWUgICAgICBhcyBkYXRhX3ZhbHVlLAogICAgICAgc2UuaWQgICAgICAgIGFzIHNjb3V0X2V2ZW50X2lkLAogICAgICAgbGUudXBkYXRlZGF0ZSwKICBsZS50ZXh0ICAgICAgYXMgbGVfanNvbiwKICAgICAgIHNlLnRleHQgYXMgc2VfanNvbgpmcm9tIGxpdmVzY29yZV9ldmVudF90b3AgbGUKICAgICAgIGxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnR0eXBlIGV0IG9uIGV0LmV2ZW50dHlwZSA9IGxlLmV2ZW50dHlwZQogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudF90b3BfZGF0YSBkIG9uIGQuZXZlbnRfaWQgPSBsZS5pZAogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudF90b3BfZGF0YV90eXBlIGR0IG9uIGR0LmlkID0gZC5kYXRhX3R5cGVfaWQKICAgICAgIGpvaW4gc2NvdXRfZXZlbnQgc2Ugb24gc2UuaWQgPSBsZS5zY291dGV2ZW50aWQgYW5kIGxlLmV2ZW50dHlwZSA9IHNlLmV2ZW50dHlwZQp3aGVyZSAxCiAgYW5kIGxlLmV2ZW50dHlwZSBpbiAoMTQyMSwgMTQyNiwgMTQyOCwgMTQyOSwgMTQzMiwgMTQzNSwgMTQ0MCwgMTQ0MSwgMTQ0MiwgMTQ0NSwgMTQ1NykKICBhbmQgbGUubWF0Y2hpZCA9IEBtYXRjaGlkCiMgYW5kIGxlLnRleHQgIT0gc2UudGV4dApvcmRlciBieSBsZS5pZAo7Cg==</text>
+        <text encoding="base64">c2V0IEBtYXRjaGlkID0gMjE3OTY2ODc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICBhbmQgbG0uZW5kZWQgPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbmQgbGUuZXZlbnR0eXBlID0gMTQ0MAo=</text>
+        <text encoding="base64">ICAgIGFuZCBsbS5tYXRjaGlkID0gQG1hdGNoaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5kIGxlLnRleHQgIT0gc2UudGV4dAo=</text>
+        <text encoding="base64">c2V0IEBtYXRjaGlkID0gMjI1NDg3NTY7ICMgPz8/CgoKc2V0IEBtYXRjaGlkID0gMjI1NDg3NTY7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGxlLnRleHQgICAgICBhcyBzb3VyY2VfanNvbiwK</text>
+        <text encoding="base64">dXNlIG1pc2M7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICgyMTQwNzc0NSwgMSwgTk9XKCksIG51bGwpLAo=</text>
+        <text encoding="base64">ICBhbmQgbGUuZXZlbnR0eXBlID0gMTQ0MAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gbGl2ZXNjb3JlX3Njb3V0X3JlcXVlc3QgKG1hdGNoaWQsIGNvdmVyYWdlLCByZXF1ZXN0ZGF0ZSwgY29tcGxldGVkYXRlKQpWQUxVRVMgKDIwNzk1NTM3LCAxLCBOT1coKSwgbnVsbCk7Cg==</text>
+        <text encoding="base64">YW5kIGxlLnRleHQgIT0gc2UudGV4dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICgyMTQwNzc0NSwgMSwgTk9XKCksIG51bGwpLAo=</text>
+        <text encoding="base64">ICAgICAgIGxlLnRleHQgICAgICBhcyBzb3VyY2VfanNvbiwK</text>
       </register>
       <register name="9" type="2">
-        <text>CREATE TABLE `livescore_scout_request` (
-                                         `requestid` int(10) unsigned NOT NULL AUTO_INCREMENT,
-                                         `matchid` int(11) NOT NULL,
-                                         `coverage` tinyint(3) unsigned NOT NULL,
-                                         `requestdate` datetime NOT NULL COMMENT 'Date and time when request was created',
-                                         `completedate` datetime DEFAULT NULL COMMENT 'When request started processing',
-                                         PRIMARY KEY (`requestid`)
-) ENGINE=InnoDB AUTO_INCREMENT=978 DEFAULT CHARSET=latin1</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzsvLC9n</text>
