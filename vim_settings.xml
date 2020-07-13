@@ -192,11 +192,12 @@
         <mark key="^" line="132" column="6" />
         <mark key="." line="132" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1594638959865">
-        <mark key="'" line="547" column="36" />
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="308" column="1" />
-        <mark key="." line="304" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1594640594924">
+        <mark key="'" line="548" column="36" />
+        <mark key="[" line="404" column="13" />
+        <mark key="]" line="404" column="13" />
+        <mark key="." line="404" column="13" />
+        <mark key="^" line="404" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1594121812759">
         <mark key="[" line="1" column="1" />
@@ -327,8 +328,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0IGxlLmlkICAgICAgICBhcyBldmVudF9pZCwKICAgICAgIGxlLmV2ZW50dHlwZSBhcyBldmVudF90eXBlX2lkLAogICAgICAgZXQubmFtZSAgICAgIGFzIGV2ZW50X3R5cGVfbmFtZSwKICAgICAgIGR0Lm5hbWUgICAgICBhcyBkYXRhX3R5cGVfbmFtZSwKICAgICAgIGQudmFsdWUgICAgICBhcyBkYXRhX3ZhbHVlLAogICAgICAgc2UuaWQgICAgICAgIGFzIHNjb3V0X2V2ZW50X2lkLAogICAgICAgbGUudXBkYXRlZGF0ZSwKICBsZS50ZXh0ICAgICAgYXMgbGVfanNvbiwKICAgICAgIHNlLnRleHQgYXMgc2VfanNvbgpmcm9tIGxpdmVzY29yZV9ldmVudF90b3AgbGUKICAgICAgIGxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnR0eXBlIGV0IG9uIGV0LmV2ZW50dHlwZSA9IGxlLmV2ZW50dHlwZQogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudF90b3BfZGF0YSBkIG9uIGQuZXZlbnRfaWQgPSBsZS5pZAogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudF90b3BfZGF0YV90eXBlIGR0IG9uIGR0LmlkID0gZC5kYXRhX3R5cGVfaWQKICAgICAgIGpvaW4gc2NvdXRfZXZlbnQgc2Ugb24gc2UuaWQgPSBsZS5zY291dGV2ZW50aWQgYW5kIGxlLmV2ZW50dHlwZSA9IHNlLmV2ZW50dHlwZQp3aGVyZSAxCiAgYW5kIGxlLmV2ZW50dHlwZSBpbiAoMTQyMSwgMTQyNiwgMTQyOCwgMTQyOSwgMTQzMiwgMTQzNSwgMTQ0MCwgMTQ0MSwgMTQ0MiwgMTQ0NSwgMTQ1NykKICBhbmQgbGUubWF0Y2hpZCA9IEBtYXRjaGlkCiMgYW5kIGxlLnRleHQgIT0gc2UudGV4dApvcmRlciBieSBsZS5pZAo7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -414,7 +415,7 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>, 1423</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>22548446</text>
