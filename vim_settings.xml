@@ -186,12 +186,12 @@
         <mark key="^" line="132" column="6" />
         <mark key="." line="132" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1594813325655">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1594816986106">
         <mark key="'" line="355" column="19" />
-        <mark key="[" line="948" column="51" />
-        <mark key="]" line="948" column="61" />
-        <mark key="." line="948" column="60" />
-        <mark key="^" line="948" column="61" />
+        <mark key="[" line="930" column="62" />
+        <mark key="]" line="930" column="62" />
+        <mark key="." line="930" column="61" />
+        <mark key="^" line="930" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1594121812759">
         <mark key="[" line="1" column="1" />
@@ -325,8 +325,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>code_friendly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAjIHdoZXJlIGYuaWQgPj0gODMgYW5kIGYuaWQgPD0gMTYxCg==</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -421,31 +421,31 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text encoding="base64">ICAgIGxlZnQgam9pbiB0ZWFtc2xpbmt1bmlxdWVjYXRlZ29yeXRlYW0gaG9tZSBvbiBob21lLkNhdGVnb3J5VGVhbUlkID0gbG0udGVhbWlkaG9tZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHJlZ19yZXBsYWNlKGNvZGVfZnJpZW5kbHksICJfJCIsICcnLCB0cnVlLCAwLCAwKQo=</text>
+        <text encoding="base64">ICAgICAjIHdoZXJlIGYuaWQgPj0gODMgYW5kIGYuaWQgPD0gMTYxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIGNvbmNhdChyZWdfcmVwbGFjZShjb252ZXJ0KGYudHlwZSB1c2luZyBhc2NpaSkpLCAnKScsICcnKSwgJygnLCAnJyksICcg4oCTICcsICdfJyksICcgLSAnLCAnXycpLCAnICcsICdfJyksICcoJywgZi5pZCwgJyksJykK</text>
+        <text encoding="base64">ICAgICAgIHJlZ19yZXBsYWNlKGNvZGVfZnJpZW5kbHksICJfJCIsICcnLCB0cnVlLCAwLCAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgICAgIGNvbmNhdChyZWdfcmVwbGFjZShjb252ZXJ0KGYudHlwZSB1c2luZyBhc2NpaSkpLCAnKScsICcnKSwgJygnLCAnJyksICcg4oCTICcsICdfJyksICcgLSAnLCAnXycpLCAnICcsICdfJyksICcoJywgZi5pZCwgJyksJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgIGFuZCBsZS5pZCA9IDEzNTM1NzUzNjMKICAjIGFuZCBsZS50ZXh0ICE9IHNlLnRleHQK</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHNlLnRleHQgICAgICBhcyBzZV9qc29uLAo=</text>
+        <text encoding="base64">IyAgIGFuZCBsZS5pZCA9IDEzNTM1NzUzNjMKICAjIGFuZCBsZS50ZXh0ICE9IHNlLnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JkZXIgYnkgZS5pZAo=</text>
+        <text encoding="base64">ICAgICAgIHNlLnRleHQgICAgICBhcyBzZV9qc29uLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">b3JkZXIgYnkgZS5pZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW5kIGxtLm1hdGNoaWQgPSAyMTc5MjkwOAo=</text>
+        <text encoding="base64">b3JkZXIgYnkgZS5pZAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzsvLC9n</text>
