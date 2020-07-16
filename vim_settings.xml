@@ -107,12 +107,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1594908493988">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1594909159939">
         <mark key="'" line="1220" column="0" />
-        <mark key="[" line="70" column="100" />
-        <mark key="]" line="70" column="75" />
-        <mark key="." line="70" column="74" />
-        <mark key="^" line="70" column="75" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="151" />
+        <mark key="." line="70" column="151" />
+        <mark key="^" line="70" column="152" />
       </file>
       <file name="/Dummy.txt" timestamp="1594646945349">
         <mark key="[" line="0" column="0" />
@@ -180,12 +180,12 @@
         <mark key="^" line="132" column="6" />
         <mark key="." line="132" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1594905355775">
-        <mark key="'" line="1011" column="13" />
-        <mark key="[" line="1028" column="11" />
-        <mark key="]" line="1011" column="14" />
-        <mark key="." line="1011" column="13" />
-        <mark key="^" line="1011" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1594909627669">
+        <mark key="'" line="23" column="49" />
+        <mark key="[" line="361" column="75" />
+        <mark key="]" line="361" column="76" />
+        <mark key="." line="361" column="75" />
+        <mark key="^" line="361" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1594121812759">
         <mark key="[" line="1" column="1" />
@@ -255,7 +255,6 @@
       <jump line="702" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="329" column="75" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
-      <jump line="23" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="916" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="67" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="70" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -321,12 +320,13 @@
       <jump line="14" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
       <jump line="1221" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="23" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>touchback</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -412,40 +412,40 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>touchback</text>
       </register>
       <register name="/" type="4">
         <text>22548446</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2V0IEBtYXRjaGlkID0gMjI1NDkwMDQ7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">dXBkYXRlIHN5c3RlbXNldHRpbmdzIHMgc2V0IHMuVkFMVUUgPSAiPG1hdGNoaWQtMT4sPG1hdGNoaWQtMj4sLi48bWF0Y2hpZC1uPiIgd2hlcmUgcy5ERVNDUklQVElPTiA9ICJMaXZlU291cmNlRXhwb3J0ZXJfTWF0Y2hlc1RvUmVjb3ZlckNvbW1hU2VwYXJhdGVkIjs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VVBEQVRFIGxpdmVzY29yZV9tYXRjaApTRVQgY2FuY2VsbGVkID0gMQpXSEVSRSBtYXRjaGlkIElOKDE4NzE5NzA4LDE4NzE5NzEwLDE4NzE5NzEyLDE4NzE5NzE0LDE4NzE5NzE2LDE4NzE5NzE4LDE4NzE5NzIwLDE4NzE5NzIyLDE4NzE5NzI0LDE4NzE5NzI2LDE4NzE5NzI4LDE4NzE5NzMwLDE4NzE5NzMyLDE4NzE5NzM0LDE4NzE5NzM2LDE4NzE5NzM4LDE4NzE5NzQwLDE4NzE5NzQyLDE4NzE5NzQ0LDE4NzE5NzQ2LDE4NzE5NzQ4LDE4NzE5NzUwLDE4NzE5NzUyLDE4NzE5NzU0LDE4NzE5NzU2LDE4NzE5NzU4LDE4NzE5NzYwLDE4NzE5NzYyLDE4NzE5NzY0LDE4NzE5NzY2LDE4NzE5NzY4LDE4NzE5NzcwLDE4NzE5NzcyLDE4NzE5Nzc0LDE4NzE5Nzc2LDE4NzE5Nzc4LDE4NzE5NzgwLDE4NzE5NzgyLDE4NzE5Nzg0LDE4NzE5Nzg2LDE4NzE5Nzg4LDE4NzE5NzkwLDE4NzE5NzkyLDE4NzE5Nzk0LDE4NzE5Nzk2LDE4NzE5Nzk4LDE4NzE5ODAwLDE4NzE5ODAyLDE4NzE5ODA0LDE4NzE5ODA2LDE4NzE5ODA4LDE4NzE5ODEwLDE4NzE5ODEyLDE4NzE5ODE0LDE4NzE5ODE2LDE4NzE5ODE4LDE4NzE5ODIwLDE4NzE5ODIyLDE4NzE5ODI0LDE4NzE5ODI2LDE4NzE5ODI4LDE4NzE5ODMwLDE4NzE5ODMyLDE4NzE5ODM0LDE4NzE5ODM2LDE4NzE5ODM4LDE4NzE5ODQwLDE4NzE5ODQyLDE4NzE5ODQ0LDE4NzE5ODQ2LDE4NzE5ODQ4LDE4NzE5ODUwLDE4NzE5ODUyLDE4NzE5ODU0LDE4NzE5ODU2LDE4NzE5ODU4LDE4NzE5ODYwLDE4NzE5ODYyLDE4NzE5ODY0LDE4NzE5ODY2LDE4NzE5ODY4LDE4NzE5ODcwLDE4NzE5ODcyLDE4NzE5ODc0LDE4NzE5ODc2LDE4NzE5ODc4LDE4NzE5ODgwLDE4NzE5ODgyLDE4NzE5ODg0LDE4NzE5ODg2LDE4NzE5ODg4LDE4NzE5ODkwLDE4NzE5ODkyLDE4NzE5ODk0LDE4NzE5ODk2LDE4NzE5ODk4LDE4NzE5OTAwLDE4NzE5OTAyLDE4NzE5OTA0LDE4NzE5OTA2LDE4NzE5OTA4LDE4NzE5OTEwLDE4NzE5OTEyLDE4NzE5OTE0LDE4NzE5OTE2LDE4NzE5OTE4LDE4NzE5OTIwLDE4NzE5OTIyLDE4NzE5OTI0LDE4NzE5OTI2LDE4NzE5OTI4LDE4NzE5OTMwLDE4NzE5OTMyLDE4NzE5OTM0LDE4NzE5OTM2LDE4NzE5OTM4LDE4NzE5OTQwLDE4NzE5OTQyLDE4NzE5OTQ0LDE4NzE5OTQ2LDE4NzE5OTQ4LDE4NzE5OTUwLDE4NzE5OTUyLDE4NzE5OTU0LDE4NzE5OTU2LDE4NzE5OTU4LDE4NzE5OTYwLDE4NzE5OTYyLDE4NzE5OTY0LDE4NzE5OTY2LDE4NzE5OTY4LDE4NzE5OTcwLDE4NzE5OTcyLDE4NzE5OTc0LDE4NzE5OTc2LDE4NzE5OTc4LDE4NzE5OTgwLDE4NzE5OTgyLDE4NzE5OTg0LDE4NzE5OTg2LDE4NzE5OTg4LDE4NzE5OTkwLDE4NzE5OTkyLDE4NzE5OTk0LDE4NzE5OTk2LDE4NzE5OTk4LDE4NzIwMDAwLDE4NzIwMDAyLDE4NzIwMDA0LDE4NzIwMDA2LDE4NzIwMDA4LDE4NzIwMDEwLDE4NzIwMDEyLDE4NzIwMDE0LDE4NzIwMDE2LDE4NzIwMDE4LDE4NzIwMDIwLDE4NzIwMDIyLDE4NzIwMDI0LDE4NzIwMDI2LDE4NzIwMDI4LDE4NzIwMDMwLDE4NzIwMDMyLDE4NzIwMDM0LDE4NzIwMDM2LDE4NzIwMDM4LDE4NzIwMDQwLDE4NzIwMDQyLDE4NzIwMDQ0LDE4NzIwMDQ2LDE4NzIwMDQ4LDE4NzIwMDUwLDE4NzIwMDUyLDE4NzIwMDU0LDE4NzIwMDU2LDE4NzIwMDU4LDE4NzIwMDYwLDE4NzIwMDYyLDE4NzIwMDY0LDE4NzIwMDY2LDE4NzIwMDY4LDE4NzIwMDcwLDE4NzIwMDcyLDE4NzIwMDc0LDE4NzIwMDc2LDE4NzIwMDc4LDE4NzIwMDgwLDE4NzIwMDgyLDE4NzIwMDg0KTsK</text>
+        <text encoding="base64">ICBhbmQgbGUuZXZlbnR0eXBlIGluICgxNDIxLCAxNDI2LCAxNDI4LCAxNDI5LCAxNDMyLCAxNDM1LCAxNDQwLCAxNDQxLCAxNDQyLCAxNDQ1LCAxNDU3KQogIGFuZCBsZS5tYXRjaGlkID0gMjI1NDkwMDQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVBEQVRFIGxpdmVzY29yZV9tYXRjaApTRVQgY2FuY2VsbGVkID0gMQpXSEVSRSBtYXRjaGlkIElOKDE4NzE5NzA4LDE4NzE5NzEwLDE4NzE5NzEyLDE4NzE5NzE0LDE4NzE5NzE2LDE4NzE5NzE4LDE4NzE5NzIwLDE4NzE5NzIyLDE4NzE5NzI0LDE4NzE5NzI2LDE4NzE5NzI4LDE4NzE5NzMwLDE4NzE5NzMyLDE4NzE5NzM0LDE4NzE5NzM2LDE4NzE5NzM4LDE4NzE5NzQwLDE4NzE5NzQyLDE4NzE5NzQ0LDE4NzE5NzQ2LDE4NzE5NzQ4LDE4NzE5NzUwLDE4NzE5NzUyLDE4NzE5NzU0LDE4NzE5NzU2LDE4NzE5NzU4LDE4NzE5NzYwLDE4NzE5NzYyLDE4NzE5NzY0LDE4NzE5NzY2LDE4NzE5NzY4LDE4NzE5NzcwLDE4NzE5NzcyLDE4NzE5Nzc0LDE4NzE5Nzc2LDE4NzE5Nzc4LDE4NzE5NzgwLDE4NzE5NzgyLDE4NzE5Nzg0LDE4NzE5Nzg2LDE4NzE5Nzg4LDE4NzE5NzkwLDE4NzE5NzkyLDE4NzE5Nzk0LDE4NzE5Nzk2LDE4NzE5Nzk4LDE4NzE5ODAwLDE4NzE5ODAyLDE4NzE5ODA0LDE4NzE5ODA2LDE4NzE5ODA4LDE4NzE5ODEwLDE4NzE5ODEyLDE4NzE5ODE0LDE4NzE5ODE2LDE4NzE5ODE4LDE4NzE5ODIwLDE4NzE5ODIyLDE4NzE5ODI0LDE4NzE5ODI2LDE4NzE5ODI4LDE4NzE5ODMwLDE4NzE5ODMyLDE4NzE5ODM0LDE4NzE5ODM2LDE4NzE5ODM4LDE4NzE5ODQwLDE4NzE5ODQyLDE4NzE5ODQ0LDE4NzE5ODQ2LDE4NzE5ODQ4LDE4NzE5ODUwLDE4NzE5ODUyLDE4NzE5ODU0LDE4NzE5ODU2LDE4NzE5ODU4LDE4NzE5ODYwLDE4NzE5ODYyLDE4NzE5ODY0LDE4NzE5ODY2LDE4NzE5ODY4LDE4NzE5ODcwLDE4NzE5ODcyLDE4NzE5ODc0LDE4NzE5ODc2LDE4NzE5ODc4LDE4NzE5ODgwLDE4NzE5ODgyLDE4NzE5ODg0LDE4NzE5ODg2LDE4NzE5ODg4LDE4NzE5ODkwLDE4NzE5ODkyLDE4NzE5ODk0LDE4NzE5ODk2LDE4NzE5ODk4LDE4NzE5OTAwLDE4NzE5OTAyLDE4NzE5OTA0LDE4NzE5OTA2LDE4NzE5OTA4LDE4NzE5OTEwLDE4NzE5OTEyLDE4NzE5OTE0LDE4NzE5OTE2LDE4NzE5OTE4LDE4NzE5OTIwLDE4NzE5OTIyLDE4NzE5OTI0LDE4NzE5OTI2LDE4NzE5OTI4LDE4NzE5OTMwLDE4NzE5OTMyLDE4NzE5OTM0LDE4NzE5OTM2LDE4NzE5OTM4LDE4NzE5OTQwLDE4NzE5OTQyLDE4NzE5OTQ0LDE4NzE5OTQ2LDE4NzE5OTQ4LDE4NzE5OTUwLDE4NzE5OTUyLDE4NzE5OTU0LDE4NzE5OTU2LDE4NzE5OTU4LDE4NzE5OTYwLDE4NzE5OTYyLDE4NzE5OTY0LDE4NzE5OTY2LDE4NzE5OTY4LDE4NzE5OTcwLDE4NzE5OTcyLDE4NzE5OTc0LDE4NzE5OTc2LDE4NzE5OTc4LDE4NzE5OTgwLDE4NzE5OTgyLDE4NzE5OTg0LDE4NzE5OTg2LDE4NzE5OTg4LDE4NzE5OTkwLDE4NzE5OTkyLDE4NzE5OTk0LDE4NzE5OTk2LDE4NzE5OTk4LDE4NzIwMDAwLDE4NzIwMDAyLDE4NzIwMDA0LDE4NzIwMDA2LDE4NzIwMDA4LDE4NzIwMDEwLDE4NzIwMDEyLDE4NzIwMDE0LDE4NzIwMDE2LDE4NzIwMDE4LDE4NzIwMDIwLDE4NzIwMDIyLDE4NzIwMDI0LDE4NzIwMDI2LDE4NzIwMDI4LDE4NzIwMDMwLDE4NzIwMDMyLDE4NzIwMDM0LDE4NzIwMDM2LDE4NzIwMDM4LDE4NzIwMDQwLDE4NzIwMDQyLDE4NzIwMDQ0LDE4NzIwMDQ2LDE4NzIwMDQ4LDE4NzIwMDUwLDE4NzIwMDUyLDE4NzIwMDU0LDE4NzIwMDU2LDE4NzIwMDU4LDE4NzIwMDYwLDE4NzIwMDYyLDE4NzIwMDY0LDE4NzIwMDY2LDE4NzIwMDY4LDE4NzIwMDcwLDE4NzIwMDcyLDE4NzIwMDc0LDE4NzIwMDc2LDE4NzIwMDc4LDE4NzIwMDgwLDE4NzIwMDgyLDE4NzIwMDg0KTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAjIHdoZXJlIGYuaWQgPj0gODMgYW5kIGYuaWQgPD0gMTYxCg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHJlZ19yZXBsYWNlKGNvZGVfZnJpZW5kbHksICJfJCIsICcnLCB0cnVlLCAwLCAwKQo=</text>
+        <text encoding="base64">ICAgICAjIHdoZXJlIGYuaWQgPj0gODMgYW5kIGYuaWQgPD0gMTYxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGNvbmNhdChyZWdfcmVwbGFjZShjb252ZXJ0KGYudHlwZSB1c2luZyBhc2NpaSkpLCAnKScsICcnKSwgJygnLCAnJyksICcg4oCTICcsICdfJyksICcgLSAnLCAnXycpLCAnICcsICdfJyksICcoJywgZi5pZCwgJyksJykK</text>
+        <text encoding="base64">ICAgICAgIHJlZ19yZXBsYWNlKGNvZGVfZnJpZW5kbHksICJfJCIsICcnLCB0cnVlLCAwLCAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgICAgIGNvbmNhdChyZWdfcmVwbGFjZShjb252ZXJ0KGYudHlwZSB1c2luZyBhc2NpaSkpLCAnKScsICcnKSwgJygnLCAnJyksICcg4oCTICcsICdfJyksICcgLSAnLCAnXycpLCAnICcsICdfJyksICcoJywgZi5pZCwgJyksJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzsvLC9n</text>
