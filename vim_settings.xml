@@ -107,12 +107,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1596715255393">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1596716072512">
         <mark key="'" line="18" column="19" />
-        <mark key="[" line="1360" column="10" />
-        <mark key="]" line="1361" column="58" />
-        <mark key="." line="1361" column="57" />
-        <mark key="^" line="1361" column="58" />
+        <mark key="[" line="1350" column="19" />
+        <mark key="]" line="1350" column="20" />
+        <mark key="." line="1350" column="19" />
+        <mark key="^" line="1350" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1596451073803">
         <mark key="[" line="0" column="0" />
@@ -326,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnVwZGF0ZSBjb21wb25lbnR0YWJsZQpzZXQgdmVyc2lvbiAgPSAnNC4wLjU4Jwp3aGVyZSBDb21wb25lbnRJZCA9IDY0Owo=</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gbGl2ZXNjb3JlX25ld2V2ZW50KGN1cnJlbnRwZXJpb2QsIHBhcmFtMyA9PSAiMTAzIikgLy8gcGVyaW9kMwo=</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -412,13 +412,13 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>22877968</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>22548446</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0IEBtYXRjaGlkID0gMjI1NDkxMzA7Cg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gbGl2ZXNjb3JlX25ld2V2ZW50KGN1cnJlbnRwZXJpb2QsIHBhcmFtMyA9PSAiMTAzIikgLy8gcGVyaW9kMwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CnVwZGF0ZSBjb21wb25lbnR0YWJsZQpzZXQgdmVyc2lvbiAgPSAnNC4wLjU4Jwp3aGVyZSBDb21wb25lbnRJZCA9IDY0Owo=</text>
