@@ -107,12 +107,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1597069981733">
-        <mark key="'" line="1408" column="62" />
-        <mark key="[" line="1419" column="36" />
-        <mark key="]" line="1419" column="31" />
-        <mark key="." line="1419" column="30" />
-        <mark key="^" line="1419" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1597073220747">
+        <mark key="'" line="1434" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="51" />
+        <mark key="^" line="57" column="51" />
+        <mark key="." line="57" column="50" />
       </file>
       <file name="/Dummy.txt" timestamp="1596451073803">
         <mark key="[" line="0" column="0" />
@@ -221,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="877" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="55" column="63" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="641" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
@@ -313,7 +312,6 @@
       <jump line="1245" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1311" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1326" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="18" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="358" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="1395" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1398" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -321,12 +319,14 @@
       <jump line="83" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="81" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1408" column="62" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="18" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="1421" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MjIyMDg5NzUsMjIyMDg5NzcsMjIyMDg5NzksMjIwNzg2ODcsMjIwNzg2ODksMjIyODMxMTcsMjIyODMxMjEsMjIyODMxMjUsMjIyODMxMTksMjIyODMxMjMsMjI1MTEzNDUsMjI1MTEzNDcKCjIyOTU1MjA5LDIyOTU1MjExLDIyOTU4Nzg5LDIyOTU1MjE1LDIyOTU1MjE3LDIyOTU1MjE5LDIyOTU1MjIxLDIyOTU4NzkxLDIyOTU1MjI1LDIyOTU4NzkzLDIyOTU1MjI5LDIyOTU4Nzk1LDIyOTU4Nzk3LDIyOTU1MjM1Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aG9zdE1hY2hpbmVJcCA9ICcxMC4yMDAuNC4xMjAnLCBuZXh0UmVzdGFydEF0ID0gJzIwMjEtMDYtMDQgMDk6NTU6NTcnLCBmb3JjZV9yZWxvYWQgPSAwLCBTdGFydE1lbW9yeSA9IDEwMjQsIE1heE1lbW9yeSA9IDE1MDAsIA==</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -412,7 +412,7 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>22181033)</text>
+        <text encoding="base64">aG9zdE1hY2hpbmVJcCA9ICcxMC4yMDAuNC4xMjAnLCBuZXh0UmVzdGFydEF0ID0gJzIwMjEtMDYtMDQgMDk6NTU6NTcnLCBmb3JjZV9yZWxvYWQgPSAwLCBTdGFydE1lbW9yeSA9IDEwMjQsIE1heE1lbW9yeSA9IDE1MDAsIA==</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
@@ -421,10 +421,10 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text encoding="base64">c2VsZWN0ICogZnJvbSBsaXZlc2NvcmVfZXZlbnRfdG9wIGUKam9pbiBsaXZlc2NvcmVfZXZlbnRfdG9wX2ZsYWcgZWYgb24gZWYuZXZlbnRpZCA9IGUuaWQKd2hlcmUgMSBhbmQgZS5ldmVudHR5cGUgPSAxMDI1CjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MjIyMDg5NzUsMjIyMDg5NzcsMjIyMDg5NzksMjIwNzg2ODcsMjIwNzg2ODksMjIyODMxMTcsMjIyODMxMjEsMjIyODMxMjUsMjIyODMxMTksMjIyODMxMjMsMjI1MTEzNDUsMjI1MTEzNDcKCjIyOTU1MjA5LDIyOTU1MjExLDIyOTU4Nzg5LDIyOTU1MjE1LDIyOTU1MjE3LDIyOTU1MjE5LDIyOTU1MjIxLDIyOTU4NzkxLDIyOTU1MjI1LDIyOTU4NzkzLDIyOTU1MjI5LDIyOTU4Nzk1LDIyOTU4Nzk3LDIyOTU1MjM1Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTE6MzMK</text>
+        <text encoding="base64">MjIyMDg5NzUsMjIyMDg5NzcsMjIyMDg5NzksMjIwNzg2ODcsMjIwNzg2ODksMjIyODMxMTcsMjIyODMxMjEsMjIyODMxMjUsMjIyODMxMTksMjIyODMxMjMsMjI1MTEzNDUsMjI1MTEzNDcKCjIyOTU1MjA5LDIyOTU1MjExLDIyOTU4Nzg5LDIyOTU1MjE1LDIyOTU1MjE3LDIyOTU1MjE5LDIyOTU1MjIxLDIyOTU4NzkxLDIyOTU1MjI1LDIyOTU4NzkzLDIyOTU1MjI5LDIyOTU4Nzk1LDIyOTU4Nzk3LDIyOTU1MjM1Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">MTE6MzMK</text>
@@ -436,7 +436,7 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text encoding="base64">MTE6MzMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTE6MzMK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
