@@ -110,12 +110,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1598955309202">
-        <mark key="'" line="1786" column="0" />
-        <mark key="[" line="1789" column="29" />
-        <mark key="]" line="1786" column="0" />
-        <mark key="." line="1786" column="0" />
-        <mark key="^" line="1786" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1598962541510">
+        <mark key="'" line="18" column="19" />
+        <mark key="[" line="1815" column="1" />
+        <mark key="]" line="1818" column="22" />
+        <mark key="." line="1818" column="21" />
+        <mark key="^" line="1818" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1597323228278">
         <mark key="[" line="0" column="0" />
@@ -174,12 +174,12 @@
         <mark key="^" line="132" column="6" />
         <mark key="." line="132" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1598956475411">
-        <mark key="'" line="1038" column="58" />
-        <mark key="[" line="1060" column="27" />
-        <mark key="]" line="1060" column="34" />
-        <mark key="." line="1060" column="33" />
-        <mark key="^" line="1060" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1598962576359">
+        <mark key="'" line="22" column="6" />
+        <mark key="[" line="1086" column="1" />
+        <mark key="]" line="1084" column="58" />
+        <mark key="." line="1084" column="57" />
+        <mark key="^" line="1084" column="58" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1594121812759">
         <mark key="[" line="1" column="1" />
@@ -218,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1158" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="340" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="1009" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="639" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
@@ -290,7 +289,6 @@
       <jump line="83" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="81" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1408" column="62" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="18" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1421" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="69" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1522" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -318,12 +316,14 @@
       <jump line="28" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1786" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1038" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
+      <jump line="18" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="22" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>phrase</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YW5kIHQucHJvcGVydHlfaWQgPSAxNTcK</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -409,7 +409,7 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>phrase</text>
+        <text>where</text>
       </register>
       <register name="/" type="4">
         <text>systemsettings</text>
@@ -418,31 +418,31 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text encoding="base64">ICAgICAgICgyOSwgMTExMywgMSwgMCwgMCwgMCwgMCkgICMgZ2FtZSBwbGF5IHJlc3VtZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXBkYXRlIHN0YXRpc3RpY3NfdGFibGVzIHQgc2V0IHQuZm9yY2VTdGF0aWNCdWlsZEZyb20gPSBOT1coKSB3aGVyZSB0LmlkID0gNDQ2OTAKOwo=</text>
+        <text encoding="base64">YW5kIHQucHJvcGVydHlfaWQgPSAxNTcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHMubWFudWFsQWN0aXZlIGFzIHNlYXNvbl9hY3RpdmUsCiAgICAgICB0Lm1hbnVhbEFjdGl2ZSAgYXMgdGFibGVfYWN0aXZlLAo=</text>
+        <text encoding="base64">am9pbiBkZWZhdWx0X3Byb3BlcnR5X21hdGNoX29wdGlvbiBvIG9uIG8ucHJvcGVydHlfaWQgPSB0LnByb3BlcnR5X2lkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHMubWFudWFsQWN0aXZlIGFzIHNlYXNvbl9hY3RpdmUsCg==</text>
+        <text encoding="base64">VVBEQVRFIGNvbXBvbmVudHRhYmxlIFNFVCBWRVJTSU9OID0gJzEuMC42MycgV0hFUkUgY29tcG9uZW50SWQgSU4gKDEzOSwxNjAzLDI5NCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHMubWFudWFsQWN0aXZlIGFzIHNlYXNvbl9hY3RpdmUsCg==</text>
+        <text encoding="base64">dXBkYXRlIHN0YXRpc3RpY3NfdGFibGVzIHQgc2V0IHQuZm9yY2VTdGF0aWNCdWlsZEZyb20gPSBOT1coKSB3aGVyZSB0LmlkID0gNDQ2OTAKOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwbGFpbiBleHRlbmRlZAo=</text>
+        <text encoding="base64">ICAgICAgIHMubWFudWFsQWN0aXZlIGFzIHNlYXNvbl9hY3RpdmUsCiAgICAgICB0Lm1hbnVhbEFjdGl2ZSAgYXMgdGFibGVfYWN0aXZlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZCBsbS5kYXRlb2ZtYXRjaCA+PSBOT1coKSAtIGludGVydmFsIDkwIE1JTlVURQo=</text>
+        <text encoding="base64">ICAgICAgIHMubWFudWFsQWN0aXZlIGFzIHNlYXNvbl9hY3RpdmUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZCBsbS5kYXRlb2ZtYXRjaCA8PSBOT1coKSAtIGludGVydmFsCg==</text>
+        <text encoding="base64">ICAgICAgIHMubWFudWFsQWN0aXZlIGFzIHNlYXNvbl9hY3RpdmUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbm93KCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgbm93LAogICAgICAgICAgICAgICAgICAoTk9XKCkgLSBpbnRlcnZhbCA5MCBtaW51dGUpICAgICAgICAgICAgICAgICBhcyBub3dfbWludXNfOTAsCiAgICAgICAgICAgICAgICAgIChub3coKSAtIGludGVydmFsIDc1IG1pbnV0ZSkgICAgICAgICAgICAgICAgIGFzIG5vd19taW51c183NQo=</text>
+        <text encoding="base64">ZXhwbGFpbiBleHRlbmRlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZCAK</text>
+        <text encoding="base64">ICAgIGFuZCBsbS5kYXRlb2ZtYXRjaCA+PSBOT1coKSAtIGludGVydmFsIDkwIE1JTlVURQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
