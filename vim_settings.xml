@@ -113,12 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1599782269452">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="2238" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1599822170757">
+        <mark key="'" line="76" column="30" />
+        <mark key="[" line="45" column="81" />
+        <mark key="]" line="45" column="104" />
+        <mark key="^" line="45" column="104" />
+        <mark key="." line="45" column="103" />
       </file>
       <file name="/Dummy.txt" timestamp="1599471125932">
         <mark key="[" line="0" column="0" />
@@ -208,12 +208,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" timestamp="1599795051055">
-        <mark key="'" line="91" column="63" />
-        <mark key="[" line="16" column="42" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="42" />
-        <mark key="^" line="16" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" timestamp="1599822479949">
+        <mark key="'" line="105" column="38" />
+        <mark key="[" line="111" column="60" />
+        <mark key="]" line="111" column="60" />
+        <mark key="." line="111" column="59" />
+        <mark key="^" line="111" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_3.sql" timestamp="1598272419562">
         <mark key="'" line="20" column="36" />
@@ -224,9 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1664" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="97" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="1660" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="88" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1705" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="39" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -324,12 +321,15 @@
       <jump line="15" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" />
       <jump line="140" column="62" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" />
       <jump line="91" column="63" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" />
+      <jump line="74" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="98" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" />
+      <jump line="105" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>source_json</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgKCJsaXZlc2NvcmUtY29yZSIsICJsaXZlc2NvcmUtc2NvdXQiLCAibGl2ZXNjb3JlLWxpdmVvZGRzIikK</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -421,7 +421,7 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text>who won</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGxlLm1hdGNoaWQgICBhcyBtYXRjaF9pZCwKICAgICAgIGxlLnNvdXJjZWlkICBhcyBzb3VyY2VfaWQsCiAgICAgICBsZS51cGRhdGVkYXRlIGFzIHRpbWVzdGFtcCwKICAgICAgIGxlLmlkICAgICAgICBhcyBldmVudF9pZCwKICAgICAgIGxlLmV2ZW50dHlwZSBhcyBldmVudF90eXBlX2lkLAogICAgICAgZXQubmFtZSAgICAgIGFzIGV2ZW50X3R5cGVfbmFtZSwKICAgICAgIGR0Lm5hbWUgICAgICBhcyBkYXRhX3R5cGVfbmFtZSwKICAgICAgIGQudmFsdWUgICAgICBhcyBkYXRhX3ZhbHVlLAogICAgICAgc2UuaWQgICAgICAgIGFzIHNjb3V0X2V2ZW50X2lkLAogICAgICAgbGUudGV4dCAgICAgIGFzIHNvdXJjZV9qc29uLAogICAgICAgbGUuKgpmcm9tIGxpdmVzY29yZV9ldmVudF90b3AgbGUKICAgICAgIGxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnR0eXBlIGV0IG9uIGV0LmV2ZW50dHlwZSA9IGxlLmV2ZW50dHlwZQogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudF90b3BfZGF0YSBkIG9uIGQuZXZlbnRfaWQgPSBsZS5pZAogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudF90b3BfZGF0YV90eXBlIGR0IG9uIGR0LmlkID0gZC5kYXRhX3R5cGVfaWQKICAgICAgIGxlZnQgam9pbiBzY291dF9ldmVudCBzZSBvbiBzZS5pZCA9IGxlLnNjb3V0ZXZlbnRpZCBhbmQgbGUuZXZlbnR0eXBlID0gc2UuZXZlbnR0eXBlCndoZXJlIDEKICAjICAgYW5kIGxlLmV2ZW50dHlwZSBpbiAoMTEyMCwgMTQyMSwgMTQyNiwgMTQyOCwgMTQyOSwgMTQzMiwgMTQzNSwgMTQ0MCwgMTQ0MSwgMTQ0MiwgMTQ0NSwgMTQ1NykKICBhbmQgbGUubWF0Y2hpZCA9IEBtYXRjaGlkCm9yZGVyIGJ5IGxlLmlkCjsK</text>
+        <text encoding="base64">ICAgICAgKCJsaXZlc2NvcmUtY29yZSIsICJsaXZlc2NvcmUtc2NvdXQiLCAibGl2ZXNjb3JlLWxpdmVvZGRzIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIGR0Lm5hbWUgICAgICBhcyBkYXRhX3R5cGVfbmFtZSwKICAgICAgIGQudmFsdWUgICAgICBhcyBkYXRhX3ZhbHVlLAo=</text>
