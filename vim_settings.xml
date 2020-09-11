@@ -205,12 +205,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" timestamp="1599783728700">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" timestamp="1599784827648">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="60" />
-        <mark key="." line="37" column="59" />
-        <mark key="^" line="37" column="60" />
+        <mark key="[" line="106" column="25" />
+        <mark key="]" line="106" column="26" />
+        <mark key="." line="106" column="25" />
+        <mark key="^" line="106" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_3.sql" timestamp="1598272419562">
         <mark key="'" line="20" column="36" />
@@ -326,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>candidate_scout_events</text>
+        <text>source_json</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -412,40 +412,40 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>candidate_scout_events</text>
+        <text>source_json</text>
       </register>
       <register name="/" type="4">
         <text>who won</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIGNvdW50KGRpc3RpbmN0IGNhbmRpZGF0ZS5pZCkgYXMgY2FuZGlkYXRlX2V2ZW50cywK</text>
+        <text encoding="base64">c2VsZWN0IGxlLm1hdGNoaWQgICBhcyBtYXRjaF9pZCwKICAgICAgIGxlLnNvdXJjZWlkICBhcyBzb3VyY2VfaWQsCiAgICAgICBsZS51cGRhdGVkYXRlIGFzIHRpbWVzdGFtcCwKICAgICAgIGxlLmlkICAgICAgICBhcyBldmVudF9pZCwKICAgICAgIGxlLmV2ZW50dHlwZSBhcyBldmVudF90eXBlX2lkLAogICAgICAgZXQubmFtZSAgICAgIGFzIGV2ZW50X3R5cGVfbmFtZSwKICAgICAgIGR0Lm5hbWUgICAgICBhcyBkYXRhX3R5cGVfbmFtZSwKICAgICAgIGQudmFsdWUgICAgICBhcyBkYXRhX3ZhbHVlLAogICAgICAgc2UuaWQgICAgICAgIGFzIHNjb3V0X2V2ZW50X2lkLAogICAgICAgbGUudGV4dCAgICAgIGFzIHNvdXJjZV9qc29uLAogICAgICAgbGUuKgpmcm9tIGxpdmVzY29yZV9ldmVudF90b3AgbGUKICAgICAgIGxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnR0eXBlIGV0IG9uIGV0LmV2ZW50dHlwZSA9IGxlLmV2ZW50dHlwZQogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudF90b3BfZGF0YSBkIG9uIGQuZXZlbnRfaWQgPSBsZS5pZAogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudF90b3BfZGF0YV90eXBlIGR0IG9uIGR0LmlkID0gZC5kYXRhX3R5cGVfaWQKICAgICAgIGxlZnQgam9pbiBzY291dF9ldmVudCBzZSBvbiBzZS5pZCA9IGxlLnNjb3V0ZXZlbnRpZCBhbmQgbGUuZXZlbnR0eXBlID0gc2UuZXZlbnR0eXBlCndoZXJlIDEKICAjICAgYW5kIGxlLmV2ZW50dHlwZSBpbiAoMTEyMCwgMTQyMSwgMTQyNiwgMTQyOCwgMTQyOSwgMTQzMiwgMTQzNSwgMTQ0MCwgMTQ0MSwgMTQ0MiwgMTQ0NSwgMTQ1NykKICBhbmQgbGUubWF0Y2hpZCA9IEBtYXRjaGlkCm9yZGVyIGJ5IGxlLmlkCjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGxlLnN0YXQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHNlLmlkICAgICAgICBhcyBzY291dF9ldmVudF9pZCwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGxlLioK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGxlLnRleHQgICAgICBhcyBzb3VyY2VfanNvbiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIHNlLmlkICAgICAgICBhcyBzY291dF9ldmVudF9pZCwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIGR0Lm5hbWUgICAgICBhcyBkYXRhX3R5cGVfbmFtZSwKICAgICAgIGQudmFsdWUgICAgICBhcyBkYXRhX3ZhbHVlLAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIGxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnRfdG9wX2RhdGEgZCBvbiBkLmV2ZW50X2lkID0gbGUuaWQKICAgICAgIGxlZnQgam9pbiBsaXZlc2NvcmVfZXZlbnRfdG9wX2RhdGFfdHlwZSBkdCBvbiBkdC5pZCA9IGQuZGF0YV90eXBlX2lkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIGxlZnQgam9pbiBzY291dF9ldmVudCBzZSBvbiBzZS5pZCA9IGxlLnNjb3V0ZXZlbnRpZCBhbmQgbGUuZXZlbnR0eXBlID0gc2UuZXZlbnR0eXBlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2VsZWN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIGxlLnVwZGF0ZWRhdGUsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIGxlLnN0YXQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHNlLmlkICAgICAgICBhcyBzY291dF9ldmVudF9pZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzeXN0ZW1zZXR0aW5ncyBzCndoZXJlIHMuREVTQ1JJUFRJT04gPSAiU2NvdXRfRGVsYXlJbkxpdmVPZGRzSGVhZGVyIgo7Cg==</text>
+        <text encoding="base64">ICAgICAgIGxlLioK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXBkYXRlIHN5c3RlbXNldHRpbmdzIHMKc2V0IHMuVkFMVUUgPSAiPG1hdGNoaWQtMT4sPG1hdGNoaWQtMj4sLi48bWF0Y2hpZC1uPiIKd2hlcmUgcy5ERVNDUklQVElPTiA9ICJMaXZlU291cmNlRXhwb3J0ZXJfTWF0Y2hlc1RvUmVjb3ZlckNvbW1hU2VwYXJhdGVkIjsKCg==</text>
+        <text encoding="base64">ICAgICAgIGxlLnRleHQgICAgICBhcyBzb3VyY2VfanNvbiwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzskLywvZw==</text>
