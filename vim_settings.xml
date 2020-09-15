@@ -113,12 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1600199716667">
-        <mark key="'" line="2423" column="0" />
-        <mark key="[" line="69" column="37" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="32" />
-        <mark key="^" line="69" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1600203498508">
+        <mark key="'" line="2398" column="0" />
+        <mark key="[" line="2388" column="8" />
+        <mark key="]" line="2388" column="4" />
+        <mark key="." line="2388" column="3" />
+        <mark key="^" line="2388" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1599471125932">
         <mark key="[" line="0" column="0" />
@@ -177,12 +177,12 @@
         <mark key="^" line="132" column="6" />
         <mark key="." line="132" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1600201306283">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1600203215370">
         <mark key="'" line="15" column="18" />
-        <mark key="[" line="35" column="82" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="20" />
+        <mark key="[" line="295" column="7" />
+        <mark key="]" line="295" column="12" />
+        <mark key="^" line="295" column="12" />
+        <mark key="." line="295" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1594121812759">
         <mark key="[" line="1" column="1" />
@@ -208,12 +208,12 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" timestamp="1600178372252">
-        <mark key="'" line="320" column="0" />
-        <mark key="[" line="324" column="38" />
-        <mark key="]" line="324" column="46" />
-        <mark key="." line="324" column="45" />
-        <mark key="^" line="324" column="46" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" timestamp="1600203581579">
+        <mark key="'" line="322" column="0" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_3.sql" timestamp="1598272419562">
         <mark key="'" line="20" column="36" />
@@ -328,8 +328,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Tennis</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -424,31 +424,31 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text encoding="base64">c2VsZWN0ICogZnJvbSBjb21wb25lbnR0YWJsZSBjIG9yZGVyIGJ5IGMuQ29tcG9uZW50SWQgZGVzYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGxtLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gbGl2ZXNjb3JlX25ld2V2ZW50IChzb3VyY2VpZCwgbWF0Y2hpZCwgZXZlbnR0eXBlKQp2YWx1ZXMgKDk3MywgQG1hdGNoaWQsIDEwMDApOwo7CgppbnNlcnQgaW50byBsaXZlc2NvcmVfbmV3ZXZlbnQgKHNvdXJjZWlkLCBtYXRjaGlkLCBldmVudHR5cGUsIHBhcmFtMSwgcGFyYW0yLCBwYXJhbTMsIHBhcmFtNCwgcGFyYW01LCBgdGV4dGAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGl2ZXNjb3JlZXZlbnRpZCwgc2NvdXRldmVudGlkKQp2YWx1ZXMgKDk3MywgMjI1NDg3MTcsKQo7CgpzaG93IGZ1bGwgY29sdW1ucyBmcm9tIGxpdmVzY29yZV9uZXdldmVudAo7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHMuc3BvcnRuYW1lICAgICAgICAgIGFzIHNwb3J0X25hbWUsCiAgICAgICByYy5ERVNDUklQVElPTiAgICAgICBhcyBjYXRlZ29yeV9uYW1lLAogICAgICAgdC50b3VybmFtZW50bmFtZSAgICAgYXMgdG91cm5hbWVudF9uYW1lLAo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfcnVsZSByCndoZXJlIHIubWF0Y2hpZCA9IEBtYXRjaGlkCjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgZGF0ZShsbS5kYXRlb2ZtYXRjaCksIGhvdXIobG0uZGF0ZW9mbWF0Y2gpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YW5kIGxtLnN0YXJ0ZWQgYW5kIGxtLmVuZGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXBkYXRlIHN0YXRpc3RpY3NfdGFibGVzIHQgc2V0IHQuZm9yY2VzdGF0aWNidWlsZGZyb20gPSBOT1coKSB3aGVyZSB0LnNlYXNvbmlkID0gNzQ4ODU7Cg==</text>
+        <text encoding="base64">c2VsZWN0IHQuZm9yY2VTdGF0aWNCdWlsZEZyb20sIHQuKgpmcm9tIHN0YXRpc3RpY3NfdGFibGVzIHQKd2hlcmUgdC5zZWFzb25pZCA9IDc0ODg1CjsKCnNlbGVjdCAqCmZyb20gc3RhdGlzdGljc19zdGF0aWNfbWF0Y2hpbnRhYmxlIG1pdAp3aGVyZSBtaXQudGFibGVpZCA9IDUwNDg5CjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5kIGUuZXZlbnR0eXBlCg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gb2Rkcy5jb21wb25lbnR0YWJsZSAoQ29tcG9uZW50SWQsIENvbXBvbmVudE5hbWUsIHJtaVJlZ2lzdHJ5LCBnZW5lcmF0ZUxvZywgTG9nSW5mbywgaG9zdE1hY2hpbmVJcCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JvdXBJZCwgYXJ0aWZhY3RJZCwgdmVyc2lvbiwgZm9yY2VfcmVsb2FkLCBjbGFzc0ZpbGVOYW1lLCBwYWNrYWdlTmFtZSwgc3RhbmRhbG9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWF4TWVtb3J5LCBTdGFydE1lbW9yeSwgUGFyYW1ldGVyZXMsIFN0YXJ0RGlyZWN0b3J5LCBqYXZhUGFyYW1ldGVyZXMsIGphdmFQYXRoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RpdmUsIHN0YXJ0VXBEZWxheUluU2Vjb25kcywgaXNDcml0aWNhbCwgcmVzdGFydEV2ZXJ5TWludXRlcywgbmV4dFJlc3RhcnRBdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzdFNodXREb3duQXQsIFJlc3RhcnRBdENsb2NrLCBtaW5Ib3Vyc0JldHdlZW5BdXRvUmVzdGFydHMsIGNhbkJlQXV0b1Jlc3RhcnRlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlkUmVzdGFydEF0LCBwcmlvcml0eSwgc3BlY2lhbGNsYXNzcGF0aCwgQ29tcG9uZW50U2h1dERvd25UaHJlYWQsIG1lbW9yeXVzZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3RhcnRNYWNoaW5lQWZ0ZXJNaW51dGVzLCB1c2VyaWQsIHNob3dQcm9iYWJseURvd24sIHNlbmRtYWlsb250aHJvd2FibGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lbW9yeUxhc3RBZGp1c3RlZCwgZG9GYWlsb3ZlciwgZmlyZXdhbEFuY2hvciwgY29tcG9uZW50RGVwZW5kZW50LCBmaXJld2FsbEZvcndhcmRUbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FuX3J1bl9vbl9saW51eCwgZXh0ZXJuYWxfYWNjZXNzLCBybWlfcG9ydCwgb2xkX2lwLCBuZXdfaXAsIHJlc3BvbnNpYmxlLCBjb21tZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjcHVfbG9hZCwgbWFjaGluZV9ncm91cCwgdGltZV9jbGFpbWVkLCBwcmV2aW91c19ob3N0X21hY2hpbmVfaXAsIHByb2R1Y3RpZCkKVkFMVUVTICgzMzc3LCAnU2NvdXRMaXZlc2NvcmVUZW5uaXNDb21wb25lbnQnLCBudWxsLCAxLCAnMTAwLDIwMCwzMDAnLCAnMTAuMjAwLjEyLjIxJywgJ2NvbS5zcG9ydHJhZGFyLmxpdmVzY29yZScsCiAgICAgICAgJ2xpdmVzY29yZS1zY291dCcsICc0LjAuODQnLCAwLCAnU2NvdXRMaXZlc2NvcmVUZW5uaXNDb21wb25lbnQnLCAnY29tLm9kZHNhcmJpdHJhZ2Uuc2NvdXQubGl2ZXNjb3JlJywgMSwgOTAwLAogICAgICAgIDIwMCwgbnVsbCwgJ2M6XFxQZXR0ZXInLCAnLXNlcnZlciAtWFg6LU9taXRTdGFja1RyYWNlSW5GYXN0VGhyb3cgLUR1c2VyLnRpbWV6b25lPVVUQycsICdqYXZhOScsIDAsIDAsIDAsIDAsCiAgICAgICAgJzIwMjEtMDktMTAgMTI6NTk6MjgnLCAnMjAyMC0wOS0xMCAxMjo1OToyNycsIC0xLCAwLCAwLCAnMjAyMC0wOS0xMCAxMjo1OToyNycsIG51bGwsIDAsICcyMDE5LTA3LTE5IDA4OjI1OjM5JywKICAgICAgICA1MDQsIDAsIDI1LCAxLCAxLCBudWxsLCAxLCBudWxsLCBudWxsLCBudWxsLCAxLCAwLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">am9pbiBsaXZlc2NvcmVfZXZlbnRfdG9wX2JhY2t1cCBlIG9uIGUubWF0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzskLywvZw==</text>
