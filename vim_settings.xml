@@ -113,12 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1600595488216">
-        <mark key="'" line="2767" column="54" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1600600981898">
+        <mark key="'" line="2778" column="20" />
         <mark key="[" line="2784" column="43" />
-        <mark key="]" line="2784" column="43" />
-        <mark key="." line="2784" column="42" />
-        <mark key="^" line="2784" column="43" />
+        <mark key="]" line="2778" column="21" />
+        <mark key="." line="2778" column="20" />
+        <mark key="^" line="2778" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1600587240903">
         <mark key="[" line="0" column="0" />
@@ -177,11 +177,12 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="15" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1600591384283">
-        <mark key="'" line="1278" column="46" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1600600443418">
+        <mark key="'" line="1279" column="46" />
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1594121812759">
         <mark key="[" line="1" column="1" />
@@ -201,7 +202,7 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1600593097301">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1600601103346">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -223,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2091" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="41" column="60" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="2173" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="2174" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -323,6 +323,7 @@
       <jump line="1278" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="2749" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="2767" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="2778" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
