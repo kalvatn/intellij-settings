@@ -170,12 +170,12 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49fd5b0e-8859-4895-aba8-a5c13044d8c3/console.sql" timestamp="1600767471474">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49fd5b0e-8859-4895-aba8-a5c13044d8c3/console.sql" timestamp="1600773459207">
         <mark key="'" line="15" column="17" />
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="28" column="45" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="28" column="44" />
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="9" />
+        <mark key="^" line="46" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1600692522247">
         <mark key="'" line="52" column="33" />
@@ -326,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Owo=</text>
+      <register name="&quot;" type="4">
+        <text>2147</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -413,40 +413,40 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>livescore_scout_import_component_rule</text>
+        <text>2147</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
-      <register name="0" type="4">
-        <text>ScoutLivescoreSoccerTier2Component</text>
+      <register name="0" type="2">
+        <text encoding="base64">KDcsIDIzLCAyMTQ3LCAtMSwgMzM4MCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">am9pbiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">am9pbiByZWFsCg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnbGl2ZXNjb3JlLXNjb3V0JywgJzQuMC44NCcsIDAsICdTY291dExpdmVzY29yZUVsZWN0cm9uaWNMZWFndWVzQ29tcG9uZW50JywgJ2NvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmxpdmVzY29yZScsIDEsIDkwMCwK</text>
+        <text encoding="base64">am9pbiByZWFsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnbGl2ZXNjb3JlLXNjb3V0JywgJzQuMC44NCcsIDAsICdTY291dExpdmVzY29yZUVsZWN0cm9uaWNMZWFndWVzQ29tcG9uZW50JywgJ2NvbS5vZGRzYXJiaXRyYWdlLnNjb3V0LmxpdmVzY29yZScsIDEsIDkwMCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">NC4wLjk1LVNMLTY3Ny1TTkFQU0hPVApwCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAjICAgYW5kIGxtLnNwb3J0aWQgPSAxCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAjICAgQU5EIHQubWF0Y2hpZCA9IDIyNjUwMzgzCiAgIyAgIGFuZCB0Lm1hdGNoaWQgPSAyMzYyMzg1Nwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">NC4wLjk1LVNMLTY3Ny1TTkFQU0hPVApwCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAjICAgYW5kIGxtLnNwb3J0aWQgPSAxCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAjICAgQU5EIHQubWF0Y2hpZCA9IDIyNjUwMzgzCiAgIyAgIGFuZCB0Lm1hdGNoaWQgPSAyMzYyMzg1Nwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbmQgbG0uZGF0ZW9mbWF0Y2ggPj0gTk9XKCkgLSBpbnRlcnZhbCAxIGhvdXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vKC9n</text>
