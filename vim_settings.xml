@@ -113,12 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1600819261509">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1600821392733">
         <mark key="'" line="30" column="40" />
-        <mark key="[" line="2832" column="37" />
-        <mark key="]" line="2832" column="49" />
-        <mark key="." line="2832" column="48" />
-        <mark key="^" line="2832" column="49" />
+        <mark key="[" line="2835" column="42" />
+        <mark key="]" line="2835" column="42" />
+        <mark key="." line="2835" column="41" />
+        <mark key="^" line="2835" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1600811106371">
         <mark key="[" line="0" column="0" />
@@ -202,7 +202,7 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1600818778309">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1600821102211">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -327,7 +327,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, 7, 30, 31, 32, 26</text>
+        <text encoding="base64">c29jY2VyIA==</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -413,40 +413,40 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>, 7, 30, 31, 32, 26</text>
+        <text encoding="base64">c29jY2VyIA==</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhbmQgbG0ucmVhbGNhdGVnb3J5aWQgbm90IGluICgxLCA3LCAzMCwgMzEsIDMyLCAyNikK</text>
+        <text encoding="base64">IyAgIGFuZCBsbS5yZWFsY2F0ZWdvcnlpZCBub3QgaW4gKDEsIDcsIDMwLCAzMSwgMzIsIDI2KSAjIHNvY2NlciB0aWVyIDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyB0aWVyIDEKIyBwcm9kICAgICAgICB8ICAgIGxvZGV2ZwojIDIzMjAzODEzICAgIHwgMjM2Nzk5NTUKIyAyMjY1MDM5MyAgICB8IDIzNjc5OTU3CiMgMjI5MjQyNDMgICAgfCAyMzY3OTk1OAojIDIzMDMxODAzICAgIHwgMjM2Nzk5NTkKIyAyMzU3MzMzMSAgICB8IDIzNjc5OTYwCiMgMjMzNjIyMjMgICAgfCAyMzY3OTk1NwoKIyB0aWVyIDIKIyBwcm9kICAgICAgICB8ICAgIGxvZGV2CiMgMjMzNTUwODMgICAgfCAyMzY3OTk2MgojIDIzMTgxNjE1ICAgIHwgMjM2Nzk5NjMKCgo=</text>
+        <text encoding="base64">bgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgbG0ucmVhbGNhdGVnb3J5aWQK</text>
+        <text encoding="base64">IyB0aWVyIDEKIyBwcm9kICAgICAgICB8ICAgIGxvZGV2ZwojIDIzMjAzODEzICAgIHwgMjM2Nzk5NTUKIyAyMjY1MDM5MyAgICB8IDIzNjc5OTU3CiMgMjI5MjQyNDMgICAgfCAyMzY3OTk1OAojIDIzMDMxODAzICAgIHwgMjM2Nzk5NTkKIyAyMzU3MzMzMSAgICB8IDIzNjc5OTYwCiMgMjMzNjIyMjMgICAgfCAyMzY3OTk1NwoKIyB0aWVyIDIKIyBwcm9kICAgICAgICB8ICAgIGxvZGV2CiMgMjMzNTUwODMgICAgfCAyMzY3OTk2MgojIDIzMTgxNjE1ICAgIHwgMjM2Nzk5NjMKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3JkZXIgYnkgbG0uZGF0ZW9mbWF0Y2ggZGVzYwo=</text>
+        <text encoding="base64">Z3JvdXAgYnkgbG0ucmVhbGNhdGVnb3J5aWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAyMjY1MDM5MyAgICB8IDIzNjc5OTU3CiMgMjI5MjQyNDMgICAgfCAyMzY3OTk1OAojIDIzMDMxODAzICAgIHwgMjM2Nzk5NTkKIyAyMzU3MzMzMSAgICB8IDIzNjc5OTYwCiMgMjMzNjIyMjMgICAgfCAyMzY3OTk1Nwo=</text>
+        <text encoding="base64">b3JkZXIgYnkgbG0uZGF0ZW9mbWF0Y2ggZGVzYwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">IyAyMjY1MDM5MyAgICB8IDIzNjc5OTU3CiMgMjI5MjQyNDMgICAgfCAyMzY3OTk1OAojIDIzMDMxODAzICAgIHwgMjM2Nzk5NTkKIyAyMzU3MzMzMSAgICB8IDIzNjc5OTYwCiMgMjMzNjIyMjMgICAgfCAyMzY3OTk1Nwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">IyAyMzIwMzgxMyBsb2RldiAyMzY3OTk1NQo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">bWF0Y2hpZAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">NC4wLjk4LVNMLTY3Ny1TTkFQU0hPVAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gb2Rkcy5jb21wb25lbnR0YWJsZSAoQ29tcG9uZW50SWQsIENvbXBvbmVudE5hbWUsIHJtaVJlZ2lzdHJ5LCBnZW5lcmF0ZUxvZywgTG9nSW5mbywgaG9zdE1hY2hpbmVJcCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JvdXBJZCwgYXJ0aWZhY3RJZCwgdmVyc2lvbiwgZm9yY2VfcmVsb2FkLCBjbGFzc0ZpbGVOYW1lLCBwYWNrYWdlTmFtZSwgc3RhbmRhbG9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWF4TWVtb3J5LCBTdGFydE1lbW9yeSwgUGFyYW1ldGVyZXMsIFN0YXJ0RGlyZWN0b3J5LCBqYXZhUGFyYW1ldGVyZXMsIGphdmFQYXRoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RpdmUsIHN0YXJ0VXBEZWxheUluU2Vjb25kcywgaXNDcml0aWNhbCwgcmVzdGFydEV2ZXJ5TWludXRlcywgbmV4dFJlc3RhcnRBdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFzdFNodXREb3duQXQsIFJlc3RhcnRBdENsb2NrLCBtaW5Ib3Vyc0JldHdlZW5BdXRvUmVzdGFydHMsIGNhbkJlQXV0b1Jlc3RhcnRlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlkUmVzdGFydEF0LCBwcmlvcml0eSwgc3BlY2lhbGNsYXNzcGF0aCwgQ29tcG9uZW50U2h1dERvd25UaHJlYWQsIG1lbW9yeXVzZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3RhcnRNYWNoaW5lQWZ0ZXJNaW51dGVzLCB1c2VyaWQsIHNob3dQcm9iYWJseURvd24sIHNlbmRtYWlsb250aHJvd2FibGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lbW9yeUxhc3RBZGp1c3RlZCwgZG9GYWlsb3ZlciwgZmlyZXdhbEFuY2hvciwgY29tcG9uZW50RGVwZW5kZW50LCBmaXJld2FsbEZvcndhcmRUbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FuX3J1bl9vbl9saW51eCwgZXh0ZXJuYWxfYWNjZXNzLCBybWlfcG9ydCwgb2xkX2lwLCBuZXdfaXAsIHJlc3BvbnNpYmxlLCBjb21tZW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjcHVfbG9hZCwgbWFjaGluZV9ncm91cCwgdGltZV9jbGFpbWVkLCBwcmV2aW91c19ob3N0X21hY2hpbmVfaXAsIHByb2R1Y3RpZCkKVkFMVUVTICgzMzgzLCAnU2NvdXRMaXZlc2NvcmVCYXNrZXRiYWxsQ29tcG9uZW50JywgbnVsbCwgMSwgJzEwMCwyMDAsMzAwJywgJzEwLjIwMC40LjEyMycsICdjb20uc3BvcnRyYWRhci5saXZlc2NvcmUnLAogICAgICAgICdsaXZlc2NvcmUtc2NvdXQnLCAnNC4wLjg0JywgMCwgJ1Njb3V0TGl2ZXNjb3JlQmFza2V0YmFsbENvbXBvbmVudCcsICdjb20ub2Rkc2FyYml0cmFnZS5zY291dC5saXZlc2NvcmUnLCAxLCA5MDAsCiAgICAgICAgMjAwLCBudWxsLCAnYzpcXFBldHRlcicsICctc2VydmVyIC1YWDotT21pdFN0YWNrVHJhY2VJbkZhc3RUaHJvdyAtRHVzZXIudGltZXpvbmU9VVRDJywgJ2phdmEnLCAwLCAwLCAwLCAwLAogICAgICAgICcyMDIxLTA5LTEwIDEyOjU5OjI4JywgJzIwMjAtMDktMTAgMTI6NTk6MjcnLCAtMSwgMCwgMCwgJzIwMjAtMDktMTAgMTI6NTk6MjcnLCBudWxsLCAwLCAnMjAxOS0wNy0xOSAwODoyNTozOScsCiAgICAgICAgNTA0LCAwLCAyNSwgMSwgMSwgbnVsbCwgMSwgbnVsbCwgbnVsbCwgbnVsbCwgMSwgMCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCk7Cg==</text>
+        <text encoding="base64">NC4wLjk4LVNMLTY3Ny1TTkFQU0hPVAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vKC9n</text>
