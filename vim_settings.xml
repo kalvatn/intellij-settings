@@ -177,12 +177,12 @@
         <mark key="." line="28" column="44" />
         <mark key="^" line="28" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1600940247310">
-        <mark key="'" line="1514" column="41" />
-        <mark key="[" line="1428" column="40" />
-        <mark key="]" line="1428" column="55" />
-        <mark key="." line="1428" column="54" />
-        <mark key="^" line="1428" column="55" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1600942725501">
+        <mark key="'" line="1518" column="41" />
+        <mark key="[" line="1435" column="0" />
+        <mark key="]" line="1436" column="119" />
+        <mark key="." line="1434" column="0" />
+        <mark key="^" line="1434" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1594121812759">
         <mark key="[" line="1" column="1" />
@@ -202,7 +202,7 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1600936638274">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1600941680095">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -326,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>23703250</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5zZXJ0IGludG8gc2NvdXRfbGl2ZXNjb3JlX2ltcG9ydF9ydWxlIChzb3J0LCBzcG9ydGlkLCByZWFsY2F0ZWdvcnlpZCwgdG91cm5hbWVudGlkLCBjb21wb25lbnRpZCkgVkFMVUVTICgwLCAyMCwgLTEsIC0xLCAtMSk7ICMgPC0gYmxvY2sgdGFibGUgdGVubmlzCmRlbGV0ZSBmcm9tIHNjb3V0X2xpdmVzY29yZV9pbXBvcnRfcnVsZSB3aGVyZSBzb3J0ID0gMCBhbmQgc3BvcnRpZCA9IDIwIGFuZCBjb21wb25lbnRpZCA9IC0xOyAjIDwtIHVuYmxvY2sgdGFibGUgdGVubmlzCg==</text>
       </register>
       <register name="+" type="2">
         <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
@@ -413,13 +413,13 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
 INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
       </register>
       <register name="-" type="4">
-        <text>23703250</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAyMzcwMTk0MSAtPiAyMzcwMzI1MCAoY2F0ZWdvcnkgMTY4MykK</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gc2NvdXRfbGl2ZXNjb3JlX2ltcG9ydF9ydWxlIChzb3J0LCBzcG9ydGlkLCByZWFsY2F0ZWdvcnlpZCwgdG91cm5hbWVudGlkLCBjb21wb25lbnRpZCkgVkFMVUVTICgwLCAyMCwgLTEsIC0xLCAtMSk7ICMgPC0gYmxvY2sgdGFibGUgdGVubmlzCmRlbGV0ZSBmcm9tIHNjb3V0X2xpdmVzY29yZV9pbXBvcnRfcnVsZSB3aGVyZSBzb3J0ID0gMCBhbmQgc3BvcnRpZCA9IDIwIGFuZCBjb21wb25lbnRpZCA9IC0xOyAjIDwtIHVuYmxvY2sgdGFibGUgdGVubmlzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2hvdyBmdWxsIGNvbHVtbnMgZnJvbSBzY291dF9ldmVudAo7Cg==</text>
