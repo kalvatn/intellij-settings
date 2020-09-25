@@ -120,7 +120,7 @@
         <mark key="." line="59" column="7" />
         <mark key="^" line="59" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600811106371">
+      <file name="/Dummy.txt" timestamp="1601044331595">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e1039c38-5c9c-439b-92ae-732873bc4650/console.sql" timestamp="1594402960749">
@@ -141,12 +141,6 @@
         <mark key="]" line="6" column="45" />
         <mark key="^" line="6" column="45" />
         <mark key="." line="6" column="44" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71344792-3c51-4617-92fa-01a867044cd6/console.sql" timestamp="1593699670521">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1594639021183">
         <mark key="'" line="11" column="52" />
@@ -170,14 +164,19 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49fd5b0e-8859-4895-aba8-a5c13044d8c3/console.sql" timestamp="1601043700562">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="24" />
-        <mark key="^" line="28" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/06f52eb3-f667-4283-bc9c-1cff618e2e77/console_2.sql" timestamp="1601044218474">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1601037626699">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49fd5b0e-8859-4895-aba8-a5c13044d8c3/console.sql" timestamp="1601044680598">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1601044190013">
         <mark key="'" line="1467" column="42" />
         <mark key="[" line="1469" column="0" />
         <mark key="]" line="1471" column="1" />
@@ -327,93 +326,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ScoutLivescoreTableTennisComponent</text>
+        <text>id</text>
       </register>
       <register name="+" type="2">
-        <text>INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_110', 20202134, 110, 11, '-1', '51', '49', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_129_1', 20202134, 129, 11, '1', '17', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_129_2', 20202134, 129, 11, '2', '11', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_134_1', 20202134, 134, 11, '1', '6', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_134_2', 20202134, 134, 11, '2', '32', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1065_1', 20202134, 1065, 11, '1', '7', '3', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1065_2', 20202134, 1065, 11, '2', '19', '14', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1066_1_2', 20202134, 1066, 11, '1', '2', '19', '4', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1066_1_3', 20202134, 1066, 11, '1', '3', '10', '4', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1066_2_2', 20202134, 1066, 11, '2', '2', '36', '24', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1066_2_3', 20202134, 1066, 11, '2', '3', '11', '3', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1067_1', 20202134, 1067, 11, '1', '14', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1067_2', 20202134, 1067, 11, '2', '31', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1080', 20202134, 1080, 11, '600', '0', '1516', '1580119730000', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1098_1', 20202134, 1098, 11, '1', '3', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1182_1_1', 20202134, 1182, 11, '1', '1', '6', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1182_1_2', 20202134, 1182, 11, '1', '2', '6', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1182_1_3', 20202134, 1182, 11, '1', '3', '5', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1182_2_1', 20202134, 1182, 11, '2', '1', '5', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1182_2_2', 20202134, 1182, 11, '2', '2', '5', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1182_2_3', 20202134, 1182, 11, '2', '3', '1', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1191_1_1', 20202134, 1191, 11, '1', '1', '3', '1', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1191_1_2', 20202134, 1191, 11, '1', '2', '2', '1', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1191_1_3', 20202134, 1191, 11, '1', '3', '2', '1', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1191_2_1', 20202134, 1191, 11, '2', '1', '7', '3', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1191_2_2', 20202134, 1191, 11, '2', '2', '8', '8', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1191_2_3', 20202134, 1191, 11, '2', '3', '4', '3', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1192_1_1', 20202134, 1192, 11, '1', '1', '7', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1192_1_2', 20202134, 1192, 11, '1', '2', '5', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1192_1_3', 20202134, 1192, 11, '1', '3', '2', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1192_2_1', 20202134, 1192, 11, '2', '1', '16', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1192_2_2', 20202134, 1192, 11, '2', '2', '11', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1192_2_3', 20202134, 1192, 11, '2', '3', '4', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1193_1_1', 20202134, 1193, 11, '1', '1', '1', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1193_1_2', 20202134, 1193, 11, '1', '2', '1', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1193_1_3', 20202134, 1193, 11, '1', '3', '1', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1194_1_1', 20202134, 1194, 11, '1', '1', '5', '', '', '2020-01-28 14:00:13', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1194_1_2', 20202134, 1194, 11, '1', '2', '3', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1194_1_3', 20202134, 1194, 11, '1', '3', '6', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1194_2_1', 20202134, 1194, 11, '2', '1', '14', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1194_2_2', 20202134, 1194, 11, '2', '2', '18', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1194_2_3', 20202134, 1194, 11, '2', '3', '10', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1197_1_1', 20202134, 1197, 11, '1', '1', '8', '3', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1197_1_2', 20202134, 1197, 11, '1', '2', '9', '1', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1197_1_3', 20202134, 1197, 11, '1', '3', '2', '0', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1197_2_1', 20202134, 1197, 11, '2', '1', '16', '9', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1197_2_2', 20202134, 1197, 11, '2', '2', '14', '10', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1197_2_3', 20202134, 1197, 11, '2', '3', '6', '5', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1198_1_1', 20202134, 1198, 11, '1', '1', '3', '0', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1198_1_2', 20202134, 1198, 11, '1', '2', '3', '1', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1198_1_3', 20202134, 1198, 11, '1', '3', '4', '3', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1198_2_1', 20202134, 1198, 11, '2', '1', '6', '1', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1198_2_2', 20202134, 1198, 11, '2', '2', '3', '1', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1198_2_3', 20202134, 1198, 11, '2', '3', '2', '1', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1199_1', 20202134, 1199, 11, '1', '50', '50', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1199_2', 20202134, 1199, 11, '2', '54', '46', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1199_3', 20202134, 1199, 11, '3', '47', '53', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1619_1', 20202134, 1619, 11, '1', '5', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1619_2', 20202134, 1619, 11, '2', '52', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1620_1_1', 20202134, 1620, 11, '1', '1', '5', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1620_1_2', 20202134, 1620, 11, '1', '2', '0', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1620_1_3', 20202134, 1620, 11, '1', '3', '0', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1620_2_1', 20202134, 1620, 11, '2', '1', '17', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1620_2_2', 20202134, 1620, 11, '2', '2', '42', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1620_2_3', 20202134, 1620, 11, '2', '3', '52', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1654_1', 20202134, 1654, 11, '1', '192', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1654_2', 20202134, 1654, 11, '2', '1285', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1655_1_1', 20202134, 1655, 11, '1', '1', '192', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1655_1_2', 20202134, 1655, 11, '1', '2', '0', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1655_1_3', 20202134, 1655, 11, '1', '3', '0', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1655_2_1', 20202134, 1655, 11, '2', '1', '368', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1655_2_2', 20202134, 1655, 11, '2', '2', '600', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1655_2_3', 20202134, 1655, 11, '2', '3', '317', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1661_1', 20202134, 1661, 11, '1', '1', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1661_2', 20202134, 1661, 11, '2', '1', '', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_1_1', 20202134, 1662, 11, '1', '1', '1', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_1_2', 20202134, 1662, 11, '1', '2', '0', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_1_3', 20202134, 1662, 11, '1', '3', '0', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_1', 20202134, 1662, 11, '2', '1', '1', '', '', '2020-01-28 14:00:14', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_2', 20202134, 1662, 11, '2', '2', '0', '', '', '2020-01-28 14:00:15', -1);
-INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, param2, param3, param4, text, eventdate, injurytime) VALUES ('20202134_1662_2_3', 20202134, 1662, 11, '2', '3', '0', '', '', '2020-01-28 14:00:15', -1);</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9maWxpbmdfY29ubmVjdGlvbl9wb29sIHAKd2hlcmUgMQogIGFuZCBwLmNvbXBvbmVudF9pZCBpbiAoMjcwKQogIGFuZCBwLmFkZGVkX2F0ID49IE5PVygpIC0gaW50ZXJ2YWwgMSBob3VyCjsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ScoutLivescoreTableTennisComponent</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -422,31 +341,31 @@ INSERT INTO odds.livescore_scoutevent (id, matchid, eventtype, time, param1, par
         <text encoding="base64">ICAgICAgIHRpbWVzdGFtcGRpZmYoc2Vjb25kLCBzZS5ldmVudGRhdGUsIGUuZXZlbnRkYXRlKSBhcyBkaWZmX2NyZWF0ZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgIGFuZCAocC5tZXRob2RfbmFtZSBsaWtlICIlZ2V0Q292ZXJhZ2VzKCklIiAgb3IgcC5tZXRob2RfbmFtZSBsaWtlICIlZ2V0Q292ZXJhZ2VJZHMoKSUiICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gc2NvdXRfbGl2ZXNjb3JlX2ltcG9ydF9ydWxlIChzb3J0LCBzcG9ydGlkLCByZWFsY2F0ZWdvcnlpZCwgdG91cm5hbWVudGlkLCBjb21wb25lbnRpZCkKdmFsdWVzICgxLCAxLCAxLCAtMSwgMzM3NyksCiAgICAgICAoMiwgMSwgNywgLTEsIDMzNzcpLAogICAgICAgKDMsIDEsIDMwLCAtMSwgMzM3NyksCiAgICAgICAoNCwgMSwgMzEsIC0xLCAzMzc3KSwKICAgICAgICg1LCAxLCAzMiwgLTEsIDMzNzcpLAogICAgICAgKDYsIDEsIDI2LCAtMSwgMzM3NyksCgogICAgICAgKDcsIDEsIDEwMzMsIC0xLCAzMzgwKSwKICAgICAgICg4LCAyLCAyMTI3LCAtMSwgMzM4MCksCiAgICAgICAoOSwgNCwgMjEzMywgLTEsIDMzODApLAogICAgICAgKDEwLCA1LCAyMTM4LCAtMSwgMzM4MCksCiAgICAgICAoMTEsIDIxLCAyMTM2LCAtMSwgMzM4MCksCiAgICAgICAoMTIsIDIzLCAyMTQ3LCAtMSwgMzM4MCksCgogICAgICAgKDEzLCAxLCAtMSwgLTEsIDMzODEpLAogICAgICAgKDE0LCA1LCAtMSwgLTEsIDMzNzgpLAogICAgICAgKDE1LCAyMCwgLTEsIC0xLCAzMzgzKSwKICAgICAgICgxNiwgMiwgLTEsIC0xLCAzMzgyKSwKICAgICAgICg5OTksIC0xLCAtMSwgLTEsIDQ0OSkKOwoK</text>
+        <text encoding="base64">ICBhbmQgKHAubWV0aG9kX25hbWUgbGlrZSAiJW9uRXZlbnQoKSUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKc2VsZWN0IGxtLnNwb3J0aWQKICAgICAsIGxtLnJlYWxjYXRlZ29yeWlkCiAgICAgLCBsbS50b3VybmFtZW50aWQKICAgICAsIGxtLm1hdGNoaWQKICAgICAsIGxtLmRhdGVvZm1hdGNoCiAgICAgLCBsbS5zY291dG1hdGNoCiAgICAgLCBsbS5zdGFydGVkCiAgICAgLCBsbS5lbmRlZAogICAgICwgbG0ucHVibGlzaAogICAgICwgbG0uaGlkZGVuCiAgICAgLCBzZS5pZAogICAgICwgc2UuZXZlbnRkYXRlCiAgICAgLCB0aW1lc3RhbXBkaWZmKHNlY29uZCwgc2UudXBkYXRlZGF0ZSwgZS51cGRhdGVkYXRlKQogICAgICwgZXQuZXZlbnR0eXBlCiAgICAgLCBldC5uYW1lCiAgICAgLCBlLmV2ZW50ZGF0ZQpmcm9tIGxpdmVzY29yZV9tYXRjaCBsbQogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudF90b3AgZSBvbiBlLm1hdGNoaWQgPSBsbS5tYXRjaGlkIGFuZCBlLnNvdXJjZWlkID0gOTczIGFuZCBlLmV2ZW50dHlwZSA9IDIwCiAgICAgICBsZWZ0IGpvaW4gc2NvdXRfZXZlbnQgc2Ugb24gc2UuaWQgPSBlLnNjb3V0ZXZlbnRpZAogICAgICAgbGVmdCBqb2luIGxpdmVzY29yZV9ldmVudHR5cGUgZXQgb24gZXQuZXZlbnR0eXBlID0gZS5ldmVudHR5cGUKd2hlcmUgbG0ubWF0Y2hpZCBpbgogICAgICAoMjM3MDMxNjUsIDIzNzAzMTY2LCAyMzcwMzE2NywgMjM3MDMxNjgsIDIzNzAzMTY5LCAyMzcwMzE3MCwgMjM3MDMxNzEsIDIzNzAzMTcyLCAyMzcwMzE3MywgMjM3MDMxNzQsIDIzNzAzMTc1LAogICAgICAgMjM3MDMxNzYsIDIzNzAzMTc3LCAyMzcwMzE3OCwgMjM3MDMxNzksIDIzNzAzMTgwLCAyMzcwMzE4MSwgMjM3MDMxODIsIDIzNzAzMTgzLCAyMzcwMzE4NCwgMjM3MDMxODUsIDIzNzAzMTg2LAogICAgICAgMjM3MDMxODcsIDIzNzAzMTg4LCAyMzcwMzE4OSwgMjM3MDMxOTAsIDIzNzAzMTkxLCAyMzcwMzE5MiwgMjM3MDMxOTMsIDIzNzAzMTk0LCAyMzcwMzE5NSwgMjM3MDMxOTYsIDIzNzAzMTk3LAogICAgICAgMjM3MDMxOTgsIDIzNzAzMTk5LCAyMzcwMzIwMCwgMjM3MDMyMDEsIDIzNzAzMjAyLCAyMzcwMzIwMywgMjM3MDMyMDQsIDIzNzAzMjA2LCAyMzcwMzIwNywgMjM3MDMyMDgsIDIzNzAzMjA5LAogICAgICAgMjM3MDMyMTAsIDIzNzAzMjExLCAyMzcwMzIxMiwgMjM3MDMyMTMsIDIzNzAzMjE0LCAyMzcwMzIxNSkKOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpzZWxlY3QgYy5hY3RpdmUsIGMuY29tcG9uZW50aWQsIGMuY29tcG9uZW50bmFtZSBmcm9tIGNvbXBvbmVudHRhYmxlIGMgd2hlcmUgYy5jb21wb25lbnRpZCBJTiAoCiAyNjIsIDI2MywgMjY0LCAyNjgsIDI3MCwgMjcyCiAgKQoKCgpzZWxlY3QgbG0ubWF0Y2hpZCBmcm9tIGxpdmVzY29yZV9tYXRjaCBsbSB3aGVyZSBsbS5kYXRlb2ZtYXRjaCA+PSBOT1coKSAtIGludGVydmFsIDUgaG91ciBhbmQgbG0uZGF0ZW9mbWF0Y2ggPCBOT1coKQo7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2hvdyB0YWJsZXMgbGlrZSAiJXphYmJpeCUiCgpzZWxlY3QgKiBmcm9tIHNlcnZlcnR5cGVfdG9femFiYml4dGVtcGxhdGVzCjsKCnNlbGVjdCBlLm1hdGNoaWQsIGUuaWQsIGUuZXZlbnR0eXBlLCBlLnVwZGF0ZWRhdGUsIGUuY292ZXJhZ2VfaWQsIGUuaXNfcHJpbWFyeSBmcm9tIHNjb3V0X2V2ZW50IGUgd2hlcmUgZS5tYXRjaGlkID0gMjM3MDMyODUKOwoKU0VMRUNUIGNvdmVyYWdlX2lkIEZST00gbGRfbWF0Y2hfY292ZXJhZ2Vfb3V0cHV0IFdIRVJFIG1hdGNoX2lkID0gMjM3MDMyODUgQU5EIGRhdGFfb3V0cHV0X2lkID0gMSBBTkQgKGlzX3JlY2VudF94c2FfcHJpbWFyeSBJUyBOVUxMIE9SIGlzX3JlY2VudF94c2FfcHJpbWFyeSA8PiAxKTsKCjsKCnNlbGVjdCAqIGZyb20gc3BvcnR0YWJsZQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgIGFuZCBsbS5zdGFydGVkID0gMQo=</text>
+        <text encoding="base64">bGVmdCBqb2luIHByb2ZpbGluZ19kYXRhYmFzZSBkIG9uIGQuaWQgPSBwLmRhdGFiYXNlX2lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgIGFuZCBzbXBtLmlzdmVudWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3JkZXIgYnkgbG0uZGF0ZW9mbWF0Y2ggZGVzYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vKC9n</text>
