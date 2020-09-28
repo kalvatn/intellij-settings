@@ -113,12 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1601047831088">
-        <mark key="'" line="3005" column="26" />
-        <mark key="[" line="3009" column="0" />
-        <mark key="]" line="3009" column="28" />
-        <mark key="." line="3009" column="27" />
-        <mark key="^" line="3009" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1601283167487">
+        <mark key="'" line="2996" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="3008" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1601044331595">
         <mark key="[" line="0" column="0" />
@@ -170,7 +170,7 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49fd5b0e-8859-4895-aba8-a5c13044d8c3/console.sql" timestamp="1601048307037">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49fd5b0e-8859-4895-aba8-a5c13044d8c3/console.sql" timestamp="1601048889952">
         <mark key="[" line="32" column="5" />
         <mark key="]" line="19" column="1" />
         <mark key="^" line="19" column="1" />
@@ -221,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="2722" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="11" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/49fd5b0e-8859-4895-aba8-a5c13044d8c3/console.sql" />
@@ -321,12 +320,13 @@
       <jump line="3018" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="57" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="3002" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="2997" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">U3lzdGVtLmdjKCkK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9maWxpbmdfY29ubmVjdGlvbl9wb29sIHAKd2hlcmUgMQogIGFuZCBwLmNvbXBvbmVudF9pZCBpbiAoMjcwKQogIGFuZCBwLmFkZGVkX2F0ID49IE5PVygpIC0gaW50ZXJ2YWwgMSBob3VyCjsKCg==</text>
@@ -341,19 +341,19 @@
         <text encoding="base64">ICAgICAgIHRpbWVzdGFtcGRpZmYoc2Vjb25kLCBzZS5ldmVudGRhdGUsIGUuZXZlbnRkYXRlKSBhcyBkaWZmX2NyZWF0ZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">U3lzdGVtLmdjKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgIGFuZCAocC5tZXRob2RfbmFtZSBsaWtlICIlZ2V0Q292ZXJhZ2VzKCklIiAgb3IgcC5tZXRob2RfbmFtZSBsaWtlICIlZ2V0Q292ZXJhZ2VJZHMoKSUiICkK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbmQgKHAubWV0aG9kX25hbWUgbGlrZSAiJW9uRXZlbnQoKSUiKQo=</text>
+        <text encoding="base64">IyAgIGFuZCAocC5tZXRob2RfbmFtZSBsaWtlICIlZ2V0Q292ZXJhZ2VzKCklIiAgb3IgcC5tZXRob2RfbmFtZSBsaWtlICIlZ2V0Q292ZXJhZ2VJZHMoKSUiICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbmQgKHAubWV0aG9kX25hbWUgbGlrZSAiJW9uRXZlbnQoKSUiKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -362,10 +362,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGVmdCBqb2luIHByb2ZpbGluZ19kYXRhYmFzZSBkIG9uIGQuaWQgPSBwLmRhdGFiYXNlX2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVmdCBqb2luIHByb2ZpbGluZ19kYXRhYmFzZSBkIG9uIGQuaWQgPSBwLmRhdGFiYXNlX2lkCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vKC9n</text>
