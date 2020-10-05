@@ -119,15 +119,8 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601909884966">
+      <file name="/Dummy.txt" timestamp="1601909969183">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e1039c38-5c9c-439b-92ae-732873bc4650/console.sql" timestamp="1594402960749">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="32" column="41" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="40" />
-        <mark key="^" line="32" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_4.sql" timestamp="1599474713101">
         <mark key="[" line="0" column="31" />
@@ -147,6 +140,18 @@
         <mark key="]" line="110" column="23" />
         <mark key="^" line="110" column="23" />
         <mark key="." line="110" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console.sql" timestamp="1601909892155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" timestamp="1601909952629">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_3.sql" timestamp="1599217151914">
         <mark key="[" line="0" column="0" />
@@ -182,9 +187,6 @@
         <mark key="]" line="1448" column="36" />
         <mark key="." line="1444" column="3" />
         <mark key="^" line="1444" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a9c955c-d143-44da-9fcc-a96fe87fd136/console_5.sql" timestamp="1594121812759">
-        <mark key="[" line="1" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/952286c0-6496-4865-b2e0-700531d3b7d1/console_3.sql" timestamp="1599570262639">
         <mark key="[" line="0" column="0" />
@@ -327,14 +329,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDIzODMzNzUxICMgcHJvZCAyMjU3NTE4MyAoc29jY2VyIDEyNjApCiAgLCAyMzgzMzc1MiAjIHByb2QgMjE1MjYxNjcgKHJ1Z2J5KQogICwgMjM4MzM3NTYgIyBwcm9kIDIzODMwNzYxICh0YWJsZSB0ZW5uaXMpCiAgLCAyMzgzMzc1NCAjIHByb2QgMjM2NjU2ODEgKHJ1Z2J5KQogICwgMjM4MzM3NTcgIyBwcm9kIDIzNjY1Njg1IChydWdieSkK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9maWxpbmdfY29ubmVjdGlvbl9wb29sIHAKd2hlcmUgMQogIGFuZCBwLmNvbXBvbmVudF9pZCBpbiAoMjcwKQogIGFuZCBwLmFkZGVkX2F0ID49IE5PVygpIC0gaW50ZXJ2YWwgMSBob3VyCjsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>23665681</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
