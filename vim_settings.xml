@@ -119,7 +119,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601909969183">
+      <file name="/Dummy.txt" timestamp="1601973478205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_4.sql" timestamp="1599474713101">
@@ -147,11 +147,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" timestamp="1601973153287">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="44" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="44" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" timestamp="1601974808762">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="42" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_3.sql" timestamp="1599217151914">
         <mark key="[" line="0" column="0" />
@@ -330,46 +330,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YW5kIA==</text>
+        <text encoding="base64">am9pbiBndXRoX3Jlc3VsdHMgZ3Igb24gZ3IuZ3V0aG1hdGNoaWQgPSBnbS5ndXRobWF0Y2hpZAo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9maWxpbmdfY29ubmVjdGlvbl9wb29sIHAKd2hlcmUgMQogIGFuZCBwLmNvbXBvbmVudF9pZCBpbiAoMjcwKQogIGFuZCBwLmFkZGVkX2F0ID49IE5PVygpIC0gaW50ZXJ2YWwgMSBob3VyCjsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>group_concat(distinct guthmatchid)</text>
+        <text>categorytable</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDIzODMzNzUxICMgcHJvZCAyMjU3NTE4MyAoc29jY2VyIDEyNjApCiAgLCAyMzgzMzc1MiAjIHByb2QgMjE1MjYxNjcgKHJ1Z2J5KQogICwgMjM4MzM3NTYgIyBwcm9kIDIzODMwNzYxICh0YWJsZSB0ZW5uaXMpCiAgLCAyMzgzMzc1NCAjIHByb2QgMjM2NjU2ODEgKHJ1Z2J5KQogICwgMjM4MzM3NTcgIyBwcm9kIDIzNjY1Njg1IChydWdieSkK</text>
+        <text encoding="base64">am9pbiBndXRoX3Jlc3VsdHMgZ3Igb24gZ3IuZ3V0aG1hdGNoaWQgPSBnbS5ndXRobWF0Y2hpZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5kIA==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIG9kZHM7Cg==</text>
+        <text>show tables;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjI1NzUxODMsCg==</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfbWF0Y2ggbG0K</text>
+        <text encoding="base64">dXNlIG9kZHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3JkZXIg</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjI1NzUxODMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjE1MjYxNjcsCiAgICAgICAgICAgICAgICAgICAgIDIzODMwNzYxLAogICAgICAgICAgICAgICAgICAgICAyMjU3NTE4MywKICAgICAgICAgICAgICAgICAgICAgMjM2NjU2ODEsIDIzNjY1Njg1ICMgcnVnYnkK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfbWF0Y2ggbG0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjI1NzUxODMsICMgc29jY2VyIChzaG9ydCBub3RpY2UgQkMgLT4gREMpCg==</text>
+        <text encoding="base64">b3JkZXIg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGxtLnRvdXJuYW1lbnRpZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjE1MjYxNjcsCiAgICAgICAgICAgICAgICAgICAgIDIzODMwNzYxLAogICAgICAgICAgICAgICAgICAgICAyMjU3NTE4MywKICAgICAgICAgICAgICAgICAgICAgMjM2NjU2ODEsIDIzNjY1Njg1ICMgcnVnYnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IGxtLm1hdGNoaWQsIGxtLnNwb3J0aWQsIGUuKgpmcm9tIGxpdmVzY29yZV9tYXRjaCBsbSBsZWZ0IGpvaW4gbGl2ZXNjb3JlX3Njb3V0ZXZlbnQgZSBvbiBlLm1hdGNoaWQgPSBsbS5tYXRjaGlkCndoZXJlIGUubWF0Y2hpZCBpbgogICAgICAoMjM3OTMwNjgsMjM3MjQ0NjQsMjM2OTA4NzMsMjM2OTExMDgsMjM1Nzg4NjcsMjM1Nzc4ODEsMjM1Nzc4ODQsMjM1Nzc4NzgsMjM1Nzc3NzYsMjM1MTc3MDYsMjM0NDU1MzgsMjM0NDU4NzAsMjMzOTI5NTgsMjMzOTMyNDYsMjMzOTMyNDUsMjMzOTMyNDQsMjMzOTMyNDMsMjMzOTMyNDIsMjMzOTMyNDEsMjMzOTMyNDApCmdyb3VwIGJ5IGxtLm1hdGNoaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjI1NzUxODMsICMgc29jY2VyIChzaG9ydCBub3RpY2UgQkMgLT4gREMpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vKC9n</text>
