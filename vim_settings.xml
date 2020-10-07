@@ -119,7 +119,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601975293577">
+      <file name="/Dummy.txt" timestamp="1602076009482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_4.sql" timestamp="1599474713101">
@@ -134,25 +134,18 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="6" column="44" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console.sql" timestamp="1594639021183">
-        <mark key="'" line="11" column="52" />
-        <mark key="[" line="110" column="22" />
-        <mark key="]" line="110" column="23" />
-        <mark key="^" line="110" column="23" />
-        <mark key="." line="110" column="22" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console.sql" timestamp="1601909892155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" timestamp="1601976622271">
-        <mark key="'" line="118" column="55" />
-        <mark key="[" line="124" column="7" />
-        <mark key="]" line="45" column="22" />
-        <mark key="^" line="45" column="22" />
-        <mark key="." line="45" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" timestamp="1602077107966">
+        <mark key="'" line="34" column="6" />
+        <mark key="[" line="138" column="57" />
+        <mark key="]" line="138" column="57" />
+        <mark key="^" line="138" column="57" />
+        <mark key="." line="138" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_3.sql" timestamp="1599217151914">
         <mark key="[" line="0" column="0" />
@@ -168,6 +161,12 @@
         <mark key="]" line="0" column="46" />
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="45" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_4.sql" timestamp="1602077754716">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="69" />
+        <mark key="^" line="11" column="69" />
+        <mark key="." line="11" column="68" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/06f52eb3-f667-4283-bc9c-1cff618e2e77/console_2.sql" timestamp="1601044218474">
         <mark key="[" line="2" column="5" />
@@ -226,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2879" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="2860" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="1512" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="2872" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -326,51 +324,52 @@
       <jump line="1440" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="22" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="118" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" />
+      <jump line="34" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">am9pbiBndXRoX3Jlc3VsdHMgZ3Igb24gZ3IuZ3V0aG1hdGNoaWQgPSBnbS5ndXRobWF0Y2hpZAo=</text>
+      <register name="&quot;" type="4">
+        <text>deleted_user_id</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9maWxpbmdfY29ubmVjdGlvbl9wb29sIHAKd2hlcmUgMQogIGFuZCBwLmNvbXBvbmVudF9pZCBpbiAoMjcwKQogIGFuZCBwLmFkZGVkX2F0ID49IE5PVygpIC0gaW50ZXJ2YWwgMSBob3VyCjsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>categorytable</text>
+        <text>deleted_user_id</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">am9pbiBndXRoX3Jlc3VsdHMgZ3Igb24gZ3IuZ3V0aG1hdGNoaWQgPSBnbS5ndXRobWF0Y2hpZAo=</text>
+        <text encoding="base64">ZHJvcCB0YWJsZSBsaXZlc2NvcmVfZXZlbnRfdG9wX2RhdGE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text>;</text>
       </register>
       <register name="2" type="2">
-        <text>show tables;</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5kIA==</text>
+        <text>show tables;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIG9kZHM7Cg==</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjI1NzUxODMsCg==</text>
+        <text encoding="base64">dXNlIG9kZHM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfbWF0Y2ggbG0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjI1NzUxODMsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JkZXIg</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBsaXZlc2NvcmVfbWF0Y2ggbG0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjE1MjYxNjcsCiAgICAgICAgICAgICAgICAgICAgIDIzODMwNzYxLAogICAgICAgICAgICAgICAgICAgICAyMjU3NTE4MywKICAgICAgICAgICAgICAgICAgICAgMjM2NjU2ODEsIDIzNjY1Njg1ICMgcnVnYnkK</text>
+        <text encoding="base64">b3JkZXIg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjI1NzUxODMsICMgc29jY2VyIChzaG9ydCBub3RpY2UgQkMgLT4gREMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMjE1MjYxNjcsCiAgICAgICAgICAgICAgICAgICAgIDIzODMwNzYxLAogICAgICAgICAgICAgICAgICAgICAyMjU3NTE4MywKICAgICAgICAgICAgICAgICAgICAgMjM2NjU2ODEsIDIzNjY1Njg1ICMgcnVnYnkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vKC9n</text>
