@@ -113,12 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1602504360832">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="107" column="38" />
-        <mark key="]" line="107" column="39" />
-        <mark key="^" line="107" column="39" />
-        <mark key="." line="107" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1602507519905">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="143" column="53" />
+        <mark key="]" line="143" column="53" />
+        <mark key="." line="143" column="52" />
+        <mark key="^" line="143" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1602247042227">
         <mark key="[" line="0" column="0" />
@@ -295,7 +295,6 @@
       <jump line="1466" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="111" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="11" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
-      <jump line="112" column="95" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="44" column="43" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="47" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="1475" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
@@ -326,18 +325,19 @@
       <jump line="102" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="84" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="101" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="112" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gc3RhdGlzdGljc19icmFja2V0X2FwaV9rZXkgKGhhc2gpIHZhbHVlcyAoJzllZjVjZjNmYjBkNjRhMmE5NTgwNWVkY2Y1YjY1MmJlOTAzODc4YzM1OWE2MmYyOWYwZGJhNjdkMTU0YmFlZTknKQo7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXQgYiB3aGVyZSBiLmlkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X2NvbXBldGl0b3IgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbG9nIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X21hdGNodXAgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWF0Y2h1cF9tYXRjaCBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwpzZWxlY3QgKiBmcm9tIHN0YXRpc3RpY3NfYnJhY2tldF9tYXRjaHVwX21ldGFkYXRhIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X21ldGFkYXRhIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3JvdW5kIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3JvdW5kX21ldGFkYXRhIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3JvdW5kc2V0IGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3RyYW5zaXRpb24gYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name="-" type="4">
-        <text>bracket_id</text>
+        <text>tournamenttable</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
@@ -346,31 +346,31 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRzZXQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSA1MDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gc3RhdGlzdGljc19icmFja2V0X2FwaV9rZXkgKGhhc2gpIHZhbHVlcyAoJzllZjVjZjNmYjBkNjRhMmE5NTgwNWVkY2Y1YjY1MmJlOTAzODc4YzM1OWE2MmYyOWYwZGJhNjdkMTU0YmFlZTknKQo7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWV0YWRhdGEgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRfbWV0YWRhdGEgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRzZXQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfdHJhbnNpdGlvbiBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gc3RhdGlzdGljc19icmFja2V0X2FwaV9rZXkgKGhhc2gpIHZhbHVlcyAoJzllZjVjZjNmYjBkNjRhMmE5NTgwNWVkY2Y1YjY1MmJlOTAzODc4YzM1OWE2MmYyOWYwZGJhNjdkMTU0YmFlZTknKQo7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWV0YWRhdGFfa2V5IGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWV0YWRhdGEgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRfbWV0YWRhdGEgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRzZXQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfdHJhbnNpdGlvbiBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRzZXRfdHlwZSBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWV0YWRhdGFfa2V5IGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfc3RhdGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRzZXRfdHlwZSBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfdHlwZSBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfc3RhdGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfc3BvcnRfdGVtcGxhdGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfdGVtcGxhdGVfcm91bmQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfdHlwZSBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfc3BvcnRfdGVtcGxhdGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfc3BvcnRfdGVtcGxhdGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfdGVtcGxhdGVfcm91bmQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWF0Y2h1cF9zdGF0ZSBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwpzZWxlY3QgKiBmcm9tIHN0YXRpc3RpY3NfYnJhY2tldF9tYXRjaHVwX3R5cGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfc3BvcnRfdGVtcGxhdGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7L2c=</text>
