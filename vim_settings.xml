@@ -23,13 +23,10 @@
         <entry>who won</entry>
         <entry>update</entry>
         <entry>update systemsettings</entry>
-        <entry>$</entry>
         <entry>^</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywkLy9n</entry>
-        <entry encoding="base64">JzwsJz5zL14vdXBkYXRlIHN0YXRpc3RpY3NfdGFibGVzIHQuL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL14vdXBkYXRlIHN0YXRpc3RpY3NfdGFibGVzIHQgc2V0IHQuL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyQvIE5PVCBJTiAoJzAnLCcxJyk7L2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2hvbWUvYXdheS9n</entry>
@@ -47,6 +44,9 @@
         <entry encoding="base64">JzwsJz5zLzskLywvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvLDEsTk9XKCksL2c=</entry>
         <entry encoding="base64">JzwsJz5zL14vKC9n</entry>
+        <entry encoding="base64">JzwsJz5zL14vc2VsZWN0ICogZnJvbSAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyQvIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyQvIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,12 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1602495010385">
-        <mark key="'" line="49" column="30" />
-        <mark key="[" line="70" column="7" />
-        <mark key="]" line="69" column="9" />
-        <mark key="." line="69" column="8" />
-        <mark key="^" line="69" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1602502066020">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="94" column="79" />
+        <mark key="^" line="89" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1602247042227">
         <mark key="[" line="0" column="0" />
@@ -141,12 +141,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" timestamp="1602494977337">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" timestamp="1602502489513">
         <mark key="'" line="148" column="0" />
-        <mark key="[" line="143" column="1" />
-        <mark key="]" line="161" column="15" />
-        <mark key="." line="161" column="14" />
-        <mark key="^" line="161" column="15" />
+        <mark key="[" line="153" column="40" />
+        <mark key="]" line="158" column="36" />
+        <mark key="." line="158" column="35" />
+        <mark key="^" line="158" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_3.sql" timestamp="1599217151914">
         <mark key="[" line="0" column="0" />
@@ -204,7 +204,7 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1602228166763">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1602502321306">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -226,8 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1424" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
-      <jump line="21" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="1523" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="2897" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="2900" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
@@ -326,64 +324,66 @@
       <jump line="344" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" />
       <jump line="350" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" />
       <jump line="141" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" />
+      <jump line="102" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="84" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>select * from statistics_bracket b where b.id = 50;</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gc3RhdGlzdGljc19icmFja2V0X2FwaV9rZXkgKGhhc2gpIHZhbHVlcyAoJzllZjVjZjNmYjBkNjRhMmE5NTgwNWVkY2Y1YjY1MmJlOTAzODc4YzM1OWE2MmYyOWYwZGJhNjdkMTU0YmFlZTknKQo7Cg==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9maWxpbmdfY29ubmVjdGlvbl9wb29sIHAKd2hlcmUgMQogIGFuZCBwLmNvbXBvbmVudF9pZCBpbiAoMjcwKQogIGFuZCBwLmFkZGVkX2F0ID49IE5PVygpIC0gaW50ZXJ2YWwgMSBob3VyCjsKCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXQgYiB3aGVyZSBiLmlkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X2NvbXBldGl0b3IgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbG9nIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X21hdGNodXAgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWF0Y2h1cF9tYXRjaCBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwpzZWxlY3QgKiBmcm9tIHN0YXRpc3RpY3NfYnJhY2tldF9tYXRjaHVwX21ldGFkYXRhIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X21ldGFkYXRhIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3JvdW5kIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3JvdW5kX21ldGFkYXRhIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3JvdW5kc2V0IGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3RyYW5zaXRpb24gYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name="-" type="4">
-        <text>matchup_type</text>
+        <text>bracket_id</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
-        <text>select * from statistics_bracket b where b.id = 50;</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRzZXQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSA1MDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gc3RhdGlzdGljc19icmFja2V0X2FwaV9rZXkgKGhhc2gpIHZhbHVlcyAoJzllZjVjZjNmYjBkNjRhMmE5NTgwNWVkY2Y1YjY1MmJlOTAzODc4YzM1OWE2MmYyOWYwZGJhNjdkMTU0YmFlZTknKQo7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>kd</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWV0YWRhdGEgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRfbWV0YWRhdGEgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRzZXQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfdHJhbnNpdGlvbiBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2hvdyB0YWJsZXMgb2RkczsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWV0YWRhdGFfa2V5IGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>select 'mysql truncate table ' | TABLE_NAME from information_schema.TABLES where TABLE_SCHEMA = &quot;odds&quot;;</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfcm91bmRzZXRfdHlwZSBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgIGFuZCBsbS5tYXRjaGlkIGluICgyMzg5NjA3NywyMzg5ODQzMSkK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfc3RhdGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgbG0uc3BvcnRpZCA9IDUK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfdHlwZSBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JkZXIgYnkgZS5pZCwgZS50aW1lCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfc3BvcnRfdGVtcGxhdGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfdGVtcGxhdGVfcm91bmQgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmQgZS5ldmVudGRhdGUgPj0gIjIwMjAtMTAtMDggMDA6MDA6MDAiIEFORCBlLmV2ZW50ZGF0ZSA8PSAiMjAyMC0xMC0wOSIK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfc3BvcnRfdGVtcGxhdGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW5kCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWF0Y2h1cF9zdGF0ZSBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwpzZWxlY3QgKiBmcm9tIHN0YXRpc3RpY3NfYnJhY2tldF9tYXRjaHVwX3R5cGUgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL14vKC9n</text>
+        <text encoding="base64">JzwsJz5zLyQvIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7L2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>^</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
-      <last-replace>(</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace encoding="base64">IGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
