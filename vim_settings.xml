@@ -210,12 +210,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" timestamp="1602257965644">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c/console_2.sql" timestamp="1602492829050">
         <mark key="'" line="350" column="51" />
-        <mark key="[" line="459" column="32" />
-        <mark key="]" line="459" column="32" />
-        <mark key="." line="459" column="31" />
-        <mark key="^" line="459" column="32" />
+        <mark key="[" line="470" column="33" />
+        <mark key="]" line="470" column="38" />
+        <mark key="." line="470" column="37" />
+        <mark key="^" line="470" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_3.sql" timestamp="1598272419562">
         <mark key="'" line="20" column="36" />
@@ -330,20 +330,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
+      <register name="&quot;" type="4">
+        <text>matchup_type</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBwcm9maWxpbmdfY29ubmVjdGlvbl9wb29sIHAKd2hlcmUgMQogIGFuZCBwLmNvbXBvbmVudF9pZCBpbiAoMjcwKQogIGFuZCBwLmFkZGVkX2F0ID49IE5PVygpIC0gaW50ZXJ2YWwgMSBob3VyCjsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHQgd2hlcmUgdC5DQVRFR09SWUlEID0gMzAxMw==</text>
+        <text>matchup_type</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text>select TABLE_NAME from information_schema.TABLES where TABLE_SCHEMA = &quot;odds&quot;;</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWF0Y2h1cF90eXBlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
