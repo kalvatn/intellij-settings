@@ -183,12 +183,12 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1603714965147">
-        <mark key="'" line="1423" column="21" />
-        <mark key="[" line="56" column="159" />
-        <mark key="]" line="56" column="159" />
-        <mark key="." line="56" column="159" />
-        <mark key="^" line="56" column="159" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" timestamp="1603972406132">
+        <mark key="'" line="56" column="56" />
+        <mark key="[" line="1448" column="37" />
+        <mark key="]" line="1448" column="41" />
+        <mark key="." line="1448" column="40" />
+        <mark key="^" line="1448" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/952286c0-6496-4865-b2e0-700531d3b7d1/console_3.sql" timestamp="1599570262639">
         <mark key="[" line="0" column="0" />
@@ -230,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1439" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="7" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="1450" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
       <jump line="9" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
@@ -330,6 +329,7 @@
       <jump line="18" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
       <jump line="10" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea/console_5.sql" />
       <jump line="608" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" />
+      <jump line="56" column="56" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a8af0c63-1d21-4c0e-82d1-1d27cad43978/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
