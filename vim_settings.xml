@@ -113,12 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1603898998249">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/85420ea6-4920-4a82-908e-0ab1bb91c217/console.sql" timestamp="1603966467859">
         <mark key="'" line="616" column="0" />
-        <mark key="[" line="637" column="43" />
-        <mark key="]" line="637" column="43" />
-        <mark key="." line="637" column="43" />
-        <mark key="^" line="637" column="48" />
+        <mark key="[" line="654" column="1" />
+        <mark key="]" line="653" column="33" />
+        <mark key="." line="653" column="32" />
+        <mark key="^" line="653" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1603895108489">
         <mark key="[" line="0" column="0" />
@@ -335,13 +335,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>15356</text>
+        <text encoding="base64">dC5UT1VSTkFNRU5USUQsIA==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXQgYiB3aGVyZSBiLmlkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X2NvbXBldGl0b3IgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbG9nIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X21hdGNodXAgYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX2JyYWNrZXRfbWF0Y2h1cF9tYXRjaCBiIHdoZXJlIGIuYnJhY2tldF9pZCA9ICRCUkFDS0VUX0lEOwpzZWxlY3QgKiBmcm9tIHN0YXRpc3RpY3NfYnJhY2tldF9tYXRjaHVwX21ldGFkYXRhIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X21ldGFkYXRhIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3JvdW5kIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3JvdW5kX21ldGFkYXRhIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3JvdW5kc2V0IGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7CnNlbGVjdCAqIGZyb20gc3RhdGlzdGljc19icmFja2V0X3RyYW5zaXRpb24gYiB3aGVyZSBiLmJyYWNrZXRfaWQgPSAkQlJBQ0tFVF9JRDsK</text>
       </register>
       <register name="-" type="4">
-        <text>15356</text>
+        <text encoding="base64">dC5UT1VSTkFNRU5USUQsIA==</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
@@ -350,31 +350,31 @@
         <text encoding="base64">ICAgICAgIGpvaW4gY29uZmlnX2ZpbHRlciBkZiBvbiBkZi5pZCA9IGRjLmlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgam9pbiBjb25maWdfZmlsdGVyIGNmIG9uIGNmLmlkID0gY2MuaWQK</text>
+        <text>where t.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjICAgICAgICBqb2luIGNvbmZpZ19maWx0ZXIgZGYgb24gZGYuaWQgPSBkYy5pZAo=</text>
+        <text encoding="base64">am9pbiB0b3VybmFtZW50dGFiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGNmLioK</text>
+        <text encoding="base64">IyAgICAgICAgam9pbiBjb25maWdfZmlsdGVyIGNmIG9uIGNmLmlkID0gY2MuaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGRmLioK</text>
+        <text encoding="base64">ICAjICAgICAgICBqb2luIGNvbmZpZ19maWx0ZXIgZGYgb24gZGYuaWQgPSBkYy5pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjICAgICAgICAgICAgIEpPSU4gY29uZmlnX2NsaWVudCBjYyBPTiBjLmBjdXN0b21lckNvbmZpZ0lkYCA9IGNjLmBjdXN0b21lckNvbmZpZ0lkYAo=</text>
+        <text encoding="base64">ICAgICAgIGNmLioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">am9pbiBjb25maWcgZGMgb24gZGMuaWQgPSB4Yy5kZWZhdWx0Q29uZmlnSWQK</text>
+        <text encoding="base64">ICAgICAgIGRmLioK</text>
       </register>
       <register name="7" type="2">
-        <text>select * from datelog</text>
+        <text encoding="base64">ICAjICAgICAgICAgICAgIEpPSU4gY29uZmlnX2NsaWVudCBjYyBPTiBjLmBjdXN0b21lckNvbmZpZ0lkYCA9IGNjLmBjdXN0b21lckNvbmZpZ0lkYAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RhdGlzdGljc19icmFja2V0X3R5cGVfdHlwZQo=</text>
+        <text encoding="base64">am9pbiBjb25maWcgZGMgb24gZGMuaWQgPSB4Yy5kZWZhdWx0Q29uZmlnSWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBkYXRlbG9nZ2VyCg==</text>
+        <text>select * from datelog</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvIGIgd2hlcmUgYi5icmFja2V0X2lkID0gJEJSQUNLRVRfSUQ7L2c=</text>
