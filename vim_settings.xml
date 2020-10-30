@@ -141,12 +141,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" timestamp="1604058171838">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/834f06d6-e559-450b-9a86-acfc7f60d309/console_1.sql" timestamp="1604059233497">
         <mark key="'" line="197" column="68" />
-        <mark key="[" line="190" column="25" />
-        <mark key="]" line="190" column="25" />
-        <mark key="." line="190" column="25" />
-        <mark key="^" line="190" column="25" />
+        <mark key="[" line="190" column="33" />
+        <mark key="]" line="190" column="47" />
+        <mark key="." line="190" column="46" />
+        <mark key="^" line="190" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1982967-9caa-432d-a7cd-e5d8d32134ee/console_3.sql" timestamp="1599217151914">
         <mark key="[" line="0" column="0" />
@@ -202,9 +202,9 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1603972809514">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1604058922143">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
@@ -336,13 +336,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bracket_state</text>
+        <text>matchup_type</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX3ByZXNlbnRhdGlvbmNvbmZpZzsKc2VsZWN0ICogZnJvbSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfY29uZmlnIGMgd2hlcmUgYy5wcmVzZW50YXRpb25JZCA9IDM7ICMgTkJBCgpzaG93IHRhYmxlcyBsaWtlICJzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfJSIKCnNob3cgZnVsbCBjb2x1bW5zIGZyb20gc3RhdGlzdGljc19zdGF0aWNfdGFibGVzX2Z0OwpzaG93IGZ1bGwgY29sdW1ucyBmcm9tIHN0YXRpc3RpY3Nfc3RhdGljX3RhYmxlc19odDsKc2hvdyBmdWxsIGNvbHVtbnMgZnJvbSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZnRfbGl2ZTsKc2hvdyBmdWxsIGNvbHVtbnMgZnJvbSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfZmJiOwpzaG93IGZ1bGwgY29sdW1ucyBmcm9tIHN0YXRpc3RpY3Nfc3RhdGljX3RhYmxlc19hbTsKc2hvdyBmdWxsIGNvbHVtbnMgZnJvbSBzdGF0aXN0aWNzX3N0YXRpY190YWJsZXNfYW1fbGl2ZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>bracket_state</text>
+        <text>matchup_type</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
