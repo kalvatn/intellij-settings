@@ -186,14 +186,9 @@
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.200.11.70:3306/odds</jdbc-url>
+      <jdbc-url>jdbc:mysql://10.200.11.180:3306/odds</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="dev-misc-internal-RW" uuid="8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5">
