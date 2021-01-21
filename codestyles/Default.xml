@@ -4,11 +4,11 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   </JavaCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="1" />
+  <SqlCodeStyleSettings version="5">
     <option name="KEYWORD_CASE" value="1" />
-    <option name="TYPE_CASE" value="1" />
     <option name="IDENTIFIER_CASE" value="1" />
-    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="CUSTOM_TYPE_CASE" value="1" />
+    <option name="ALIAS_CASE" value="1" />
   </SqlCodeStyleSettings>
 </code_scheme>
