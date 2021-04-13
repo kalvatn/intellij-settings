@@ -189,5 +189,14 @@
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="ftplog-betradar-RO" uuid="823c35a9-4cfc-4719-828b-cd6f9d7185e3">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.200.5.140:3306/odds</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+      </driver-properties>
+    </data-source>
   </component>
 </application>
