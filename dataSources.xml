@@ -36,15 +36,6 @@
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="dev-integration-RW" uuid="dc853e10-97a3-43b2-bb41-edf2e5bfcec3">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.12.26.42:3306/integration</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="prod-filesendqueue-RO" uuid="f1e8f85d-a26e-4fb3-b734-aa9101f39a7d">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
