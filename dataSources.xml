@@ -1,37 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="dev-main-odds-RW" uuid="98be61f3-2d9b-4e10-bd9c-eb5f9bc731ea">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.12.26.46:3306/odds</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="dev-misc-odds-RW" uuid="b4a777c8-52ce-47cf-b671-b77fcbac8231">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.12.26.56:3306/odds</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="prod-history-backup-RO" read-only="true" uuid="6a9c955c-d143-44da-9fcc-a96fe87fd136">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://core-prod-dbhistory.sportradar.com:3306/backup</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="dev-filesendqueue-RW" uuid="63805593-e9a0-4629-97ba-f9b9b05fd8cc">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.12.26.56:3306/filesendqueue</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
       </driver-properties>
@@ -72,29 +45,11 @@
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="prod-misc-miscinternal-RO" read-only="true" uuid="06f52eb3-f667-4283-bc9c-1cff618e2e77">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.200.11.45:3306/misc-internal</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="prod-main-odds-RO" read-only="true" uuid="7f7c7f3b-635e-4f09-a69c-5498a7fc1d7c">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.200.11.180:3306/odds</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="dev-misc-internal-RW" uuid="8e5b7a8c-5017-4e30-85f6-9dd4af2a5fe5">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.12.26.56:3306/misc-internal</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
       </driver-properties>
@@ -117,15 +72,6 @@
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="lodev-stats-RW" uuid="00b128cf-9155-40ef-b738-eb63d63840e5">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.200.12.9:3306/stats</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="prod-stats-history-RW" uuid="71344792-3c51-4617-92fa-01a867044cd6">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
@@ -144,65 +90,11 @@
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="lodev-misc-RW" uuid="06bf19c7-43b0-4cc3-88a6-564d05034a2c">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.200.12.9:3306/misc</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="prod-misc-odds-WRITE-DEVELOPER" uuid="49fd5b0e-8859-4895-aba8-a5c13044d8c3">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.200.11.45:3306/odds</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="dev-brackets-odds" uuid="834f06d6-e559-450b-9a86-acfc7f60d309">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://pet-sl-brackets-stg.cgahpkuet1r9.eu-central-1.rds.amazonaws.com:3306/odds</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="dev-dei-odds" uuid="557f8b23-0bf6-42a2-8cda-963ceb84c858">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://dei-stg-db4.ch.sportradar.ag:3306/odds</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="ftplog-betradar-RO" uuid="823c35a9-4cfc-4719-828b-cd6f9d7185e3">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.200.5.140:3306/</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="cfb-prod" uuid="bf7f1587-62d4-42a9-8f3a-effba4a1a133">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://graph-ingest-cfb-stg.awseuc1.sportradar.online:3306/cfb</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="cfb-local" uuid="6bf6e4e2-215b-4907-939b-577f2c048826">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/cfb</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
       </driver-properties>
