@@ -1,5 +1,5 @@
 <application>
-  <component name="DatabaseSettings" version="4">
+  <component name="DatabaseSettings" version="7">
     <option name="page-size" value="100000" />
     <option name="prefetch-size" value="100000" />
     <text-mode>
@@ -14,7 +14,7 @@
       </parameter-patterns>
     </text-mode>
     <csv-formats>
-      <csv-format name="Tab-separated (TSV)" id="Tab-separated (TSV)_id">
+      <csv-format name="TSV" id="Tab-separated (TSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="NULL" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true">
             <quotation>
@@ -32,7 +32,17 @@
           </record-format>
         </header>
       </csv-format>
-      <csv-format name="Comma-separated (CSV)" id="Comma-separated (CSV)_id">
+      <csv-format name="Pipe-separated" id="Pipe-separated_id">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
+      <csv-format name="CSV" id="Comma-separated (CSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
@@ -104,6 +114,14 @@
               <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
             </quotation>
           </record-format>
+        </header>
+      </csv-format>
+      <csv-format name="code friendly_header" id="ee674032-be58-4872-9c0a-5c8082878ebc">
+        <data>
+          <record-format prefix="" suffix="" nullText="null" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;" trimWhitespace="true" />
+        </data>
+        <header>
+          <record-format prefix="" suffix="" nullText="null" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;" trimWhitespace="true" />
         </header>
       </csv-format>
     </csv-formats>
