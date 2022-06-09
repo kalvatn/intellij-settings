@@ -99,15 +99,6 @@
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="dev-main-odds-RW" read-only="true" uuid="5e2f5fae-7c74-4d86-8de3-a5c10dbb3902">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.12.26.46:3306/odds</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="cfb" read-only="true" uuid="0f640feb-a09d-4fa8-a6c7-d385ae6d3eb8">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
