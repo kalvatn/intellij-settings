@@ -99,11 +99,20 @@
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="cfb" read-only="true" uuid="0f640feb-a09d-4fa8-a6c7-d385ae6d3eb8">
+    <data-source source="LOCAL" name="cfb-prod-RW" uuid="0f640feb-a09d-4fa8-a6c7-d385ae6d3eb8">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://graph-ingest-cfb-stg.awseuc1.sportradar.online:3306/cfb</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="cfb-staging-RW" uuid="a079c4a0-1a31-4def-9148-e4f830ebfa9d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://graph-ingest-cfb-stg.awseuc1.sportradar.online:3306/cfb_staging</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
       </driver-properties>
