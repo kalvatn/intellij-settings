@@ -126,5 +126,14 @@
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="brackets-stg" uuid="08270b3e-dd84-49ff-abc6-dc9ba5fbe479">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://pet-sl-brackets-stg.cgahpkuet1r9.eu-central-1.rds.amazonaws.com:3306/odds</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+      </driver-properties>
+    </data-source>
   </component>
 </application>
