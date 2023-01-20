@@ -135,5 +135,14 @@
         <property name="autoReconnect" value="true" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="sds-stg-nlb-integration-RO" read-only="true" uuid="de108fae-ceeb-48de-9022-0245b9dec5ef">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sds-stg-nlb-Y3IEXXCBF6RO-078085c6a8486824.elb.eu-central-1.amazonaws.com:3306/integration</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+      </driver-properties>
+    </data-source>
   </component>
 </application>
