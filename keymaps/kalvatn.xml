@@ -4,8 +4,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="BigDataTools.EditSourceAction" />
+  <action id="BigDataTools.RfsOpenSettingsAction" />
   <action id="CheckinProject" />
-  <action id="CloseAllEditors">
+  <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CloseContent">
@@ -13,6 +15,14 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="ContextHelp" />
+  <action id="CopyElement" />
+  <action id="DatabaseView.OpenFamilyAction" />
+  <action id="DatabaseView.PropertiesAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditSource" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -27,11 +37,22 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="ExternalSystem.OpenConfig" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
+  <action id="Graph.RouteEdges" />
   <action id="InsertLiveTemplate" />
+  <action id="Jdbc.OpenEditor.Data" />
+  <action id="NavBar-navigate" />
+  <action id="OpenBookmarkGroup" />
   <action id="ProjectViewChangeView" />
+  <action id="ProjectViewEditSource" />
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="SelectIn" />
+  <action id="Sql.EditParameter" />
 </keymap>

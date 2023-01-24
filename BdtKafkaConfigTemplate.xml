@@ -1,0 +1,53 @@
+<application>
+  <component name="BdtKafkaConfigTemplate">
+    <option name="consumerRunConfigs">
+      <list>
+        <StorageConsumerConfig>
+          <option name="filter">
+            <map>
+              <entry key="type" value="NONE" />
+            </map>
+          </option>
+          <option name="startWith">
+            <map>
+              <entry key="offset" value="" />
+              <entry key="time" value="" />
+              <entry key="type" value="THE_BEGINNING" />
+            </map>
+          </option>
+          <option name="topic" value="basketball-config" />
+        </StorageConsumerConfig>
+        <StorageConsumerConfig>
+          <option name="filter">
+            <map>
+              <entry key="type" value="NONE" />
+            </map>
+          </option>
+          <option name="startWith">
+            <map>
+              <entry key="offset" value="" />
+              <entry key="time" value="" />
+              <entry key="type" value="THE_BEGINNING" />
+            </map>
+          </option>
+          <option name="topic" value="basketball-sr-dataset-s3p-output" />
+        </StorageConsumerConfig>
+        <StorageConsumerConfig>
+          <option name="filter">
+            <map>
+              <entry key="type" value="NONE" />
+            </map>
+          </option>
+          <option name="startWith">
+            <map>
+              <entry key="offset" value="" />
+              <entry key="time" value="" />
+              <entry key="type" value="THE_BEGINNING" />
+            </map>
+          </option>
+          <option name="topic" value="basketball-raw-s3p-output" />
+        </StorageConsumerConfig>
+      </list>
+    </option>
+  </component>
+</application>
